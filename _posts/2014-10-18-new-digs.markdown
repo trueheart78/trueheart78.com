@@ -15,7 +15,7 @@ Some [new digs][skyfall-newdigs].
 So I'm using [Jekyll][jekyll-rb] to manage the setup, and hosting it on
 [GitHub pages][github-io].
 
-So, here's to a fresh start, and some new digs.
+Here's to a fresh start!
 
 [aboutme]:    http://about.me/joshua.mills
 [skyfall-newdigs]:    https://www.youtube.com/watch?v=vi24aAsODv0
