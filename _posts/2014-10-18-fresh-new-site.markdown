@@ -1,0 +1,23 @@
+---
+layout: post
+title:  "New Digs"
+date:   2014-10-18 11:40:00
+categories: welcome update
+---
+Decided it was high time to put together a real site (before, it was mainly just
+a redirect to [my about.me page][aboutme]).
+
+As I find myself with a desire to participate in community stuff, as well as
+write up some blog posts, I figured it was important to move to a new system.
+
+Some [new digs][skyfall-newdigs].
+
+So I'm using [Jekyll][jekyll-rb] to manage the setup, and hosting it on
+[GitHub pages][github-io].
+
+So, here's to a fresh start, and some new digs.
+
+[aboutme]:    http://about.me/joshua.mills
+[skyfall-newdigs]:    https://www.youtube.com/watch?v=vi24aAsODv0
+[jekyll-rb]:      http://jekyllrb.com
+[github-io]:    http://github.io
