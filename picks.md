@@ -19,4 +19,4 @@ favicon setup properly on your site, and also helps understand mobile supprt.
 [code-newbie-website]:        http://codenewbie.org
 [saron-yitbarek-twitter]:     https://twitter.com/saronyitbarek
 [saron-yitbarek-site]:        http://bloggytoons.com/
-[rel-favicon-generator]:      http://realfavicongenerator.net
+[real-favicon-generator]:      http://realfavicongenerator.net
