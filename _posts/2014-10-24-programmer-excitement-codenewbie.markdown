@@ -2,7 +2,7 @@
 layout: post
 title:  "Programmer Excitement? #CodeNewbie"
 date:   2014-10-24 12:00:00
-categories: programmer excitement job growth #codenewbie
+categories: codenewbie
 ---
 Learning new things takes time. But we often forget that sometimes, learning is a privilege. One of the hardest parts about learning is the time commitment to get it right. Sometimes, I completely take learning new things for granted.
 

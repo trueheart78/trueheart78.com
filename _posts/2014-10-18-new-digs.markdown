@@ -2,7 +2,7 @@
 layout: post
 title:  "New Digs"
 date:   2014-10-18 11:40:00
-categories: welcome update
+categories: news
 ---
 Decided it was high time to put together a real site (before, it was mainly just
 a redirect to [my about.me page][aboutme]).

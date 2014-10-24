@@ -2,7 +2,7 @@
 layout: post
 title:  "Development Tools: Git for Version Control"
 date:   2014-10-23 12:00:00
-categories: git development tools source control version
+categories: development-tools
 ---
 There are times when I forget that the most important tools that I use nowadays are ones I absolutely take for granted. Ones that just become ingrained in my workflow, and seem effortless.
 
