@@ -28,7 +28,7 @@ If you're reading this, and you're attending, I really hope we get a
 chance to meet up. Just look for the guy who loves [business cat][business-cat]&mdash; I'll try to make it noticeable.
 
 <div style='margin-bottom:10px;'>
-	<div style='float:left;margin-right:5px;'>
+	<div style='float:left;margin-right:5px;margin-bottom:5px;'>
 		<img src="/assets/big-nerd.jpg" width="184px" height="184px" />
 	</div>
 	<div style='float:left;'>

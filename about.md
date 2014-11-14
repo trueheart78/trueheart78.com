@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 <div style='margin-bottom:10px;'>
-	<div style='float:left;margin-right:5px;'>
+	<div style='float:left;margin-right:5px;margin-bottom:5px;'>
 		<img src="/assets/big-nerd.jpg" width="184px" height="184px" />
 	</div>
 	<div style='float:left;'>
