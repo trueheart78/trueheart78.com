@@ -5,7 +5,7 @@ description: > # this means to ignore newlines until "baseurl:"
   So far, this is the best witty description I've been able to come up
   with. It will have to do, for now.
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://trueheart.com" # the base hostname & protocol for your site
+url: "http://blog.trueheart.com" # the base hostname & protocol for your site
 twitter_username: trueheart78
 github_username:  trueheart78
 
