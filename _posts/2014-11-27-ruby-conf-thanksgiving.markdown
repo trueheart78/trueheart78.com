@@ -19,7 +19,7 @@ I learned a few key things about Rubyists this year, that, well, if I had known 
 
 Stop and think for a minute &mdash; do you want to be part of a community that doesn't always think their language is the best fit for the job, that also appreciates well written and intelligent television and music, as well as likes to have fun?
 
-If someone had asked me that when I was getting started, I would of thought that every community should be like that. "We want you to be happy" isn't a lead in to a "...using our tool and language". It completely stands on it's own.
+If someone had asked me that when I was getting started, I would of thought that every community should be like that. When they say, "We want you to be happy", it isn't a lead in to "...using our tool and/or language". They mean what they say - it completely stands on it's own.
 
 _The Ruby community wants you to be happy._
 
