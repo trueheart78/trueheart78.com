@@ -23,6 +23,7 @@ Here's a list of those I've spent the end and beginning of a year with:
 - Aaron Patterson - [Keeping Ruby Weird][tenderlove-1]
 - Aaron Patterson - [I've Made a Huge Mistake][tenderlove-2]
 - Aaron Patterson - [Cat Care and Maintenance][tenderlove-3]
+- Coraline Ada Ehmke - [He Doesn't Work Here Anymore][coraline-1]
 - Nickolas Means - [How to Code Like a Writer][nickolas-1]
 - Katrina Owen - [Therapeutic Refactoring][katrina-1]
 - Katrina Owen - [Here be Dragons][katrina-2]
@@ -44,6 +45,7 @@ Yes, that's a long list of talks. Keep in mind, for some of them, that was the s
 [tenderlove-1]: https://www.youtube.com/watch?v=9N31ay425GI
 [tenderlove-2]: https://www.youtube.com/watch?v=8kSfGgiFk48
 [tenderlove-3]: https://www.youtube.com/watch?v=-D15q-_hdzs
+[coraline-1]: https://www.youtube.com/watch?v=pnnFJiQsp8k
 [nickolas-1]: https://www.youtube.com/watch?v=uHASWCPMZ3k
 [katrina-1]: https://www.youtube.com/watch?v=J4dlF0kcThQ
 [katrina-2]: https://www.youtube.com/watch?v=FvrZrwR5Flc
