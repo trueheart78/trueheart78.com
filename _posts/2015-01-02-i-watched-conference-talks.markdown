@@ -26,7 +26,7 @@ Here's a list of those I've spent the end and beginning of a year with:
 - Nickolas Means - [How to Code Like a Writer][nickolas-1]
 - Katrina Owen - [Therapeutic Refactoring][katrina-1]
 - Katrina Owen - [Here be Dragons][katrina-2]
-- Katrina Owen - [Hacking Passiong][katrina-3]
+- Katrina Owen - [Hacking Passion][katrina-3]
 
 Yes, that's a long list of talks. Keep in mind, for some of them, that was the second time I saw them. And I couldn't be happier about the time I've spent enthralled with the presented topics - it just makes me even happier to be part of this wonderful community.
 
