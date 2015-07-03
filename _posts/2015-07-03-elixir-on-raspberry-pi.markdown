@@ -17,7 +17,8 @@ include the GUI tools, and that Elixir now comes pre-compiled.
 Putting those two items together doesn't take much effort. Here's
 what I ended up doing.
 
-*Note: This guide is tailored to the Rasbian (wheezy) release.*
+*Note: This guide is tailored to the Rasbian (wheezy) release on all
+Raspberry Pi models*
 
 ### Install Erlang Mini ([for small devices](http://www.erlang-embedded.com/2013/09/new-erlang-package-for-small-devices-erlang-mini/))
 
