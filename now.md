@@ -16,7 +16,7 @@ I'm currently living in Franklin, OH working remote for [CoverMyMeds](http://cov
 
 ### Coming Up
 
-* Migrating my Rasperry Pi server to a Rasperry Pi 2.
+* Migrating my Raspberry Pi server to a Raspberry Pi 2.
 * Spending time learning Elixir.
 * Brushing up on my front-end skills with some Ember 2.0.
 * Learning how to build a podcast site.
