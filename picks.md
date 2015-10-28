@@ -12,7 +12,7 @@ October 27, 2015:
 - [Upcase][upcase-site]:
 A wonderful online finishing school. Their tagline is, "Let's get that *junior*
 out of your title". Well worth the $30 a month - your employer may even cover it,
-just ask!
+just ask! **Link includes 50% off your first month**
 - [Exercises for Programmers][exercises-for-programmers]:
 Working through this as part of a dev book club, and the exercises can seem very
 simple. However, a slight change of approach and you can end up spending 8 hours
