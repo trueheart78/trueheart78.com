@@ -38,7 +38,7 @@ His love for Vim and his desire to remove the friction from his everyday tool us
 is just what I needed. Also, dude gives great talks. Like, seriously, great talks.
 
 [ruby-rogues-podcast]:        http://rubyrogues.com
-[upcase-site]:                https://upcase.com
+[upcase-site]:                https://upcase.com/halfoff
 [exercises-for-programmers]:  https://pragprog.com/book/bhwb/exercises-for-programmers
 [supergirl-cbs-site]:         http://www.cbs.com/shows/supergirl/
 [code-newbie-website]:        http://codenewbie.org
