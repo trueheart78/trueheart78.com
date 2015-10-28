@@ -12,7 +12,7 @@ I'm currently living in Franklin, OH working remote for [CoverMyMeds](http://cov
 
 * Working through [Exercises for Programmers](https://pragprog.com/book/bhwb/exercises-for-programmers) as part of our dev book club at work.
 * Sharpening my teeth by building small games in [Gosu for Ruby](https://rubygems.org/gems/gosu)
-* Advancing my vim skills thanks to [Upcase](http://upcase.com)
+* Advancing my vim small kills thanks to [Upcase](http://upcase.com)
 * Practicing TDD thanks to [Upcase](http://upcase.com)
 * Learning the [Go](http://golang.org) programming language.
 
