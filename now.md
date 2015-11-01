@@ -6,15 +6,16 @@ permalink: /now/
 
 I'm currently living in Franklin, OH working remote for [CoverMyMeds](http://covermymeds.com) as a software developer.
 
-(This list is current as of October 27, 2015)
+(This list is current as of November 1, 2015)
 
 ### Now
 
 * Working through [Exercises for Programmers](https://pragprog.com/book/bhwb/exercises-for-programmers) as part of our dev book club at work.
 * Sharpening my teeth by building small games in [Gosu for Ruby](https://rubygems.org/gems/gosu)
-* Advancing my vim small kills thanks to [Upcase](http://upcase.com)
+* Advancing my vim skills thanks to [Upcase](http://upcase.com)
 * Practicing TDD thanks to [Upcase](http://upcase.com)
 * Learning the [Go](http://golang.org) programming language.
+* Playing *Life is Strange* on the PS4
 
 ### Coming Up
 
