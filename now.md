@@ -10,12 +10,14 @@ I'm currently living in Franklin, OH working remote for [CoverMyMeds](http://cov
 
 ### Now
 
-* Working through [Exercises for Programmers](https://pragprog.com/book/bhwb/exercises-for-programmers) as part of our dev book club at work.
+* Working through [Exercises for Programmers](https://pragprog.com/book/bhwb/exercises-for-programmers)
+as part of our dev book club at work.
+  * Currently in Chapter 5.
 * Sharpening my teeth by building small games in [Gosu for Ruby](https://rubygems.org/gems/gosu)
 * Advancing my vim skills thanks to [Upcase](http://upcase.com)
 * Practicing TDD thanks to [Upcase](http://upcase.com)
 * Learning the [Go](http://golang.org) programming language.
-* Playing *Life is Strange* on the PS4
+* Looking forward to *Fallout 4* this week on the PS4.
 
 ### Coming Up
 
