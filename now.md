@@ -16,8 +16,10 @@ as part of our dev book club at work.
 * Sharpening my teeth by building small games in [Gosu for Ruby](https://rubygems.org/gems/gosu)
 * Advancing my vim skills thanks to [Upcase](http://upcase.com)
 * Practicing TDD thanks to [Upcase](http://upcase.com)
-* Learning the [Go](http://golang.org) programming language.
-* Looking forward to *Fallout 4* this week on the PS4.
+* Focusing on Ruby skills with [The Ruby Way](http://www.amazon.com/gp/product/0321714636)
+* Focusing on Rails skills with [The Rails 4 Way](http://www.amazon.com/Rails-Edition-Addison-Wesley-Professional-Ruby/dp/0321944275)
+* Starting my app study checklist.
+* Spending more time in the wasteland of *Fallout 4*.
 
 ### Coming Up
 
