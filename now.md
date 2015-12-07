@@ -6,20 +6,21 @@ permalink: /now/
 
 I'm currently living in Franklin, OH working remote for [CoverMyMeds](http://covermymeds.com) as a software developer.
 
-(This list is current as of November 1, 2015)
+(This list is current as of December 6, 2015)
 
 ### Now
 
 * Working through [Exercises for Programmers](https://pragprog.com/book/bhwb/exercises-for-programmers)
 as part of our dev book club at work.
-  * Currently in Chapter 5.
-* Sharpening my teeth by building small games in [Gosu for Ruby](https://rubygems.org/gems/gosu)
-* Advancing my vim skills thanks to [Upcase](http://upcase.com)
-* Practicing TDD thanks to [Upcase](http://upcase.com)
+  * Currently in Chapter 6, building a Karvonen Heart Rate rails app.
+* Investigating how to properly deploy a Rails app (not just on Heroku).
+* Practicing vim + TDD thanks to [Upcase](http://upcase.com)
 * Focusing on Ruby skills with [The Ruby Way](http://www.amazon.com/gp/product/0321714636)
 * Focusing on Rails skills with [The Rails 4 Way](http://www.amazon.com/Rails-Edition-Addison-Wesley-Professional-Ruby/dp/0321944275)
-* Starting my app study checklist.
+* Continuing my app study checklist.
+  * RSS audio feeds are cool, and AJAX in Rails is cool.
 * Spending more time in the wasteland of *Fallout 4*.
+* Shooting mutants in the head in *Nuclear Throne*.
 
 ### Coming Up
 
