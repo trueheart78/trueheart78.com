@@ -8,24 +8,24 @@ categories: news
 [my previous post][app-study-checklist],
  I am working on learning some new skills.
 
-**The basics of using RSS feeds for audio**
+> The basics of using RSS feeds for audio
 
 Pretty straightforward, actually. Found some [good documentation][apple-itunes-docs] from
 Apple regarding how best to setup iTunes tags in an RSS feed.
 
-**How to provide an RSS feed using a demo Rails app**
+> How to provide an RSS feed using a demo Rails app
 
 It's not too bad, really. An XML-based endpoint with the right tags,
 that pulls the correct data from the database. Add in some caching,
 and it actually isn't very daunting.
 
-**Getting Comfortable with Ajax in Rails**
+> Getting Comfortable with Ajax in Rails
 
 It makes a lot more sense now, but it's still a little more complex
 than I like. I suspect I will get comfortable with it, but right now,
 I still need to do some more exercises to make it less alien.
 
-**Comfortably hosting Rails in a non-Heroku environment**
+> Comfortably hosting Rails in a non-Heroku environment
 
 I've made the most progress on this subject. Everything is going quite
 well. I've gotten comfortable putting Rails 4 applications online using
