@@ -5,7 +5,7 @@ date:   2015-12-22 00:00:00
 categories: news
 ---
 2016 is fast approaching, and (per
-[my previous post][app-study-checklist],
+[my previous post][app-study-checklist]),
  I am working on learning some new skills.
 
 > The basics of using RSS feeds for audio
