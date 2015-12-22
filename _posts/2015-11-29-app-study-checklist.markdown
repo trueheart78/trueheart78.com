@@ -15,3 +15,4 @@ The following are things I will be spending time learning:
 * Getting comfortable with Ajax in Rails.
 * Integrating with PayPal at a deeper level than a form.
 * Sending (and testing) emails using Rails' ActionMailer.
+* Comfortably hosting Rails in a non-Heroku environment.
