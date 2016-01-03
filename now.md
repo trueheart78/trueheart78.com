@@ -6,17 +6,18 @@ permalink: /now/
 
 I'm currently living in Franklin, OH working remote for [CoverMyMeds](http://covermymeds.com) as a software developer.
 
-(This list is current as of December 20, 2015)
+(This list is current as of January 3rd, 2016)
 
 ### Now
 
 * Working through [Exercises for Programmers](https://pragprog.com/book/bhwb/exercises-for-programmers)
 as part of our dev book club at work.
   * Currently in Chapter 8, building a Rails 4 app on Openshift about word clouds.
-* Practicing vim + TDD thanks to [Upcase](http://upcase.com)
+* Converting a PHP script to an Openshift Rails 4 app.
+  * [PileJockey.com/trueheart78](http://www.pilejockey.com/trueheart78)
+* Learning about the [HTML Pipeline gem](https://rubygems.org/gems/html-pipeline) and it's Emoji support
 * Continuing my app study checklist.
-  * Openshift hosting is totally doable and works well, blog post incoming.
-* Migrating to my new Lenovo X1 Carbon laptop.
+  * Have been actively hosting on Openshift
 * Spending more time in the wasteland of *Nuclear Throne*.
 
 ### Coming Up
