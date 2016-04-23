@@ -6,25 +6,21 @@ permalink: /now/
 
 I'm currently living in Franklin, OH working remote for [CoverMyMeds](http://covermymeds.com) as a software developer.
 
-(This list is current as of November 1, 2015)
+(This list is current as of April 17th, 2016)
 
 ### Now
 
-* Working through [Exercises for Programmers](https://pragprog.com/book/bhwb/exercises-for-programmers)
-as part of our dev book club at work.
-  * Currently in Chapter 5.
-* Sharpening my teeth by building small games in [Gosu for Ruby](https://rubygems.org/gems/gosu)
-* Advancing my vim skills thanks to [Upcase](http://upcase.com)
-* Practicing TDD thanks to [Upcase](http://upcase.com)
-* Focusing on Ruby skills with [The Ruby Way](http://www.amazon.com/gp/product/0321714636)
-* Focusing on Rails skills with [The Rails 4 Way](http://www.amazon.com/Rails-Edition-Addison-Wesley-Professional-Ruby/dp/0321944275)
-* Starting my app study checklist.
-* Spending more time in the wasteland of *Fallout 4*.
+* Juggling 3 books for an update to [CaringForKarenSue.com](http://www.caringforkarensue.com)
+  * [Efficient Rails Devops](https://efficientrailsdevops.com/)
+  * [Agile Web Development with Rails 4](https://pragprog.com/book/rails4/agile-web-development-with-rails-4)
+  * [Confident Ruby](http://www.confidentruby.com/)
+* Looking into Rails 5
+* Taking notes using git for my [Book Club Notes](https://github.com/trueheart78/book-club-notes)
+  * It's now more about notes on whatever I am studying
 
 ### Coming Up
 
-* Building a basic Protein Tracker app in Rails.
-* Migrating my Raspberry Pi server to a Raspberry Pi 2.
-* Spending time learning Elixir.
-* Brushing up on my front-end skills with some Ember 2.0.
+* Learning to work with [Braintree](https://www.braintreepayments.com/) in Rails.
+* Continuing my app study checklist.
 * Learning how to build a podcast site.
+* Updating [PileJockey.com](http://www.pilejockey.com/trueheart78)
