@@ -4,7 +4,7 @@ title:  "Brakeman Support on CircleCI"
 date:   2016-04-22 21:30:00
 categories: ruby
 ---
-[CircleCI] is a something I was excited to get working with, and with good reason,
+[CircleCI] is something I was excited to get working with, and with good reason,
 as it has been wonderful for my projects. No cost continous integration is
 rediculous, especially when it works as well as their service does.
 
