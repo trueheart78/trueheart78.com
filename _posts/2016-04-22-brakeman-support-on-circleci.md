@@ -4,6 +4,8 @@ title:  "Brakeman Support on CircleCI"
 date:   2016-04-22 21:30:00
 categories: ruby
 ---
+*Updated on May 13th with Jenkins support*
+
 [CircleCI] is something I was excited to get working with, and with good reason,
 as it has been wonderful for my projects. No cost continous integration is
 rediculous, especially when it works as well as their service does.
@@ -55,6 +57,51 @@ I hope that helps anyone else who was looking for a simple way to make scanning
 your code and related libraries for vulnerabilities just a little bit more
 visible.
 
+## But I'm Using Jenkins
+
+You can still make this happen using Bundler, even if you don't have permissions
+to install gems at the system level.
+
+First, make sure the following is in your `Gemfile`:
+
+```ruby
+group :development, :test do
+  gem 'brakeman', require: false
+end
+```
+
+Next you need to create the `script/brakeman` file, and put in the following:
+
+```sh
+#!/bin/bash
+#
+# Script for running Brakeman tests
+# Brakeman is a security scanner https://github.com/presidentbeef/brakeman.
+
+echo 'Retrieving latest version of Brakeman gem.'
+bundle update brakeman --quiet
+bundle exec brakeman -o brakeman-output.tabs --no-progress --separate-models --exit-on-warn
+```
+
+Then make sure it is executable by running `chmod +x script/brakeman`.
+
+Finally, add a `script/brakeman` command in your `script/cibuild` file, before
+any `bundle exec` commands:
+
+```sh
+.
+.
+.
+script/brakeman
+
+RAILS_ENV=test bundle exec rspec
+.
+.
+.
+```
+
+Committing these changes should help you get Brakeman updated on each CI build,
+and cause a build failure if there are any warnings found.
 
 [CircleCI]: https://circleci.com 
 [CaringForKarenSue.com]: http://www.caringforkarensue.com
