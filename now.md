@@ -6,12 +6,11 @@ permalink: /now/
 
 I'm currently living in Franklin, OH working remote for [CoverMyMeds](http://covermymeds.com) as a software developer.
 
-*Last updated on May 8th, 2016*
+*Last updated on June 6th, 2016*
 
 ### Now
 
-* Reading [Working with Unix Processes](http://www.jstorimer.com/products/working-with-unix-processes) by Jesse Storimer.
-* Still actively digesting the wonderfulness that was [Working with Ruby Threads](http://www.jstorimer.com/products/working-with-ruby-threads) by Jesse Storimer.
+* Reading [Programming Elixir](https://pragprog.com/book/elixir12/programming-elixir-1-2) by Dave Thomas
 * Juggling 3 books for an update to [CaringForKarenSue.com](http://www.caringforkarensue.com)
   * [Efficient Rails Devops](https://efficientrailsdevops.com/)
   * [Agile Web Development with Rails 4](https://pragprog.com/book/rails4/agile-web-development-with-rails-4)
@@ -19,7 +18,7 @@ I'm currently living in Franklin, OH working remote for [CoverMyMeds](http://cov
 * Looking into Rails 5
 * Taking notes using git for my [Book Club Notes](https://github.com/trueheart78/book-club-notes)
   * It's now more about notes on whatever I am studying
-* Dying a lot in Dark Souls 3 (PS4)
+* Playing too much Dark Souls 3 (PS4)
 
 ### Coming Up
 
