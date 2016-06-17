@@ -10,9 +10,11 @@ permalink: /games/
 > rid of stuff that you aren't.
 > - Me
 
+*Last updated on June 17th, 2016*
+
 Games Where My Goal is to Beat Them 2016:
 
-- Nuclear Throne (PS4) [beaten]
+- ~~Nuclear Throne (PS4) [beaten]~~
 - ~~The Witness (PS4) [jettisoned]~~
 - ~~Final Fantasy X/X-2 HD Remastered (PS4) [jettisoned]~~
 - Witcher 3 (PS4) [unplayed]
@@ -23,4 +25,4 @@ Games Where My Goal is to Beat Them 2016:
   - So hard to get back into this game again.
 - Divinity: Original Sin (PS4) [unplayed]
 - ~~Darkest Dungeon (PC) [jettisoned]~~
-- **Dark Souls II [beaten][playing]**
+- Dark Souls III [beaten] **_playing_**
