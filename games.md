@@ -23,3 +23,4 @@ Games Where My Goal is to Beat Them 2016:
   - So hard to get back into this game again.
 - Divinity: Original Sin (PS4) [unplayed]
 - ~~Darkest Dungeon (PC) [jettisoned]~~
+- **Dark Souls II [beaten][playing]**
