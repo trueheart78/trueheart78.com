@@ -12,14 +12,14 @@ permalink: /games/
 
 Games Where My Goal is to Beat Them 2016:
 
-
 - Nuclear Throne (PS4) [beaten]
-- The Witness (PS4) [jettisoned]
-- Final Fantasy X|X-2 HD Remastered (PS4) [jettisoned]
+- ~~The Witness (PS4) [jettisoned]~~
+- ~~Final Fantasy X/X-2 HD Remastered (PS4) [jettisoned]~~
 - Witcher 3 (PS4) [unplayed]
 - Tales from the Borderlands (PS4) [unplayed]
 - Shadowrun Returns: Dragonfall (PC) [unplayed]
 - Invisible, Inc. (PC) [unplayed]
-- Dragon Age Inquisition DLC: Trespasser (PS4) [jettisoned]
+- ~~Dragon Age Inquisition DLC: Trespasser (PS4) [jettisoned]~~
+  - So hard to get back into this game again.
 - Divinity: Original Sin (PS4) [unplayed]
 - ~~Darkest Dungeon (PC) [jettisoned]~~
