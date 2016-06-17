@@ -17,6 +17,7 @@ permalink: /games/
 - Dark Souls III [beaten] **_playing_**
 - Bloodborne (PS4) [unplayed]
 - Dark Souls II: Scholar of the First Sin (PS4) [unplayed]
+- Divinity: Original Sin (PS4) [unplayed]
 - Fallout 4 in survival mode (PS4) [unplayed]
   - Originally jettisoned, but wanting to try in survival mode.
 - Shadowrun Returns: Dragonfall (PC) [unplayed]
@@ -32,7 +33,6 @@ permalink: /games/
   - Had a lot of fun with X-2, but eventually moved on.
 - ~~Dragon Age Inquisition DLC: Trespasser (PS4) [jettisoned]~~
   - So hard to get back into this game again, skills- and controls-wise.
-- Divinity: Original Sin (PS4) [unplayed]
 - ~~Darkest Dungeon (PC) [jettisoned]~~
   - Got my fill from watching twitch streams.
 
