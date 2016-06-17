@@ -12,7 +12,7 @@ permalink: /games/
 
 *Last updated on June 17th, 2016*
 
-#### Games Where My Goal is to Beat Them 2016:
+#### 2016 Games Where My Goal is to Beat Them
 
 - Dark Souls III [beaten] **_playing_**
 - Bloodborne (PS4) [unplayed]
@@ -35,6 +35,14 @@ permalink: /games/
 - Divinity: Original Sin (PS4) [unplayed]
 - ~~Darkest Dungeon (PC) [jettisoned]~~
   - Got my fill from watching twitch streams.
+
+#### 2016 Games Where My Goal is to Have Fun
+
+- Darkest Dungeon (PC)(PS4)
+- ~~Nuclear Throne (PS4)~~
+- Rock Band 3 (360)
+- Prison Architect (PC)
+- Spelunky (PSN)
 
 #### 2016 Planned Purchases 
 
