@@ -32,6 +32,7 @@ permalink: /games/
 - ~~Galak-Z (PS4)~~ [jettisoned]
   - It's hard to go back to those controls.
 - ~~Nuclear Throne (PS4)~~ [beaten]
+  - Buggy port. Seriously bummed me out.
 - ~~The Witness (PS4)~~ [jettisoned]
   - Very good, but moved on.
 - ~~Dragon Age Inquisition DLC: Trespasser (PS4)~~ [jettisoned]
@@ -41,21 +42,22 @@ permalink: /games/
 
 #### 2016 Games Where My Goal is to Have Fun
 
-- Darkest Dungeon (PC)(PS4)
-- ~~Nuclear Throne (PS4)~~
 - Rock Band 3 (360)
-- Prison Architect (PC)
 - Spelunky (PSN)
+- ~~Darkest Dungeon (PC)~~
+- ~~Nuclear Throne (PS4)~~
+- ~~Prison Architect (PC)~~
 
 #### 2016 Planned Purchases 
 
 See the [New Releases Wiki][new-releases]
 
+- Darkest Dungeon (PS4)
 - Deus Ex: Mankind Divided (PS4)
 - Tomb Raider: Rise of the Tomb Raider (PS4)
 - No Man's Sky (PS4) - Wait and see
-- Far Cry Primal (PS4) - $30 max
 - Mirror's Edge: Catalyst (PS4) - $30 max
+- ~~Far Cry Primal (PS4) - $30 max~~ [skipped]
 - ~~The Witness (PS4) - Day 1~~ [purchased]
 
 #### 2016 Planned Purchases - Previously Released
