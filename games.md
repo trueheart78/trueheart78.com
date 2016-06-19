@@ -19,21 +19,24 @@ permalink: /games/
 - Divinity: Original Sin (PS4) [unplayed]
 - Fallout 4 in survival mode (PS4) [unplayed]
   - Originally jettisoned, but wanting to try in survival mode.
+- Final Fantasy X/X-2 HD Remastered (PS4) [playing]
+  - X-2 has gotten a lil boring, but still fun.
+  - Stratgey guide on route. I'd like to see this through.
 - Invisible, Inc. (PC) [unplayed]
 - Shadowrun Returns: Dragonfall (PC) [unplayed]
 - Tales from the Borderlands (PS4) [unplayed]
 - Witcher 3 (PS4) [unplayed]
 - ~~Dark Souls III~~ [beaten x 2]
-- ~~Galak-Z (PS4) [jettisoned]~~
+  - Wonderful game, my first Souls experience.
+  - Two Princes was easily my roughest boss.
+- ~~Galak-Z (PS4)~~ [jettisoned]
   - It's hard to go back to those controls.
-- ~~Nuclear Throne (PS4) [beaten]~~
-- ~~The Witness (PS4) [jettisoned]~~
+- ~~Nuclear Throne (PS4)~~ [beaten]
+- ~~The Witness (PS4)~~ [jettisoned]
   - Very good, but moved on.
-- ~~Final Fantasy X/X-2 HD Remastered (PS4) [jettisoned]~~
-  - Had a lot of fun with X-2, but eventually moved on.
-- ~~Dragon Age Inquisition DLC: Trespasser (PS4) [jettisoned]~~
+- ~~Dragon Age Inquisition DLC: Trespasser (PS4)~~ [jettisoned]
   - So hard to get back into this game again, skills- and controls-wise.
-- ~~Darkest Dungeon (PC) [jettisoned]~~
+- ~~Darkest Dungeon (PC)~~ [jettisoned]
   - Got my fill from watching twitch streams.
 
 #### 2016 Games Where My Goal is to Have Fun
@@ -53,7 +56,7 @@ See the [New Releases Wiki][new-releases]
 - No Man's Sky (PS4) - Wait and see
 - Far Cry Primal (PS4) - $30 max
 - Mirror's Edge: Catalyst (PS4) - $30 max
-- ~~The Witness (PS4) - Day 1 [purchased]~~
+- ~~The Witness (PS4) - Day 1~~ [purchased]
 
 #### 2016 Planned Purchases - Previously Released
 
@@ -62,6 +65,6 @@ See the [New Releases Wiki][new-releases]
 - Undertale (PC)
 - Baldur's Gate EE (PC) - $10 max
 - Baldur's Gate 2 EE (PC) - $10 max
-- ~~Final Fantasy X/X-2 HD Remastered (PS4) - $20 max [purchased]~~
+- ~~Final Fantasy X/X-2 HD Remastered (PS4) - $20 max~~ [purchased]
 
 [new-releases]: https://en.wikipedia.org/wiki/2016_in_video_gaming#Game_releases
