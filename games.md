@@ -16,7 +16,6 @@ permalink: /games/
 
 - Bloodborne (PS4) [unplayed]
 - Dark Souls II: Scholar of the First Sin (PS4) [unplayed]
-- Dark Souls III [beaten] **_playing_**
 - Divinity: Original Sin (PS4) [unplayed]
 - Fallout 4 in survival mode (PS4) [unplayed]
   - Originally jettisoned, but wanting to try in survival mode.
@@ -24,6 +23,7 @@ permalink: /games/
 - Shadowrun Returns: Dragonfall (PC) [unplayed]
 - Tales from the Borderlands (PS4) [unplayed]
 - Witcher 3 (PS4) [unplayed]
+- ~~Dark Souls III~~ [beaten x 2]
 - ~~Galak-Z (PS4) [jettisoned]~~
   - It's hard to go back to those controls.
 - ~~Nuclear Throne (PS4) [beaten]~~
