@@ -27,13 +27,15 @@ permalink: /games/
 - ~~Dark Souls III~~ [beaten x 2]
   - Wonderful game, my first Souls experience.
   - Two Princes was easily my roughest boss.
+- ~~Nuclear Throne (PS4)~~ [beaten]
+  - Buggy port. Seriously bummed me out.
+- ~~Stardew Valley (PC)~~ [beaten]
+  - Wonderful indie game. Second year completed.
 - ~~Fallout 4 in survival mode (PS4)~~ [jettisoned]
   - Dying to single bullets, as well as 2 hits from a baby bloatfly
     left me with hours of lost progress. Moved on.
 - ~~Galak-Z (PS4)~~ [jettisoned]
   - It's hard to go back to those controls.
-- ~~Nuclear Throne (PS4)~~ [beaten]
-  - Buggy port. Seriously bummed me out.
 - ~~The Witness (PS4)~~ [jettisoned]
   - Very good, but moved on.
 - ~~Dragon Age Inquisition DLC: Trespasser (PS4)~~ [jettisoned]
