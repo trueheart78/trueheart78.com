@@ -17,11 +17,6 @@ permalink: /games/
 - Bloodborne (PS4) [unplayed]
 - Dark Souls II: Scholar of the First Sin (PS4) [unplayed]
 - Divinity: Original Sin (PS4) [unplayed]
-- Fallout 4 (PS4) [playing]
-  - Nephews are visiting and enjoy watching/playing it, so taking my
-    level 48 through to the end as the Institute director.
-  - Survival mode was me dying at lvl 6 to single bullets, as well as 2 hits
-    from a baby bloatfly, and left me with hours of lost progress.
 - Final Fantasy X/X-2 HD Remastered (PS4) [playing]
   - X-2 has gotten a lil boring, but still fun.
   - Stratgey guide on route. I'd like to see this through.
@@ -32,6 +27,8 @@ permalink: /games/
 - ~~Dark Souls III~~ [beaten x 2]
   - Wonderful game, my first Souls experience.
   - Two Princes was easily my roughest boss.
+- ~~Fallout 4 (PS4)~~ [beaten]
+  - Got bored and took a 7 month break, finally pushed to the end.
 - ~~Nuclear Throne (PS4)~~ [beaten]
   - Buggy port. Seriously bummed me out.
 - ~~Stardew Valley (PC)~~ [beaten]
