@@ -10,13 +10,18 @@ permalink: /games/
 > rid of stuff that you aren't.
 > - Me
 
-*Last updated on June 17th, 2016*
+*Last updated on June 21st, 2016*
 
 #### 2016 Games Where My Goal is to Beat Them
 
 - Bloodborne (PS4) [unplayed]
 - Dark Souls II: Scholar of the First Sin (PS4) [unplayed]
 - Divinity: Original Sin (PS4) [unplayed]
+- Fallout 4 (PS4) [playing]
+  - Nephews are visiting and enjoy watching/playing it, so taking my
+    level 48 through to the end as the Institute director.
+  - Survival mode was me dying at lvl 6 to single bullets, as well as 2 hits
+    from a baby bloatfly, and left me with hours of lost progress.
 - Final Fantasy X/X-2 HD Remastered (PS4) [playing]
   - X-2 has gotten a lil boring, but still fun.
   - Stratgey guide on route. I'd like to see this through.
@@ -31,9 +36,6 @@ permalink: /games/
   - Buggy port. Seriously bummed me out.
 - ~~Stardew Valley (PC)~~ [beaten]
   - Wonderful indie game. Second year completed.
-- ~~Fallout 4 in survival mode (PS4)~~ [jettisoned]
-  - Dying to single bullets, as well as 2 hits from a baby bloatfly
-    left me with hours of lost progress. Moved on.
 - ~~Galak-Z (PS4)~~ [jettisoned]
   - It's hard to go back to those controls.
 - ~~The Witness (PS4)~~ [jettisoned]
