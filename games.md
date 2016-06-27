@@ -10,16 +10,19 @@ permalink: /games/
 > rid of stuff that you aren't.
 > - Me
 
-*Last updated on June 21st, 2016*
+*Last updated on June 27th, 2016*
 
 #### 2016 Games Where My Goal is to Beat Them
 
+- Batman: Arkham Knight (PS4) [unplayed]
 - Bloodborne (PS4) [unplayed]
 - Dark Souls II: Scholar of the First Sin (PS4) [unplayed]
 - Divinity: Original Sin (PS4) [unplayed]
+- DOOM (PS4) [unplayed]
 - Final Fantasy X/X-2 HD Remastered (PS4) [playing]
   - X-2 has gotten a lil boring, but still fun.
   - Stratgey guide on route. I'd like to see this through.
+- Hitman: Intro Pack (PS4) [unplayed]
 - Invisible, Inc. (PC) [unplayed]
 - Shadowrun Returns: Dragonfall (PC) [unplayed]
 - Tales from the Borderlands (PS4) [unplayed]
