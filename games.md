@@ -10,7 +10,7 @@ permalink: /games/
 > rid of stuff that you aren't.
 > - Me
 
-*Last updated on June 27th, 2016*
+*Last updated on July 1st, 2016*
 
 #### 2016 Games Where My Goal is to Beat Them
 
@@ -68,10 +68,10 @@ See the [New Releases Wiki][new-releases]
 #### 2016 Planned Purchases - Previously Released
 
 - Assassin's Creed: Syndicate (PS4) - $30 max
-- Just Cause 3 (PS4)
+- Demon's Souls (PS3)
+- Dark Souls (PS3)
 - Undertale (PC)
-- Baldur's Gate EE (PC) - $10 max
-- Baldur's Gate 2 EE (PC) - $10 max
 - ~~Final Fantasy X/X-2 HD Remastered (PS4) - $20 max~~ [purchased]
+- ~~Just Cause 3 (PS4)~~ [skipped]
 
 [new-releases]: https://en.wikipedia.org/wiki/2016_in_video_gaming#Game_releases
