@@ -10,22 +10,27 @@ permalink: /games/
 > rid of stuff that you aren't.
 > - Me
 
-*Last updated on July 1st, 2016*
+*Last updated on July 4th, 2016*
 
 #### 2016 Games Where My Goal is to Beat Them
 
 - Batman: Arkham Knight (PS4) [unplayed]
 - Bloodborne (PS4) [unplayed]
+- Costume Quest 2 (PS4) [unplayed]
 - Dark Souls II: Scholar of the First Sin (PS4) [unplayed]
 - Divinity: Original Sin (PS4) [unplayed]
 - DOOM (PS4) [unplayed]
 - Final Fantasy X/X-2 HD Remastered (PS4) [playing]
   - X-2 has gotten a lil boring, but still fun.
-  - Stratgey guide on route. I'd like to see this through.
-- Hitman: Intro Pack (PS4) [unplayed]
+  - Strategy guide arrived. I'd like to see this through.
+- Grow Home (PS4) [unplayed]
+- Hitman 2016 (PS4) [playing]
+  - Amazing game with great replayability.
+- I Am Bread (PS4) [unplayed]
 - Invisible, Inc. (PC) [unplayed]
 - Shadowrun Returns: Dragonfall (PC) [unplayed]
 - Tales from the Borderlands (PS4) [unplayed]
+- Thomas Was Alone (PS4) [unplayed]
 - Witcher 3 (PS4) [unplayed]
 - ~~Dark Souls III~~ [beaten x 2]
   - Wonderful game, my first Souls experience.
@@ -47,8 +52,9 @@ permalink: /games/
 
 #### 2016 Games Where My Goal is to Have Fun
 
-- Rock Band 3 (360)
-- Spelunky (PSN)
+- ~~Rock Band 3 (360)~~
+  - Finally packed away the 360 on July 2nd
+- ~~Spelunky (PSN)~~
 - ~~Darkest Dungeon (PC)~~
 - ~~Nuclear Throne (PS4)~~
 - ~~Prison Architect (PC)~~
