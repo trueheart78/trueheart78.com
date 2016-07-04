@@ -6,14 +6,14 @@ permalink: /now/
 
 I'm currently living in Franklin, OH working remote for [CoverMyMeds](http://covermymeds.com) as a software developer.
 
-*Last updated on June 19th, 2016*
+*Last updated on July 4th, 2016*
 
 ### Now
 
-* Reading [Programming Elixir](https://pragprog.com/book/elixir12/programming-elixir-1-2) by Dave Thomas
+* Coming up on Redis by studying [Seven Databases in Seven Weeks](https://pragprog.com/book/rwdata/seven-databases-in-seven-weeks) 
+* Learning [Programming Elixir](https://pragprog.com/book/elixir12/programming-elixir-1-2) by Dave Thomas
   * Just starting Chapter 10 on Processing Collections.
-* Juggling 3 books for an update to [CaringForKarenSue.com](http://www.caringforkarensue.com)
-  * [Efficient Rails Devops](https://efficientrailsdevops.com/)
+* Juggling 2 books for an update to [CaringForKarenSue.com](http://www.caringforkarensue.com)
   * [Agile Web Development with Rails 4](https://pragprog.com/book/rails4/agile-web-development-with-rails-4)
   * [Confident Ruby](http://www.confidentruby.com/)
 * Looking into Rails 5
@@ -27,3 +27,17 @@ I'm currently living in Franklin, OH working remote for [CoverMyMeds](http://cov
 * Continuing my app study checklist.
 * Learning how to build a podcast site.
 * Updating [PileJockey.com](http://www.pilejockey.com/trueheart78)
+
+### History for 2016
+
+* Read most of [CoffeeScript](https://pragprog.com/book/tbcoffee2/coffeescript) by Trevor Burnham
+* Read [Working with Unix Processes](http://www.jstorimer.com/products/working-with-unix-processes) by Jesse Storimer.
+* Read [Working with Ruby Threads](http://www.jstorimer.com/products/working-with-ruby-threads) by Jesse Storimer.
+* Started [Confident Ruby](http://www.confidentruby.com/)
+* Read [Practical Object Oriented Design in Ruby](http://www.poodr.com/) by Sandi Metz
+* Worked through [Exercises for Programmers](https://pragprog.com/book/bhwb/exercises-for-programmers) as part of our dev book club at work.
+* Merging a theme from [html5up.net](http://html5up.net) with Rails 4.
+* Learned about the [HTML Pipeline gem](https://rubygems.org/gems/html-pipeline) and it's Emoji support
+* Played too much Dark Souls 3 (PS4)
+* Play The Witness (PS4)
+* Adored [Stardew Valley (PC)](http://www.stardewvalley.net)
