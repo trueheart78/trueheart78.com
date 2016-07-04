@@ -2,10 +2,7 @@
 title: trueheart78
 email: josh@trueheart78.com
 description: > # this means to ignore newlines until "baseurl:"
-  I love Ruby, and I love great games.
-  Emoji? :heart:
-  So far, this is the best witty description I've been able to come up
-  with. It will have to do, for now.
+  I &lt;3 Ruby, and I &lt;3 great games.
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://blog.trueheart.com" # the base hostname & protocol for your site
 twitter_username: trueheart78
