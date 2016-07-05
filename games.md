@@ -17,6 +17,8 @@ permalink: /games/
 - Batman: Arkham Knight (PS4) [unplayed]
 - Bloodborne (PS4) [unplayed]
 - Costume Quest 2 (PS4) [unplayed]
+- Demon's Souls (PS3)
+- Dark Souls (PS3)
 - Dark Souls II: Scholar of the First Sin (PS4) [unplayed]
 - Divinity: Original Sin (PS4) [unplayed]
 - DOOM (PS4) [unplayed]
@@ -74,9 +76,9 @@ See the [New Releases Wiki][new-releases]
 #### 2016 Planned Purchases - Previously Released
 
 - Assassin's Creed: Syndicate (PS4) - $30 max
-- Demon's Souls (PS3)
-- Dark Souls (PS3)
 - Undertale (PC)
+- ~~Demon's Souls (PS3)~~ [purchased]
+- ~~Dark Souls (PS3)~~ [purchased]
 - ~~Final Fantasy X/X-2 HD Remastered (PS4) - $20 max~~ [purchased]
 - ~~Just Cause 3 (PS4)~~ [skipped]
 
