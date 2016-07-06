@@ -27,6 +27,7 @@ permalink: /games/
   - Strategy guide arrived. I'd like to see this through.
 - Grow Home (PS4) [unplayed]
 - Hitman 2016 (PS4) [playing]
+  - 3 of 3 episodes complete (6 to be released)
   - Amazing game with great replayability.
 - I Am Bread (PS4) [unplayed]
 - Invisible, Inc. (PC) [unplayed]
