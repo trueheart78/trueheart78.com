@@ -17,8 +17,8 @@ permalink: /games/
 - Batman: Arkham Knight (PS4) [unplayed]
 - Bloodborne (PS4) [unplayed]
 - Costume Quest 2 (PS4) [unplayed]
-- Demon's Souls (PS3)
-- Dark Souls (PS3)
+- Demon's Souls (PS3) [unplayed]
+- Dark Souls (PS3) [unplayed]
 - Dark Souls II: Scholar of the First Sin (PS4) [unplayed]
 - Divinity: Original Sin (PS4) [unplayed]
 - DOOM (PS4) [unplayed]
