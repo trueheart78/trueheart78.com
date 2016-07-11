@@ -6,7 +6,7 @@ permalink: /now/
 
 I'm currently living in Franklin, OH working remote for [CoverMyMeds](http://covermymeds.com) as a software developer.
 
-*Last updated on July 4th, 2016*
+*Last updated on July 11th, 2016*
 
 ### Now
 
