@@ -4,9 +4,22 @@ title: Books
 permalink: /books/
 ---
 
+> I'd like a list of books, kind of like my games, but with less goals.
+> Mainly, I'd just like to track what I am currently reading, and the
+> list of books that I would like to get to, even if that is just skimming
+> - Me
+
 *Last updated on July 14th, 2016*
 
-[View my notes][book-notes]
+
+[Currently Reading][currently-reading] |
+[Want to Read][want-to-read] |
+[Coming Back To][coming-back-to] |
+[Completed][completed] |
+[Jettisoned][jettisoned] |
+[My Notes][book-notes]
+
+<a name='currently-reading'></a>
 
 #### Currently Reading
 
@@ -15,7 +28,9 @@ permalink: /books/
 - Programming Elixir 1.2
   - Chapter 10
 
-#### Book Pile
+<a name='want-to-read'></a>
+
+#### Want to Read
 
 + Elixir
   - Elixir in Action
@@ -57,12 +72,16 @@ permalink: /books/
   - Practical Vim
   - tmux
 
+<a name='coming-back-to'></a>
+
 #### Coming Back To
 
 - Confident Ruby
   - In the middle of chapter 3
 - Eloquent Ruby
 - Why's Poignant Guide to Ruby
+
+<a name='completed'></a>
 
 #### Completed
 
@@ -73,8 +92,15 @@ permalink: /books/
 - Working with Ruby Threads
 - Working with Unix Processes
 
+<a name='jettisoned'></a>
+
 #### Jettisoned
 
 _TBD_
 
+[currently-reading]: #currently-reading
+[want-to-read]: #want-to-read
+[coming-back-to]: #coming-back-to
+[completed]: #completed
+[jettisoned]: #jettisoned
 [book-notes]: https://github.com/trueheart78/book-notes/blob/master/README.md
