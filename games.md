@@ -10,7 +10,7 @@ permalink: /games/
 > rid of stuff that you aren't.
 > - Me
 
-*Last updated on July 4th, 2016*
+*Last updated on July 15th, 2016*
 
 #### 2016 Games Where My Goal is to Beat Them
 
@@ -34,6 +34,7 @@ permalink: /games/
 - Shadowrun Returns: Dragonfall (PC) [unplayed]
 - Tales from the Borderlands (PS4) [unplayed]
 - Thomas Was Alone (PS4) [unplayed]
+- Undertail (PC) [unplayed]
 - Witcher 3 (PS4) [unplayed]
 - ~~Dark Souls III~~ [beaten x 2]
   - Wonderful game, my first Souls experience.
