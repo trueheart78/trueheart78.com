@@ -10,7 +10,7 @@ permalink: /games/
 > rid of stuff that you aren't.
 > - Me
 
-*Last updated on July 15th, 2016*
+*Last updated on July 17th, 2016*
 
 #### 2016 Games Where My Goal is to Beat Them
 
@@ -36,9 +36,12 @@ permalink: /games/
 - Thomas Was Alone (PS4) [unplayed]
 - Undertail (PC) [unplayed]
 - Witcher 3 (PS4) [unplayed]
-- ~~Dark Souls III~~ [beaten x 2]
+- ~~Dark Souls III~~ [beaten x 3]
   - Wonderful game, my first Souls experience.
   - Two Princes was easily my roughest boss.
+  - 3rd completion was nekkid using twinblades.
+  - Made twin princes fall by myself
+  - Thrashed SoC.
 - ~~Fallout 4 (PS4)~~ [beaten]
   - Got bored and took a 7 month break, finally pushed to the end.
 - ~~Nuclear Throne (PS4)~~ [beaten]
@@ -78,10 +81,10 @@ See the [New Releases Wiki][new-releases]
 #### 2016 Planned Purchases - Previously Released
 
 - Assassin's Creed: Syndicate (PS4) - $30 max
-- Undertale (PC)
 - ~~Demon's Souls (PS3)~~ [purchased]
 - ~~Dark Souls (PS3)~~ [purchased]
 - ~~Final Fantasy X/X-2 HD Remastered (PS4) - $20 max~~ [purchased]
 - ~~Just Cause 3 (PS4)~~ [skipped]
+- ~~Undertale (PC)~~ [purchased]
 
 [new-releases]: https://en.wikipedia.org/wiki/2016_in_video_gaming#Game_releases
