@@ -10,7 +10,7 @@ permalink: /games/
 > rid of stuff that you aren't.
 > - Me
 
-*Last updated on July 17th, 2016*
+*Last updated on July 21st, 2016*
 
 #### 2016 Games Where My Goal is to Beat Them
 

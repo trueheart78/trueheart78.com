@@ -6,13 +6,12 @@ permalink: /now/
 
 I'm currently living in Franklin, OH working remote for [CoverMyMeds](http://covermymeds.com) as a software developer.
 
-*Last updated on July 14th, 2016*
+*Last updated on July 21st, 2016*
 
 ### Now
 
-* Coming up on Redis by studying [Seven Databases in Seven Weeks](https://pragprog.com/book/rwdata/seven-databases-in-seven-weeks) 
-* Learning [Programming Elixir](https://pragprog.com/book/elixir12/programming-elixir-1-2) by Dave Thomas
-  * Just starting Chapter 10 on Processing Collections.
+* Learning Redis by studying [Seven Databases in Seven Weeks](https://pragprog.com/book/rwdata/seven-databases-in-seven-weeks) 
+* Learning about ActiveJob and Sidekiq
 * Looking into Rails 5
 * Taking notes using git for my [Book Notes](https://github.com/trueheart78/book-notes)
   * It's now more about notes on whatever I am studying
@@ -24,7 +23,10 @@ I'm currently living in Franklin, OH working remote for [CoverMyMeds](http://cov
 * Learning to work with [Braintree](https://www.braintreepayments.com/) in Rails.
 * Continuing my app study checklist.
 * Learning how to build a podcast site.
-* Updating [PileJockey.com](http://www.pilejockey.com/trueheart78)
+* Learning [Programming Elixir](https://pragprog.com/book/elixir12/programming-elixir-1-2) by Dave Thomas
+  * Left off at chapter 10: Processing Collections.
+* Updating [PileJockey.com](http://www.pilejockey.com/trueheart78).
+  * Likely just exploding this and redirecting to the [games](/games/) page.
 
 ### History for 2016
 
