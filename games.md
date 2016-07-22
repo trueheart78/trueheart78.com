@@ -21,7 +21,6 @@ permalink: /games/
 - Dark Souls (PS3) [unplayed]
 - Dark Souls II: Scholar of the First Sin (PS4) [unplayed]
 - Divinity: Original Sin (PS4) [unplayed]
-- DOOM (PS4) [unplayed]
 - Final Fantasy X/X-2 HD Remastered (PS4) [playing]
   - X-2 has gotten a lil boring, but still fun.
   - Strategy guide arrived. I'd like to see this through.
@@ -31,6 +30,8 @@ permalink: /games/
   - Amazing game with great replayability.
 - I Am Bread (PS4) [unplayed]
 - Invisible, Inc. (PC) [unplayed]
+- LEGO: Batman 3 (PS4) [unplayed]
+- LEGO: The Movie (PS4) [unplayed]
 - Shadowrun Returns: Dragonfall (PC) [unplayed]
 - Tales from the Borderlands (PS4) [unplayed]
 - Thomas Was Alone (PS4) [unplayed]
@@ -42,6 +43,9 @@ permalink: /games/
   - 3rd completion was nekkid using twinblades.
   - Made twin princes fall by myself
   - Thrashed SoC.
+- ~~DOOM (PS4)~~ [gifted away]
+  - Gave as a gift to a family member for a graduation present.
+  - Do plan on rebuying it.
 - ~~Fallout 4 (PS4)~~ [beaten]
   - Got bored and took a 7 month break, finally pushed to the end.
 - ~~Nuclear Throne (PS4)~~ [beaten]
@@ -81,6 +85,7 @@ See the [New Releases Wiki][new-releases]
 #### 2016 Planned Purchases - Previously Released
 
 - Assassin's Creed: Syndicate (PS4) - $30 max
+- DOOM (PS4) - $30 max
 - ~~Demon's Souls (PS3)~~ [purchased]
 - ~~Dark Souls (PS3)~~ [purchased]
 - ~~Final Fantasy X/X-2 HD Remastered (PS4) - $20 max~~ [purchased]
