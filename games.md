@@ -10,7 +10,7 @@ permalink: /games/
 > rid of stuff that you aren't.
 > - Me
 
-*Last updated on July 21st, 2016*
+*Last updated on July 31st, 2016*
 
 #### 2016 Games Where My Goal is to Beat Them
 
@@ -21,6 +21,7 @@ permalink: /games/
 - Dark Souls (PS3) [unplayed]
 - Dark Souls II: Scholar of the First Sin (PS4) [unplayed]
 - Divinity: Original Sin (PS4) [unplayed]
+- DOOM (PS4) [unplayed]
 - Final Fantasy X/X-2 HD Remastered (PS4) [playing]
   - X-2 has gotten a lil boring, but still fun.
   - Strategy guide arrived. I'd like to see this through.
@@ -43,9 +44,6 @@ permalink: /games/
   - 3rd completion was nekkid using twinblades.
   - Made twin princes fall by myself
   - Thrashed SoC.
-- ~~DOOM (PS4)~~ [gifted away]
-  - Gave as a gift to a family member for a graduation present.
-  - Do plan on rebuying it.
 - ~~Fallout 4 (PS4)~~ [beaten]
   - Got bored and took a 7 month break, finally pushed to the end.
 - ~~Nuclear Throne (PS4)~~ [beaten]
