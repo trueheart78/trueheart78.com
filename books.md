@@ -9,7 +9,7 @@ permalink: /books/
 > list of books that I would like to get to, even if that is just skimming
 > - Me
 
-*Last updated on July 14th, 2016*
+*Last updated on August 2nd, 2016*
 
 
 [Currently Reading][currently-reading] |
@@ -23,14 +23,13 @@ permalink: /books/
 
 #### Currently Reading
 
-- Seven Databases in Seven Weeks
-  - Redis, Chapter 8
+- Working with TCP Sockets
 - Programming Elixir 1.2
   - Chapter 10
 
 <a name='want-to-read'></a>
 
-#### Want to Read
+#### Want to Read (Owned)
 
 + Elixir
   - Elixir in Action
@@ -50,7 +49,7 @@ permalink: /books/
   - Exceptional Ruby
   - The Ruby Closures Book
   - Refactoring, Ruby Edition
-  - Working with TCP Sockets
+  - Ruby Under a Microscope
 + Rails
   - Agile Web Development with Rails 4
   - Agile Web Development with Rails 5
@@ -76,6 +75,8 @@ permalink: /books/
 
 #### Coming Back To
 
+- Seven Databases in Seven Weeks
+  - Redis, Chapter 8
 - Confident Ruby
   - In the middle of chapter 3
 - Eloquent Ruby
