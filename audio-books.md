@@ -8,6 +8,8 @@ permalink: /audio-books/
 > list of books that I would like to get to, even if that is just skimming
 > - Me
 
+*Last updated on August 6th, 2016*
+
 [Currently Listening To][currently-listening-to] |
 [Want to Listen To][want-to-listen-to] |
 [Coming Back To][coming-back-to] |
@@ -19,11 +21,6 @@ permalink: /audio-books/
 #### Currently Listening To
 
 - Modern Romance n. by *Aziz Ansari*
----
-*Last updated on August 6th, 2016*
-
-- Make
-- List
 
 <a name='want-to-listen-to'></a>
 
@@ -58,7 +55,6 @@ permalink: /audio-books/
 - Jesus Wants to Save Christians n. by *Rob Bell*
 - What We Talk About When We Talk About God n. by *Rob Bell*
 
-
 <a name='coming-back-to'></a>
 
 #### Coming Back To
@@ -74,8 +70,7 @@ permalink: /audio-books/
 
 #### Completed
 
-- Make
-- List
+_TBD_
 
 <a name='jettisoned'></a>
 
