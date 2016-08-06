@@ -6,15 +6,15 @@ permalink: /now/
 
 I'm currently living in Franklin, OH working remote for [CoverMyMeds](http://covermymeds.com) as a software developer.
 
-*Last updated on July 31st, 2016*
+*Last updated on August 6th, 2016*
 
 ### Now
 
-* Learning Redis by studying [Seven Databases in Seven Weeks](https://pragprog.com/book/rwdata/seven-databases-in-seven-weeks) 
-* Learning about ActiveJob and Sidekiq
-* Looking into Rails 5
+* Studying [Working with TCP Sockets](http://www.jstorimer.com/products/working-with-tcp-sockets)
+* Playing Dark Souls 3 on PS4 still.
 * Taking notes using git for my [Book Notes](https://github.com/trueheart78/book-notes)
   * It's now more about notes on whatever I am studying
+* Learning more about with Rails 5
 * Managing the **New** [Books](/books/) page.
 * Managing the [Games](/games/) page.
 
@@ -30,6 +30,8 @@ I'm currently living in Franklin, OH working remote for [CoverMyMeds](http://cov
 
 ### History for 2016
 
+* Learned Redis by studying [Seven Databases in Seven Weeks](https://pragprog.com/book/rwdata/seven-databases-in-seven-weeks) 
+* Learned about ActiveJob and Sidekiq
 * Read most of [CoffeeScript](https://pragprog.com/book/tbcoffee2/coffeescript) by Trevor Burnham
 * Read [Working with Unix Processes](http://www.jstorimer.com/products/working-with-unix-processes) by Jesse Storimer.
 * Read [Working with Ruby Threads](http://www.jstorimer.com/products/working-with-ruby-threads) by Jesse Storimer.
