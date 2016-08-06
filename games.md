@@ -10,7 +10,7 @@ permalink: /games/
 > rid of stuff that you aren't.
 > - Me
 
-*Last updated on July 31st, 2016*
+*Last updated on August 6th, 2016*
 
 #### 2016 Games Where My Goal is to Beat Them
 
@@ -20,6 +20,11 @@ permalink: /games/
 - Demon's Souls (PS3) [unplayed]
 - Dark Souls (PS3) [unplayed]
 - Dark Souls II: Scholar of the First Sin (PS4) [unplayed]
+- Dark Souls III [playing]
+  - Beaten 3 times
+  - Wonderful game, my first Souls experience.
+  - Two Princes was easily my roughest boss.
+  - 3rd completion was nekkid using twinblades, wrecked SoC.
 - Divinity: Original Sin (PS4) [unplayed]
 - DOOM (PS4) [unplayed]
 - Final Fantasy X/X-2 HD Remastered (PS4) [playing]
@@ -31,19 +36,13 @@ permalink: /games/
   - Amazing game with great replayability.
 - I Am Bread (PS4) [unplayed]
 - Invisible, Inc. (PC) [unplayed]
-- LEGO: Batman 3 (PS4) [unplayed]
+- LEGO: Batman 3 (PS4) [playing]
 - LEGO: The Movie (PS4) [unplayed]
 - Shadowrun Returns: Dragonfall (PC) [unplayed]
 - Tales from the Borderlands (PS4) [unplayed]
 - Thomas Was Alone (PS4) [unplayed]
 - Undertail (PC) [unplayed]
 - Witcher 3 (PS4) [unplayed]
-- ~~Dark Souls III~~ [beaten x 3]
-  - Wonderful game, my first Souls experience.
-  - Two Princes was easily my roughest boss.
-  - 3rd completion was nekkid using twinblades.
-  - Made twin princes fall by myself
-  - Thrashed SoC.
 - ~~Fallout 4 (PS4)~~ [beaten]
   - Got bored and took a 7 month break, finally pushed to the end.
 - ~~Nuclear Throne (PS4)~~ [beaten]
