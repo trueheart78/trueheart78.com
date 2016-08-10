@@ -1,8 +1,8 @@
 # Site settings
-title: trueheart78
+title: I 💖 Ruby
 email: josh@trueheart78.com
 description: > # this means to ignore newlines until "baseurl:"
-  I &lt;3 Ruby, and I &lt;3 great games.
+  I 💖 great games.
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://blog.trueheart.com" # the base hostname & protocol for your site
 twitter_username: trueheart78
