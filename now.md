@@ -6,20 +6,21 @@ permalink: /now/
 
 I'm currently living in Franklin, OH working remote for [CoverMyMeds](http://covermymeds.com) as a software developer.
 
-*Last updated on August 6th, 2016*
+*Last updated on August 10th, 2016*
 
 ### Now
 
+* Crafting some [Simple CLI Tools](https://github.com/trueheart78/simple-cli-tools) in Ruby
+* Redesigning my website.
 * Studying [Working with TCP Sockets](http://www.jstorimer.com/products/working-with-tcp-sockets)
 * Playing Dark Souls 3 on PS4 still.
+  * Challenge runs are fun. Currently doing a dagger, no armor run.
 * Taking notes using git for my [Book Notes](https://github.com/trueheart78/book-notes)
   * It's now more about notes on whatever I am studying
-* Learning more about with Rails 5
-* Managing the **New** [Books](/books/) page.
-* Managing the [Games](/games/) page.
 
 ### Coming Up
 
+* Learning more about with Rails 5
 * Learning to work with [Braintree](https://www.braintreepayments.com/) in Rails.
 * Continuing my app study checklist.
 * Learning how to build a podcast site.
