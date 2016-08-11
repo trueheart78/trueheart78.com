@@ -4,15 +4,16 @@ title: Audio Books
 permalink: /audio-books/
 ---
 
-> I'd like a list of books, kind of like my games, but with less goals.
-> Mainly, I'd just like to track what I am currently listening to, and the
-> list of books that I would like to get to, even if that is just skimming
+> I'd like a list of audio books, kind of like my games, but with less
+> goals.  Mainly, I'd just like to track what I am currently listening to,
+> and the list of audio books that I would like to get to.
 > - Me
 
-*Last updated on August 6th, 2016*
+*Last updated on August 10th, 2016*
 
 [Currently Listening To][currently-listening-to] |
 [Want to Listen To][want-to-listen-to] |
+[Pre-Ordered][pre-ordered] |
 [Coming Back To][coming-back-to] |
 [Completed][completed] |
 [Jettisoned][jettisoned]
@@ -56,6 +57,12 @@ permalink: /audio-books/
 - Jesus Wants to Save Christians n. by *Rob Bell*
 - What We Talk About When We Talk About God n. by *Rob Bell*
 
+<a name='pre-ordered'></a>
+
+#### Pre-Ordered
+
+- Scrappy Little Nobody n. by *Anna Kendrick*
+
 <a name='coming-back-to'></a>
 
 #### Coming Back To
@@ -81,6 +88,7 @@ _TBD_
 
 [currently-listening-to]: #currently-listening-to
 [want-to-listen-to]: #want-to-listen-to
+[pre-ordered]: #pre-ordered
 [coming-back-to]: #coming-back-to
 [completed]: #completed
 [jettisoned]: #jettisoned
