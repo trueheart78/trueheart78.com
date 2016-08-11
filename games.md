@@ -10,7 +10,7 @@ permalink: /games/
 > rid of stuff that you aren't.
 > - Me
 
-*Last updated on August 6th, 2016*
+*Last updated on August 10th, 2016*
 
 #### 2016 Games Where My Goal is to Beat Them
 
@@ -21,10 +21,9 @@ permalink: /games/
 - Dark Souls (PS3) [unplayed]
 - Dark Souls II: Scholar of the First Sin (PS4) [unplayed]
 - Dark Souls III [playing]
-  - Beaten 3 times
+  - Beaten 4 times, working on number 5.
   - Wonderful game, my first Souls experience.
-  - Two Princes was easily my roughest boss.
-  - 3rd completion was nekkid using twinblades, wrecked SoC.
+  - Challenge runs: Twinswords x 2, Daggers x 1.
 - Divinity: Original Sin (PS4) [unplayed]
 - DOOM (PS4) [unplayed]
 - Final Fantasy X/X-2 HD Remastered (PS4) [playing]
