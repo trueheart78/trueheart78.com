@@ -1,8 +1,14 @@
 # Site settings
 title: I ♥  Ruby
+title_html:
+  big: I <img src="/assets/sparkly-heart.webp" height=26 width=26 /> Ruby	
+  small: I <img src="/assets/sparkly-heart.webp" height=18 width=18 /> Ruby	
+site_heart:
+  big: <img src="/assets/sparkly-heart.webp" height=26 width=26 />
+  small: <img src="/assets/sparkly-heart.webp" height=18 width=18 />
 email: josh@trueheart78.com
 description: > # this means to ignore newlines until "baseurl:"
-  I ♥  Ruby, and I ♥  great games.
+  <a href='http://www.iheartruby.com'>iheartruby.com</a>
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://blog.trueheart.com" # the base hostname & protocol for your site
 twitter_username: trueheart78
