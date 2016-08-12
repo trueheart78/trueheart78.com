@@ -9,12 +9,13 @@ permalink: /books/
 > list of books that I would like to get to, even if that is just skimming
 > - Me
 
-*Last updated on August 6th, 2016*
+*Last updated on August 12th, 2016*
 
 
 [Currently Reading][currently-reading] |
 [Want to Read][want-to-read] |
 [Coming Back To][coming-back-to] |
+[Want to Buy][want-to-buy] |
 [Completed][completed] |
 [Jettisoned][jettisoned] |
 [My Notes][book-notes]
@@ -83,6 +84,13 @@ permalink: /books/
 - Eloquent Ruby
 - Why's Poignant Guide to Ruby
 
+<a name='want-to-buy'></a>
+
+#### Want to Buy
+
++ Rails As She Is Spoke ($55) [purchase](http://railsoopbook.com/)
++ 99 Bottles of OOP ($49) [purchase](http://www.sandimetz.com/99bottles)
+
 <a name='completed'></a>
 
 #### Completed
@@ -103,6 +111,7 @@ _TBD_
 [currently-reading]: #currently-reading
 [want-to-read]: #want-to-read
 [coming-back-to]: #coming-back-to
+[want-to-buy]: #want-to-buy
 [completed]: #completed
 [jettisoned]: #jettisoned
 [book-notes]: https://github.com/trueheart78/book-notes/blob/master/README.md
