@@ -14,7 +14,7 @@ permalink: /about/
 </div>
 
 My name is Josh and I'm a full time developer, and, if you can't tell, I
-<img src="/assets/sparkly-heart.webp" width="18px" height="18px" /> Ruby.
+<img src="/assets/site-heart.webp" width="18px" height="18px" /> Ruby.
 
 Also: I love memes &mdash; especially a good [business cat][business-cat].
 
