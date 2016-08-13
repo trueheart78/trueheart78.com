@@ -4,10 +4,22 @@ title: Picks
 permalink: /picks/
 ---
 
-Shamelessy stealing this idea from the fantastic [Ruby Rogues podcast][ruby-rogues-podcast]
-- consider them the first pick :)
+Shamelessy stealing this idea from the fantastic
+[Ruby Rogues podcast][ruby-rogues-podcast]. Consider them the first pick
+:heart:
 
-October 27, 2015:
+August 13th, 2016:
+
+- [Heroku][heroku-site]:
+  - Simple to host on, and I don't have to worry about managing everything.
+  - [Rails Setup][heroku-rails-setup] because we all forget things.
+  - [Rails Quick Setup][heroku-rails-quick-setup] for those that don't.
+- [WebSequenceDiagrams.com][wsd-site] for a good sequence diagrams app.
+- [Jesse Storimer][jesse-storimer-site] has authored 3 books, of which I
+  am in the process of studying. Wonderful stuff for those interested in
+  learning more about computers and how Ruby works with it.
+
+October 27th, 2015:
 
 - [Upcase][upcase-site]:
 A wonderful online finishing school. Their tagline is, "Let's get that *junior*
@@ -22,7 +34,7 @@ A delightful introduction to a female superhero that is current, quirky, and
 just plain delightful. It's rare that I watch much television, so it's nice to
 be surprised by the care and quality in the first episode.
 
-October 18, 2014:
+October 18th, 2014:
 
 - [CodeNewbie][code-newbie-website]:
 a great place for those just getting starting in any area of development.
@@ -47,3 +59,8 @@ is just what I needed. Also, dude gives great talks. Like, seriously, great talk
 [real-favicon-generator]:     http://realfavicongenerator.net
 [ben-orenstein-twitter]:      https://twitter.com/r00k
 [ben-orenstein-site]:         http://benorenstein.com
+[heroku-site]:                https://www.heroku.com/
+[heroku-rails-setup]:         https://devcenter.heroku.com/articles/getting-started-with-rails4
+[heroku-rails-quick-setup]:   https://devcenter.heroku.com/articles/rails4
+[wsd-site]:                   https://www.websequencediagrams.com/
+[jesse-storimer-site]:        http://www.jstorimer.com/
