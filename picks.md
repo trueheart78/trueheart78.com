@@ -10,8 +10,8 @@ Shamelessy stealing this idea from the fantastic
 
 August 13th, 2016:
 
-- [Heroku][heroku-site]:
-  - Simple to host on, and I don't have to worry about managing everything.
+- [Heroku][heroku-site]: Simple to host on, and I don't have to worry
+  about managing everything.
   - [Rails Setup][heroku-rails-setup] because we all forget things.
   - [Rails Quick Setup][heroku-rails-quick-setup] for those that don't.
 - [WebSequenceDiagrams.com][wsd-site] for a good sequence diagrams app.
