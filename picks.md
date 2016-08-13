@@ -6,7 +6,7 @@ permalink: /picks/
 
 Shamelessy stealing this idea from the fantastic
 [Ruby Rogues podcast][ruby-rogues-podcast]. Consider them the first pick
-<img src="/assets/sparkly-heart.webp" width="18px" height="18px" />
+<img src="/assets/site-heart.webp" width="18px" height="18px" />
 
 August 13th, 2016:
 
