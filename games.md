@@ -10,7 +10,7 @@ permalink: /games/
 > rid of stuff that you aren't.
 > - Me
 
-*Last updated on August 10th, 2016*
+*Last updated on August 14th, 2016*
 
 #### 2016 Games Where My Goal is to Beat Them
 
@@ -73,7 +73,7 @@ See the [New Releases Wiki][new-releases]
 - Darkest Dungeon (PS4)
 - Deus Ex: Mankind Divided (PS4)
 - Tomb Raider: Rise of the Tomb Raider (PS4)
-- No Man's Sky (PS4) - Wait and see
+- No Man's Sky (PS4) - $30 max
 - Mirror's Edge: Catalyst (PS4) - $30 max
 - ~~Far Cry Primal (PS4) - $30 max~~ [skipped]
 - ~~The Witness (PS4) - Day 1~~ [purchased]
@@ -81,7 +81,7 @@ See the [New Releases Wiki][new-releases]
 #### 2016 Planned Purchases - Previously Released
 
 - Assassin's Creed: Syndicate (PS4) - $30 max
-- DOOM (PS4) - $30 max
+- ~~DOOM (PS4) - $30 max~~ [purchased]
 - ~~Demon's Souls (PS3)~~ [purchased]
 - ~~Dark Souls (PS3)~~ [purchased]
 - ~~Final Fantasy X/X-2 HD Remastered (PS4) - $20 max~~ [purchased]
