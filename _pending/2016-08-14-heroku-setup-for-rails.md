@@ -5,18 +5,47 @@ date:   2016-08-14 08:30:00
 categories: ruby
 ---
 
+1. <a href='#1-getting-started'>Getting Started</a>
+2. <a href='#2-application-setup'>Application Setup</a>
+   1. <a href='#2-1-gem-setup'>Gem Setup</a>
+   2. <a href='#2-2-postgresql-gem-support'>Postgresql Gem Support</a>
+   3. <a href='#2-3-database-configuration'>Database Configuration</a>
+      1. <a href='#2-3-1-with-postgresql-in-all-environments'>With Postgresql in All Environments</a>
+      2. <a href='#2-3-2-with-postgresql-in-production-only'>With Postgresql in Production Only</a>
+   4. <a href='#2-4-initialize-your-database'>Initialize Your Database</a>
+   5. <a href='#2-5-puma-web-server-configuration'>Puma Web Server Configuration</a>
+   6. <a href='#2-6-verify-your-tests-still-pass'>Verify Your Tests Still Pass</a>
+3. <a href='#3-heroku-setup'>Heroku Setup</a>
+   1. <a href='#3-1-creating-the-heroku-application'>Creating The Heroku Application</a>
+   2. <a href='#3-2-environment-variables'>Environment Variables</a>
+      1. <a href='#3-2-1-an-aside-dotenv-rails'>An Aside: Dotenv-Rails</a>
+   3. <a href='#3-3-deploying-to-heroku'>Deploying To Heroku</a>
+      1. <a href='#3-3-1-advanced'>Advanced</a>
+   4. <a href='#3-4-view-your-application-online'>View Your Application Online</a>
+4. <a href='#4-change-bundler-back'>Change Bundler Back</a>
+5. <a href='#5-bonus-heroku-add-ons-worth-using'>Bonus Heroku Add-Ons Worth Using</a>
+   1. <a href='#5-1-papertrail'>Papertrail</a>
+      1. <a href='#5-1-1-create-full-command'>Full Create Command</a>
+6. <a href='#6-resources'>Resources</a>
+
+
+
 Deploying to Heroku is supposed to be easy, and compared to putting together
 and managing your own server, it is definitely less complicated, but it is
 complicated. So, I figured I would put together a post when I set it up for
 a new application, Running on Rails 5. I have already done this for an app I
 upgraded from Rails 4 to Rails 5.
 
-## Getting Started
+<a name='1-getting-started'></a>
+
+## 1. Getting Started
 
 If you already have a Rails app built, switch into that directory.
 If not, then come back when you are ready.
 
-## Application Setup
+<a name='2-application-setup'></a>
+
+## 2. Application Setup
 
 First, create a new branch. From the root directory of your app, type:
 
@@ -24,7 +53,9 @@ First, create a new branch. From the root directory of your app, type:
 git checkout -b heroku-deployment
 ```
 
-### Gem Setup
+<a name='2-1-gem-setup'></a>
+
+### 2.1. Gem Setup
 
 We need to make sure that the `pg`, `puma`, and `rails_12factor` gems are
 loaded in the right places in our Gemfile.
@@ -50,7 +81,9 @@ group :production do
 end
 ```
 
-#### Postgresql Gem Support
+<a name='2-2-postgresql-gem-support'></a>
+
+#### 2.2. Postgresql Gem Support
 
 If you are on Ubuntu, make sure that you have Postgresql installed:
 
@@ -76,9 +109,13 @@ And check that Rake also runs production just fine
 bundle exec rake -P
 ```
 
-### Database Configuration
+<a name='2-3-database-configuration'></a>
 
-#### With Postgresql in All Environments
+### 2.3. Database Configuration
+
+<a name='2-3-1-with-postgresql-in-all-environments'></a>
+
+#### 2.3.1. With Postgresql in All Environments
 
 Your `config/database.yml` file will need the following:
 
@@ -100,7 +137,9 @@ production:
   pool: <%= ENV['DB_POOL'] || ENV['RAILS_MAX_THREADS'] || 5 %>
 ```
 
-#### With Postgresql in Production Only
+<a name='2-3-2-with-postgresql-in-production-only'></a>
+
+#### 2.3.2. With Postgresql in Production Only
 
 Your `config/database.yml` file will need the following:
 
@@ -127,7 +166,9 @@ production:
   pool: <%= ENV['DB_POOL'] || ENV['RAILS_MAX_THREADS'] || 5 %>
 ```
 
-### Initialize Your Database
+<a name='2-4-initialize-your-database'></a>
+
+### 2.4. Initialize Your Database
 
 If you haven't already initialized your database, run the following:
 
@@ -136,7 +177,9 @@ bundle exec rake db:create
 bundle exec rake db:migrate
 ```
 
-### Puma Web Server Configuration
+<a name='2-5-puma-web-server-configuration'></a>
+
+### 2.5. Puma Web Server Configuration
 
 Make sure that the following is in your `config/puma.rb`:
 
@@ -164,7 +207,9 @@ Now create a `Procfile` at the root of your app directory:
 web: bundle exec puma -C config/puma.rb
 ```
 
-### Verify Your Tests Still Pass
+<a name='2-6-verify-your-tests-still-pass'></a>
+
+### 2.6. Verify Your Tests Still Pass
 
 You have made some changes to your app, so it would be wise to check that
 the tests still pass. If you aren't sure how to check, new apps can be
@@ -183,7 +228,9 @@ bundle exec rake spec
 If you are using a different test suite, check the documentation for it. It
 may also be listed in the `Readme.md` file.
 
-## Heroku Setup
+<a name='3-heroku-setup'></a>
+
+## 3. Heroku Setup
 
 Make sure you have the [Heroku Toolbelt](https://toolbelt.heroku.com/)
 installed, and then run:
@@ -194,7 +241,9 @@ heroku login
 
 and follow the prompts.
 
-### Creating The Heroku App
+<a name='3-1-creating-the-heroku-application'></a>
+
+### 3.1. Creating The Heroku Application
 
 **Make sure you are in the root directory of your app before running the
 commands listed below.**
@@ -216,11 +265,15 @@ heroku addons:create heroku-postgresql
 heroku buildpacks:set heroku/ruby
 ```
 
-### Environment Variables
+<a name='3-2-environment-variables'></a>
+
+### 3.2. Environment Variables
 
 The Heroku article on [Configuration and Config Vars](https://devcenter.heroku.com/articles/config-vars) is a great place to reference.
 
-#### An Aside: Dotenv-Rails
+<a name='3-2-1-an-aside-dotenv-rails'></a>
+
+#### 3.2.1. An Aside: Dotenv-Rails
 
 I use `dotenv-rails` for development and test environments, but I don't
 want Rails to load it in production.
@@ -251,7 +304,9 @@ bundle exec rake console -e production
 You should not receive any errors. If you do, you need to address them
 before your app will start properly on Heroku.
 
-### Deploying To Heroku
+<a name='3-3-deploying-to-heroku'></a>
+
+### 3.3. Deploying To Heroku
 
 Anytime you want to deploy your application, you must run the following
 command, or you may face issues when pushing up a non-master branch. This
@@ -265,7 +320,9 @@ git push heroku heroku-deployment:master
 This allows us to define what remote we are pushing to, which branch we want
 to push up, and which branch it should point to on the remote.
 
-#### Advanced
+<a name='3-3-1-advanced'></a>
+
+#### 3.3.1. Advanced
 
 So, if you were to setup a 'staging' remote, and had a 'feature-branch' you
 wanted to deploy to your Heroku app, you would run the following:
@@ -283,12 +340,16 @@ git push production feature-branch:master
 
 If you want to take this even further, see my [Nerdy Heroku Command for Deploys](/ruby/2016/08/13/nerdy-heroku-command.html) post.
 
-### View Your Application Online
+<a name='3-4-view-your-application-online'></a>
+
+### 3.4. View Your Application Online
 
 You should now be able to visit the application URL provided to you by
 Heroku, and see your application 
 
-## Change Bundler Back
+<a name='4-change-bundler-back'></a>
+
+## 4. Change Bundler Back
 
 We want to make sure that locally, `:development` and `:test` are the only
 groups loaded.
@@ -297,9 +358,13 @@ groups loaded.
 bundle install --without production
 ```
 
-## Bonus Heroku Add-Ons Worth Using
+<a name='5-bonus-heroku-add-ons-worth-using'></a>
 
-### Papertrail
+## 5. Bonus Heroku Add-Ons Worth Using
+
+<a name='5-1-papertrail'></a>
+
+### 5.1. Papertrail
 
 Papertrail provides a logging service that can be used without cost. 
 
@@ -309,17 +374,22 @@ heroku addons:create papertrail:choklad
 
 You can see [documentation on how to access the logs](https://devcenter.heroku.com/articles/papertrail#accessing-logs).
 
-#### Full Create Command
+<a name='5-1-1-create-full-command'></a>
+
+#### 5.1.1. Full Create Command
 
 If you would like to make this part of the `heroku create` command, you can
-substitute the following for the **Creating The Heroku App** command above.
+substitute the following for the commands in
+[3.1. Creating The Heroku App](#3-1-creating-the-heroku-application).
 
 ```sh
 heroku create
 heroku create --buildpack heroku/ruby --addons heroku-postgresql,papertrail:choklad
 ```
 
-## Resources:
+<a name='6-resources'></a>
+
+## 6. Resources:
 
 * [Getting Started with Rails 4.x on Heroku](https://devcenter.heroku.com/articles/getting-started-with-rails4)
 * [Deploying Rails Applications with the Puma Web Server](https://devcenter.heroku.com/articles/deploying-rails-applications-with-the-puma-web-server)
