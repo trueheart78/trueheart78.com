@@ -43,4 +43,5 @@ command, that ought to be picked up by the auto-completion in your shell.
 alias deploy-heroku="git-deploy heroku"
 ```
 
-Then you can just run `deploy-heroku` in your terminal, and watch the magic,
+Then you can just run `deploy-heroku` in your terminal, and watch the
+magic.
