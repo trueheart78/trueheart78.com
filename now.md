@@ -6,7 +6,7 @@ permalink: /now/
 
 I'm currently living in Franklin, OH working remote for [CoverMyMeds](http://covermymeds.com) as a software developer.
 
-*Last updated on August 12th, 2016*
+*Last updated on August 14th, 2016*
 
 ### Now
 
@@ -14,6 +14,7 @@ I'm currently living in Franklin, OH working remote for [CoverMyMeds](http://cov
 * Redesigning my website because I <img src="/assets/site-heart.webp" width="18px" height="18px" /> Ruby
 * Studying [Working with TCP Sockets](http://www.jstorimer.com/products/working-with-tcp-sockets)
   * Notes, of course, are in my [Book Notes](https://github.com/trueheart78/book-notes)
+* Building a podcast site and learning a lot.
 * Playing Dark Souls 3 on PS4 still.
   * Challenge runs are fun. Currently doing a dagger, no armor run.
 
@@ -22,7 +23,6 @@ I'm currently living in Franklin, OH working remote for [CoverMyMeds](http://cov
 * Learning more about with Rails 5
 * Learning to work with [Braintree](https://www.braintreepayments.com/) in Rails.
 * Continuing my app study checklist.
-* Learning how to build a podcast site.
 * Learning [Programming Elixir](https://pragprog.com/book/elixir12/programming-elixir-1-2) by Dave Thomas
   * Left off at chapter 10: Processing Collections.
 * Updating [PileJockey.com](http://www.pilejockey.com/trueheart78).
