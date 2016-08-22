@@ -9,7 +9,7 @@ permalink: /books/
 > list of books that I would like to get to, even if that is just skimming
 > - Me
 
-*Last updated on August 12th, 2016*
+*Last updated on August 21st, 2016*
 
 
 [Currently Reading][currently-reading] |
@@ -25,7 +25,7 @@ permalink: /books/
 #### Currently Reading
 
 - Working with TCP Sockets
-  - Currently in chapter 8 on Buffering
+  - Currently in chapter 10 on Socket Options
 - Programming Elixir 1.2
   - Currently in chapter 10
 
