@@ -10,7 +10,7 @@ permalink: /games/
 > rid of stuff that you aren't.
 > - Me
 
-*Last updated on August 14th, 2016*
+*Last updated on August 21st, 2016*
 
 #### 2016 Games Where My Goal is to Beat Them
 
@@ -31,7 +31,7 @@ permalink: /games/
   - Strategy guide arrived. I'd like to see this through.
 - Grow Home (PS4) [unplayed]
 - Hitman 2016 (PS4) [playing]
-  - 3 of 3 episodes complete (6 to be released)
+  - 3 of 4 episodes complete (6 to be released)
   - Amazing game with great replayability.
 - I Am Bread (PS4) [unplayed]
 - Invisible, Inc. (PC) [unplayed]

@@ -6,7 +6,7 @@ permalink: /now/
 
 I'm currently living in Franklin, OH working remote for [CoverMyMeds](http://covermymeds.com) as a software developer.
 
-*Last updated on August 14th, 2016*
+*Last updated on August 21st, 2016*
 
 ### Now
 
@@ -20,7 +20,7 @@ I'm currently living in Franklin, OH working remote for [CoverMyMeds](http://cov
 
 ### Coming Up
 
-* Learning more about with Rails 5
+* Learning more about working with Rails 5
 * Learning to work with [Braintree](https://www.braintreepayments.com/) in Rails.
 * Continuing my app study checklist.
 * Learning [Programming Elixir](https://pragprog.com/book/elixir12/programming-elixir-1-2) by Dave Thomas
