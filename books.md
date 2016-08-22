@@ -25,7 +25,7 @@ permalink: /books/
 #### Currently Reading
 
 - Working with TCP Sockets
-  - Currently in chapter 10 on Socket Options
+  - Currently in chapter 11 on Non-Blocking IO
 - Programming Elixir 1.2
   - Currently in chapter 10
 
