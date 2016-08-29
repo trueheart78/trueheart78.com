@@ -9,7 +9,7 @@ permalink: /books/
 > list of books that I would like to get to, even if that is just skimming
 > - Me
 
-*Last updated on August 21st, 2016*
+*Last updated on August 29th, 2016*
 
 
 [Currently Reading][currently-reading] |
@@ -47,6 +47,7 @@ permalink: /books/
 + Redis
   - Redis in Action
 + Ruby
+  - Rails As She Is Spoke
   - Build Awesome Command-Line Apps in Ruby 2
   - Exceptional Ruby
   - The Ruby Closures Book
@@ -58,6 +59,7 @@ permalink: /books/
   - Growing Rails Applications in Practice
   - Objects on Rails
   - Rails 4 Way
+  - 99 Bottles of OOP
   - The RSpec Book
 + Soft Skills
   - Designed for Use
@@ -88,8 +90,8 @@ permalink: /books/
 
 #### Want to Buy
 
-+ Rails As She Is Spoke ($55) [purchase](http://railsoopbook.com/)
-+ 99 Bottles of OOP ($49) [purchase](http://www.sandimetz.com/99bottles)
++ ~~Rails As She Is Spoke ($55)~~ [purchased](http://railsoopbook.com/)
++ ~~99 Bottles of OOP ($49)~~ [purchased](http://www.sandimetz.com/99bottles)
 
 <a name='completed'></a>
 
