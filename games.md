@@ -10,7 +10,7 @@ permalink: /games/
 > rid of stuff that you aren't.
 > - Me
 
-*Last updated on August 21st, 2016*
+*Last updated on August 28th, 2016*
 
 #### 2016 Games Where My Goal is to Beat Them
 
@@ -20,10 +20,6 @@ permalink: /games/
 - Demon's Souls (PS3) [unplayed]
 - Dark Souls (PS3) [unplayed]
 - Dark Souls II: Scholar of the First Sin (PS4) [unplayed]
-- Dark Souls III [playing]
-  - Beaten 4 times, working on number 5.
-  - Wonderful game, my first Souls experience.
-  - Challenge runs: Twinswords x 2, Daggers x 1.
 - Divinity: Original Sin (PS4) [unplayed]
 - DOOM (PS4) [unplayed]
 - Final Fantasy X/X-2 HD Remastered (PS4) [playing]
@@ -42,6 +38,8 @@ permalink: /games/
 - Thomas Was Alone (PS4) [unplayed]
 - Undertail (PC) [unplayed]
 - Witcher 3 (PS4) [unplayed]
+- ~~Dark Souls III (PS4)~~ [beaten]
+  - Beaten 5 times, dagger, twinswords x2
 - ~~Fallout 4 (PS4)~~ [beaten]
   - Got bored and took a 7 month break, finally pushed to the end.
 - ~~Nuclear Throne (PS4)~~ [beaten]

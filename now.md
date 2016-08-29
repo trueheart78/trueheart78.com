@@ -6,7 +6,7 @@ permalink: /now/
 
 I'm currently living in Franklin, OH working remote for [CoverMyMeds](http://covermymeds.com) as a software developer.
 
-*Last updated on August 21st, 2016*
+*Last updated on August 28th, 2016*
 
 ### Now
 
@@ -15,8 +15,6 @@ I'm currently living in Franklin, OH working remote for [CoverMyMeds](http://cov
 * Studying [Working with TCP Sockets](http://www.jstorimer.com/products/working-with-tcp-sockets)
   * Notes, of course, are in my [Book Notes](https://github.com/trueheart78/book-notes)
 * Building a podcast site and learning a lot.
-* Playing Dark Souls 3 on PS4 still.
-  * Challenge runs are fun. Currently doing a dagger, no armor run.
 
 ### Coming Up
 
@@ -30,6 +28,7 @@ I'm currently living in Franklin, OH working remote for [CoverMyMeds](http://cov
 
 ### History for 2016
 
+* Played challenge runs in Dark Souls 3 on PS4.
 * Learned Redis by studying [Seven Databases in Seven Weeks](https://pragprog.com/book/rwdata/seven-databases-in-seven-weeks) 
 * Learned about ActiveJob and Sidekiq
 * Read most of [CoffeeScript](https://pragprog.com/book/tbcoffee2/coffeescript) by Trevor Burnham
