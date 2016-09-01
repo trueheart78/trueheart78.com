@@ -9,7 +9,7 @@ permalink: /books/
 > list of books that I would like to get to, even if that is just skimming
 > - Me
 
-*Last updated on August 29th, 2016*
+*Last updated on September 1st, 2016*
 
 
 [Currently Reading][currently-reading] |
@@ -25,7 +25,7 @@ permalink: /books/
 #### Currently Reading
 
 - Working with TCP Sockets
-  - Currently in chapter 11 on Non-Blocking IO
+  - Currently in chapter 13 on Nagle's Algorithm
 - Programming Elixir 1.2
   - Currently in chapter 10
 
