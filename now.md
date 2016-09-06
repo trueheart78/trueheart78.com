@@ -6,15 +6,16 @@ permalink: /now/
 
 I'm currently living in Franklin, OH working remote for [CoverMyMeds](http://covermymeds.com) as a software developer.
 
-*Last updated on August 28th, 2016*
+*Last updated on September 6th, 2016*
 
 ### Now
 
 * Crafting some [Simple CLI Tools](https://github.com/trueheart78/simple-cli-tools) in Ruby
-* Redesigning my website because I <img src="/assets/site-heart.webp" width="18px" height="18px" /> Ruby
+* Redesigning my blog/website, because I <img src="/assets/site-heart.webp" width="18px" height="18px" /> Ruby
 * Studying [Working with TCP Sockets](http://www.jstorimer.com/products/working-with-tcp-sockets)
   * Notes, of course, are in my [Book Notes](https://github.com/trueheart78/book-notes)
 * Building a podcast site and learning a lot.
+* Playing Demon's Souls on PS3
 
 ### Coming Up
 

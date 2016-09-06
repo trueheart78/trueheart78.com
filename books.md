@@ -9,7 +9,7 @@ permalink: /books/
 > list of books that I would like to get to, even if that is just skimming
 > - Me
 
-*Last updated on September 1st, 2016*
+*Last updated on September 6th, 2016*
 
 
 [Currently Reading][currently-reading] |

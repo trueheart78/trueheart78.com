@@ -10,14 +10,14 @@ permalink: /games/
 > rid of stuff that you aren't.
 > - Me
 
-*Last updated on August 28th, 2016*
+*Last updated on September 6th, 2016*
 
 #### 2016 Games Where My Goal is to Beat Them
 
 - Batman: Arkham Knight (PS4) [unplayed]
 - Bloodborne (PS4) [unplayed]
 - Costume Quest 2 (PS4) [unplayed]
-- Demon's Souls (PS3) [unplayed]
+- **Demon's Souls (PS3) [playing]**
 - Dark Souls (PS3) [unplayed]
 - Dark Souls II: Scholar of the First Sin (PS4) [unplayed]
 - Divinity: Original Sin (PS4) [unplayed]
@@ -69,16 +69,16 @@ permalink: /games/
 See the [New Releases Wiki][new-releases]
 
 - Darkest Dungeon (PS4)
-- Deus Ex: Mankind Divided (PS4)
+- Deus Ex: Mankind Divided (PS4) - $30 max
 - Tomb Raider: Rise of the Tomb Raider (PS4)
-- No Man's Sky (PS4) - $30 max
 - Mirror's Edge: Catalyst (PS4) - $30 max
 - ~~Far Cry Primal (PS4) - $30 max~~ [skipped]
+- ~~No Man's Sky (PS4) - $30 max~~ [skipped]
 - ~~The Witness (PS4) - Day 1~~ [purchased]
 
 #### 2016 Planned Purchases - Previously Released
 
-- Assassin's Creed: Syndicate (PS4) - $30 max
+- Assassin's Creed: Syndicate (PS4) - $20 max
 - ~~DOOM (PS4) - $30 max~~ [purchased]
 - ~~Demon's Souls (PS3)~~ [purchased]
 - ~~Dark Souls (PS3)~~ [purchased]
