@@ -13,11 +13,11 @@ permalink: /books/
 
 
 [Currently Reading][currently-reading] |
+[Next Up][next-up] |
 [Want to Read][want-to-read] |
-[Coming Back To][coming-back-to] |
+[Returning To][returning-to] |
 [Want to Buy][want-to-buy] |
 [Completed][completed] |
-[Jettisoned][jettisoned] |
 [My Notes][book-notes]
 
 <a name='currently-reading'></a>
@@ -28,6 +28,15 @@ permalink: /books/
   - Currently in chapter 13 on Nagle's Algorithm
 - Programming Elixir 1.2
   - Currently in chapter 10
+
+<a name='next-up'></a>
+
+#### Next Up
+
+- The Pragmatic Programmer
+- Rails How She is Spoke
+- 99 Bottles of OOP
+- The Ruby Closures Book
 
 <a name='want-to-read'></a>
 
@@ -75,9 +84,9 @@ permalink: /books/
   - Practical Vim
   - tmux
 
-<a name='coming-back-to'></a>
+<a name='returning-to'></a>
 
-#### Coming Back To
+#### Returning To
 
 - Seven Databases in Seven Weeks
   - Redis, Chapter 8
@@ -104,15 +113,10 @@ permalink: /books/
 - Working with Ruby Threads
 - Working with Unix Processes
 
-<a name='jettisoned'></a>
-
-#### Jettisoned
-
-_TBD_
-
 [currently-reading]: #currently-reading
+[next-up]: #next-up
 [want-to-read]: #want-to-read
-[coming-back-to]: #coming-back-to
+[returning-to]: #returning-to
 [want-to-buy]: #want-to-buy
 [completed]: #completed
 [jettisoned]: #jettisoned
