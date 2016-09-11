@@ -10,80 +10,94 @@ permalink: /games/
 > rid of stuff that you aren't.
 > - Me
 
-*Last updated on September 6th, 2016*
+*Last updated on September 11th, 2016*
 
-#### 2016 Games Where My Goal is to Beat Them
+### 2016
 
-- Batman: Arkham Knight (PS4) [unplayed]
-- Bloodborne (PS4) [unplayed]
-- Costume Quest 2 (PS4) [unplayed]
-- **Demon's Souls (PS3) [playing]**
-- Dark Souls (PS3) [unplayed]
-- Dark Souls II: Scholar of the First Sin (PS4) [unplayed]
-- Divinity: Original Sin (PS4) [unplayed]
-- DOOM (PS4) [unplayed]
-- **Final Fantasy X/X-2 HD Remastered (PS4) [playing]**
-  - X-2 has gotten a lil boring, but still fun.
-  - Strategy guide arrived. I'd like to see this through.
-- Grow Home (PS4) [unplayed]
-- Hitman 2016 (PS4) [playing]
+#### Currently Playing
+
+1. Tales from the Borderlands (PS4)
+  - Finished 2 of 5 chapters.
+1. Hitman 2016 (PS4)
   - 3 of 4 episodes complete (6 to be released)
   - Amazing game with great replayability.
-- I Am Bread (PS4) [unplayed]
-- Invisible, Inc. (PC) [unplayed]
-- **LEGO: Batman 3 (PS4) [playing]**
-- LEGO: The Movie (PS4) [unplayed]
-- Shadowrun Returns: Dragonfall (PC) [unplayed]
-- Tales from the Borderlands (PS4) [unplayed]
-- Undertail (PC) [unplayed]
-- Witcher 3 (PS4) [unplayed]
-- ~~Dark Souls III (PS4)~~ [beaten]
+1. LEGO: Batman 3 (PS4)
+1. Demon's Souls (PS3)
+1. Final Fantasy X/X-2 HD Remastered (PS4)
+  - X-2 has gotten a lil boring, but still fun.
+  - Strategy guide arrived. I'd like to see this through.
+
+#### Unplayed
+
+1. Batman: Arkham Knight (PS4)
+1. Bloodborne (PS4)
+1. Costume Quest 2 (PS4)
+1. Dark Souls (PS3)
+1. Dark Souls II: Scholar of the First Sin (PS4)
+1. Divinity: Original Sin (PS4)
+1. DOOM (PS4)
+1. Grow Home (PS4)
+1. I Am Bread (PS4)
+1. Invisible, Inc. (PC)
+1. LEGO: The Movie (PS4)
+1. Shadowrun Returns: Dragonfall (PC)
+1. Undertail (PC)
+1. Witcher 3 (PS4)
+
+#### Beaten
+
+1. Dark Souls III (PS4)
   - Beaten 5 times, dagger, twinswords x2
-- ~~Fallout 4 (PS4)~~ [beaten]
+1. Fallout 4 (PS4)
   - Got bored and took a 7 month break, finally pushed to the end.
-- ~~Nuclear Throne (PS4)~~ [beaten]
+1. Nuclear Throne (PS4)
   - Buggy port. Seriously bummed me out.
-- ~~Stardew Valley (PC)~~ [beaten]
+1. Stardew Valley (PC)
   - Wonderful indie game. Second year completed.
-- ~~Thomas Was Alone (PS4)~~ [beaten]
+1. Thomas Was Alone (PS4)
   - Fun game about AI rectangles.
-- ~~Galak-Z (PS4)~~ [jettisoned]
+
+#### Jettisoned
+
+1. Galak-Z (PS4)
   - It's hard to go back to those controls.
-- ~~The Witness (PS4)~~ [jettisoned]
+1. The Witness (PS4)
   - Very good, but moved on.
-- ~~Dragon Age Inquisition DLC: Trespasser (PS4)~~ [jettisoned]
+1. Dragon Age Inquisition DLC: Trespasser (PS4)
   - So hard to get back into this game again, skills- and controls-wise.
-- ~~Darkest Dungeon (PC)~~ [jettisoned]
+1. Darkest Dungeon (PC)
   - Got my fill from watching twitch streams.
 
-#### 2016 Games Where My Goal is to Have Fun
+#### Playing for Fun
 
-- ~~Rock Band 3 (360)~~
-- ~~Spelunky (PSN)~~
-- ~~Darkest Dungeon (PC)~~
-- ~~Nuclear Throne (PS4)~~
-- ~~Prison Architect (PC)~~
+1. ~~Rock Band 3 (360)~~
+1. ~~Spelunky (PSN)~~
+1. ~~Darkest Dungeon (PC)~~
+1. ~~Nuclear Throne (PS4)~~
+1. ~~Prison Architect (PC)~~
 
-#### 2016 Planned Purchases 
+#### Planned Purchases 
 
 See the [New Releases Wiki][new-releases]
 
-- Darkest Dungeon (PS4)
-- Deus Ex: Mankind Divided (PS4) - $30 max
-- Tomb Raider: Rise of the Tomb Raider (PS4)
-- Mirror's Edge: Catalyst (PS4) - $30 max
-- ~~Far Cry Primal (PS4) - $30 max~~ [skipped]
-- ~~No Man's Sky (PS4) - $30 max~~ [skipped]
-- ~~The Witness (PS4) - Day 1~~ [purchased]
+1. Darkest Dungeon (PS4)
+1. Deus Ex: Mankind Divided (PS4) - $30 max
+1. Mirror's Edge: Catalyst (PS4) - $30 max
+1. Tomb Raider: Rise of the Tomb Raider (PS4)
+1. Uncharted 4 (PS4) - $30 max
+1. ~~Far Cry Primal (PS4) - $30 max~~ [skipped]
+1. ~~No Man's Sky (PS4) - $30 max~~ [skipped]
+1. ~~The Witness (PS4) - Day 1~~ [purchased]
 
-#### 2016 Planned Purchases - Previously Released
+#### Planned Purchases (Previously Released)
 
-- Assassin's Creed: Syndicate (PS4) - $20 max
-- ~~DOOM (PS4) - $30 max~~ [purchased]
-- ~~Demon's Souls (PS3)~~ [purchased]
-- ~~Dark Souls (PS3)~~ [purchased]
-- ~~Final Fantasy X/X-2 HD Remastered (PS4) - $20 max~~ [purchased]
-- ~~Just Cause 3 (PS4)~~ [skipped]
-- ~~Undertale (PC)~~ [purchased]
+1. Assassin's Creed: Syndicate (PS4) - $20 max
+1. The Uncharted Collection (PS4) - $30 max
+1. ~~DOOM (PS4) - $30 max~~ [purchased]
+1. ~~Demon's Souls (PS3)~~ [purchased]
+1. ~~Dark Souls (PS3)~~ [purchased]
+1. ~~Final Fantasy X/X-2 HD Remastered (PS4) - $20 max~~ [purchased]
+1. ~~Just Cause 3 (PS4)~~ [skipped]
+1. ~~Undertale (PC)~~ [purchased]
 
 [new-releases]: https://en.wikipedia.org/wiki/2016_in_video_gaming#Game_releases
