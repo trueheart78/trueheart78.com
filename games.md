@@ -22,7 +22,7 @@ permalink: /games/
 - Dark Souls II: Scholar of the First Sin (PS4) [unplayed]
 - Divinity: Original Sin (PS4) [unplayed]
 - DOOM (PS4) [unplayed]
-- Final Fantasy X/X-2 HD Remastered (PS4) [playing]
+- **Final Fantasy X/X-2 HD Remastered (PS4) [playing]**
   - X-2 has gotten a lil boring, but still fun.
   - Strategy guide arrived. I'd like to see this through.
 - Grow Home (PS4) [unplayed]
@@ -31,11 +31,10 @@ permalink: /games/
   - Amazing game with great replayability.
 - I Am Bread (PS4) [unplayed]
 - Invisible, Inc. (PC) [unplayed]
-- LEGO: Batman 3 (PS4) [playing]
+- **LEGO: Batman 3 (PS4) [playing]**
 - LEGO: The Movie (PS4) [unplayed]
 - Shadowrun Returns: Dragonfall (PC) [unplayed]
 - Tales from the Borderlands (PS4) [unplayed]
-- Thomas Was Alone (PS4) [unplayed]
 - Undertail (PC) [unplayed]
 - Witcher 3 (PS4) [unplayed]
 - ~~Dark Souls III (PS4)~~ [beaten]
@@ -46,6 +45,8 @@ permalink: /games/
   - Buggy port. Seriously bummed me out.
 - ~~Stardew Valley (PC)~~ [beaten]
   - Wonderful indie game. Second year completed.
+- ~~Thomas Was Alone (PS4)~~ [beaten]
+  - Fun game about AI rectangles.
 - ~~Galak-Z (PS4)~~ [jettisoned]
   - It's hard to go back to those controls.
 - ~~The Witness (PS4)~~ [jettisoned]
