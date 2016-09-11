@@ -59,7 +59,6 @@ permalink: /games/
 #### 2016 Games Where My Goal is to Have Fun
 
 - ~~Rock Band 3 (360)~~
-  - Finally packed away the 360 on July 2nd
 - ~~Spelunky (PSN)~~
 - ~~Darkest Dungeon (PC)~~
 - ~~Nuclear Throne (PS4)~~
