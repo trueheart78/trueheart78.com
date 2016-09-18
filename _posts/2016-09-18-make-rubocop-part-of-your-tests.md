@@ -14,7 +14,7 @@ to run it, and neither does your continuous integration tool (if applicable).
 
 ## Gemfile
 
-First, add the following to your `Gemfile`, making sure to _not_require the
+First, add the following to your `Gemfile`, making sure to _not_ require the
 Rubocop library by default in Rails:
 
 ```ruby
