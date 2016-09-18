@@ -10,7 +10,7 @@ permalink: /games/
 > rid of stuff that you aren't.
 > - Me
 
-*Last updated on September 16th, 2016*
+*Last updated on September 18th, 2016*
 
 ### 2016
 
@@ -24,9 +24,6 @@ permalink: /games/
   - Amazing game with great replayability.
 1. LEGO: Batman 3 (PS4)
   - Just started playing as Green Lantern.
-1. Demon's Souls (PS3)
-  - Feeling punished by it, where the fun is not there.
-  - May hang this one up soon.
 1. Final Fantasy X/X-2 HD Remastered (PS4)
   - X-2 has gotten a lil boring, but still fun.
   - Strategy guide arrived. I'd like to see this through.
@@ -64,6 +61,8 @@ permalink: /games/
 
 1. Batman: Arkham Knight (PS4)
   - Just can't get into it.
+1. Demon's Souls (PS3)
+  - Felt punished by it, and the fun stopped.
 1. Galak-Z (PS4)
   - It's hard to go back to those controls.
 1. The Witness (PS4)
@@ -75,6 +74,8 @@ permalink: /games/
 
 #### Playing for Fun
 
+1. Dark Souls III (PS4)
+1. Diablo 3 (PS4)
 1. ~~Rock Band 3 (360)~~
 1. ~~Spelunky (PSN)~~
 1. ~~Darkest Dungeon (PC)~~
