@@ -9,7 +9,7 @@ permalink: /books/
 > list of books that I would like to get to, even if that is just skimming
 > - Me
 
-*Last updated on September 6th, 2016*
+*Last updated on September 18th, 2016*
 
 
 [Currently Reading][currently-reading] |
@@ -24,19 +24,15 @@ permalink: /books/
 
 #### Currently Reading
 
-- Working with TCP Sockets
-  - Currently in chapter 13 on Nagle's Algorithm
-- Programming Elixir 1.2
-  - Currently in chapter 10
+- Rails How She is Spoke
+- 99 Bottles of OOP
+- The Ruby Closures Book
 
 <a name='next-up'></a>
 
 #### Next Up
 
-- The Pragmatic Programmer
-- Rails How She is Spoke
-- 99 Bottles of OOP
-- The Ruby Closures Book
+* _TBD_
 
 <a name='want-to-read'></a>
 
@@ -88,6 +84,10 @@ permalink: /books/
 
 #### Returning To
 
+- Working with TCP Sockets
+  - Currently in chapter 14 on Framing Messages
+- Programming Elixir 1.2
+  - Currently in chapter 10
 - Seven Databases in Seven Weeks
   - Redis, Chapter 8
 - Confident Ruby

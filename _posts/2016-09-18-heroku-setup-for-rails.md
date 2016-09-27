@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Heroku Setup for Rails 4 and Rails 5"
-date:   2016-08-14 08:30:00
+date:   2016-09-18 09:30:00
 categories: ruby
 ---
 
@@ -27,8 +27,6 @@ categories: ruby
    1. <a href='#5-1-papertrail'>Papertrail</a>
       1. <a href='#5-1-1-create-full-command'>Full Create Command</a>
 6. <a href='#6-resources'>Resources</a>
-
-
 
 Deploying to Heroku is supposed to be easy, and compared to putting together
 and managing your own server, it is definitely less complicated, but it is
