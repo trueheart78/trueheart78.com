@@ -10,17 +10,17 @@ permalink: /games/
 > rid of stuff that you aren't.
 > - Me
 
-*Last updated on September 16th, 2016*
+*Last updated on September 27th, 2016*
 
 ### 2016
 
 #### Currently Playing
 
 1. Tales from the Borderlands (PS4)
-  - Finished 2 of 5 chapters.
+  - Finished 3 of 5 chapters.
   - Laura Bailey is the best.
 1. Hitman 2016 (PS4)
-  - 3 of 4 episodes complete (6 to be released)
+  - 4 of 4 episodes complete (6 to be released)
   - Amazing game with great replayability.
 1. LEGO: Batman 3 (PS4)
   - Just started playing as Green Lantern.
@@ -33,6 +33,7 @@ permalink: /games/
 
 #### Unplayed
 
+1. Assassin's Creed: Syndicate (PS4)
 1. Bloodborne (PS4)
 1. Costume Quest 2 (PS4)
 1. Dark Souls (PS3)
@@ -96,8 +97,8 @@ See the [New Releases Wiki][new-releases]
 
 #### Planned Purchases (Previously Released)
 
-1. Assassin's Creed: Syndicate (PS4) - $20 max
 1. The Uncharted Collection (PS4) - $30 max
+1. ~~Assassin's Creed: Syndicate (PS4) - $20 max~~ [purchased]
 1. ~~DOOM (PS4) - $30 max~~ [purchased]
 1. ~~Demon's Souls (PS3)~~ [purchased]
 1. ~~Dark Souls (PS3)~~ [purchased]
