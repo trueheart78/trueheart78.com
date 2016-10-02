@@ -10,23 +10,49 @@ permalink: /games/
 > rid of stuff that you aren't.
 > - Me
 
-*Last updated on September 27th, 2016*
+*Last updated on October 2nd, 2016*
+
+[Playing][currently-playing] |
+[For Funsies][for-fun] |
+[Awaiting Content][awaiting-content] |
+[Unplayed][unplayed] |
+[Beaten][beaten] |
+[Jettisoned][jettisoned] |
+[Planned Purchases][planned-purchases]
 
 ### 2016
 
-#### Currently Playing
+<a name='currently-playing'></a>
+
+#### Playing
 
 1. Tales from the Borderlands (PS4)
   - Finished 3 of 5 chapters.
   - Laura Bailey is the best.
-1. Hitman 2016 (PS4)
-  - 4 of 4 episodes complete (6 to be released)
-  - Amazing game with great replayability.
 1. LEGO: Batman 3 (PS4)
   - Just started playing as Green Lantern.
 1. Final Fantasy X/X-2 HD Remastered (PS4)
   - X-2 has gotten a lil boring, but still fun.
   - Strategy guide arrived. I'd like to see this through.
+
+<a name='for-fun'></a>
+
+#### For Funsies 
+
+1. Dark Souls III (PS4)
+1. Diablo 3 (PS4)
+
+<a name='awaiting-content'></a>
+
+#### Awaiting Content
+
+1. Hitman 2016 (PS4)
+  - 5 of 5 episodes complete (6 to be released)
+  - Amazing game with great replayability.
+1. Dark Souls III (PS4)
+  - DLC is scheduled October 25th
+
+<a name='unplayed'></a>
 
 #### Unplayed
 
@@ -45,6 +71,8 @@ permalink: /games/
 1. Undertale (PC)
 1. Witcher 3 (PS4)
 
+<a name='beaten'></a>
+
 #### Beaten
 
 1. Dark Souls III (PS4)
@@ -57,6 +85,8 @@ permalink: /games/
   - Wonderful indie game. Second year completed.
 1. Thomas Was Alone (PS4)
   - Fun game about AI rectangles.
+
+<a name='jettisoned'></a>
 
 #### Jettisoned
 
@@ -73,15 +103,7 @@ permalink: /games/
 1. Darkest Dungeon (PC)
   - Got my fill from watching twitch streams.
 
-#### Playing for Fun
-
-1. Dark Souls III (PS4)
-1. Diablo 3 (PS4)
-1. ~~Rock Band 3 (360)~~
-1. ~~Spelunky (PSN)~~
-1. ~~Darkest Dungeon (PC)~~
-1. ~~Nuclear Throne (PS4)~~
-1. ~~Prison Architect (PC)~~
+<a name='planned-purchases'></a>
 
 #### Planned Purchases 
 
@@ -108,3 +130,10 @@ See the [New Releases Wiki][new-releases]
 1. ~~Undertale (PC)~~ [purchased]
 
 [new-releases]: https://en.wikipedia.org/wiki/2016_in_video_gaming#Game_releases
+[currently-playing]: #currently-playing
+[awaiting-content]: #awaiting-content
+[unplayed]: #unplayed
+[beaten]: #beaten
+[jettisoned]: #jettisoned
+[for-fun]: #for-fun
+[planned-purchases]: #planned-purchases
