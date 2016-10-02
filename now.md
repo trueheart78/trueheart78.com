@@ -6,13 +6,14 @@ permalink: /now/
 
 I'm currently living in Franklin, OH working remote for [CoverMyMeds](http://covermymeds.com) as a software developer.
 
-*Last updated on September 18th, 2016*
+*Last updated on October 2nd, 2016*
 
 ### Now
 
+* Studying _The Ruby Closures Book_.
 * Building a podcast site.
-* Working with Rails 5
-* Crafting some [Simple CLI Tools](https://github.com/trueheart78/simple-cli-tools) in Ruby
+* Working with Rails 5.
+* Crafting some [Simple CLI Tools](https://github.com/trueheart78/simple-cli-tools) in Ruby.
 
 ### Coming Up
 
