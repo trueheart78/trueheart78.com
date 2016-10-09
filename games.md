@@ -10,7 +10,7 @@ permalink: /games/
 > rid of stuff that you aren't.
 > - Me
 
-*Last updated on October 2nd, 2016*
+*Last updated on October 8th, 2016*
 
 [Playing][currently-playing] |
 [For Funsies][for-fun] |
@@ -26,6 +26,7 @@ permalink: /games/
 
 #### Playing
 
+1. Witcher 3 (PS4)
 1. Tales from the Borderlands (PS4)
   - Finished 3 of 5 chapters.
   - Laura Bailey is the best.
@@ -61,6 +62,7 @@ permalink: /games/
 1. Costume Quest 2 (PS4)
 1. Dark Souls (PS3)
 1. Dark Souls II: Scholar of the First Sin (PS4)
+1. Darkest Dungeon (PS4)
 1. Divinity: Original Sin (PS4)
 1. DOOM (PS4)
 1. Grow Home (PS4)
@@ -68,8 +70,8 @@ permalink: /games/
 1. Invisible, Inc. (PC)
 1. LEGO: The Movie (PS4)
 1. Shadowrun Returns: Dragonfall (PC)
+1. Uncharted 3 from _The Uncharted Collection_ (PS4)
 1. Undertale (PC)
-1. Witcher 3 (PS4)
 
 <a name='beaten'></a>
 
@@ -109,24 +111,24 @@ permalink: /games/
 
 See the [New Releases Wiki][new-releases]
 
-1. Darkest Dungeon (PS4)
 1. Deus Ex: Mankind Divided (PS4) - $30 max
 1. Mirror's Edge: Catalyst (PS4) - $30 max
 1. Tomb Raider: Rise of the Tomb Raider (PS4)
 1. Uncharted 4 (PS4) - $30 max
+1. ~~Darkest Dungeon (PS4)~~ [purchased]
 1. ~~Far Cry Primal (PS4) - $30 max~~ [skipped]
 1. ~~No Man's Sky (PS4) - $30 max~~ [skipped]
 1. ~~The Witness (PS4) - Day 1~~ [purchased]
 
 #### Planned Purchases (Previously Released)
 
-1. The Uncharted Collection (PS4) - $30 max
 1. ~~Assassin's Creed: Syndicate (PS4) - $20 max~~ [purchased]
 1. ~~DOOM (PS4) - $30 max~~ [purchased]
 1. ~~Demon's Souls (PS3)~~ [purchased]
 1. ~~Dark Souls (PS3)~~ [purchased]
 1. ~~Final Fantasy X/X-2 HD Remastered (PS4) - $20 max~~ [purchased]
 1. ~~Just Cause 3 (PS4)~~ [skipped]
+1. ~~The Uncharted Collection (PS4) - $30 max~~ [purchased]
 1. ~~Undertale (PC)~~ [purchased]
 
 [new-releases]: https://en.wikipedia.org/wiki/2016_in_video_gaming#Game_releases
