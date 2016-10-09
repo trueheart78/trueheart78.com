@@ -5,7 +5,7 @@ permalink: /about/
 ---
 <div style='margin-bottom:10px;'>
 	<div style='float:left;margin-right:5px;margin-bottom:5px;'>
-		<img src="/assets/big-nerd.jpg" width="184px" height="184px" />
+		<img src="selfie-with-rosie.jpg" />
 	</div>
 	<div style='float:left;'>
 		<img src="/assets/business-cat/matrix-business-cat-184x184.png" />	
