@@ -25,14 +25,13 @@ permalink: /books/
 #### Currently Reading
 
 - The Ruby Closures Book
-- 99 Bottles of OOP
-- Rails How She is Spoke
 
 <a name='next-up'></a>
 
 #### Next Up
 
-* _TBD_
+- 99 Bottles of OOP
+- Rails How She is Spoke
 
 <a name='want-to-read'></a>
 
