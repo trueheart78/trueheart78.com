@@ -10,7 +10,7 @@ permalink: /games/
 > rid of stuff that you aren't.
 > - Me
 
-*Last updated on October 8th, 2016*
+*Last updated on October 14th, 2016*
 
 [Playing][currently-playing] |
 [For Funsies][for-fun] |
@@ -26,7 +26,7 @@ permalink: /games/
 
 #### Playing
 
-1. Witcher 3 (PS4)
+1. The Witcher 3: Wild Hunt (PS4)
 1. Tales from the Borderlands (PS4)
   - Finished 3 of 5 chapters.
   - Laura Bailey is the best.
@@ -112,6 +112,7 @@ permalink: /games/
 See the [New Releases Wiki][new-releases]
 
 1. Deus Ex: Mankind Divided (PS4) - $30 max
+1. Dragon Quest Builders (PS4) - $30 max
 1. Mirror's Edge: Catalyst (PS4) - $30 max
 1. Tomb Raider: Rise of the Tomb Raider (PS4)
 1. Uncharted 4 (PS4) - $30 max
