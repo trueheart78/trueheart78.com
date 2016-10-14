@@ -9,7 +9,7 @@ permalink: /audio-books/
 > and the list of audio books that I would like to get to.
 > - Me
 
-*Last updated on August 10th, 2016*
+*Last updated on October 14th, 2016*
 
 [Currently Listening To][currently-listening-to] |
 [Want to Listen To][want-to-listen-to] |
@@ -22,56 +22,61 @@ permalink: /audio-books/
 
 #### Currently Listening To
 
-- Modern Romance n. by *Aziz Ansari*
+1. Modern Romance n. by _Aziz Ansari_
 
 <a name='want-to-listen-to'></a>
 
 #### Want to Listen To (Owned)
 
-- Wonderful Wizard of Oz n. by *Anne Hathaway*
-- Ctrl Alt Delete n. by *Mitch Joel*
-- Die Empty n. by *Todd Henry*
-- Mastery n. by *Robert Greene*
-- Remote n. by *Rebecca Lowman*
+1. Wonderful Wizard of Oz n. by _Anne Hathaway_
+1. Ctrl Alt Delete n. by _Mitch Joel_
+1. Die Empty n. by _Todd Henry_
+1. Mastery n. by _Robert Greene_
+1. Remote n. by _Rebecca Lowman_
   - Book was great, and I now work remote. Should enjoy.
-- Rework n. by *Mike Chamberlain*
-- Yes Please n. by *Amy Poehler*
-- Elon Must n. by *Fred Sanders*
-- Reality is Broken n. by *Julia Whelan*
-- Being Human n. by *Robert Sapolsky*
-- Why Not Me? n. by *Mindy Kaling*
-- Revolution n. by *Russel Brand*
-- Think Like a Freak n. by *Stephen J. Dubner*
-- Superbetter n. by *Dr Jane McGonigal*
-- American on Purpose n. by *Craig Ferguson*
-- Between the Bridge and the River n. by *Craig Ferguson*
-- Fangirl's Guide to the Galaxy n. by *Holly Conrad*
-- Never Broken n. by *Jewel*
-- Troublemaker n. by *Leah Remini*
-- Notorious RBG n. by *Andi Arndt*
-- Art of War n. by *Aidan Gillen*
-- Color Purple n. by *Alice Walker*
-- Ego is the Enemy n. by *Ryan Holiday*
-- Too Soon Old, Too Late Smart n. by *James Jenner*
-- Sex God n. by *Rob Bell*
-- Jesus Wants to Save Christians n. by *Rob Bell*
-- What We Talk About When We Talk About God n. by *Rob Bell*
+1. Rework n. by _Mike Chamberlain_
+1. Yes Please n. by _Amy Poehler_
+1. Elon Must n. by _Fred Sanders_
+1. Reality is Broken n. by _Julia Whelan_
+1. Being Human n. by _Robert Sapolsky_
+1. Why Not Me? n. by _Mindy Kaling_
+1. Revolution n. by _Russel Brand_
+1. Think Like a Freak n. by _Stephen J. Dubner_
+1. Superbetter n. by _Dr Jane McGonigal_
+1. American on Purpose n. by _Craig Ferguson_
+1. Between the Bridge and the River n. by _Craig Ferguson_
+1. Fangirl's Guide to the Galaxy n. by _Holly Conrad_
+1. Never Broken n. by _Jewel_
+1. Troublemaker n. by _Leah Remini_
+1. Notorious RBG n. by _Andi Arndt_
+1. Art of War n. by _Aidan Gillen_
+1. Color Purple n. by _Alice Walker_
+1. Ego is the Enemy n. by _Ryan Holiday_
+1. Too Soon Old, Too Late Smart n. by _James Jenner_
+1. Sex God n. by _Rob Bell_
+1. Jesus Wants to Save Christians n. by _Rob Bell_
+1. What We Talk About When We Talk About God n. by _Rob Bell_
+1. V for Vendetta n. by _Simone Vance_
+1. Deep Work n. by _Jeff Bottoms_
+1. Born Standing Up n. by _Steve Martin_
+1. The War of Art n. by _George Guidall_
+1. Off to be the Wizard n. by _Luke Daniels_
 
 <a name='pre-ordered'></a>
 
 #### Pre-Ordered
 
-- Scrappy Little Nobody n. by *Anna Kendrick*
+1.  Scrappy Little Nobody n. by _Anna Kendrick_
 
 <a name='coming-back-to'></a>
 
 #### Coming Back To
 
-- Anything You Want n. by *Derek Sivers*
+1. Anything You Want n. by _Derek Sivers_
   - Short and excellent
-- Happiness Advantage n. by *Shawn Achor*
+1. Happiness Advantage n. by _Shawn Achor_
   - Got distracted... 
-- Is Everyone Hanging Out Without Me? n. by *Mindy Kaling*
+1. Is Everyone Hanging Out Without Me? n. by _Mindy Kaling_
   - Got distracted... 
 
 <a name='completed'></a>
