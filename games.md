@@ -111,6 +111,7 @@ permalink: /games/
 
 See the [New Releases Wiki][new-releases]
 
+1. Dark Souls III DLC (PS4) - Day One
 1. Deus Ex: Mankind Divided (PS4) - $30 max
 1. Dragon Quest Builders (PS4) - $30 max
 1. Mirror's Edge: Catalyst (PS4) - $30 max
