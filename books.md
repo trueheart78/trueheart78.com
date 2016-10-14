@@ -9,7 +9,7 @@ permalink: /books/
 > list of books that I would like to get to, even if that is just skimming
 > - Me
 
-*Last updated on September 18th, 2016*
+*Last updated on October 14th, 2016*
 
 
 [Currently Reading][currently-reading] |
@@ -24,9 +24,9 @@ permalink: /books/
 
 #### Currently Reading
 
-- Rails How She is Spoke
-- 99 Bottles of OOP
 - The Ruby Closures Book
+- 99 Bottles of OOP
+- Rails How She is Spoke
 
 <a name='next-up'></a>
 
