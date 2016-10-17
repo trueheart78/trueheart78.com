@@ -12,7 +12,11 @@ permalink: /wishlist/
   - I _really_ like the blue/gray ones.
 1. [Rise of the Tomb Raider: 20 Year Celebration - PlayStation 4 - $59.99][tr-ps4]
   - Prime Members get 20% off list price until October 25th.
+1. [XKCD Signed Print for Comic #150 - $15.00][xkcd-print]
+  - Please make sure to **select comic "#150 Grownups" from the drop-down list**.
 1. [DKnight MagicBox II Bluetooth 4.0 Portable Wireless speaker (Red) - $32.99][bt-speaker]
+1. [XKCD Raptor Polo in XL - $42.oo][xkcd-polo]
+  - Please make sure to **select XL from the drop-down list**.
 
 
 ### Christmas Ideas _aka "Should be super cheap on Black Friday"_
@@ -31,3 +35,5 @@ permalink: /wishlist/
 [mirrors-edge]: https://www.amazon.com/Mirrors-Edge-Catalyst-PlayStation-4/dp/B00ZDYJ9P0
 [all-ett]: https://www.all-ett.com/product/slim-original-wallet/
 [bt-speaker]: https://www.amazon.com/gp/product/B018WMG5Y2
+[xkcd-print]: https://store.xkcd.com/products/signed-prints
+[xkcd-polo]: https://store.xkcd.com/products/raptor-polo
