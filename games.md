@@ -10,7 +10,7 @@ permalink: /games/
 > rid of stuff that you aren't.
 > - Me
 
-*Last updated on October 14th, 2016*
+*Last updated on October 23rd, 2016*
 
 [Playing][currently-playing] |
 [For Funsies][for-fun] |
@@ -69,7 +69,9 @@ permalink: /games/
 1. I Am Bread (PS4)
 1. Invisible, Inc. (PC)
 1. LEGO: The Movie (PS4)
+1. Mirror's Edge: Catalyst (PS4) - $30 max
 1. Shadowrun Returns: Dragonfall (PC)
+1. Tomb Raider: Rise of the Tomb Raider (PS4)
 1. Uncharted 3 from _The Uncharted Collection_ (PS4)
 1. Undertale (PC)
 
@@ -111,16 +113,16 @@ permalink: /games/
 
 See the [New Releases Wiki][new-releases]
 
-1. Dark Souls III DLC (PS4) - Day One
 1. Deus Ex: Mankind Divided (PS4) - $30 max
 1. Dragon Quest Builders (PS4) - $30 max
-1. Mirror's Edge: Catalyst (PS4) - $30 max
-1. Tomb Raider: Rise of the Tomb Raider (PS4)
 1. Uncharted 4 (PS4) - $30 max
+1. ~~Dark Souls III DLC (PS4) - Day One~~ [purchased]
 1. ~~Darkest Dungeon (PS4)~~ [purchased]
 1. ~~Far Cry Primal (PS4) - $30 max~~ [skipped]
+1. ~~Mirror's Edge: Catalyst (PS4) - $30 max~~ [gift]
 1. ~~No Man's Sky (PS4) - $30 max~~ [skipped]
 1. ~~The Witness (PS4) - Day 1~~ [purchased]
+1. ~~Tomb Raider: Rise of the Tomb Raider (PS4)~~ [gift]
 
 #### Planned Purchases (Previously Released)
 
