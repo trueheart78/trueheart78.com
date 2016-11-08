@@ -10,7 +10,7 @@ permalink: /games/
 > rid of stuff that you aren't.
 > - Me
 
-*Last updated on November 7rh, 2016*
+*Last updated on November 8th, 2016*
 
 [Playing][currently-playing] |
 [For Funsies][for-fun] |
@@ -27,10 +27,7 @@ permalink: /games/
 #### Playing
 
 1. The Witcher 3: Wild Hunt (PS4)
-1. Hitman 2016 (PS4)
-  - 5 of 6 episodes complete (6 to be released)
-  - Amazing game with great replayability.
-1. Dark Souls III (PS4) - Ashes of Ariendel DLC
+1. Dark Souls III: Ashes of Ariendel DLC (PS4)
 1. Tales from the Borderlands (PS4)
   - Finished 3 of 5 chapters.
 1. LEGO: Batman 3 (PS4)
@@ -45,6 +42,7 @@ permalink: /games/
 
 1. Dark Souls III (PS4)
 1. Diablo 3 (PS4)
+1. Hitman 2016: Season 1 (PS4)
 
 <a name='awaiting-content'></a>
 
@@ -82,6 +80,9 @@ _TBD_
   - Beaten 5 times, dagger, twinswords x2
 1. Fallout 4 (PS4)
   - Got bored and took a 7 month break, finally pushed to the end.
+1. Hitman 2016: Season 1 (PS4)
+  - Amazing game with great humor, and tons of replayability.
+  - Not a fan of the _always-online_ requirement.
 1. Nuclear Throne (PS4)
   - Buggy port. Seriously bummed me out.
 1. Stardew Valley (PC)
