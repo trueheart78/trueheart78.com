@@ -10,7 +10,7 @@ permalink: /games/
 > rid of stuff that you aren't.
 > - Me
 
-*Last updated on October 23rd, 2016*
+*Last updated on November 7rh, 2016*
 
 [Playing][currently-playing] |
 [For Funsies][for-fun] |
@@ -27,9 +27,12 @@ permalink: /games/
 #### Playing
 
 1. The Witcher 3: Wild Hunt (PS4)
+1. Hitman 2016 (PS4)
+  - 5 of 6 episodes complete (6 to be released)
+  - Amazing game with great replayability.
+1. Dark Souls III (PS4) - Ashes of Ariendel DLC
 1. Tales from the Borderlands (PS4)
   - Finished 3 of 5 chapters.
-  - Laura Bailey is the best.
 1. LEGO: Batman 3 (PS4)
   - Just started playing as Green Lantern.
 1. Final Fantasy X/X-2 HD Remastered (PS4)
@@ -47,11 +50,7 @@ permalink: /games/
 
 #### Awaiting Content
 
-1. Hitman 2016 (PS4)
-  - 5 of 5 episodes complete (6 to be released)
-  - Amazing game with great replayability.
-1. Dark Souls III (PS4)
-  - DLC is scheduled October 25th
+_TBD_
 
 <a name='unplayed'></a>
 
