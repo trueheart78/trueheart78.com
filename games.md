@@ -87,6 +87,7 @@ _TBD_
   - Buggy port. Seriously bummed me out.
 1. Stardew Valley (PC)
   - Wonderful indie game. Second year completed.
+  - Became a slog once the caves were mastered, especially year 2 winter.
 1. Thomas Was Alone (PS4)
   - Fun game about AI rectangles.
 
