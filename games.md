@@ -10,7 +10,7 @@ permalink: /games/
 > rid of stuff that you aren't.
 > - Me
 
-*Last updated on November 8th, 2016*
+*Last updated on November 14th, 2016*
 
 [Playing][currently-playing] |
 [For Funsies][for-fun] |

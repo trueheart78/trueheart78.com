@@ -6,18 +6,17 @@ permalink: /now/
 
 I'm currently living in Franklin, OH working remote for [CoverMyMeds](http://covermymeds.com) as a software developer.
 
-*Last updated on November 7th, 2016*
+*Last updated on November 14th, 2016*
 
 ### Now
 
 * Playing _The Witcher 3: Wild Hunt (PS4)_
 * Studying _The Ruby Closures Book_.
-* Building [a podcast site](https://github.com/trueheart78/lifetab-podcast)
-* Working with Rails 5.
-* Crafting some [Simple CLI Tools](https://github.com/trueheart78/simple-cli-tools) in Ruby.
 
 ### Coming Up
 
+* Working with Rails 5.
+* Building [a podcast site](https://github.com/trueheart78/lifetab-podcast)
 * Learning to work with [Braintree](https://www.braintreepayments.com/) in Rails.
 * Continuing my app study checklist.
 * Learning [Programming Elixir](https://pragprog.com/book/elixir12/programming-elixir-1-2) by Dave Thomas
