@@ -68,6 +68,7 @@ _TBD_
 1. LEGO: The Movie (PS4)
 1. Mirror's Edge: Catalyst (PS4) - $30 max
 1. Shadowrun Returns: Dragonfall (PC)
+1. Titanfall 2 (PS4)
 1. Tomb Raider: Rise of the Tomb Raider (PS4)
 1. Uncharted 3 from _The Uncharted Collection_ (PS4)
 1. Undertale (PC)
