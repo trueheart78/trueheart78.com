@@ -4,37 +4,35 @@ title: Games
 permalink: /games/
 ---
 
-> You should be playing games you enjoy. Just remember your pile when you start
-> looking for something else to play, instead of purchasing another title. That's
-> really all this is for - to make sure you enjoy what you're playing and getting
-> rid of stuff that you aren't.
-> - Me
+_"You should be playing games you enjoy. Just remember your pile when you start
+looking for something else to play, instead of purchasing another title. That's
+really all this is for - to make sure you enjoy what you're playing and getting
+rid of stuff that you aren't."_ - Me
 
-*Last updated on November 14th, 2016*
+*Last updated on November 18th, 2016*
 
+[Notes][notes-to-self] |
 [Playing][currently-playing] |
 [For Funsies][for-fun] |
-[Awaiting Content][awaiting-content] |
+<!-- [Awaiting Content][awaiting-content] | -->
+[Undecided][undecided] |
 [Unplayed][unplayed] |
 [Beaten][beaten] |
 [Jettisoned][jettisoned] |
 [Planned Purchases][planned-purchases]
 
-### 2016
+<a name='notes-to-self'>
+
+#### Notes to Self
+
++ I should not buy DLC until I am ready to play it.
++ I stop playing open world games are done when I complete the main story.
 
 <a name='currently-playing'></a>
 
 #### Playing
 
-1. The Witcher 3: Wild Hunt (PS4)
-1. Dark Souls III: Ashes of Ariendel DLC (PS4)
-1. Tales from the Borderlands (PS4)
-  - Finished 3 of 5 chapters.
-1. LEGO: Batman 3 (PS4)
-  - Just started playing as Green Lantern.
-1. Final Fantasy X/X-2 HD Remastered (PS4)
-  - X-2 has gotten a lil boring, but still fun.
-  - Strategy guide arrived. I'd like to see this through.
++ _TBD_
 
 <a name='for-fun'></a>
 
@@ -46,9 +44,17 @@ permalink: /games/
 
 <a name='awaiting-content'></a>
 
-#### Awaiting Content
+<a name='undecided'>
 
-_TBD_
+#### Undecided
+
+1. LEGO: Batman 3 (PS4)
+  - Just started playing as Green Lantern. Maybe coming back to it.
+1. Tales from the Borderlands (PS4)
+  - Finished 3 of 5 chapters.
+1. Final Fantasy X/X-2 HD Remastered (PS4)
+  - X-2 has gotten a lil boring, but still fun.
+  - Strategy guide arrived. I'd like to see this through.
 
 <a name='unplayed'></a>
 
@@ -59,6 +65,7 @@ _TBD_
 1. Costume Quest 2 (PS4)
 1. Dark Souls (PS3)
 1. Dark Souls II: Scholar of the First Sin (PS4)
+1. Dark Souls III: Ashes of Ariendel DLC (PS4)
 1. Darkest Dungeon (PS4)
 1. Divinity: Original Sin (PS4)
 1. DOOM (PS4)
@@ -89,6 +96,9 @@ _TBD_
 1. Stardew Valley (PC)
   - Wonderful indie game. Second year completed.
   - Became a slog once the caves were mastered, especially year 2 winter.
+1. The Witcher 3: Wild Hunt (PS4)
+  - Very good game with great characters, especially _Yennefer_ and _Ciri_.
+  - Bought DLC that I never bothered with, because I completed the main story.
 1. Thomas Was Alone (PS4)
   - Fun game about AI rectangles.
 
@@ -138,8 +148,10 @@ See the [New Releases Wiki][new-releases]
 1. ~~Undertale (PC)~~ [purchased]
 
 [new-releases]: https://en.wikipedia.org/wiki/2016_in_video_gaming#Game_releases
+[notes-to-self]: #notes-to-self
 [currently-playing]: #currently-playing
 [awaiting-content]: #awaiting-content
+[undecided]: #undecided
 [unplayed]: #unplayed
 [beaten]: #beaten
 [jettisoned]: #jettisoned
