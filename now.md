@@ -10,7 +10,6 @@ I'm currently living in Franklin, OH working remote for [CoverMyMeds](http://cov
 
 ### Now
 
-* Playing _The Witcher 3: Wild Hunt (PS4)_
 * Studying _The Ruby Closures Book_.
 
 ### Coming Up
@@ -26,6 +25,7 @@ I'm currently living in Franklin, OH working remote for [CoverMyMeds](http://cov
 
 ### History for 2016
 
+* Played _The Witcher 3: Wild Hunt (PS4)_
 * Redesigned my blog/website, because I <img src="/assets/site-heart.webp" width="18px" height="18px" /> Ruby
 * Played Demon's Souls on PS3
 * Played challenge runs in Dark Souls 3 on PS4.
