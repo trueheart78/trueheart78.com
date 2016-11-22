@@ -26,7 +26,7 @@ rid of stuff that you aren't."_ - Me
 #### Notes to Self
 
 + I should not buy DLC until I am ready to play it.
-+ I stop playing open world games are done when I complete the main story.
++ I stop playing open world games when I complete the main story.
 
 <a name='currently-playing'></a>
 
@@ -41,6 +41,7 @@ rid of stuff that you aren't."_ - Me
 1. Dark Souls III (PS4)
 1. Diablo 3 (PS4)
 1. Hitman 2016: Season 1 (PS4)
+1. I Am Bread (PS4)
 
 <a name='awaiting-content'></a>
 
@@ -70,15 +71,15 @@ rid of stuff that you aren't."_ - Me
 1. Divinity: Original Sin (PS4)
 1. DOOM (PS4)
 1. Grow Home (PS4)
-1. I Am Bread (PS4)
 1. Invisible, Inc. (PC)
 1. LEGO: The Movie (PS4)
-1. Mirror's Edge: Catalyst (PS4) - $30 max
+1. Mirror's Edge: Catalyst (PS4)
 1. Shadowrun Returns: Dragonfall (PC)
 1. Titanfall 2 (PS4)
 1. Tomb Raider: Rise of the Tomb Raider (PS4)
 1. Uncharted 3 from _The Uncharted Collection_ (PS4)
 1. Undertale (PC)
+1. Watch Dogs 2 (PS4)
 
 <a name='beaten'></a>
 
