@@ -4,7 +4,7 @@ title: Wishlist
 permalink: /wishlist/
 ---
 
-*Last updated on November 14th, 2016*
+*Last updated on November 24th, 2016*
 
 1. [XKCD Signed Print for Comic #150 - $15.00][xkcd-print]
   - Please make sure to **select comic "#150 Grownups" from the drop-down list**.
@@ -20,14 +20,10 @@ permalink: /wishlist/
 
 ### Games
 
-1. [Deus Ex: Mankind Divided - PlayStation 4 - $45 or less][deus-ex]
 1. [Uncharted 4: A Thief's End - PlayStation 4 - $42 or less][uncharted-4]
 
 [bluetooth-earbuds]: https://www.amazon.com/Bluetooth-GUARANTEED-waterproof-high-performance-microphone/dp/B01EZ86SLW
-[tr-ps4]: https://www.amazon.com/Rise-Tomb-Raider-Year-Celebration-PlayStation/dp/B013HMN66M
-[deus-ex]: https://www.amazon.com/Deus-Ex-Mankind-Divided-PlayStation-4/dp/B00VQZOIAG
 [uncharted-4]: https://www.amazon.com/Uncharted-4-Thiefs-End-PlayStation/dp/B00GODZYNA
-[mirrors-edge]: https://www.amazon.com/Mirrors-Edge-Catalyst-PlayStation-4/dp/B00ZDYJ9P0
 [all-ett]: https://www.all-ett.com/product/slim-original-wallet/
 [bt-speaker]: https://www.amazon.com/gp/product/B018WMG5Y2
 [xkcd-print]: https://store.xkcd.com/products/signed-prints

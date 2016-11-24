@@ -9,7 +9,7 @@ looking for something else to play, instead of purchasing another title. That's
 really all this is for - to make sure you enjoy what you're playing and getting
 rid of stuff that you aren't."_ - Me
 
-*Last updated on November 18th, 2016*
+*Last updated on November 24th, 2016*
 
 [Notes][notes-to-self] |
 [Playing][currently-playing] |
@@ -32,7 +32,7 @@ rid of stuff that you aren't."_ - Me
 
 #### Playing
 
-+ _TBD_
+1. Watch_Dogs 2 (PS4)
 
 <a name='for-fun'></a>
 
@@ -68,6 +68,7 @@ rid of stuff that you aren't."_ - Me
 1. Dark Souls II: Scholar of the First Sin (PS4)
 1. Dark Souls III: Ashes of Ariendel DLC (PS4)
 1. Darkest Dungeon (PS4)
+1. Deus Ex: Mankind Divided (PS4)
 1. Divinity: Original Sin (PS4)
 1. DOOM (PS4)
 1. Grow Home (PS4)
@@ -79,7 +80,6 @@ rid of stuff that you aren't."_ - Me
 1. Tomb Raider: Rise of the Tomb Raider (PS4)
 1. Uncharted 3 from _The Uncharted Collection_ (PS4)
 1. Undertale (PC)
-1. Watch Dogs 2 (PS4)
 
 <a name='beaten'></a>
 
