@@ -9,7 +9,7 @@ looking for something else to play, instead of purchasing another title. That's
 really all this is for - to make sure you enjoy what you're playing and getting
 rid of stuff that you aren't."_ - Me
 
-*Last updated on November 24th, 2016*
+*Last updated on December 3rd, 2016*
 
 [Notes][notes-to-self] |
 [Playing][currently-playing] |
@@ -32,7 +32,7 @@ rid of stuff that you aren't."_ - Me
 
 #### Playing
 
-1. Watch_Dogs 2 (PS4)
+_TBD_
 
 <a name='for-fun'></a>
 
@@ -102,6 +102,9 @@ rid of stuff that you aren't."_ - Me
   - Bought DLC that I never bothered with, because I completed the main story.
 1. Thomas Was Alone (PS4)
   - Fun game about AI rectangles.
+1. Watch_Dogs 2 (PS4)
+  - Fantastic game, even the open world was fun to explore.
+  - Great characters.
 
 <a name='jettisoned'></a>
 

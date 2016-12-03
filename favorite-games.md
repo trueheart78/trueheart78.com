@@ -23,5 +23,6 @@ _Still deciding_
 + Dark Souls III (PS4)
 + Stardew Valley (PC)
 + The Witcher 3: Wild Hunt (PS4)
++ Watch_Dogs 2 (PS4)
 
 [goty-2016]: #goty-2016
