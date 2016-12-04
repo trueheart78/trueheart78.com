@@ -9,7 +9,7 @@ permalink: /books/
 > list of books that I would like to get to, even if that is just skimming
 > - Me
 
-*Last updated on October 14th, 2016*
+*Last updated on December 4th, 2016*
 
 
 [Currently Reading][currently-reading] |
@@ -25,6 +25,8 @@ permalink: /books/
 #### Currently Reading
 
 - The Ruby Closures Book
+- The Minitest Cookbook
+- Vagrant Cookbook
 
 <a name='next-up'></a>
 
