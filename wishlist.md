@@ -6,21 +6,21 @@ permalink: /wishlist/
 
 *Last updated on December 5th, 2016*
 
-1. [XKCD Signed Print for Comic #150 - $15.00][xkcd-print] _Online Only_
+1. [XKCD Signed Print for Comic #150 - $15.00][xkcd-print] [_Online Only_]
   - Please make sure to **select comic "#150 Grownups" from the drop-down list**.
-1. [Taylor Swift 2017 Calendar - $11.40][tswift-calendar] _Stores or Online_
+1. [Taylor Swift 2017 Calendar - $11.40][tswift-calendar] [_Stores or Online_]
   - Her concert was amazing and this conjures up those memories.
-1. [JLab Epic2 Wireless Earbuds - $99.99][bluetooth-earbuds] _Online Only_
+1. [JLab Epic2 Wireless Earbuds - $99.99][bluetooth-earbuds] [_Online Only_]
   - I _really_ like the blue/gray ones.
-1. [DKnight MagicBox II Bluetooth 4.0 Portable Wireless speaker (Red) - $32.99][bt-speaker] _Online Only_
-1. [All-Ett Slim Original Wallet - $34.95][all-ett] _Online Only_
+1. [DKnight MagicBox II Bluetooth 4.0 Portable Wireless speaker (Red) - $32.99][bt-speaker] _Online Only_]
+1. [All-Ett Slim Original Wallet - $34.95][all-ett] [_Online Only_]
   - Replacement for my current one, which I love. <img src='/assets/site-heart.webp' width='16' height='16' />
-1. [XKCD Raptor Polo in XL - $42.00][xkcd-polo] _Online Only_
+1. [XKCD Raptor Polo in XL - $42.00][xkcd-polo] [_Online Only_]
   - Please make sure to **select XL from the drop-down list**.
 
 ### Games
 
-1. [Uncharted 4: A Thief's End - PlayStation 4 - $42 or less][uncharted-4] _Stores or Online_
+1. [Uncharted 4: A Thief's End - PlayStation 4 - $42 or less][uncharted-4] [_Stores or Online_]
 
 ### If All Else Fails
 
