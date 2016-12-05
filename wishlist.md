@@ -12,7 +12,7 @@ permalink: /wishlist/
   - Her concert was amazing and this conjures up those memories.
 1. [JLab Epic2 Wireless Earbuds - $99.99][bluetooth-earbuds] [_Online Only_]
   - I _really_ like the blue/gray ones.
-1. [DKnight MagicBox II Bluetooth 4.0 Portable Wireless speaker (Red) - $32.99][bt-speaker] _Online Only_]
+1. [DKnight MagicBox II Bluetooth 4.0 Portable Wireless speaker (Red) - $32.99][bt-speaker] [_Online Only_]
 1. [All-Ett Slim Original Wallet - $34.95][all-ett] [_Online Only_]
   - Replacement for my current one, which I love. <img src='/assets/site-heart.webp' width='16' height='16' />
 1. [XKCD Raptor Polo in XL - $42.00][xkcd-polo] [_Online Only_]
