@@ -9,7 +9,7 @@ looking for something else to play, instead of purchasing another title. That's
 really all this is for - to make sure you enjoy what you're playing and getting
 rid of stuff that you aren't."_ - Me
 
-*Last updated on December 3rd, 2016*
+*Last updated on December 11th, 2016*
 
 [Notes][notes-to-self] |
 [Playing][currently-playing] |
@@ -41,18 +41,16 @@ _TBD_
 1. Dark Souls III (PS4)
 1. Diablo 3 (PS4)
 1. Hitman 2016: Season 1 (PS4)
-1. I Am Bread (PS4)
+<!-- Stardew Valley (PS4) -->
 
 <a name='awaiting-content'></a>
+
+_None_
 
 <a name='undecided'>
 
 #### Undecided
 
-1. LEGO: Batman 3 (PS4)
-  - Just started playing as Green Lantern. Maybe coming back to it.
-1. Tales from the Borderlands (PS4)
-  - Finished 3 of 5 chapters.
 1. Final Fantasy X/X-2 HD Remastered (PS4)
   - X-2 has gotten a lil boring, but still fun.
   - Strategy guide arrived. I'd like to see this through.
@@ -110,8 +108,15 @@ _TBD_
 
 #### Jettisoned
 
+1. LEGO: Batman 3 (PS4)
+  - I don't find it fun.
+1. Tales from the Borderlands (PS4)
+  - Story just not engaging.
+  - Finished 3 of 5 chapters.
 1. Batman: Arkham Knight (PS4)
   - Just can't get into it.
+1. I Am Bread (PS4)
+  - Cute, may come back to it, but don't plan on playing it to beat it.
 1. Demon's Souls (PS3)
   - Felt punished by it, and the fun stopped.
 1. Galak-Z (PS4)
