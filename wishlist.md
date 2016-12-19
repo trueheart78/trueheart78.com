@@ -4,7 +4,7 @@ title: Wishlist
 permalink: /wishlist/
 ---
 
-*Last updated on December 5th, 2016*
+*Last updated on December 19th, 2016*
 
 1. [XKCD Signed Print for Comic #150 - $15.00][xkcd-print] [_Online Only_]
   - Please make sure to **select comic "#150 Grownups" from the drop-down list**.
@@ -20,7 +20,7 @@ permalink: /wishlist/
 
 ### Games
 
-1. [Uncharted 4: A Thief's End - PlayStation 4 - $42 or less][uncharted-4] [_Stores or Online_]
+_None currently_
 
 ### If All Else Fails
 

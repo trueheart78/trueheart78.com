@@ -9,7 +9,7 @@ looking for something else to play, instead of purchasing another title. That's
 really all this is for - to make sure you enjoy what you're playing and getting
 rid of stuff that you aren't."_ - Me
 
-*Last updated on December 11th, 2016*
+*Last updated on December 19th, 2016*
 
 [Notes][notes-to-self] |
 [Playing][currently-playing] |
@@ -32,7 +32,7 @@ rid of stuff that you aren't."_ - Me
 
 #### Playing
 
-_TBD_
+1. Stardew Valley (PS4) 
 
 <a name='for-fun'></a>
 
@@ -41,7 +41,6 @@ _TBD_
 1. Dark Souls III (PS4)
 1. Diablo 3 (PS4)
 1. Hitman 2016: Season 1 (PS4)
-<!-- Stardew Valley (PS4) -->
 
 <a name='awaiting-content'></a>
 
