@@ -6,6 +6,8 @@ permalink: /wishlist/
 
 *Last updated on December 19th, 2016*
 
+1. [Cuisinart WMR-CAR Round Classic Waffle Maker, Stainless Steel/Red][waffle-maker] [_Stores or Online_]
+  - I really want a waffle maker to make classic waffles, not Belgian-style. 
 1. [XKCD Signed Print for Comic #150 - $15.00][xkcd-print] [_Online Only_]
   - Please make sure to **select comic "#150 Grownups" from the drop-down list**.
 1. [Taylor Swift 2017 Calendar - $11.40][tswift-calendar] [_Stores or Online_]
@@ -33,3 +35,4 @@ _None currently_
 [xkcd-print]: https://store.xkcd.com/products/signed-prints
 [xkcd-polo]: https://store.xkcd.com/products/raptor-polo
 [tswift-calendar]: https://www.amazon.com/gp/product/1465057358
+[waffle-maker]: https://www.amazon.com/Cuisinart-WMR-CAR-Classic-Waffle-Stainless/dp/B016B40RME
