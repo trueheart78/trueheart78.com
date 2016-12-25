@@ -32,7 +32,7 @@ rid of stuff that you aren't."_ - Me
 
 #### Playing
 
-_TBD_
+1. Stardew Valley (PS4) 
 
 <a name='for-fun'></a>
 
@@ -41,7 +41,6 @@ _TBD_
 1. Dark Souls III (PS4)
 1. Diablo 3 (PS4)
 1. Hitman 2016: Season 1 (PS4)
-<!-- Stardew Valley (PS4) -->
 
 <a name='awaiting-content'></a>
 
@@ -135,16 +134,16 @@ _TBD_
 
 See the [New Releases Wiki][new-releases]
 
-1. Deus Ex: Mankind Divided (PS4) - $30 max
 1. Dragon Quest Builders (PS4) - $30 max
-1. Uncharted 4 (PS4) - $30 max
 1. ~~Dark Souls III DLC (PS4) - Day One~~ [purchased]
 1. ~~Darkest Dungeon (PS4)~~ [purchased]
+1. ~~Deus Ex: Mankind Divided (PS4) - $30 max~~ [gift]
 1. ~~Far Cry Primal (PS4) - $30 max~~ [skipped]
 1. ~~Mirror's Edge: Catalyst (PS4) - $30 max~~ [gift]
 1. ~~No Man's Sky (PS4) - $30 max~~ [skipped]
 1. ~~The Witness (PS4) - Day 1~~ [purchased]
 1. ~~Tomb Raider: Rise of the Tomb Raider (PS4)~~ [gift]
+1. ~~Uncharted 4 (PS4) - $30 max~~ [gift]
 
 #### Planned Purchases (Previously Released)
 

@@ -11,7 +11,7 @@ I'm currently living in Franklin, OH working remote for [CoverMyMeds](http://cov
 ### Now
 
 * Learning to cook.
-* Spending way too much time in Stardew Valley (PS4).
+* Playing Stardew Valley on my PS4.
 * Studying _The Ruby Closures Book_.
 
 ### Coming Up
