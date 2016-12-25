@@ -9,7 +9,7 @@ looking for something else to play, instead of purchasing another title. That's
 really all this is for - to make sure you enjoy what you're playing and getting
 rid of stuff that you aren't."_ - Me
 
-*Last updated on December 11th, 2016*
+*Last updated on December 25th, 2016*
 
 [Notes][notes-to-self] |
 [Playing][currently-playing] |
@@ -77,6 +77,7 @@ _TBD_
 1. Titanfall 2 (PS4)
 1. Tomb Raider: Rise of the Tomb Raider (PS4)
 1. Uncharted 3 from _The Uncharted Collection_ (PS4)
+1. Uncharted 4 (PS4)
 1. Undertale (PC)
 
 <a name='beaten'></a>
