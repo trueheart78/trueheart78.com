@@ -9,7 +9,7 @@ looking for something else to play, instead of purchasing another title. That's
 really all this is for - to make sure you enjoy what you're playing and getting
 rid of stuff that you aren't."_ - Me
 
-*Last updated on December 25th, 2016*
+*Last updated on December 26th, 2016*
 
 [Notes][notes-to-self] |
 [Playing][currently-playing] |
@@ -33,12 +33,15 @@ rid of stuff that you aren't."_ - Me
 #### Playing
 
 1. Stardew Valley (PS4) 
+  + Currently in Summer of Year 2
+  + Marrying my bae, Shane
 
 <a name='for-fun'></a>
 
 #### For Funsies 
 
 1. Dark Souls III (PS4)
+1. Darkest Dungeon (PS4)
 1. Diablo 3 (PS4)
 1. Hitman 2016: Season 1 (PS4)
 
@@ -64,7 +67,6 @@ rid of stuff that you aren't."_ - Me
 1. Dark Souls (PS3)
 1. Dark Souls II: Scholar of the First Sin (PS4)
 1. Dark Souls III: Ashes of Ariendel DLC (PS4)
-1. Darkest Dungeon (PS4)
 1. Deus Ex: Mankind Divided (PS4)
 1. Divinity: Original Sin (PS4)
 1. DOOM (PS4)
@@ -73,6 +75,8 @@ rid of stuff that you aren't."_ - Me
 1. LEGO: The Movie (PS4)
 1. Mirror's Edge: Catalyst (PS4)
 1. Shadowrun Returns: Dragonfall (PC)
+1. The Witcher 3: Hearts of Stone DLC (PS4)
+1. The Witcher 3: Blood and Wine DLC (PS4)
 1. Titanfall 2 (PS4)
 1. Tomb Raider: Rise of the Tomb Raider (PS4)
 1. Uncharted 3 from _The Uncharted Collection_ (PS4)
@@ -97,7 +101,6 @@ rid of stuff that you aren't."_ - Me
   - Became a slog once the caves were mastered, especially year 2 winter.
 1. The Witcher 3: Wild Hunt (PS4)
   - Very good game with great characters, especially _Yennefer_ and _Ciri_.
-  - Bought DLC that I never bothered with, because I completed the main story.
 1. Thomas Was Alone (PS4)
   - Fun game about AI rectangles.
 1. Watch_Dogs 2 (PS4)
