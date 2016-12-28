@@ -6,12 +6,12 @@ permalink: /now/
 
 I'm currently living in Franklin, OH working remote for [CoverMyMeds](http://covermymeds.com) as a software developer.
 
-*Last updated on December 25th, 2016*
+*Last updated on December 28th, 2016*
 
 ### Now
 
 * Learning to cook.
-* Playing Stardew Valley on my PS4.
+* Playing DOOM on my PS4.
 * Studying _The Ruby Closures Book_.
 
 ### Coming Up

@@ -9,7 +9,7 @@ looking for something else to play, instead of purchasing another title. That's
 really all this is for - to make sure you enjoy what you're playing and getting
 rid of stuff that you aren't."_ - Me
 
-*Last updated on December 26th, 2016*
+*Last updated on December 28th, 2016*
 
 [Notes][notes-to-self] |
 [Playing][currently-playing] |
@@ -32,9 +32,7 @@ rid of stuff that you aren't."_ - Me
 
 #### Playing
 
-1. Stardew Valley (PS4) 
-  + Currently in Summer of Year 2
-  + Marrying my bae, Shane
+1. DOOM (PS4)
 
 <a name='for-fun'></a>
 
@@ -44,6 +42,7 @@ rid of stuff that you aren't."_ - Me
 1. Darkest Dungeon (PS4)
 1. Diablo 3 (PS4)
 1. Hitman 2016: Season 1 (PS4)
+1. Stardew Valley (PS4) 
 
 <a name='awaiting-content'></a>
 
@@ -69,8 +68,8 @@ rid of stuff that you aren't."_ - Me
 1. Dark Souls III: Ashes of Ariendel DLC (PS4)
 1. Deus Ex: Mankind Divided (PS4)
 1. Divinity: Original Sin (PS4)
-1. DOOM (PS4)
 1. Grow Home (PS4)
+1. Inside (PS4)
 1. Invisible, Inc. (PC)
 1. LEGO: The Movie (PS4)
 1. Mirror's Edge: Catalyst (PS4)
