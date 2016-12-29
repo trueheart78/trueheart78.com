@@ -24,5 +24,6 @@ _Still deciding_
 + Stardew Valley (PC)
 + The Witcher 3: Wild Hunt (PS4)
 + Watch_Dogs 2 (PS4)
++ DOOM (PS4)
 
 [goty-2016]: #goty-2016
