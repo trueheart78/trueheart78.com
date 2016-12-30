@@ -60,7 +60,15 @@ of the type of run. So enjoy my favorite highlight:
 
 ### 3. Watch_Dogs 2 (PS4)
 
-Hack the planet!
+I wasn't quite sure what to expect with Watch_Dogs 2. I stayed far away from the
+first game after hearing the lackluster response. Imagine my surprise when I was
+captivated with the sequel. An open world game where dealing with the environment
+and its denizens requires use of gadgets (and scissor lifts)!? Sign me up!
+
+The side characters each had interesting stories, and the hacks that you get to
+perform with alongside them made me smile so very big. From remote-controlling cars,
+to destroying voting machines to the tune of _Fortunate Son_, to hacking into
+satellite systems and using those to perform remote hacks, it doesn't let up.
 
 ### 4. Stardew Valley (PC & PS4)
 
