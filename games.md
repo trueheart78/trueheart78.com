@@ -32,7 +32,7 @@ rid of stuff that you aren't."_ - Me
 
 #### Playing
 
-1. DOOM (PS4)
+_TBD_
 
 <a name='for-fun'></a>
 
@@ -87,24 +87,27 @@ rid of stuff that you aren't."_ - Me
 #### Beaten
 
 1. Dark Souls III (PS4)
-  - Beaten 5 times, dagger, twinswords x2
+  + Beaten 5 times, dagger, twinswords x2
+1. DOOM (PS4)
+  + Handily the best FPS in ages.
+  + The guns. Oh, the guns. _swoon_
+  + Wins "Best Credit Sequence", hands down.
 1. Fallout 4 (PS4)
   - Got bored and took a 7 month break, finally pushed to the end.
 1. Hitman 2016: Season 1 (PS4)
-  - Amazing game with great humor, and tons of replayability.
-  - Not a fan of the _always-online_ requirement.
+  + Amazing game with great humor, and tons of replayability.
 1. Nuclear Throne (PS4)
   - Buggy port. Seriously bummed me out.
-1. Stardew Valley (PC)
-  - Wonderful indie game. Second year completed.
+1. Stardew Valley (PC) (PS4)
+  + Wonderful indie game. Second year completed.
   - Became a slog once the caves were mastered, especially year 2 winter.
 1. The Witcher 3: Wild Hunt (PS4)
-  - Very good game with great characters, especially _Yennefer_ and _Ciri_.
+  + Very good game with great characters, especially _Yennefer_ and _Ciri_.
 1. Thomas Was Alone (PS4)
-  - Fun game about AI rectangles.
+  + Fun game about AI rectangles.
 1. Watch_Dogs 2 (PS4)
-  - Fantastic game, even the open world was fun to explore.
-  - Great characters.
+  + Fantastic game, even the open world was fun to explore.
+  + Great characters.
 
 <a name='jettisoned'></a>
 
