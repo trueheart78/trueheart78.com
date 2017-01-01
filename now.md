@@ -6,12 +6,11 @@ permalink: /now/
 
 I'm currently living in Franklin, OH working remote for [CoverMyMeds](http://covermymeds.com) as a software developer.
 
-*Last updated on December 28th, 2016*
+*Last updated on January 1st, 2017*
 
 ### Now
 
 * Learning to cook.
-* Playing DOOM on my PS4.
 * Studying _The Ruby Closures Book_.
 
 ### Coming Up
@@ -27,6 +26,8 @@ I'm currently living in Franklin, OH working remote for [CoverMyMeds](http://cov
 
 ### History for 2016
 
+* Played _DOOM (PS4)_
+* Played _Stardew Valley (PS4)_
 * Played _Watch Dogs 2 (PS4)_
 * Played _The Witcher 3: Wild Hunt (PS4)_
 * Redesigned my blog/website, because I <img src="/assets/site-heart.webp" width="18px" height="18px" /> Ruby

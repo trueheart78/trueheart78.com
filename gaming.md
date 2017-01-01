@@ -10,3 +10,7 @@ Currently a console gamer enjoying the PS4.
 
 1. [Games](/games/)
 1. [Favorite Games](/favorite-games/)
+
+### Older Links
+
+1. [Games (2016)](/games-2016/)
