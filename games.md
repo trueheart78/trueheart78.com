@@ -42,6 +42,7 @@ _TBD_
 1. Darkest Dungeon (PS4)
 1. Diablo 3 (PS4)
 1. Hitman (PS4)
+1. Rocket League (PS4)
 1. Stardew Valley (PS4) 
 
 <a name='awaiting-content'></a>
