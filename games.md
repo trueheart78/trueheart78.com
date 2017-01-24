@@ -14,7 +14,7 @@ rid of stuff that you aren't."_ - Me
 [Notes][notes-to-self] |
 [Playing][currently-playing] |
 [For Funsies][for-fun] |
-<!-- [Awaiting Content][awaiting-content] | -->
+[Awaiting Content][awaiting-content] |
 [Undecided][undecided] |
 [Unplayed][unplayed] |
 [Beaten][beaten] |
@@ -46,6 +46,8 @@ rid of stuff that you aren't."_ - Me
 1. Stardew Valley (PS4)
 
 <a name='awaiting-content'></a>
+
+#### Awaiting Content
 
 1. Hitman (PS4)
   - Waiting on Season 2
