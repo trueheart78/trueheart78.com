@@ -9,7 +9,7 @@ looking for something else to play, instead of purchasing another title. That's
 really all this is for - to make sure you enjoy what you're playing and getting
 rid of stuff that you aren't."_ - Me
 
-*Last updated on January 1st, 2017*
+*Last updated on January 24th, 2017*
 
 [Notes][notes-to-self] |
 [Playing][currently-playing] |
@@ -32,22 +32,25 @@ rid of stuff that you aren't."_ - Me
 
 #### Playing
 
-_TBD_
+1. Bloodborne (PS4)
+1. Overwatch (PS4)
+1. Persona 4 (Vita)
 
 <a name='for-fun'></a>
 
 #### For Funsies 
 
-1. Dark Souls III (PS4)
-1. Darkest Dungeon (PS4)
+1. Darkest Dungeon (Vita)
 1. Diablo 3 (PS4)
-1. Hitman (PS4)
 1. Rocket League (PS4)
-1. Stardew Valley (PS4) 
+1. Stardew Valley (PS4)
 
 <a name='awaiting-content'></a>
 
-<!-- _None_ -->
+1. Hitman (PS4)
+  - Waiting on Season 2
+1. Dark Souls III (PS4)
+  - Will pick up after next DLC
 
 <a name='undecided'>
 
@@ -74,7 +77,12 @@ _TBD_
 1. Invisible, Inc. (PC)
 1. LEGO: The Movie (PS4)
 1. Mirror's Edge: Catalyst (PS4)
+1. Patapon (Vita)
+1. Persona 3 Portable (Vita)
+1. Resident Evil 2 (Vita)
+1. Risk of Rain (PS4/Vita)
 1. Shadowrun Returns: Dragonfall (PC)
+1. Steamworld Dig (PS4/Vita)
 1. The Witcher 3: Hearts of Stone DLC (PS4)
 1. The Witcher 3: Blood and Wine DLC (PS4)
 1. Titanfall 2 (PS4)
@@ -109,7 +117,12 @@ See the [New Releases Wiki][new-releases]
 
 #### Planned Purchases (Previously Released)
 
-1. Dragon Quest Builders (PS4) - $30 max
+1. Adventures of Mana (Vita) - $10 max
+1. Axiom Verge (PS4/Vita) - $10 max
+1. Dragon Quest Builders (PS4 or Vita) - $30 or 25 max
+1. Danganronpa: Tripper Happy Havoc (Vita) - $20 max
+1. Danganronpa 2: Goodbye Despair (Vita) - $25 max
+1. XCOM: Enemy Unknown Plus (Vita) - $10 max
 
 [new-releases]: https://en.wikipedia.org/wiki/2017_in_video_gaming#Game_releases
 [notes-to-self]: #notes-to-self
