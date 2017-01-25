@@ -115,6 +115,7 @@ See the [New Releases Wiki][new-releases]
 1. Danganronpa V3: Killing Harmony (Vita) - Wait and See
 1. Mass Effect: Andromeda (PS4) - Day One
 1. Night in the Woods (PS4) - Wait and See
+1. Persona 5 (PS4) - Wait and See
 1. Red Dead Redemption 2 (PS4) - Day One
 1. Uncharted: The Lost Legacy (PS4) - Wait and See
 1. Zero Escape: The Nonary Games (Vita) - Wait and See
@@ -124,7 +125,7 @@ See the [New Releases Wiki][new-releases]
 1. Adventures of Mana (Vita) - $10 max
 1. Axiom Verge (PS4/Vita) - $10 max
 1. Dragon Quest Builders (PS4 or Vita) - $30 or 25 max
-1. Danganronpa: Tripper Happy Havoc (Vita) - $20 max
+1. Danganronpa: Trigger Happy Havoc (Vita) - $20 max
 1. Danganronpa 2: Goodbye Despair (Vita) - $25 max
 1. XCOM: Enemy Unknown Plus (Vita) - $10 max
 1. Zero Escape: Virtue's Last Reward (Vita) - $15 max
