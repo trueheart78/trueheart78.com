@@ -54,10 +54,10 @@ In `spec/linters/rubocop_spec.rb`:
 ```ruby
 require 'spec_helper'
 
-describe 'Rubocop Analysis' do
-  let(:report) { `rubocop` }
+RSpec.describe 'rubocop analysis' do
+  subject(:report) { `rubocop` }
 
-  it 'Has no offenses' do
+  it 'has no offenses' do
     expect(report).to match(/no\ offenses\ detected/)
   end
 end
@@ -92,7 +92,6 @@ Documentation:
 # skips style of child classes and modules.
 Style/ClassAndModuleChildren:
   Enabled: false
-
 ```
 
 ### RSpec
