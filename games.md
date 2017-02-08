@@ -9,7 +9,7 @@ looking for something else to play, instead of purchasing another title. That's
 really all this is for - to make sure you enjoy what you're playing and getting
 rid of stuff that you aren't."_ - Me
 
-*Last updated on January 24th, 2017*
+*Last updated on February 8th, 2017*
 
 [Notes][notes-to-self] |
 [Playing][currently-playing] |
@@ -32,9 +32,9 @@ rid of stuff that you aren't."_ - Me
 
 #### Playing
 
+1. Persona 4 Golden (Vita)
 1. Bloodborne (PS4)
 1. Overwatch (PS4)
-1. Persona 4 (Vita)
 
 <a name='for-fun'></a>
 

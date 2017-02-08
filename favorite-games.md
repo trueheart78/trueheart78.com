@@ -4,20 +4,46 @@ title: Favorite Games
 permalink: /favorite-games/
 ---
 
-<!-- Game of the Year: [2016][goty-2016] -->
+Game of the Year: [2016][goty-2016]
 
 ### Of All Time
 
-1. Final Fantasy VI (SNES)
+### 1. Final Fantasy VI (SNES)
 
+_To be written._
+
+### 2. Persona 4 Golden (Vita)
+
+One of my favorite things about playing Final Fantasy VI back in the day was that
+it didn't stray from adult topics. Persona 4 Golden is the first game since then
+that I can remember tackling some similar issues. Memory loss, the price of fame,
+identity troubles, unfulfilled crushes, and even cross-dressing, are all addressed
+with this small, wonderful package.
+
+I say small, but this game easily spans 50+ hours. And it has ample VO, to boot.
+It's refreshing to play a game like this.
+
+Combat-wise, it allows you to micro-manage your teammates to the level you desire.
+Want them to focus on support and healing, or damage, or just want to give them
+orders yourself? And the tactics you set actually make the characters feel more
+alive. I'd only take control when a party member absolutely needed to do something
+and I hadn't been convinced by the AI enough to trust them. And to be fair, I
+think that happened once in my entire playthrough.
+
+I should mention the story, too. It contains mystery behind mystery, and takes
+some turns I did not see coming _at all_. I've laughed out loud many times at it,
+as well. The characters all have such great personalities, and are very much their
+own individuals.
+
+I can say I was honestly surprised that a game in 2017 would jump into second place
+on my favorite games of all time list, but here we are. And I think it deserves
+this spot, without question.
 
 ### Game of the Year
 
 <a name='goty-2016'></a>
 
 #### 2016
-
-_Still deciding_
 
 ### 1. Hitman (PS4)
 
@@ -108,6 +134,5 @@ player character's complete lack of care for anything that didn't involve violen
 I didn't like Geralt until I saw his interactions with Ciri. And then he made more
 sense to me. The fact that this game is on my list comes down to two reasons:
 Yenefer and Ciri.
-
 
 [goty-2016]: #goty-2016
