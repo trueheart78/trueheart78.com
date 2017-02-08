@@ -77,16 +77,6 @@ this:
 In `.rubocop.yml`:
 
 ```yaml
-Rails:
-  Enabled: true
-
-Documentation:
-  Enabled: false
-
-# skips style of child classes and modules.
-Style/ClassAndModuleChildren:
-  Enabled: false
-
 AllCops:
   Exclude:
     - 'Guardfile'
@@ -95,16 +85,6 @@ AllCops:
     - 'config/**/*'
     - 'vendor/**/*'
     - 'test/test_helper\.rb'
-```
-
-### RSpec
-
-To override the default Rubocop settings for RSpec, use something like the
-following:
-
-```yaml
-Rails:
-  Enabled: true
 
 Documentation:
   Enabled: false
@@ -113,12 +93,14 @@ Documentation:
 Style/ClassAndModuleChildren:
   Enabled: false
 
-RSpec/DescribeClass:
-  Exclude:
-    - 'spec/features/*'
-    - 'spec/views/**/*'
-    - 'spec/lint/rubocop_spec\.rb'
+```
 
+### RSpec
+
+To override the default Rubocop settings for RSpec, use something like the
+following:
+
+```yaml
 AllCops:
   Exclude:
     - 'Guardfile'
@@ -128,4 +110,20 @@ AllCops:
     - 'vendor/**/*'
     - 'spec/rails_helper\.rb'
     - 'spec/spec_helper\.rb'
+
+RSpec/DescribeClass:
+  Exclude:
+    - 'spec/features/*'
+    - 'spec/views/**/*'
+    - 'spec/lint/rubocop_spec\.rb'
+
+Documentation:
+  Enabled: false
+
+# skips style of child classes and modules.
+Style/ClassAndModuleChildren:
+  Enabled: false
+
+Metrics/BlockLength:
+  ExcludedMethods: ['describe', 'context', 'shared_examples']
 ```
