@@ -8,9 +8,13 @@ Game of the Year: [2016][goty-2016]
 
 ### Of All Time
 
+<a name='ffvi'></a>
+
 ### 1. Final Fantasy VI (SNES)
 
 _To be written._
+
+<a name='persona-4'></a>
 
 ### 2. Persona 4 Golden (Vita)
 
@@ -135,4 +139,6 @@ I didn't like Geralt until I saw his interactions with Ciri. And then he made mo
 sense to me. The fact that this game is on my list comes down to two reasons:
 Yenefer and Ciri.
 
+[ffvi]: #ffvi
+[persona-4]: #persona-4
 [goty-2016]: #goty-2016
