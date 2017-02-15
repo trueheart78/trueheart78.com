@@ -24,7 +24,7 @@ that I can remember tackling some similar issues. Memory loss, the price of fame
 identity troubles, unfulfilled crushes, and even cross-dressing, are all addressed
 with this small, wonderful package.
 
-I say small, but this game easily spans 50+ hours. And it has ample VO, to boot.
+I say small, but this game easily spans 60+ hours. And it has ample VO, to boot.
 It's refreshing to play a game like this.
 
 Combat-wise, it allows you to micro-manage your teammates to the level you desire.

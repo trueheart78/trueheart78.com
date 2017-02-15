@@ -9,7 +9,7 @@ looking for something else to play, instead of purchasing another title. That's
 really all this is for - to make sure you enjoy what you're playing and getting
 rid of stuff that you aren't."_ - Me
 
-*Last updated on February 8th, 2017*
+*Last updated on February 15th, 2017*
 
 [Notes][notes-to-self] |
 [Playing][currently-playing] |
@@ -32,9 +32,9 @@ rid of stuff that you aren't."_ - Me
 
 #### Playing
 
-1. Persona 4 Golden (Vita)
-1. Bloodborne (PS4)
+1. Nioh (PS4)
 1. Overwatch (PS4)
+1. Persona 4: Dancing All Night (Vita)
 
 <a name='for-fun'></a>
 
@@ -58,6 +58,7 @@ rid of stuff that you aren't."_ - Me
 
 #### Undecided
 
+1. Bloodborne (PS4)
 1. Final Fantasy X/X-2 HD Remastered (PS4)
   - X-2 has gotten a lil boring, but still fun.
   - Strategy guide arrived. I'd like to see this through.
@@ -97,7 +98,7 @@ rid of stuff that you aren't."_ - Me
 
 #### Beaten
 
-_TBD_
+1. Persona 4 Golden (Vita)
 
 <a name='jettisoned'></a>
 

@@ -6,13 +6,13 @@ permalink: /now/
 
 I'm currently living in Franklin, OH working remote for [CoverMyMeds](http://covermymeds.com) as a software developer.
 
-*Last updated on February 8th, 2017*
+*Last updated on February 15th, 2017*
 
 ### Now
 
-* Adoring **Persona 4 Golden** on Vita.
-  + Currently in December.
-* Playing **Overwatch** and **Bloodborne** on PS4.
+* Playing **Nioh** on PS4.
+* Playing **Overwatch** on PS4.
+* Playing **Persona 4: Dancing All Night** on VIta.
 * Learning to cook.
 * Studying _The Ruby Closures Book_.
 
@@ -26,6 +26,11 @@ I'm currently living in Franklin, OH working remote for [CoverMyMeds](http://cov
   * Left off at chapter 10: Processing Collections.
 * Studying [Working with TCP Sockets](http://www.jstorimer.com/products/working-with-tcp-sockets)
   - Left off at Chapter 14
+
+### History for 2017
+
+* Adored _Persona 4 Golden_ on Vita.
+* Played _Bloodborne_ on PS4.
 
 ### History for 2016
 
