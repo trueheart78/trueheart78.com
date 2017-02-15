@@ -9,7 +9,7 @@ permalink: /books/
 > list of books that I would like to get to, even if that is just skimming
 > - Me
 
-*Last updated on December 4th, 2016*
+*Last updated on February 15th, 2017*
 
 
 [Currently Reading][currently-reading] |
@@ -79,7 +79,7 @@ permalink: /books/
   - Lean Procrastination
   - Linux for Dummies
   - Practical Vim
-  - tmux
+  - tmux 2
 
 <a name='returning-to'></a>
 
