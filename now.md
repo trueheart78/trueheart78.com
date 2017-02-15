@@ -21,6 +21,7 @@ I'm currently living in Franklin, OH working remote for [CoverMyMeds](http://cov
 * Working with Rails 5.
 * Building [a podcast site](https://github.com/trueheart78/lifetab-podcast)
 * Learning to work with [Braintree](https://www.braintreepayments.com/) in Rails.
+  * Using the [ActiveMerchant gem](https://github.com/activemerchant/active_merchant).
 * Continuing my app study checklist.
 * Learning [Programming Elixir](https://pragprog.com/book/elixir12/programming-elixir-1-2) by Dave Thomas
   * Left off at chapter 10: Processing Collections.
