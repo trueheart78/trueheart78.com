@@ -6,18 +6,19 @@ permalink: /now/
 
 I'm currently living in Franklin, OH working remote for [CoverMyMeds](http://covermymeds.com) as a software developer.
 
-*Last updated on February 15th, 2017*
+*Last updated on February 20th, 2017*
 
 ### Now
 
 * Playing **Nioh** on PS4.
 * Playing **Overwatch** on PS4.
-* Playing **Persona 4: Dancing All Night** on VIta.
+* Playing **Persona 4 Arena** on PS3.
 * Learning to cook.
 * Studying _The Ruby Closures Book_.
 
 ### Coming Up
 
+* Playing **Persona 4 Dancing All Night** on Vita.
 * Working with Rails 5.
 * Building [a podcast site](https://github.com/trueheart78/lifetab-podcast)
 * Learning to work with [Braintree](https://www.braintreepayments.com/) in Rails.

@@ -9,7 +9,7 @@ looking for something else to play, instead of purchasing another title. That's
 really all this is for - to make sure you enjoy what you're playing and getting
 rid of stuff that you aren't."_ - Me
 
-*Last updated on February 15th, 2017*
+*Last updated on February 20th, 2017*
 
 [Notes][notes-to-self] |
 [Playing][currently-playing] |
@@ -33,8 +33,7 @@ rid of stuff that you aren't."_ - Me
 #### Playing
 
 1. Nioh (PS4)
-1. Overwatch (PS4)
-1. Persona 4: Dancing All Night (Vita)
+1. Persona 4 Arena (PS3)
 
 <a name='for-fun'></a>
 
@@ -42,6 +41,7 @@ rid of stuff that you aren't."_ - Me
 
 1. Darkest Dungeon (Vita)
 1. Diablo 3 (PS4)
+1. Overwatch (PS4)
 1. Rocket League (PS4)
 1. Stardew Valley (PS4)
 
@@ -82,6 +82,7 @@ rid of stuff that you aren't."_ - Me
 1. Mirror's Edge: Catalyst (PS4)
 1. Patapon (Vita)
 1. Persona 3 Portable (Vita)
+1. Persona 4 Dancing All Night (Vita)
 1. Resident Evil 2 (Vita)
 1. Risk of Rain (PS4/Vita)
 1. Shadowrun Returns: Dragonfall (PC)
@@ -104,7 +105,9 @@ rid of stuff that you aren't."_ - Me
 
 #### Jettisoned
 
-_TBD_
+1. Axiom Verge (PS4/Vita)
+  - I really wanted to like this, but just couldn't get into it
+    after hours of play.
 
 <a name='planned-purchases'></a>
 
@@ -123,14 +126,15 @@ See the [New Releases Wiki][new-releases]
 
 #### Planned Purchases (Previously Released)
 
-1. Adventures of Mana (Vita) - $10 max
-1. Axiom Verge (PS4/Vita) - $10 max
 1. Dragon Quest Builders (PS4 or Vita) - $30 or 25 max
-1. Danganronpa: Trigger Happy Havoc (Vita) - $20 max
-1. Danganronpa 2: Goodbye Despair (Vita) - $25 max
-1. XCOM: Enemy Unknown Plus (Vita) - $10 max
 1. Zero Escape: Virtue's Last Reward (Vita) - $15 max
 1. Zero Escape: Zero Time Dilemma (Vita) - $25 max
+1. ~~Adventures of Mana (Vita) - $10 max~~ [purchased]
+1. ~~Axiom Verge (PS4/Vita) - $10 max~~ [purchased]
+1. ~~Danganronpa: Trigger Happy Havoc (Vita) - $20 max~~ [purchased]
+1. ~~Danganronpa 2: Goodbye Despair (Vita) - $25 max~~ [purchased]
+1. ~~XCOM: Enemy Unknown Plus (Vita) - $10 max~~ [purchased]
+
 
 [new-releases]: https://en.wikipedia.org/wiki/2017_in_video_gaming#Game_releases
 [notes-to-self]: #notes-to-self
