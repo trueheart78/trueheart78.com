@@ -9,7 +9,7 @@ looking for something else to play, instead of purchasing another title. That's
 really all this is for - to make sure you enjoy what you're playing and getting
 rid of stuff that you aren't."_ - Me
 
-*Last updated on February 20th, 2017*
+*Last updated on February 23rd, 2017*
 
 [Notes][notes-to-self] |
 [Playing][currently-playing] |
@@ -32,6 +32,7 @@ rid of stuff that you aren't."_ - Me
 
 #### Playing
 
+1. Night in the Woods (PS4)
 1. Nioh (PS4)
 1. Persona 4 Arena (PS3)
 
@@ -42,6 +43,7 @@ rid of stuff that you aren't."_ - Me
 1. Darkest Dungeon (Vita)
 1. Diablo 3 (PS4)
 1. Overwatch (PS4)
+1. Risk of Rain (Vita)
 1. Rocket League (PS4)
 1. Stardew Valley (PS4)
 
@@ -117,12 +119,12 @@ See the [New Releases Wiki][new-releases]
 
 1. Agents of Mayhem (PS4) - Wait and See
 1. Danganronpa V3: Killing Harmony (Vita) - Wait and See
-1. Mass Effect: Andromeda (PS4) - Day One
-1. Night in the Woods (PS4) - Wait and See
-1. Persona 5 (PS4) - Wait and See
+1. Mass Effect: Andromeda (PS4) - Pre-ordered
+1. Persona 5 (PS4) - Pre-ordered
 1. Red Dead Redemption 2 (PS4) - Day One
 1. Uncharted: The Lost Legacy (PS4) - Wait and See
 1. Zero Escape: The Nonary Games (Vita) - Wait and See
+1. ~~Night in the Woods (PS4) - Wait and See~~ [purchased]
 
 #### Planned Purchases (Previously Released)
 
