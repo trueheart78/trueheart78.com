@@ -9,7 +9,7 @@ looking for something else to play, instead of purchasing another title. That's
 really all this is for - to make sure you enjoy what you're playing and getting
 rid of stuff that you aren't."_ - Me
 
-*Last updated on February 23rd, 2017*
+*Last updated on February 24th, 2017*
 
 [Notes][notes-to-self] |
 [Playing][currently-playing] |
@@ -32,7 +32,6 @@ rid of stuff that you aren't."_ - Me
 
 #### Playing
 
-1. Night in the Woods (PS4)
 1. Nioh (PS4)
 1. Persona 4 Arena (PS3)
 
@@ -102,6 +101,12 @@ rid of stuff that you aren't."_ - Me
 #### Beaten
 
 1. Persona 4 Golden (Vita)
+   + Wow. Just... wow.
+   + Made it to # 2 on my [Favorite Games of All Time list][p4g].
+1. Night in the Woods (PS4)
+   + Easy contender for Indie Game of the Year.
+   + If I hadn't played Persona 4 Golden, this would be my
+     favorite game I've played in 2017.
 
 <a name='jettisoned'></a>
 
@@ -148,3 +153,4 @@ See the [New Releases Wiki][new-releases]
 [jettisoned]: #jettisoned
 [for-fun]: #for-fun
 [planned-purchases]: #planned-purchases
+[p4g]: /favorite-games/#persona-4
