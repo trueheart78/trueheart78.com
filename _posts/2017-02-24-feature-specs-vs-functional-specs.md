@@ -11,13 +11,11 @@ development more difficult for new maintainers. These are **Functional
 Specs**, and they are meant to test out the application in a final state of
 polish (at least in my experience).
 
-However functional specs are not nearly as useful as **Feature Specs**. To be 
+However, functional specs are not nearly as useful as **Feature Specs**. To be 
 able to be able to run specs against a perfectly recreated environment is where
-feature specs shine.
-
-Yes, feature specs are more difficult to write than functional specs, but their
-value is in being able to run them _exactly how you want_. Whether it be with
-a specially crafted database record or a third-party API.
+feature specs shine. Yes, they are more complex to write than functional specs,
+but their value is in being able to run them _exactly how you want_. Whether it
+be with a specially crafted database record or a third-party API.
 
 Feature specs allow you handle concerns like:
 
