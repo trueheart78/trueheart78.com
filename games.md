@@ -9,7 +9,7 @@ looking for something else to play, instead of purchasing another title. That's
 really all this is for - to make sure you enjoy what you're playing and getting
 rid of stuff that you aren't."_ - Me
 
-*Last updated on February 24th, 2017*
+*Last updated on February 27th, 2017*
 
 [Notes][notes-to-self] |
 [Playing][currently-playing] |
@@ -32,7 +32,6 @@ rid of stuff that you aren't."_ - Me
 
 #### Playing
 
-1. Nioh (PS4)
 1. Persona 4 Arena (PS3)
 
 <a name='for-fun'></a>
@@ -107,6 +106,11 @@ rid of stuff that you aren't."_ - Me
    + Easy contender for Indie Game of the Year.
    + If I hadn't played Persona 4 Golden, this would be my
      favorite game I've played in 2017.
+1. Nioh (PS4)
+   + Was very good early on, but later became less interesting
+     as I found the available skills quite limited.
+   + Story was... meh
+   + Feels like a solid C+ / B-
 
 <a name='jettisoned'></a>
 
