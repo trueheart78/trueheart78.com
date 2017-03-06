@@ -9,7 +9,7 @@ looking for something else to play, instead of purchasing another title. That's
 really all this is for - to make sure you enjoy what you're playing and getting
 rid of stuff that you aren't."_ - Me
 
-*Last updated on February 27th, 2017*
+*Last updated on March 6th, 2017*
 
 [Notes][notes-to-self] |
 [Playing][currently-playing] |
@@ -68,7 +68,6 @@ rid of stuff that you aren't."_ - Me
 #### Unplayed
 
 1. Assassin's Creed: Syndicate (PS4)
-1. Bloodborne (PS4)
 1. Costume Quest 2 (PS4)
 1. Dark Souls (PS3)
 1. Dark Souls II: Scholar of the First Sin (PS4)
@@ -84,7 +83,6 @@ rid of stuff that you aren't."_ - Me
 1. Persona 3 Portable (Vita)
 1. Persona 4 Dancing All Night (Vita)
 1. Resident Evil 2 (Vita)
-1. Risk of Rain (PS4/Vita)
 1. Shadowrun Returns: Dragonfall (PC)
 1. Steamworld Dig (PS4/Vita)
 1. The Witcher 3: Hearts of Stone DLC (PS4)
@@ -102,6 +100,8 @@ rid of stuff that you aren't."_ - Me
 1. Persona 4 Golden (Vita)
    + Wow. Just... wow.
    + Made it to # 2 on my [Favorite Games of All Time list][p4g].
+1. Risk of Rain (Vita)
+   + Nice replayable portable title.
 1. Night in the Woods (PS4)
    + Easy contender for Indie Game of the Year.
    + If I hadn't played Persona 4 Golden, this would be my
