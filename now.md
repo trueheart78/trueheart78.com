@@ -6,10 +6,11 @@ permalink: /now/
 
 I'm currently living in Franklin, OH working remote for [CoverMyMeds](http://covermymeds.com) as a software developer.
 
-*Last updated on March 6th, 2017*
+*Last updated on March 24th, 2017*
 
 ### Now
 
+* Playing **Horizon: Zero Dawn** on PS4.
 * Playing **Overwatch** on PS4.
 * Playing **Persona 4 Arena** on PS3.
 * Learning to cook.
