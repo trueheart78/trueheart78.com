@@ -39,9 +39,43 @@ some turns I did not see coming _at all_. I've laughed out loud many times at it
 as well. The characters all have such great personalities, and are very much their
 own individuals.
 
-I can say I was honestly surprised that a game in 2017 would jump into second place
-on my favorite games of all time list, but here we are. And I think it deserves
-this spot, without question.
+I can say I was honestly surprised that a game originally released in 2008 that
+I never got to until 2017 would jump into second place on my favorite games of all
+time list, but here we are. And I think it deserves this spot, without question.
+
+<a name='horizon-zero-dawn'></a>
+
+### Horizon: Zero Dawn
+
+Not quite sure where this game goes on my overall list of favorites ever. For a
+2017 game though, it's going to take a lot to challenge it for GotY. Oh yeah, and
+it's only March...
+
+My bullet points, until I get to writing up something more proper:
+
++ Love the stealth / noise mechanic.
++ The World is so great.
+  + Love the scope of the world.
+  + Barely used mounts because the world was just fun to explore.
++ Love the machine variety.
+  + Really loved the snapmaws when I discovered them.
+  + Fighting machines rarely got old.
+  + It felt like fighting dinosaurs.
++ Love when battles go crazy and you are just scrambling to win.
++ Love the range of weapon features.
+  + upgrade paths unlock new elemental damage.
++ Armor is interesting.
+  + Stealth armor is cool.
+  + Enjoy the selection and the designs.
+  + Would like an easier way to switch armors.
++ Music is wonderful
++ Story-wise:
+  + When I learned the backstory post-Deathbringer, I felt sick.
+  + The idea of "Zero Dawn" is pretty frickin’ awesome.
+  + The ending gave me the feels. It got dusty, for sure.
++ Ashly Burch killed it as Aloy.
++ Lance Reddick was a great addition.
++ Strong women throughout the game. 
 
 ### Game of the Year
 

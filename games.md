@@ -9,7 +9,7 @@ looking for something else to play, instead of purchasing another title. That's
 really all this is for - to make sure you enjoy what you're playing and getting
 rid of stuff that you aren't."_ - Me
 
-*Last updated on March 24th, 2017*
+*Last updated on March 27th, 2017*
 
 [Notes][notes-to-self] |
 [Playing][currently-playing] |
@@ -32,8 +32,6 @@ rid of stuff that you aren't."_ - Me
 
 #### Playing
 
-1. Horizon: Zero Dawn (PS4)
-   + 60 hours in and loving every minute of it.
 1. Persona 4 Arena (PS3)
 
 <a name='for-fun'></a>
@@ -113,6 +111,9 @@ rid of stuff that you aren't."_ - Me
      as I found the available skills quite limited.
    + Story was... meh
    + Feels like a solid C+ / B-
+1. Horizon: Zero Dawn (PS4)
+   + 70 hours and loved every minute of it.
+   + Solid A / A+
 
 <a name='jettisoned'></a>
 
