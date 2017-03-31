@@ -9,7 +9,7 @@ looking for something else to play, instead of purchasing another title. That's
 really all this is for - to make sure you enjoy what you're playing and getting
 rid of stuff that you aren't."_ - Me
 
-*Last updated on March 27th, 2017*
+*Last updated on March 31st, 2017*
 
 [Notes][notes-to-self] |
 [Playing][currently-playing] |
@@ -33,6 +33,9 @@ rid of stuff that you aren't."_ - Me
 #### Playing
 
 1. Persona 4 Arena (PS3)
+1. Dark Souls III (PS4)
+  1. Ashes of Ariendel DLC (PS4)
+  1. The Ringed City DLC (PS4)
 
 <a name='for-fun'></a>
 
@@ -51,8 +54,6 @@ rid of stuff that you aren't."_ - Me
 
 1. Hitman (PS4)
   - Waiting on Season 2
-1. Dark Souls III (PS4)
-  - Will pick up after next DLC
 
 <a name='undecided'>
 
@@ -70,8 +71,7 @@ rid of stuff that you aren't."_ - Me
 1. Assassin's Creed: Syndicate (PS4)
 1. Costume Quest 2 (PS4)
 1. Dark Souls (PS3)
-1. Dark Souls II: Scholar of the First Sin (PS4)
-1. Dark Souls III: Ashes of Ariendel DLC (PS4)
+  1. Dark Souls II: Scholar of the First Sin (PS4)
 1. Deus Ex: Mankind Divided (PS4)
 1. Divinity: Original Sin (PS4)
 1. Grow Home (PS4)
