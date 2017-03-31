@@ -34,8 +34,8 @@ rid of stuff that you aren't."_ - Me
 
 1. Persona 4 Arena (PS3)
 1. Dark Souls III (PS4)
-  1. Ashes of Ariendel DLC (PS4)
-  1. The Ringed City DLC (PS4)
+   - Ashes of Ariendel DLC (PS4)
+   - The Ringed City DLC (PS4)
 
 <a name='for-fun'></a>
 
