@@ -14,6 +14,7 @@ Rules:
 1. CANNOT wear armor.
 1. CANNOT use a weapon that is not considered a dagger.
 1. CAN use offhand weapons, like paired daggers or a parrying dagger.
+1. CAN parry.
 1. CANNOT use throwing items that are not knives or daggers.
 1. CANNOT summon other PC or NPCs.
 1. CAN work with quest givers during fights, like Siegward.
