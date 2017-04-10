@@ -9,7 +9,7 @@ looking for something else to play, instead of purchasing another title. That's
 really all this is for - to make sure you enjoy what you're playing and getting
 rid of stuff that you aren't."_ - Me
 
-*Last updated on March 31st, 2017*
+*Last updated on April 10th, 2017*
 
 [Notes][notes-to-self] |
 [Playing][currently-playing] |
@@ -32,8 +32,9 @@ rid of stuff that you aren't."_ - Me
 
 #### Playing
 
+1. Playing **Persona 5** on PS4.
 1. Persona 4 Arena (PS3)
-1. Dark Souls III (PS4)
+1. Dark Souls III (PS4) _Naked Bandit Knife Run_
    - Ashes of Ariendel DLC (PS4)
    - The Ringed City DLC (PS4)
 
