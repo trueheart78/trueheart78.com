@@ -9,16 +9,21 @@ permalink: /naked-dagger/
 A naked dagger run is a type of challenge run I created for myself after watching
 certain streamers take down bosses with no armor. I wanted to do that, as well.
 
-Rules:
+Restrictions:
 
 1. CANNOT wear armor.
 1. CANNOT use a weapon that is not considered a dagger.
-1. CAN use offhand weapons, like paired daggers or a parrying dagger.
-1. CAN parry.
 1. CANNOT use throwing items that are not knives or daggers.
 1. CANNOT summon other PC or NPCs.
+1. CANNOT use magic.
+
+Unrestricted:
+
+1. CAN use offhand weapons, like paired daggers or a parrying dagger.
+1. CAN parry and riposte.
 1. CAN work with quest givers during fights, like Siegward.
 1. CAN wear any ring.
+1. CAN use weapon buffs.
 
 ## Aldritch
 
