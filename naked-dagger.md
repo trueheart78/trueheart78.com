@@ -1,16 +1,33 @@
 ---
 layout: page
-title: Naked Dagger Challenge Runs (NDR)
+title: Naked Dagger Runs
 permalink: /naked-dagger/
 ---
 
 *Last updated on April 10th, 2017*
 
+A naked dagger run is a type of challenge run I created for myself after watching
+certain streamers take down bosses with no armor. I wanted to do that, as well.
+
+Rules:
+
+1. CANNOT wear armor.
+1. CANNOT use a weapon that is not considered a dagger.
+1. CAN use offhand weapons, like paired daggers or a parrying dagger.
+1. CANNOT use throwing items that are not knives or daggers.
+1. CANNOT summon other PC or NPCs.
+1. CAN work with quest givers during fights, like Siegward.
+1. CAN wear any ring.
+
 ## Aldritch
+
+_Description forthcoming._
 
 <iframe width="720" height="405" src="https://www.youtube.com/embed/zzcpvACZa7c" frameborder="0" allowfullscreen></iframe>
 
 ## Dragonslayer Armor
+
+_Description forthcoming._
 
 <iframe width="720" height="405" src="https://www.youtube.com/embed/5EjdnCYzP44" frameborder="0" allowfullscreen></iframe>
 
