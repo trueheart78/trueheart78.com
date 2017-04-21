@@ -4,7 +4,8 @@ title: Favorite Games
 permalink: /favorite-games/
 ---
 
-Game of the Year: [2016][goty-2016] | [Random Thoughts][random-thoughts]
++ [Game of the Year 2016][goty-2016]
++ [Random Thoughts][random-thoughts]
 
 ### Of All Time
 
@@ -188,3 +189,4 @@ Yenefer and Ciri.
 [ffvi]: #ffvi
 [persona-4]: #persona-4
 [goty-2016]: #goty-2016
+[random-thoughts]: #random-thoughts
