@@ -18,7 +18,6 @@ I'm currently living in Franklin, OH working remote for [CoverMyMeds](http://cov
 
 ### Coming Up
 
-* Playing **Dark Souls 3 DLC** on PS3.
 * Playing **Persona 4 Dancing All Night** on Vita.
 * Working with Rails 5.
 * Building [a podcast site](https://github.com/trueheart78/lifetab-podcast)
