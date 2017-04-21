@@ -4,7 +4,7 @@ title: Favorite Games
 permalink: /favorite-games/
 ---
 
-Game of the Year: [2016][goty-2016]
+Game of the Year: [2016][goty-2016] | [Random Thoughts][random-thoughts]
 
 ### Of All Time
 
@@ -76,6 +76,18 @@ My bullet points, until I get to writing up something more proper:
 + Ashly Burch killed it as Aloy.
 + Lance Reddick was a great addition.
 + Strong women throughout the game. 
+
+<a name='random-thoughts'></a>
+
+### Random Thoughts for 2017 Games
+
++ Persona 5 was dang good.
+  + Persona 4 Golden still my favorite. See [favorite games #2][p4g].
++ Horizon: Zero Dawn was amazeballs.
++ Night in the Woods.
+  + Wowzers.
++ Nioh
+  + Solid, but forgettable.
 
 ### Game of the Year
 

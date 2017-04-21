@@ -9,7 +9,7 @@ looking for something else to play, instead of purchasing another title. That's
 really all this is for - to make sure you enjoy what you're playing and getting
 rid of stuff that you aren't."_ - Me
 
-*Last updated on April 10th, 2017*
+*Last updated on April 21st, 2017*
 
 [Notes][notes-to-self] |
 [Playing][currently-playing] |
@@ -32,9 +32,8 @@ rid of stuff that you aren't."_ - Me
 
 #### Playing
 
-1. Playing **Persona 5** on PS4.
 1. Persona 4 Arena (PS3)
-1. Dark Souls III (PS4) _Naked Bandit Knife Run_
+1. Dark Souls III (PS4) [Naked Dagger Challenge Runs](/naked-dagger/)
    - Ashes of Ariendel DLC (PS4)
    - The Ringed City DLC (PS4)
 
@@ -115,6 +114,11 @@ rid of stuff that you aren't."_ - Me
 1. Horizon: Zero Dawn (PS4)
    + 70 hours and loved every minute of it.
    + Solid A / A+
+1. Persona 5 (PS4).
+   + 97hrs 40min and it was quite good.
+   + Makoto is bae _#waifu_.
+   + Great game with excellent characters.
+   + Solid A / A+.
 
 <a name='jettisoned'></a>
 
