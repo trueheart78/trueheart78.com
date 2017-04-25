@@ -6,12 +6,15 @@ permalink: /now/
 
 I'm currently living in Franklin, OH working remote for [CoverMyMeds](http://covermymeds.com) as a software developer.
 
-*Last updated on April 21st, 2017*
+*Last updated on April 25th, 2017*
 
 ### Now
 
 * Doing my **Dark Souls III** [naked dagger challenge runs](/naked-dagger/) on PS4.
 * Playing **Overwatch** on PS4.
+* Playing **Persona 1** on Vita.
+* Playing **Persona 5** on PS4.
+  + NG+
 * Playing **Persona 4 Arena** on PS3.
 * Learning to cook.
 * Studying _The Ruby Closures Book_.

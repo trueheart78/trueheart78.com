@@ -9,7 +9,7 @@ looking for something else to play, instead of purchasing another title. That's
 really all this is for - to make sure you enjoy what you're playing and getting
 rid of stuff that you aren't."_ - Me
 
-*Last updated on April 21st, 2017*
+*Last updated on April 25th, 2017*
 
 [Notes][notes-to-self] |
 [Playing][currently-playing] |
@@ -32,6 +32,9 @@ rid of stuff that you aren't."_ - Me
 
 #### Playing
 
+1. Persona 5 (PS4)
+   + NG+
+1. Persona 1 (PSP/Vita)
 1. Persona 4 Arena (PS3)
 1. Dark Souls III (PS4) [Naked Dagger Challenge Runs](/naked-dagger/)
    - Ashes of Ariendel DLC (PS4)
