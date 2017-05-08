@@ -19,7 +19,7 @@ _To be written._
 
 ### 2. Persona 4 Golden (Vita)
 
-The only game I've ever wanted to hug.
+**The only game I've ever wanted to hug.**
 
 One of my favorite things about playing Final Fantasy VI back in the day was that
 it didn't stray from adult topics. Persona 4 Golden is the first game since then

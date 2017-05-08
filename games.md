@@ -9,7 +9,7 @@ looking for something else to play, instead of purchasing another title. That's
 really all this is for - to make sure you enjoy what you're playing and getting
 rid of stuff that you aren't."_ - Me
 
-*Last updated on April 29th, 2017*
+*Last updated on May 8th, 2017*
 
 [Notes][notes-to-self] |
 [Playing][currently-playing] |
@@ -32,12 +32,12 @@ rid of stuff that you aren't."_ - Me
 
 #### Playing
 
-1. Persona 5 (PS4)
-   + NG+
-1. Persona 1 (PSP/Vita)
 1. Dark Souls III (PS4) [Naked Dagger Challenge Runs](/naked-dagger/)
    - Ashes of Ariendel DLC (PS4)
    - The Ringed City DLC (PS4)
+1. Persona 5 (PS4)
+   + NG+
+1. Persona 1 (PSP/Vita)
 
 <a name='for-fun'></a>
 
@@ -61,7 +61,6 @@ rid of stuff that you aren't."_ - Me
 
 #### Undecided
 
-1. Bloodborne (PS4)
 1. Final Fantasy X/X-2 HD Remastered (PS4)
   - X-2 has gotten a lil boring, but still fun.
   - Strategy guide arrived. I'd like to see this through.
@@ -73,21 +72,25 @@ rid of stuff that you aren't."_ - Me
 #### Unplayed
 
 1. Assassin's Creed: Syndicate (PS4)
+1. Beatcop (PC)
 1. Costume Quest 2 (PS4)
 1. Dark Souls (PS3)
-  1. Dark Souls II: Scholar of the First Sin (PS4)
+1. Dark Souls II: Scholar of the First Sin (PS4)
 1. Deus Ex: Mankind Divided (PS4)
 1. Divinity: Original Sin (PS4)
+1. Dragon Quest Builders (PS4)
 1. Grow Home (PS4)
 1. Inside (PS4)
 1. Invisible, Inc. (PC)
 1. LEGO: The Movie (PS4)
 1. Mirror's Edge: Catalyst (PS4)
+1. Nier: Automata (PS4)
 1. Patapon (Vita)
 1. Persona 3 Portable (Vita)
 1. Persona 4 Dancing All Night (Vita)
 1. Resident Evil 2 (Vita)
 1. Shadowrun Returns: Dragonfall (PC)
+1. Shadowrun Returns: Hong Kong (PC)
 1. Steamworld Dig (PS4/Vita)
 1. The Witcher 3: Hearts of Stone DLC (PS4)
 1. The Witcher 3: Blood and Wine DLC (PS4)
@@ -131,6 +134,11 @@ rid of stuff that you aren't."_ - Me
 1. Axiom Verge (PS4/Vita)
   - I really wanted to like this, but just couldn't get into it
     after hours of play.
+1. Bloodborne (PS4)
+  - Just not enjoying it.
+1. Flinthook (PS4)
+  - Love the style, but after nearly 10 hours, still can't be
+    the first boss. If rebalanced, will consider returning to it.
 
 <a name='planned-purchases'></a>
 
@@ -140,22 +148,22 @@ See the [New Releases Wiki][new-releases]
 
 1. Agents of Mayhem (PS4) - Wait and See
 1. Danganronpa V3: Killing Harmony (Vita) - Wait and See
-1. Mass Effect: Andromeda (PS4) - Pre-ordered
-1. Persona 5 (PS4) - Pre-ordered
+1. Mass Effect: Andromeda (PS4) - $30 max
 1. Red Dead Redemption 2 (PS4) - Day One
 1. Uncharted: The Lost Legacy (PS4) - Wait and See
 1. Zero Escape: The Nonary Games (Vita) - Wait and See
 1. ~~Night in the Woods (PS4) - Wait and See~~ [purchased]
+1. ~~Persona 5 (PS4) - Pre-ordered~~ [purchased]
 
 #### Planned Purchases (Previously Released)
 
-1. Dragon Quest Builders (PS4 or Vita) - $30 or 25 max
 1. Zero Escape: Virtue's Last Reward (Vita) - $15 max
 1. Zero Escape: Zero Time Dilemma (Vita) - $25 max
 1. ~~Adventures of Mana (Vita) - $10 max~~ [purchased]
 1. ~~Axiom Verge (PS4/Vita) - $10 max~~ [purchased]
 1. ~~Danganronpa: Trigger Happy Havoc (Vita) - $20 max~~ [purchased]
 1. ~~Danganronpa 2: Goodbye Despair (Vita) - $25 max~~ [purchased]
+1. ~~Dragon Quest Builders (PS4 or Vita) - $30 or 25 max~~ [purchased]
 1. ~~XCOM: Enemy Unknown Plus (Vita) - $10 max~~ [purchased]
 
 
