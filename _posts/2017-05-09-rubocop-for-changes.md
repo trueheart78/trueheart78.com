@@ -18,11 +18,11 @@ better validate changes.
 ```ruby
 class RuboCopper
   def analyze
-    system 'rubocop', *files
+    system 'rubocop', '--display-cop-names', *files
   end
 
   def autofix
-    system 'rubocop', '-a', *files
+    system 'rubocop', '--auto-correct', '--display-cop-names', *files
   end
 
   def valid?
