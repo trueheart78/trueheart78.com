@@ -9,7 +9,7 @@ looking for something else to play, instead of purchasing another title. That's
 really all this is for - to make sure you enjoy what you're playing and getting
 rid of stuff that you aren't."_ - Me
 
-*Last updated on May 8th, 2017*
+*Last updated on May 11th, 2017*
 
 [Notes][notes-to-self] |
 [Playing][currently-playing] |
@@ -32,12 +32,11 @@ rid of stuff that you aren't."_ - Me
 
 #### Playing
 
+1. Deus Ex: Mankind Divided (PS4)
 1. Dark Souls III (PS4) [Naked Dagger Challenge Runs](/naked-dagger/)
    - Ashes of Ariendel DLC (PS4)
    - The Ringed City DLC (PS4)
-1. Persona 5 (PS4)
-   + NG+
-1. Persona 1 (PSP/Vita)
+1. Dragon Quest Builders (Vita/PS4)
 
 <a name='for-fun'></a>
 
@@ -76,9 +75,7 @@ rid of stuff that you aren't."_ - Me
 1. Costume Quest 2 (PS4)
 1. Dark Souls (PS3)
 1. Dark Souls II: Scholar of the First Sin (PS4)
-1. Deus Ex: Mankind Divided (PS4)
 1. Divinity: Original Sin (PS4)
-1. Dragon Quest Builders (PS4)
 1. Grow Home (PS4)
 1. Inside (PS4)
 1. Invisible, Inc. (PC)
@@ -92,8 +89,6 @@ rid of stuff that you aren't."_ - Me
 1. Shadowrun Returns: Dragonfall (PC)
 1. Shadowrun Returns: Hong Kong (PC)
 1. Steamworld Dig (PS4/Vita)
-1. The Witcher 3: Hearts of Stone DLC (PS4)
-1. The Witcher 3: Blood and Wine DLC (PS4)
 1. Titanfall 2 (PS4)
 1. Tomb Raider: Rise of the Tomb Raider (PS4)
 1. Uncharted 3 from _The Uncharted Collection_ (PS4)
@@ -139,6 +134,12 @@ rid of stuff that you aren't."_ - Me
 1. Flinthook (PS4)
   - Love the style, but after nearly 10 hours, still can't be
     the first boss. If rebalanced, will consider returning to it.
+1. Persona 1 (PSP/Vita)
+  - I get what they were going for, and after about 10 hours, I'm good.
+1. The Witcher 3: Hearts of Stone DLC (PS4)
+  - I will never to get the Witcher 3 DLCs.
+1. The Witcher 3: Blood and Wine DLC (PS4)
+  - I will never to get the Witcher 3 DLCs.
 
 <a name='planned-purchases'></a>
 
@@ -165,7 +166,6 @@ See the [New Releases Wiki][new-releases]
 1. ~~Danganronpa 2: Goodbye Despair (Vita) - $25 max~~ [purchased]
 1. ~~Dragon Quest Builders (PS4 or Vita) - $30 or 25 max~~ [purchased]
 1. ~~XCOM: Enemy Unknown Plus (Vita) - $10 max~~ [purchased]
-
 
 [new-releases]: https://en.wikipedia.org/wiki/2017_in_video_gaming#Game_releases
 [notes-to-self]: #notes-to-self
