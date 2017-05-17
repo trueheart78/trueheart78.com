@@ -27,7 +27,7 @@ the remote to push to:
 ```sh
 git-deploy () {
   if [[ -n "$1" ]] ; then
-    current_branch="$(git rev-parse --abbrev-ref HEAD | tr -d '\n')"
+    current_branch="$(git rev-parse --abbrev-ref HEAD | xargs echo -n)"
     echo "Deploying '$current_branch' to $1:master"
     git push -f $1 $current_branch:master
   else
