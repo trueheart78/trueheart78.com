@@ -9,7 +9,7 @@ looking for something else to play, instead of purchasing another title. That's
 really all this is for - to make sure you enjoy what you're playing and getting
 rid of stuff that you aren't."_ - Me
 
-*Last updated on May 11th, 2017*
+*Last updated on May 25th, 2017*
 
 [Notes][notes-to-self] |
 [Playing][currently-playing] |
@@ -88,7 +88,6 @@ rid of stuff that you aren't."_ - Me
 1. Resident Evil 2 (Vita)
 1. Shadowrun Returns: Dragonfall (PC)
 1. Shadowrun Returns: Hong Kong (PC)
-1. Steamworld Dig (PS4/Vita)
 1. Titanfall 2 (PS4)
 1. Tomb Raider: Rise of the Tomb Raider (PS4)
 1. Uncharted 3 from _The Uncharted Collection_ (PS4)
@@ -102,6 +101,9 @@ rid of stuff that you aren't."_ - Me
 1. Persona 4 Golden (Vita)
    + Wow. Just... wow.
    + Made it to # 2 on my [Favorite Games of All Time list][p4g].
+1. Steamworld Dig (PS4/Vita)
+   + Fun game
+   + Too short :(
 1. Risk of Rain (Vita)
    + Nice replayable portable title.
 1. Night in the Woods (PS4)
@@ -127,19 +129,20 @@ rid of stuff that you aren't."_ - Me
 #### Jettisoned
 
 1. Axiom Verge (PS4/Vita)
-  - I really wanted to like this, but just couldn't get into it
+   - I really wanted to like this, but just couldn't get into it
     after hours of play.
 1. Bloodborne (PS4)
-  - Just not enjoying it.
+   - Quit after about 70% into the main game.
+   - Just not enjoying it.
 1. Flinthook (PS4)
-  - Love the style, but after nearly 10 hours, still can't be
+   - Love the style, but after nearly 10 hours, still can't be
     the first boss. If rebalanced, will consider returning to it.
 1. Persona 1 (PSP/Vita)
-  - I get what they were going for, and after about 10 hours, I'm good.
+   - I get what they were going for, and after about 10 hours, I'm good.
 1. The Witcher 3: Hearts of Stone DLC (PS4)
-  - I will never to get the Witcher 3 DLCs.
+   - I will never to get the Witcher 3 DLCs.
 1. The Witcher 3: Blood and Wine DLC (PS4)
-  - I will never to get the Witcher 3 DLCs.
+   - I will never to get the Witcher 3 DLCs.
 
 <a name='planned-purchases'></a>
 
@@ -149,12 +152,12 @@ See the [New Releases Wiki][new-releases]
 
 1. Agents of Mayhem (PS4) - Wait and See
 1. Danganronpa V3: Killing Harmony (Vita) - Wait and See
-1. Mass Effect: Andromeda (PS4) - $30 max
-1. Red Dead Redemption 2 (PS4) - Day One
+1. Mass Effect: Andromeda (PS4) - $20 max
 1. Uncharted: The Lost Legacy (PS4) - Wait and See
 1. Zero Escape: The Nonary Games (Vita) - Wait and See
 1. ~~Night in the Woods (PS4) - Wait and See~~ [purchased]
 1. ~~Persona 5 (PS4) - Pre-ordered~~ [purchased]
+1. ~~Red Dead Redemption 2 (PS4) - Day One~~ [delayed to 2018]
 
 #### Planned Purchases (Previously Released)
 
