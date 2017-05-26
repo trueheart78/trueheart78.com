@@ -9,7 +9,7 @@ looking for something else to play, instead of purchasing another title. That's
 really all this is for - to make sure you enjoy what you're playing and getting
 rid of stuff that you aren't."_ - Me
 
-*Last updated on May 25th, 2017*
+*Last updated on May 26th, 2017*
 
 [Notes][notes-to-self] |
 [Playing][currently-playing] |
@@ -32,7 +32,6 @@ rid of stuff that you aren't."_ - Me
 
 #### Playing
 
-1. Deus Ex: Mankind Divided (PS4)
 1. Dark Souls III (PS4) [Naked Dagger Challenge Runs](/naked-dagger/)
    - Ashes of Ariendel DLC (PS4)
    - The Ringed City DLC (PS4)
@@ -123,6 +122,11 @@ rid of stuff that you aren't."_ - Me
    + Makoto is bae _#waifu_.
    + Great game with excellent characters.
    + Solid A / A+.
+1. Deus Ex: Mankind Divided (PS4)
+   + Story was alright. I liked that it connects to Deus Ex (2000).
+   + Gameplay was decent.
+   + Framerate on the Pro was rough.
+   + Feels like a C.
 
 <a name='jettisoned'></a>
 
