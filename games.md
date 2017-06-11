@@ -9,7 +9,7 @@ looking for something else to play, instead of purchasing another title. That's
 really all this is for - to make sure you enjoy what you're playing and getting
 rid of stuff that you aren't."_ - Me
 
-*Last updated on May 26th, 2017*
+*Last updated on June 10th, 2017*
 
 [Notes][notes-to-self] |
 [Playing][currently-playing] |
@@ -29,33 +29,40 @@ rid of stuff that you aren't."_ - Me
 + I stop playing open world games when I complete the main story.
 
 <a name='currently-playing'></a>
+<!-- currently-playing:start -->
 
 #### Playing
 
 1. Dark Souls III (PS4) [Naked Dagger Challenge Runs](/naked-dagger/)
-   - Ashes of Ariendel DLC (PS4)
-   - The Ringed City DLC (PS4)
+   - Ashes of Ariendel (DLC) (PS4)
+   - The Ringed City (DLC) (PS4)
 1. Dragon Quest Builders (Vita/PS4)
 
+<!-- currently-playing:end -->
 <a name='for-fun'></a>
+<!-- for-fun:start -->
 
 #### For Funsies 
 
-1. Darkest Dungeon (Vita)
+1. Darkest Dungeon (Vita/PS4)
 1. Diablo 3 (PS4)
 1. Overwatch (PS4)
-1. Risk of Rain (Vita)
+1. Risk of Rain (Vita/PS4)
 1. Rocket League (PS4)
 1. Stardew Valley (PS4)
 
+<!-- for-fun:end -->
 <a name='awaiting-content'></a>
+<!-- awaiting-content:start -->
 
 #### Awaiting Content
 
 1. Hitman (PS4)
   - Waiting on Season 2
 
+<!-- awaiting-content:end -->
 <a name='undecided'>
+<!-- undecided:start -->
 
 #### Undecided
 
@@ -65,7 +72,9 @@ rid of stuff that you aren't."_ - Me
 1. Persona 4 Arena (PS3)
   - Story isn't as captivating as it was in P4G.
 
+<!-- undecided:end -->
 <a name='unplayed'></a>
+<!-- unplayed:start -->
 
 #### Unplayed
 
@@ -77,8 +86,6 @@ rid of stuff that you aren't."_ - Me
 1. Divinity: Original Sin (PS4)
 1. Grow Home (PS4)
 1. Inside (PS4)
-1. Invisible, Inc. (PC)
-1. LEGO: The Movie (PS4)
 1. Mirror's Edge: Catalyst (PS4)
 1. Nier: Automata (PS4)
 1. Patapon (Vita)
@@ -88,12 +95,16 @@ rid of stuff that you aren't."_ - Me
 1. Shadowrun Returns: Dragonfall (PC)
 1. Shadowrun Returns: Hong Kong (PC)
 1. Titanfall 2 (PS4)
+1. The Last of Us: Remastered (PS4)
+1. The Last of Us: Left Behind (DLC) (PS4)
 1. Tomb Raider: Rise of the Tomb Raider (PS4)
 1. Uncharted 3 from _The Uncharted Collection_ (PS4)
 1. Uncharted 4 (PS4)
 1. Undertale (PC)
 
+<!-- unplayed:end -->
 <a name='beaten'></a>
+<!-- beaten:start -->
 
 #### Beaten
 
@@ -127,8 +138,14 @@ rid of stuff that you aren't."_ - Me
    + Gameplay was decent.
    + Framerate on the Pro was rough.
    + Feels like a C.
+1. Invisible, Inc. (PS4)
+   + Shorter than expected.
+   + Fun roguelite but not up for replaying.
+   + I give it a B-.
 
+<!-- beaten:end -->
 <a name='jettisoned'></a>
+<!-- jettisoned:start -->
 
 #### Jettisoned
 
@@ -144,11 +161,15 @@ rid of stuff that you aren't."_ - Me
 1. Persona 1 (PSP/Vita)
    - I get what they were going for, and after about 10 hours, I'm good.
 1. The Witcher 3: Hearts of Stone DLC (PS4)
-   - I will never to get the Witcher 3 DLCs.
+   - I will never get to the Witcher 3 DLCs.
 1. The Witcher 3: Blood and Wine DLC (PS4)
-   - I will never to get the Witcher 3 DLCs.
+   - I will never get to the Witcher 3 DLCs.
+1. LEGO: The Movie (PS4)
+   - Not a priority.
 
+<!-- jettisoned:end -->
 <a name='planned-purchases'></a>
+<!-- planned-purchases:start -->
 
 #### Planned Purchases 
 
@@ -173,6 +194,8 @@ See the [New Releases Wiki][new-releases]
 1. ~~Danganronpa 2: Goodbye Despair (Vita) - $25 max~~ [purchased]
 1. ~~Dragon Quest Builders (PS4 or Vita) - $30 or 25 max~~ [purchased]
 1. ~~XCOM: Enemy Unknown Plus (Vita) - $10 max~~ [purchased]
+
+<!-- planned-purchases:end -->
 
 [new-releases]: https://en.wikipedia.org/wiki/2017_in_video_gaming#Game_releases
 [notes-to-self]: #notes-to-self
