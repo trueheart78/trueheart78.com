@@ -9,7 +9,7 @@ looking for something else to play, instead of purchasing another title. That's
 really all this is for - to make sure you enjoy what you're playing and getting
 rid of stuff that you aren't."_ - Me
 
-*Last updated on June 10th, 2017*
+*Last updated on June 12th, 2017*
 
 [Notes][notes-to-self] |
 [Playing][currently-playing] |
@@ -29,20 +29,23 @@ rid of stuff that you aren't."_ - Me
 + I stop playing open world games when I complete the main story.
 
 <a name='currently-playing'></a>
-<!-- currently-playing:start -->
+<!-- playing:start -->
 
 #### Playing
 
+1. Tomb Raider: Rise of the Tomb Raider (PS4)
+1. Nier: Automata (PS4)
 1. Dark Souls III (PS4) [Naked Dagger Challenge Runs](/naked-dagger/)
    - Ashes of Ariendel (DLC) (PS4)
    - The Ringed City (DLC) (PS4)
 1. Dragon Quest Builders (Vita/PS4)
 
-<!-- currently-playing:end -->
+<!-- playing:end -->
 <a name='for-fun'></a>
 <!-- for-fun:start -->
 
 #### For Funsies -- [Randomly Pick One](http://random-game.trueheart78.com/for-fun)
+
 1. Darkest Dungeon (Vita/PS4)
 1. Diablo 3 (PS4)
 1. Overwatch (PS4)
@@ -85,8 +88,6 @@ rid of stuff that you aren't."_ - Me
 1. Divinity: Original Sin (PS4)
 1. Grow Home (PS4)
 1. Inside (PS4)
-1. Mirror's Edge: Catalyst (PS4)
-1. Nier: Automata (PS4)
 1. Patapon (Vita)
 1. Persona 3 Portable (Vita)
 1. Persona 4 Dancing All Night (Vita)
@@ -96,7 +97,6 @@ rid of stuff that you aren't."_ - Me
 1. Titanfall 2 (PS4)
 1. The Last of Us: Remastered (PS4)
 1. The Last of Us: Left Behind (DLC) (PS4)
-1. Tomb Raider: Rise of the Tomb Raider (PS4)
 1. Uncharted 3 from _The Uncharted Collection_ (PS4)
 1. Uncharted 4 (PS4)
 1. Undertale (PC)
@@ -165,6 +165,9 @@ rid of stuff that you aren't."_ - Me
    - I will never get to the Witcher 3 DLCs.
 1. LEGO: The Movie (PS4)
    - Not a priority.
+1. Mirror's Edge: Catalyst (PS4)
+   - Played for a couple hours and it was alright.
+   - Don't have any desire to play it more.
 
 <!-- jettisoned:end -->
 <a name='planned-purchases'></a>
