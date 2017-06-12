@@ -35,9 +35,7 @@ rid of stuff that you aren't."_ - Me
 
 1. Tomb Raider: Rise of the Tomb Raider (PS4)
 1. Nier: Automata (PS4)
-1. Dark Souls III (PS4) [Naked Dagger Challenge Runs](/naked-dagger/)
-   - Ashes of Ariendel (DLC) (PS4)
-   - The Ringed City (DLC) (PS4)
+1. Dark Souls III & DLCs (DLC) (PS4) [Naked Dagger Challenge Runs](/naked-dagger/)
 1. Dragon Quest Builders (Vita/PS4)
 
 <!-- playing:end -->
