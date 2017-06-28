@@ -6,20 +6,20 @@ permalink: /now/
 
 I'm currently living in Franklin, OH working remote for [CoverMyMeds](http://covermymeds.com) as a software developer.
 
-*Last updated on June 5th, 2017*
+*Last updated on June 28th, 2017*
 
 ### Now
 
 * Learning [Elm](http://elm-lang.org).
+* Working with Rails 5.
 * Studying _The Rails 5 Way_.
+* Replaying **Stardew Valley** on PS4.
 * Playing **Overwatch** on PS4.
-* Doing my **Dark Souls III** [naked dagger challenge runs](/naked-dagger/) on PS4.
 * Learning to cook.
 
 ### Coming Up
 
 * Playing **Persona 4 Dancing All Night** on Vita.
-* Working with Rails 5.
 * Building [a podcast site](https://github.com/trueheart78/lifetab-podcast)
 * Learning to work with [Braintree](https://www.braintreepayments.com/) in Rails.
   * Using the [ActiveMerchant gem](https://github.com/activemerchant/active_merchant).
@@ -31,6 +31,7 @@ I'm currently living in Franklin, OH working remote for [CoverMyMeds](http://cov
 
 ### History for 2017
 
+* Did my _Dark Souls III_ [naked dagger challenge runs](/naked-dagger/) on PS4.
 * Played _Persona 1_ on Vita.
 * Played _Persona 4 Arena_ on PS3.
 * Studied _The Ruby Closures Book_.

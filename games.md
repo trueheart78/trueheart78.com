@@ -9,7 +9,7 @@ looking for something else to play, instead of purchasing another title. That's
 really all this is for - to make sure you enjoy what you're playing and getting
 rid of stuff that you aren't."_ - Me
 
-*Last updated on June 12th, 2017*
+*Last updated on June 28th, 2017*
 
 [Notes][notes-to-self] |
 [Playing][currently-playing] |
@@ -46,6 +46,7 @@ rid of stuff that you aren't."_ - Me
 
 1. Darkest Dungeon (Vita/PS4)
 1. Diablo 3 (PS4)
+1. Hot Shots: World Invitational (Vita)
 1. Overwatch (PS4)
 1. Risk of Rain (Vita/PS4)
 1. Rocket League (PS4)
@@ -84,6 +85,9 @@ rid of stuff that you aren't."_ - Me
 1. Dark Souls (PS3)
 1. Dark Souls II: Scholar of the First Sin (PS4)
 1. Divinity: Original Sin (PS4)
+1. Final Fantasy VII (Vita)
+1. God of War Collection (Vita)
+1. Gravity Rush (Vita)
 1. Grow Home (PS4)
 1. Inside (PS4)
 1. Patapon (Vita)
@@ -98,6 +102,8 @@ rid of stuff that you aren't."_ - Me
 1. Uncharted 3 from _The Uncharted Collection_ (PS4)
 1. Uncharted 4 (PS4)
 1. Undertale (PC)
+1. Wolfenstein: The New Blood (PS4)
+1. Wolfenstein: The Old Order (DLC) (PS4)
 
 <!-- unplayed:end -->
 <a name='beaten'></a>

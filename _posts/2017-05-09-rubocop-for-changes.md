@@ -115,7 +115,7 @@ You can then inspect the current branch with all relevant Ruby files being
 analyzed by Rubocop.
 
 ```ruby
-puts RuboCopper.new.valid? ? 'Looks Good' : 'Ugggggghhhh'
+puts RubocopHelper.new.valid? ? 'Looks Good' : 'Ugggggghhhh'
 ```
 
 [rubocop-for-tests]: 2016-09-18-make-rubocop-part-of-your-tests.md
