@@ -82,6 +82,8 @@ rid of stuff that you aren't."_ - Me
 1. Assassin's Creed: Syndicate (PS4)
 1. Beatcop (PC)
 1. Costume Quest 2 (PS4)
+1. Danganronpa: Trigger Happy Havoc (Vita)
+1. Danganronpa 2: Goodbye Despair (Vita)
 1. Dark Souls (PS3)
 1. Dark Souls II: Scholar of the First Sin (PS4)
 1. Divinity: Original Sin (PS4)
@@ -89,7 +91,7 @@ rid of stuff that you aren't."_ - Me
 1. God of War Collection (Vita)
 1. Gravity Rush (Vita)
 1. Grow Home (PS4)
-1. Inside (PS4)
+1. Neon Chrome (Vita)
 1. Patapon (Vita)
 1. Persona 3 Portable (Vita)
 1. Persona 4 Dancing All Night (Vita)
@@ -172,6 +174,8 @@ rid of stuff that you aren't."_ - Me
 1. Mirror's Edge: Catalyst (PS4)
    - Played for a couple hours and it was alright.
    - Don't have any desire to play it more.
+1. Inside (PS4)
+   - Had it spoiled for me.
 
 <!-- jettisoned:end -->
 <a name='planned-purchases'></a>
