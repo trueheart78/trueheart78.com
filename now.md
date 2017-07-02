@@ -6,14 +6,14 @@ permalink: /now/
 
 I'm currently living in Franklin, OH working remote for [CoverMyMeds](http://covermymeds.com) as a software developer.
 
-*Last updated on June 28th, 2017*
+*Last updated on July 2nd, 2017*
 
 ### Now
 
 * Learning [Elm](http://elm-lang.org).
 * Working with Rails 5.
 * Studying _The Rails 5 Way_.
-* Replaying **Stardew Valley** on PS4.
+* Playing **Nier: Automata** on PS4.
 * Playing **Overwatch** on PS4.
 * Learning to cook.
 
@@ -31,6 +31,8 @@ I'm currently living in Franklin, OH working remote for [CoverMyMeds](http://cov
 
 ### History for 2017
 
+* Played _Rise of the Tomb Raider_ on PS4.
+* Replayed _Stardew Valley_ on PS4.
 * Did my _Dark Souls III_ [naked dagger challenge runs](/naked-dagger/) on PS4.
 * Played _Persona 1_ on Vita.
 * Played _Persona 4 Arena_ on PS3.

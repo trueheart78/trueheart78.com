@@ -9,7 +9,7 @@ looking for something else to play, instead of purchasing another title. That's
 really all this is for - to make sure you enjoy what you're playing and getting
 rid of stuff that you aren't."_ - Me
 
-*Last updated on June 28th, 2017*
+*Last updated on July 2nd, 2017*
 
 [Notes][notes-to-self] |
 [Playing][currently-playing] |
@@ -33,7 +33,6 @@ rid of stuff that you aren't."_ - Me
 
 #### Playing
 
-1. Tomb Raider: Rise of the Tomb Raider (PS4)
 1. Nier: Automata (PS4)
 1. Dark Souls III & DLCs (DLC) (PS4) [Naked Dagger Challenge Runs](/naked-dagger/)
 1. Dragon Quest Builders (Vita/PS4)
@@ -147,6 +146,9 @@ rid of stuff that you aren't."_ - Me
    + Shorter than expected.
    + Fun roguelite but not up for replaying.
    + I give it a B-.
+1. Tomb Raider: Rise of the Tomb Raider (PS4)
+   + Great game with a wonderful Lara.
+   + I give it an A.
 
 <!-- beaten:end -->
 <a name='jettisoned'></a>
