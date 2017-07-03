@@ -41,7 +41,7 @@ rid of stuff that you aren't."_ - Me
 <a name='for-fun'></a>
 <!-- for-fun:start -->
 
-#### For Funsies -- [Randomly Pick One](http://random-game.trueheart78.com/for-fun)
+#### For Funsies -- <a href="http://random-game.trueheart78.com/for-fun" target="_blank">Randomly Pick One</a>
 
 1. Darkest Dungeon (Vita/PS4)
 1. Diablo 3 (PS4)
@@ -76,7 +76,7 @@ rid of stuff that you aren't."_ - Me
 <a name='unplayed'></a>
 <!-- unplayed:start -->
 
-#### Unplayed -- [Randomly Pick One](http://random-game.trueheart78.com/unplayed)
+#### Unplayed -- <a href="http://random-game.trueheart78.com/unplayed" target="_blank">Randomly Pick One</a>
 
 1. Assassin's Creed: Syndicate (PS4)
 1. Beatcop (PC)
