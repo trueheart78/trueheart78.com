@@ -23,7 +23,7 @@ looking for something else to play, instead of purchasing another title. That's
 really all this is for - to make sure you enjoy what you're playing and getting
 rid of stuff that you aren't."_ - Me
 
-*Last updated on July 2nd, 2017*
+*Last updated on July 3rd, 2017*
 
 [Notes][notes-to-self] |
 [Playing][currently-playing] |
@@ -58,7 +58,7 @@ rid of stuff that you aren't."_ - Me
 #### For Funsies -- <a href="javascript: randomGame('for-fun')" target="_blank" id="for-fun-link">Randomly Pick One</a>
 
 1. Darkest Dungeon (Vita/PS4)
-1. Diablo 3 (PS4)
+1. Dead Cells (PC)
 1. Hot Shots: World Invitational (Vita)
 1. Overwatch (PS4)
 1. Risk of Rain (Vita/PS4)
