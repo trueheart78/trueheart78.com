@@ -4,6 +4,20 @@ title: Games
 permalink: /games/
 ---
 
+<script>
+function randomGame(type) {
+  type = (type) ? type : 'unplayed';
+  var oReq = new XMLHttpRequest();
+  oReq.onload = function (e) {
+    var game = JSON.parse(e.target.response).game;
+    var id = type + "-link";
+    document.getElementById(id).innerHTML = game;
+  };
+  oReq.open('GET', 'http://random-game.trueheart78.com/api/' + type, true);
+  oReq.send();
+}
+</script>
+
 _"You should be playing games you enjoy. Just remember your pile when you start
 looking for something else to play, instead of purchasing another title. That's
 really all this is for - to make sure you enjoy what you're playing and getting
@@ -41,7 +55,7 @@ rid of stuff that you aren't."_ - Me
 <a name='for-fun'></a>
 <!-- for-fun:start -->
 
-#### For Funsies -- <a href="http://random-game.trueheart78.com/for-fun" target="_blank">Randomly Pick One</a>
+#### For Funsies -- <a href="javascript: randomGame('for-fun')" target="_blank" id="for-fun-link">Randomly Pick One</a>
 
 1. Darkest Dungeon (Vita/PS4)
 1. Diablo 3 (PS4)
@@ -76,7 +90,7 @@ rid of stuff that you aren't."_ - Me
 <a name='unplayed'></a>
 <!-- unplayed:start -->
 
-#### Unplayed -- <a href="http://random-game.trueheart78.com/unplayed" target="_blank">Randomly Pick One</a>
+#### Unplayed -- <a href="javascript: randomGame('unplayed')" target="_blank" id="unplayed-link">Randomly Pick One</a>
 
 1. Assassin's Creed: Syndicate (PS4)
 1. Beatcop (PC)
