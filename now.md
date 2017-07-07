@@ -6,13 +6,15 @@ permalink: /now/
 
 I'm currently living in Franklin, OH working remote for [CoverMyMeds](http://covermymeds.com) as a software developer.
 
-*Last updated on July 2nd, 2017*
+*Last updated on July 7th, 2017*
 
 ### Now
 
 * Learning [Elm](http://elm-lang.org).
-* Working with Rails 5.
+  + Loving it.
 * Studying _The Rails 5 Way_.
+* Playing **Dead Cells** on PC.
+  + This game is awesome.
 * Playing **Nier: Automata** on PS4.
 * Playing **Overwatch** on PS4.
 * Learning to cook.
