@@ -13,7 +13,7 @@ function randomGame(type) {
     var id = type + "-link";
     document.getElementById(id).innerHTML = game;
   };
-  oReq.open('GET', 'http://random-game.trueheart78.com/api/' + type, true);
+  oReq.open('GET', 'https://random-game.trueheart78.com/api/' + type, true);
   oReq.send();
 }
 </script>
