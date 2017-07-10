@@ -23,7 +23,7 @@ looking for something else to play, instead of purchasing another title. That's
 really all this is for - to make sure you enjoy what you're playing and getting
 rid of stuff that you aren't."_ - Me
 
-*Last updated on July 3rd, 2017*
+*Last updated on July 10th, 2017*
 
 [Notes][notes-to-self] |
 [Playing][currently-playing] |
@@ -47,9 +47,10 @@ rid of stuff that you aren't."_ - Me
 
 #### Playing
 
-1. Nier: Automata (PS4)
-1. Dark Souls III & DLCs (DLC) (PS4) [Naked Dagger Challenge Runs](/naked-dagger/)
-1. Dragon Quest Builders (Vita/PS4)
+1. Uncharted 3 from _The Uncharted Collection_ (PS4)
+1. Final Fantasy X/X-2 HD Remastered (PS4)
+  - X-2 has gotten a lil boring, but still fun.
+  - Strategy guide arrived. I'd like to see this through.
 
 <!-- playing:end -->
 <a name='for-fun'></a>
@@ -57,10 +58,11 @@ rid of stuff that you aren't."_ - Me
 
 #### For Funsies -- <a href="javascript: randomGame('for-fun')" target="_blank" id="for-fun-link">Randomly Pick One</a>
 
+1. Dragon Quest Builders (Vita/PS4)
+1. Dark Souls III & DLCs (DLC) (PS4) [Naked Dagger Challenge Runs](/naked-dagger/)
 1. Darkest Dungeon (Vita/PS4)
 1. Dead Cells (PC)
 1. Hot Shots: World Invitational (Vita)
-1. Overwatch (PS4)
 1. Risk of Rain (Vita/PS4)
 1. Rocket League (PS4)
 1. Stardew Valley (PS4)
@@ -80,9 +82,6 @@ rid of stuff that you aren't."_ - Me
 
 #### Undecided
 
-1. Final Fantasy X/X-2 HD Remastered (PS4)
-  - X-2 has gotten a lil boring, but still fun.
-  - Strategy guide arrived. I'd like to see this through.
 1. Persona 4 Arena (PS3)
   - Story isn't as captivating as it was in P4G.
 
@@ -105,6 +104,7 @@ rid of stuff that you aren't."_ - Me
 1. Gravity Rush (Vita)
 1. Grow Home (PS4)
 1. Neon Chrome (Vita)
+1. Nier: Automata (PS4)
 1. Patapon (Vita)
 1. Persona 3 Portable (Vita)
 1. Persona 4 Dancing All Night (Vita)
@@ -114,7 +114,6 @@ rid of stuff that you aren't."_ - Me
 1. Titanfall 2 (PS4)
 1. The Last of Us: Remastered (PS4)
 1. The Last of Us: Left Behind (DLC) (PS4)
-1. Uncharted 3 from _The Uncharted Collection_ (PS4)
 1. Uncharted 4 (PS4)
 1. Undertale (PC)
 1. Wolfenstein: The New Blood (PS4)
@@ -192,6 +191,11 @@ rid of stuff that you aren't."_ - Me
    - Don't have any desire to play it more.
 1. Inside (PS4)
    - Had it spoiled for me.
+1. Overwatch (PS4)
+   - I love the aesthetic.
+   - I love the characters.
+   - I love watching people play it.
+   - However, playing multiplayer does not jive with my anxiety.
 
 <!-- jettisoned:end -->
 <a name='planned-purchases'></a>
