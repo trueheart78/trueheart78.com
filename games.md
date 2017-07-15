@@ -23,7 +23,7 @@ looking for something else to play, instead of purchasing another title. That's
 really all this is for - to make sure you enjoy what you're playing and getting
 rid of stuff that you aren't."_ - Me
 
-*Last updated on July 10th, 2017*
+_Last updated on July 15th, 2017_
 
 [Notes][notes-to-self] |
 [Playing][currently-playing] |
@@ -47,7 +47,7 @@ rid of stuff that you aren't."_ - Me
 
 #### Playing
 
-1. Uncharted 3 from _The Uncharted Collection_ (PS4)
+1. Final Fantasy XII: The Zodiac Age (PS4)
 1. Final Fantasy X/X-2 HD Remastered (PS4)
   - X-2 has gotten a lil boring, but still fun.
   - Strategy guide arrived. I'd like to see this through.
@@ -162,6 +162,9 @@ rid of stuff that you aren't."_ - Me
 1. Tomb Raider: Rise of the Tomb Raider (PS4)
    + Great game with a wonderful Lara.
    + I give it an A.
+1. Uncharted 3 from _The Uncharted Collection_ (PS4)
+   + It was good, and somewhat fun.
+   + It's a solid C+.
 
 <!-- beaten:end -->
 <a name='jettisoned'></a>

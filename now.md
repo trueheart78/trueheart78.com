@@ -6,22 +6,22 @@ permalink: /now/
 
 I'm currently living in Franklin, OH working remote for [CoverMyMeds](http://covermymeds.com) as a software developer.
 
-*Last updated on July 10th, 2017*
+_Last updated on July 15th, 2017_
 
 ### Now
 
 * Learning [Elm](http://elm-lang.org).
   + Loving it.
 * Studying _The Rails 5 Way_.
-* Playing **Uncharted 3** on PS4.
-* Playing **Dead Cells** on PC.
+* Playing _Final Fantasy XII: The Zodiac Age_ on PS4.
+* Playing _Dead Cells_ on PC.
   + This game is awesome.
 * Learning to cook.
 
 ### Coming Up
 
-* Playing **Persona 4 Dancing All Night** on Vita.
-* Playing **Nier: Automata** on PS4.
+* Playing _Persona 4 Dancing All Night_ on Vita.
+* Playing _Nier: Automata_ on PS4.
 * Building [a podcast site](https://github.com/trueheart78/lifetab-podcast)
 * Learning to work with [Braintree](https://www.braintreepayments.com/) in Rails.
   * Using the [ActiveMerchant gem](https://github.com/activemerchant/active_merchant).
@@ -33,6 +33,7 @@ I'm currently living in Franklin, OH working remote for [CoverMyMeds](http://cov
 
 ### History for 2017
 
+* Played _Uncharted 3_ on PS4.
 * Played _Overwatch_ on PS4.
 * Played _Rise of the Tomb Raider_ on PS4.
 * Replayed _Stardew Valley_ on PS4.
