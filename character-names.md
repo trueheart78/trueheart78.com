@@ -22,7 +22,7 @@ _Last updated on July 18th, 2017_
 
 #### <a href="javascript: randomName()" id="character-name-link">Random Character Name</a>
 
-<!-- start:characters -->
+<!-- characters:start -->
 
 + Ashe (F) - Final Fantasy XII
 + Ashelia (F) - Final Fantasy XII
@@ -30,4 +30,4 @@ _Last updated on July 18th, 2017_
 + Olive (F) - FRINGE
 + Butts (F)
 
-<!-- end:characters -->
+<!-- characters:end -->
