@@ -13,7 +13,19 @@ function randomGame(type) {
     var id = type + "-link";
     document.getElementById(id).innerHTML = game;
   };
-  oReq.open('GET', 'https://random-game.trueheart78.com/api/' + type, true);
+  oReq.open('GET', 'https://random.pls.lol/api/' + type, true);
+  oReq.send();
+}
+
+function randomName(sex) {
+  sex = (sex) ? sex : 'any';
+  var oReq = new XMLHttpRequest();
+  oReq.onload = function (e) {
+    var name = JSON.parse(e.target.response).name;
+    var id = "character-name-link";
+    document.getElementById(id).innerHTML = name;
+  };
+  oReq.open('GET', 'https://random.pls.lol/api/character-name/' + sex, true);
   oReq.send();
 }
 </script>
@@ -42,6 +54,8 @@ _Last updated on July 15th, 2017_
 + I should not buy DLC until I am ready to play it.
 + I stop playing open world games when I complete the main story.
 
+#### <a href="javascript: randomName()" id="character-name-link">Random Character Name</a>
+
 <a name='currently-playing'></a>
 <!-- playing:start -->
 
@@ -56,7 +70,7 @@ _Last updated on July 15th, 2017_
 <a name='for-fun'></a>
 <!-- for-fun:start -->
 
-#### For Funsies -- <a href="javascript: randomGame('for-fun')" target="_blank" id="for-fun-link">Randomly Pick One</a>
+#### For Funsies -- <a href="javascript: randomGame('for-fun')" id="for-fun-link">Randomly Pick One</a>
 
 1. Dragon Quest Builders (Vita/PS4)
 1. Dark Souls III & DLCs (DLC) (PS4) [Naked Dagger Challenge Runs](/naked-dagger/)
@@ -89,7 +103,7 @@ _Last updated on July 15th, 2017_
 <a name='unplayed'></a>
 <!-- unplayed:start -->
 
-#### Unplayed -- <a href="javascript: randomGame('unplayed')" target="_blank" id="unplayed-link">Randomly Pick One</a>
+#### Unplayed -- <a href="javascript: randomGame('unplayed')" id="unplayed-link">Randomly Pick One</a>
 
 1. Assassin's Creed: Syndicate (PS4)
 1. Beatcop (PC)
