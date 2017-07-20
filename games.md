@@ -18,14 +18,18 @@ function randomGame(type) {
 }
 
 function randomName(sex) {
-  sex = (sex) ? sex : 'any';
+  sex = (sex) ? '/' + sex : '';
   var oReq = new XMLHttpRequest();
   oReq.onload = function (e) {
-    var name = JSON.parse(e.target.response).name;
+    var character = JSON.parse(e.target.response);
     var id = "character-name-link";
-    document.getElementById(id).innerHTML = name;
+    var output = character.name + ' (' + character.sex + ')';
+    if(character.title != '') {
+        output += ' from ' + character.title;
+    }
+    document.getElementById(id).innerHTML = output;
   };
-  oReq.open('GET', 'https://random.pls.lol/api/character-name/' + sex, true);
+  oReq.open('GET', 'https://random.pls.lol/api/character-name' + sex, true);
   oReq.send();
 }
 </script>
