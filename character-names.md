@@ -26,6 +26,7 @@ _Last updated on July 18th, 2017_
 
 + Ashe (F) - Final Fantasy XII
 + Ashelia (F) - Final Fantasy XII
++ Basch (M) - Final Fantasy XII
 + Olivia (F) - FRINGE
 + Olive (F) - FRINGE
 + Butts (F)
