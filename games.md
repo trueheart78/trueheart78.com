@@ -39,7 +39,7 @@ looking for something else to play, instead of purchasing another title. That's
 really all this is for - to make sure you enjoy what you're playing and getting
 rid of stuff that you aren't."_ - Me
 
-_Last updated on July 15th, 2017_
+_Last updated on July 21st, 2017_
 
 [Notes][notes-to-self] |
 [Playing][currently-playing] |
@@ -228,6 +228,7 @@ See the [New Releases Wiki][new-releases]
 
 1. Agents of Mayhem (PS4) - Wait and See
 1. Danganronpa V3: Killing Harmony (Vita) - Wait and See
+1. Life is Strange: Bfore the Storm (PS4) - Preordered
 1. Mass Effect: Andromeda (PS4) - $20 max
 1. Uncharted: The Lost Legacy (PS4) - Wait and See
 1. Zero Escape: The Nonary Games (Vita) - Wait and See
