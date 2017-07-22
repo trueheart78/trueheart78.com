@@ -228,7 +228,7 @@ See the [New Releases Wiki][new-releases]
 
 1. Agents of Mayhem (PS4) - Wait and See
 1. Danganronpa V3: Killing Harmony (Vita) - Wait and See
-1. Life is Strange: Bfore the Storm (PS4) - Preordered
+1. Life is Strange: Before the Storm (PS4) - Preordered
 1. Mass Effect: Andromeda (PS4) - $20 max
 1. Uncharted: The Lost Legacy (PS4) - Wait and See
 1. Zero Escape: The Nonary Games (Vita) - Wait and See
