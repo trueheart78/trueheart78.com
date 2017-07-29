@@ -39,7 +39,7 @@ looking for something else to play, instead of purchasing another title. That's
 really all this is for - to make sure you enjoy what you're playing and getting
 rid of stuff that you aren't."_ - Me
 
-_Last updated on July 21st, 2017_
+_Last updated on July 29th, 2017_
 
 [Notes][notes-to-self] |
 [Playing][currently-playing] |
@@ -65,7 +65,7 @@ _Last updated on July 21st, 2017_
 
 #### Playing
 
-1. Final Fantasy XII: The Zodiac Age (PS4)
+1. Uncharted 4 (PS4)
 1. Final Fantasy X/X-2 HD Remastered (PS4)
   - X-2 has gotten a lil boring, but still fun.
   - Strategy guide arrived. I'd like to see this through.
@@ -132,7 +132,6 @@ _Last updated on July 21st, 2017_
 1. Titanfall 2 (PS4)
 1. The Last of Us: Remastered (PS4)
 1. The Last of Us: Left Behind (DLC) (PS4)
-1. Uncharted 4 (PS4)
 1. Undertale (PC)
 1. Wolfenstein: The New Blood (PS4)
 1. Wolfenstein: The Old Order (DLC) (PS4)
@@ -183,6 +182,12 @@ _Last updated on July 21st, 2017_
 1. Uncharted 3 from _The Uncharted Collection_ (PS4)
    + It was good, and somewhat fun.
    + It's a solid C+.
+1. Final Fantasy XII: The Zodiac Age (PS4)
+   + Surprisingly fun.
+   + Story was done quite well.
+   + Battle system didn't feel restrained, it felt very open.
+   + Grandiose at times, without overdoing it.
+   + I give it an A- / A.
 
 <!-- beaten:end -->
 <a name='jettisoned'></a>
