@@ -14,8 +14,9 @@ permalink: /about/
 </div>
 
 My name is Josh and I'm a full time developer, and, if you can't tell, I
-<img src="/assets/site-heart.webp" width="18px" height="18px" /> Ruby.
+<img src="/assets/site-heart.webp" width="18px" height="18px" /> [Ruby][ruby-lang].
 
 Also: I love memes &mdash; especially a good [business cat][business-cat].
 
 [business-cat]: http://knowyourmeme.com/memes/business-cat
+[ruby-lang]: https://www.ruby-lang.org
