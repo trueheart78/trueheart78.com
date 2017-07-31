@@ -7,13 +7,9 @@ site_heart:
   big: <img src="/assets/site-heart.webp" height="26" width="26" />
   small: <img src="/assets/site-heart.webp" height="16" width="16" />
 email: josh@trueheart78.com
-description: > # this means to ignore newlines until "baseurl:"
-  Q: How do I love thee, Ruby?<br/>A: Let me count the ways...
 
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://blog.trueheart.com" # the base hostname & protocol for your site
-twitter_username: trueheart78
-github_username:  trueheart78
 
 # Build settings
 markdown: kramdown
