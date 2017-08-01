@@ -116,6 +116,7 @@ _Last updated on August 1st 2017_
 1. Danganronpa 2: Goodbye Despair (Vita)
 1. Dark Souls (PS3)
 1. Dark Souls II: Scholar of the First Sin (PS4)
+1. Darkside Detective (PC)
 1. Divinity: Original Sin (PS4)
 1. Final Fantasy VII (Vita)
 1. God of War Collection (Vita)
