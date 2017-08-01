@@ -136,6 +136,7 @@ _Last updated on August 1st 2017_
 1. Undertale (PC)
 1. Wolfenstein: The New Blood (PS4)
 1. Wolfenstein: The Old Order (DLC) (PS4)
+1. Yakuza 0 (PS4)
 
 <!-- unplayed:end -->
 <a name='beaten'></a>
