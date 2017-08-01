@@ -39,7 +39,7 @@ looking for something else to play, instead of purchasing another title. That's
 really all this is for - to make sure you enjoy what you're playing and getting
 rid of stuff that you aren't."_ - Me
 
-_Last updated on July 29th, 2017_
+_Last updated on August 1st 2017_
 
 [Notes][notes-to-self] |
 [Playing][currently-playing] |
@@ -121,6 +121,7 @@ _Last updated on July 29th, 2017_
 1. God of War Collection (Vita)
 1. Gravity Rush (Vita)
 1. Grow Home (PS4)
+1. Just Cause 3 (PS4)
 1. Neon Chrome (Vita)
 1. Nier: Automata (PS4)
 1. Patapon (Vita)
