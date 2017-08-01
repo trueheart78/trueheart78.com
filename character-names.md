@@ -22,7 +22,7 @@ function randomName(sex) {
 }
 </script>
 
-_Last updated on July 18th, 2017_
+_Last updated on August 1st, 2017_
 
 #### <a href="javascript: randomName()" id="character-name-link">Random Character Name</a>
 
@@ -36,3 +36,11 @@ _Last updated on July 18th, 2017_
 + Butts (F)
 
 <!-- characters:end -->
+
+### Pets
+
+<!-- pets:start -->
+
++ Spaghetti
+
+<!-- pets:end -->
