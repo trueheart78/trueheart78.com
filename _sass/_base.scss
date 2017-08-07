@@ -216,3 +216,17 @@ pre {
 .faint {
     color: $grey-color-light;
 }
+
+/**
+ * Ruby Link Color
+ */
+
+a.ruby {
+    color: $ruby-color;
+    text-decoration: none;
+    font-weight: 400;
+
+    &:hover {
+        text-decoration: underline;
+    }
+}
