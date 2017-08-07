@@ -148,6 +148,7 @@ _Last updated on August 7th, 2017_
 
 1. Persona 4 Golden (Vita)
    + Wow. Just... wow.
+   + Rise is bae _#waifu_. <img src="/assets/site-heart.webp" height="16" width="16" />
    + Made it to # 2 on my [Favorite Games of All Time list][p4g].
 1. Steamworld Dig (PS4/Vita)
    + Fun game
@@ -165,10 +166,12 @@ _Last updated on August 7th, 2017_
    + Feels like a solid C+ / B-
 1. Horizon: Zero Dawn (PS4)
    + 70 hours and loved every minute of it.
+   + Aloy <img src="/assets/site-heart.webp" height="16" width="16" />
    + Solid A / A+
 1. Persona 5 (PS4).
    + 97hrs 40min and it was quite good.
-   + Makoto is bae _#waifu_.
+   + Makoto is bae _#waifu_. <img src="/assets/site-heart.webp" height="16" width="16" />
+   + Futaba <img src="/assets/site-heart.webp" height="16" width="16" />
    + Great game with excellent characters.
    + Solid A / A+.
 1. Deus Ex: Mankind Divided (PS4)
@@ -189,6 +192,7 @@ _Last updated on August 7th, 2017_
 1. Final Fantasy XII: The Zodiac Age (PS4)
    + Surprisingly fun.
    + Story was done quite well.
+   + Ashe <img src="/assets/site-heart.webp" height="16" width="16" />
    + Battle system didn't feel restrained, it felt very open.
    + Grandiose at times, without overdoing it.
    + I give it an A- / A.
