@@ -39,7 +39,7 @@ looking for something else to play, instead of purchasing another title. That's
 really all this is for - to make sure you enjoy what you're playing and getting
 rid of stuff that you aren't."_ - Me
 
-_Last updated on August 1st 2017_
+_Last updated on August 7th, 2017_
 
 [Notes][notes-to-self] |
 [Playing][currently-playing] |
@@ -65,7 +65,9 @@ _Last updated on August 1st 2017_
 
 #### Playing
 
-1. Uncharted 4 (PS4)
+1. Nier: Automata (PS4)
+  - Endings Seen: 2 of 26
+  - A<span class="faint">BCDEFGHIJ</span>K<span class="faint">LMNOPQRSTUVWXYZ</span>
 1. Final Fantasy X/X-2 HD Remastered (PS4)
   - X-2 has gotten a lil boring, but still fun.
   - Strategy guide arrived. I'd like to see this through.
@@ -124,7 +126,6 @@ _Last updated on August 1st 2017_
 1. Grow Home (PS4)
 1. Just Cause 3 (PS4)
 1. Neon Chrome (Vita)
-1. Nier: Automata (PS4)
 1. Patapon (Vita)
 1. Persona 3 Portable (Vita)
 1. Persona 4 Dancing All Night (Vita)
@@ -191,6 +192,13 @@ _Last updated on August 1st 2017_
    + Battle system didn't feel restrained, it felt very open.
    + Grandiose at times, without overdoing it.
    + I give it an A- / A.
+1. Uncharted 4 (PS4)
+   + I put it on easy and got the _"die die again"_ gameplay aspect removed.
+   + Story was wonderful.
+   + Bonus points for an excellent epilogue that I _was not_ expecting.
+   + Elena <img src="/assets/site-heart.webp" height="16" width="16" />
+   + Epilogue Spoiler: <span class="spoiler">Cassie</span> <img src="/assets/site-heart.webp" height="16" width="16" />
+   + I give it a solid B+.
 
 <!-- beaten:end -->
 <a name='jettisoned'></a>
