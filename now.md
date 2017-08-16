@@ -55,7 +55,7 @@ _Last updated on August 7th, 2017_
 * Played _Stardew Valley (PS4)_.
 * Played _Watch Dogs 2 (PS4)_.
 * Played _The Witcher 3: Wild Hunt (PS4)_.
-* Redesigned my blog/website, because I <img src="/assets/site-heart.webp" width="18px" height="18px" /> Ruby.
+* Redesigned my blog/website, because I <img src="/assets/images/site-heart.webp" width="18px" height="18px" /> Ruby.
 * Played Demon's Souls on PS3.
 * Played challenge runs in Dark Souls 3 on PS4.
 * Learned Redis by studying [Seven Databases in Seven Weeks](https://pragprog.com/book/rwdata/seven-databases-in-seven-weeks).

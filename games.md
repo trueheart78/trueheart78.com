@@ -121,7 +121,7 @@ _Last updated on August 16th, 2017_
 
 1. Persona 4 Golden (Vita)
    + Wow. Just... wow.
-   + Rise is bae _#waifu_. <img src="/assets/site-heart.webp" height="16" width="16" />
+   + Rise is bae _#waifu_. <img src="/assets/images/site-heart.webp" height="16" width="16" />
    + Made it to # 2 on my [Favorite Games of All Time list][p4g].
 1. Steamworld Dig (PS4/Vita)
    + Fun game
@@ -139,12 +139,12 @@ _Last updated on August 16th, 2017_
    + Feels like a solid C+ / B-
 1. Horizon: Zero Dawn (PS4)
    + 70 hours and loved every minute of it.
-   + Aloy <img src="/assets/site-heart.webp" height="16" width="16" />
+   + Aloy <img src="/assets/images/site-heart.webp" height="16" width="16" />
    + Solid A / A+
 1. Persona 5 (PS4).
    + 97hrs 40min and it was quite good.
-   + Makoto is bae _#waifu_. <img src="/assets/site-heart.webp" height="16" width="16" />
-   + Futaba <img src="/assets/site-heart.webp" height="16" width="16" />
+   + Makoto is bae _#waifu_. <img src="/assets/images/site-heart.webp" height="16" width="16" />
+   + Futaba <img src="/assets/images/site-heart.webp" height="16" width="16" />
    + Great game with excellent characters.
    + Solid A / A+.
 1. Deus Ex: Mankind Divided (PS4)
@@ -165,7 +165,7 @@ _Last updated on August 16th, 2017_
 1. Final Fantasy XII: The Zodiac Age (PS4)
    + Surprisingly fun.
    + Story was done quite well.
-   + Ashe <img src="/assets/site-heart.webp" height="16" width="16" />
+   + Ashe <img src="/assets/images/site-heart.webp" height="16" width="16" />
    + Battle system didn't feel restrained, it felt very open.
    + Grandiose at times, without overdoing it.
    + I give it an A- / A.
@@ -173,8 +173,8 @@ _Last updated on August 16th, 2017_
    + I put it on easy and got the _"die die again"_ gameplay aspect removed.
    + Story was wonderful.
    + Bonus points for an excellent epilogue that I _was not_ expecting.
-   + Elena <img src="/assets/site-heart.webp" height="16" width="16" />
-   + Epilogue Spoiler: <span class="spoiler">Cassie</span> <img src="/assets/site-heart.webp" height="16" width="16" />
+   + Elena <img src="/assets/images/site-heart.webp" height="16" width="16" />
+   + Epilogue Spoiler: <span class="spoiler">Cassie</span> <img src="/assets/images/site-heart.webp" height="16" width="16" />
    + I give it a solid B+.
 
 <!-- beaten:end -->

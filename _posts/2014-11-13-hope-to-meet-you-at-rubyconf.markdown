@@ -29,10 +29,10 @@ chance to meet up. Just look for the guy who loves [business cat][business-cat]&
 
 <div style='margin-bottom:10px;'>
 	<div style='float:left;margin-right:5px;margin-bottom:5px;'>
-		<img src="/assets/big-nerd.jpg" width="184px" height="184px" />
+		<img src="/assets/images/big-nerd.jpg" width="184px" height="184px" />
 	</div>
 	<div style='float:left;'>
-		<img src="/assets/business-cat/matrix-business-cat-184x184.png" />	
+		<img src="/assets/images/business-cat/matrix-business-cat-184x184.png" />	
 	</div>
 	<div style='clear:both;'></div>
 </div>

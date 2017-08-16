@@ -1,11 +1,11 @@
 # Site settings
 title: I ♥  Ruby
 title_html:
-  big: I <img src="/assets/site-heart.webp" height="26" width="26" /> Ruby	
-  small: I <img src="/assets/site-heart.webp" height="16" width="16" /> Ruby	
+  big: I <img src="/assets/images/site-heart.webp" height="26" width="26" /> Ruby	
+  small: I <img src="/assets/images/site-heart.webp" height="16" width="16" /> Ruby	
 site_heart:
-  big: <img src="/assets/site-heart.webp" height="26" width="26" />
-  small: <img src="/assets/site-heart.webp" height="16" width="16" />
+  big: <img src="/assets/images/site-heart.webp" height="26" width="26" />
+  small: <img src="/assets/images/site-heart.webp" height="16" width="16" />
 email: josh@trueheart78.com
 
 baseurl: "" # the subpath of your site, e.g. /blog/

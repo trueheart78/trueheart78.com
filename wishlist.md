@@ -16,7 +16,7 @@ permalink: /wishlist/
   - I _really_ like the blue/gray ones.
 1. [DKnight MagicBox II Bluetooth 4.0 Portable Wireless speaker (Red) - $32.99][bt-speaker] [_Online Only_]
 1. [All-Ett Slim Original Wallet - $34.95][all-ett] [_Online Only_]
-  - Replacement for my current one, which I love. <img src='/assets/site-heart.webp' width='16' height='16' />
+  - Replacement for my current one, which I love. <img src='/assets/images/site-heart.webp' width='16' height='16' />
 1. [XKCD Raptor Polo in XL - $42.00][xkcd-polo] [_Online Only_]
   - Please make sure to **select XL from the drop-down list**.
 
@@ -26,7 +26,7 @@ _None currently_
 
 ### If All Else Fails
 
-1. Amazon Gift Cards <img src="/assets/site-heart.webp" height="26" width="26" />	
+1. Amazon Gift Cards <img src="/assets/images/site-heart.webp" height="26" width="26" />	
 
 [bluetooth-earbuds]: https://www.amazon.com/Bluetooth-GUARANTEED-waterproof-high-performance-microphone/dp/B01EZ86SLW
 [uncharted-4]: https://www.amazon.com/Uncharted-4-Thiefs-End-PlayStation/dp/B00GODZYNA
