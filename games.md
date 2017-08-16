@@ -39,7 +39,7 @@ looking for something else to play, instead of purchasing another title. That's
 really all this is for - to make sure you enjoy what you're playing and getting
 rid of stuff that you aren't."_ - Me
 
-_Last updated on August 7th, 2017_
+_Last updated on August 16th, 2017_
 
 [Notes][notes-to-self] |
 [Playing][currently-playing] |
@@ -67,7 +67,7 @@ _Last updated on August 7th, 2017_
 
 1. Nier: Automata (PS4)
   - Endings Seen: 2 of 26
-  - A<span class="faint">BCDEFGHIJ</span>K<span class="faint">LMNOPQRSTUVWXYZ</span>
+  - AB<span class="faint">CDEFGHIJ</span>K<span class="faint">LMNOPQRSTUVWXYZ</span>
 1. Final Fantasy X/X-2 HD Remastered (PS4)
   - X-2 has gotten a lil boring, but still fun.
   - Strategy guide arrived. I'd like to see this through.
