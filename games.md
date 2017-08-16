@@ -2,37 +2,10 @@
 layout: page
 title: Games
 permalink: /games/
+customjs:
+- random_game.js
+- random_name.js
 ---
-
-<script>
-function randomGame(type) {
-  type = (type) ? type : 'unplayed';
-  var oReq = new XMLHttpRequest();
-  oReq.onload = function (e) {
-    var game = JSON.parse(e.target.response).game;
-    var id = type + "-link";
-    document.getElementById(id).innerHTML = game;
-  };
-  oReq.open('GET', 'https://random.pls.lol/api/' + type, true);
-  oReq.send();
-}
-
-function randomName(sex) {
-  sex = (sex) ? '/' + sex : '';
-  var oReq = new XMLHttpRequest();
-  oReq.onload = function (e) {
-    var character = JSON.parse(e.target.response);
-    var id = "character-name-link";
-    var output = character.name + ' (' + character.sex + ')';
-    if(character.title != '') {
-        output += ' from ' + character.title;
-    }
-    document.getElementById(id).innerHTML = output;
-  };
-  oReq.open('GET', 'https://random.pls.lol/api/character-name' + sex, true);
-  oReq.send();
-}
-</script>
 
 _"You should be playing games you enjoy. Just remember your pile when you start
 looking for something else to play, instead of purchasing another title. That's
@@ -66,7 +39,7 @@ _Last updated on August 16th, 2017_
 #### Playing
 
 1. Nier: Automata (PS4)
-  - Endings Seen: 2 of 26
+  - Endings Seen: 3 of 26
   - AB<span class="faint">CDEFGHIJ</span>K<span class="faint">LMNOPQRSTUVWXYZ</span>
 1. Final Fantasy X/X-2 HD Remastered (PS4)
   - X-2 has gotten a lil boring, but still fun.

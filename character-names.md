@@ -2,27 +2,11 @@
 layout: page
 title: Character Names
 permalink: /character-names/
+customjs:
+- random_name.js
 ---
 
-<script>
-function randomName(sex) {
-  sex = (sex) ? '/' + sex : '';
-  var oReq = new XMLHttpRequest();
-  oReq.onload = function (e) {
-    var character = JSON.parse(e.target.response);
-    var id = "character-name-link";
-    var output = character.name + ' (' + character.sex + ')';
-    if(character.title != '') {
-        output += ' from ' + character.title;
-    }
-    document.getElementById(id).innerHTML = output;
-  };
-  oReq.open('GET', 'https://random.pls.lol/api/character-name' + sex, true);
-  oReq.send();
-}
-</script>
-
-_Last updated on August 1st, 2017_
+_Last updated on August 16th, 2017_
 
 #### <a href="javascript: randomName()" id="character-name-link">Random Character Name</a>
 
