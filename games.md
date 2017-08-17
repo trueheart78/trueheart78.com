@@ -12,7 +12,7 @@ looking for something else to play, instead of purchasing another title. That's
 really all this is for - to make sure you enjoy what you're playing and getting
 rid of stuff that you aren't."_ - Me
 
-_Last updated on August 16th, 2017_
+_Last updated on August 17th, 2017_
 
 [Notes][notes-to-self] |
 [Playing][currently-playing] |
