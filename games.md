@@ -39,7 +39,7 @@ _Last updated on August 16th, 2017_
 #### Playing
 
 1. Nier: Automata (PS4)
-  - Endings Seen: 3 of 26
+  - Endings Seen: 4 of 26
   - AB<span class="faint">CDEFGHIJ</span>K<span class="faint">LMNOPQRS</span>T<span class="faint">UVWXYZ</span>
 1. Final Fantasy X/X-2 HD Remastered (PS4)
   - X-2 has gotten a lil boring, but still fun.
