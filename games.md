@@ -53,6 +53,7 @@ _Last updated on August 18th, 2017_
 1. Darkest Dungeon (Vita/PS4)
 1. Dead Cells (PC)
 1. Hot Shots: World Invitational (Vita)
+1. Overwatch (PS4)
 1. Risk of Rain (Vita/PS4)
 1. Rocket League (PS4)
 1. Stardew Valley (PS4)
@@ -207,11 +208,6 @@ _Last updated on August 18th, 2017_
    - Don't have any desire to play it more.
 1. Inside (PS4)
    - Had it spoiled for me.
-1. Overwatch (PS4)
-   - I love the aesthetic.
-   - I love the characters.
-   - I love watching people play it.
-   - However, playing multiplayer does not jive with my anxiety.
 
 <!-- jettisoned:end -->
 <a name='planned-purchases'></a>
