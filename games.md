@@ -12,7 +12,7 @@ looking for something else to play, instead of purchasing another title. That's
 really all this is for - to make sure you enjoy what you're playing and getting
 rid of stuff that you aren't."_ - Me
 
-_Last updated on August 17th, 2017_
+_Last updated on August 18th, 2017_
 
 [Notes][notes-to-self] |
 [Playing][currently-playing] |
@@ -38,10 +38,7 @@ _Last updated on August 17th, 2017_
 
 #### Playing
 
-1. Nier: Automata (PS4)
-  - Endings Seen: 4 of 26
-  - AB<span class="faint">CDEFGHIJ</span>K<span class="faint">LMNOPQRS</span>T<span class="faint">UVWXYZ</span>
-1. Final Fantasy X/X-2 HD Remastered (PS4)
+1. Final Fantasy X/X-2 HD Remastered (PS4/Vita)
   - X-2 has gotten a lil boring, but still fun.
   - Strategy guide arrived. I'd like to see this through.
 
@@ -177,6 +174,10 @@ _Last updated on August 17th, 2017_
    + Elena <img src="/assets/images/site-heart.webp" height="16" width="16" />
    + Epilogue Spoiler: <span class="spoiler">Cassie</span> <img src="/assets/images/site-heart.webp" height="16" width="16" />
    + I give it a solid B+.
+1. Nier: Automata (PS4)
+   + Endings Seen: 5 (ABCDE)
+   + This game goes places. Unexpected, wonderful places.
+   + I give it an A- / A.
 
 <!-- beaten:end -->
 <a name='jettisoned'></a>

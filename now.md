@@ -6,14 +6,13 @@ permalink: /now/
 
 I'm currently living in Franklin, OH working remote for [CoverMyMeds](http://covermymeds.com) as a software developer.
 
-_Last updated on August 7th, 2017_
+_Last updated on August 18th, 2017_
 
 ### Now
 
 * Learning [Elm](http://elm-lang.org).
   + Loving it.
 * Studying _The Rails 5 Way_.
-* Playing _Nier: Automata_ on PS4.
 * Playing _Dead Cells_ on PC.
   + This game is awesome.
 * Learning to cook.
@@ -32,6 +31,7 @@ _Last updated on August 7th, 2017_
 
 ### History for 2017
 
+* Played _Nier: Automata_ on PS4.
 * Played _Uncharted 4_ on PS4.
 * Played _Final Fantasy XII: The Zodiac Age_ on PS4.
 * Played _Uncharted 3_ on PS4.
