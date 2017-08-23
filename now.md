@@ -2,11 +2,10 @@
 layout: page
 title: Now
 permalink: /now/
+update: 2017-08-23
 ---
 
 I'm currently living in Franklin, OH working remote for [CoverMyMeds](http://covermymeds.com) as a software developer.
-
-_Last updated on August 18th, 2017_
 
 ### Now
 

@@ -2,7 +2,9 @@
 layout: page
 title: About
 permalink: /about/
+update: 2017-08-16
 ---
+
 <div style='margin-bottom:10px;'>
 	<div style='float:left;margin-right:5px;margin-bottom:5px;'>
 		<img src="/assets/images/selfie-with-rosie.jpg" />

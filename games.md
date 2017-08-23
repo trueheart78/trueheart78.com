@@ -2,41 +2,17 @@
 layout: page
 title: Games
 permalink: /games/
+customnav: games_nav.html
 customjs:
 - random_game.js
 - random_name.js
+update: 2017-08-23
 ---
-
-_"You should be playing games you enjoy. Just remember your pile when you start
-looking for something else to play, instead of purchasing another title. That's
-really all this is for - to make sure you enjoy what you're playing and getting
-rid of stuff that you aren't."_ - Me
-
-_Last updated on August 18th, 2017_
-
-[Notes][notes-to-self] |
-[Playing][currently-playing] |
-[For Funsies][for-fun] |
-[Awaiting Content][awaiting-content] |
-[Undecided][undecided] |
-[Unplayed][unplayed] |
-[Beaten][beaten] |
-[Jettisoned][jettisoned] |
-[Planned Purchases][planned-purchases]
-
-<a name='notes-to-self'>
-
-#### Notes to Self
-
-+ I should not buy DLC until I am ready to play it.
-+ I stop playing open world games when I complete the main story.
-
-#### <a href="javascript: randomName()" id="character-name-link">Random Character Name</a>
 
 <a name='currently-playing'></a>
 <!-- playing:start -->
 
-#### Playing
+## Playing
 
 1. Final Fantasy X/X-2 HD Remastered (PS4/Vita)
   - X-2 has gotten a lil boring, but still fun.
@@ -46,7 +22,7 @@ _Last updated on August 18th, 2017_
 <a name='for-fun'></a>
 <!-- for-fun:start -->
 
-#### For Funsies -- <a href="javascript: randomGame('for-fun')" id="for-fun-link">Randomly Pick One</a>
+## For Funsies -- <a href="javascript: randomGame('for-fun')" id="for-fun-link">Randomly Pick One</a>
 
 1. Dragon Quest Builders (Vita/PS4)
 1. Dark Souls III & DLCs (DLC) (PS4) [Naked Dagger Challenge Runs](/naked-dagger/)
@@ -62,7 +38,7 @@ _Last updated on August 18th, 2017_
 <a name='awaiting-content'></a>
 <!-- awaiting-content:start -->
 
-#### Awaiting Content
+## Awaiting Content
 
 1. Hitman (PS4)
   - Waiting on Season 2
@@ -71,7 +47,7 @@ _Last updated on August 18th, 2017_
 <a name='undecided'>
 <!-- undecided:start -->
 
-#### Undecided
+## Undecided
 
 1. Persona 4 Arena (PS3)
   - Story isn't as captivating as it was in P4G.
@@ -80,7 +56,7 @@ _Last updated on August 18th, 2017_
 <a name='unplayed'></a>
 <!-- unplayed:start -->
 
-#### Unplayed -- <a href="javascript: randomGame('unplayed')" id="unplayed-link">Randomly Pick One</a>
+## Unplayed -- <a href="javascript: randomGame('unplayed')" id="unplayed-link">Randomly Pick One</a>
 
 1. Assassin's Creed: Syndicate (PS4)
 1. Beatcop (PC)
@@ -116,7 +92,7 @@ _Last updated on August 18th, 2017_
 <a name='beaten'></a>
 <!-- beaten:start -->
 
-#### Beaten
+## Beaten
 
 1. Persona 4 Golden (Vita)
    + Wow. Just... wow.
@@ -184,7 +160,7 @@ _Last updated on August 18th, 2017_
 <a name='jettisoned'></a>
 <!-- jettisoned:start -->
 
-#### Jettisoned
+## Jettisoned
 
 1. Axiom Verge (PS4/Vita)
    - I really wanted to like this, but just couldn't get into it
@@ -213,7 +189,7 @@ _Last updated on August 18th, 2017_
 <a name='planned-purchases'></a>
 <!-- planned-purchases:start -->
 
-#### Planned Purchases 
+## Planned Purchases 
 
 See the [New Releases Wiki][new-releases]
 
@@ -227,7 +203,7 @@ See the [New Releases Wiki][new-releases]
 1. ~~Persona 5 (PS4) - Pre-ordered~~ [purchased]
 1. ~~Red Dead Redemption 2 (PS4) - Day One~~ [delayed to 2018]
 
-#### Planned Purchases (Previously Released)
+## Planned Purchases (Previously Released)
 
 1. Zero Escape: Virtue's Last Reward (Vita) - $15 max
 1. Zero Escape: Zero Time Dilemma (Vita) - $25 max
@@ -240,6 +216,22 @@ See the [New Releases Wiki][new-releases]
 
 <!-- planned-purchases:end -->
 
+<a name='why'>
+
+## Why?
+
+_"You should be playing games you enjoy. Just remember your pile when you start
+looking for something else to play, instead of purchasing another title. That's
+really all this is for - to make sure you enjoy what you're playing and getting
+rid of stuff that you aren't."_ - Me
+
+<a name='notes-to-self'>
+
+## Notes to Self
+
++ I should not buy DLC until I am ready to play it.
++ I stop playing open world games when I complete the main story.
+
 [new-releases]: https://en.wikipedia.org/wiki/2017_in_video_gaming#Game_releases
 [notes-to-self]: #notes-to-self
 [currently-playing]: #currently-playing
@@ -248,6 +240,7 @@ See the [New Releases Wiki][new-releases]
 [unplayed]: #unplayed
 [beaten]: #beaten
 [jettisoned]: #jettisoned
+[why]: #why
 [for-fun]: #for-fun
 [planned-purchases]: #planned-purchases
 [p4g]: /favorite-games/#persona-4

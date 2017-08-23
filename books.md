@@ -2,15 +2,13 @@
 layout: page
 title: Books
 permalink: /books/
+update: 2017-07-31
 ---
 
 > I'd like a list of books, kind of like my games, but with less goals.
 > Mainly, I'd just like to track what I am currently reading, and the
 > list of books that I would like to get to, even if that is just skimming
 > - Me
-
-*Last updated on February 15th, 2017*
-
 
 [Currently Reading][currently-reading] |
 [Next Up][next-up] |

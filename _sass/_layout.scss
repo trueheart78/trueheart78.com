@@ -188,22 +188,24 @@
     font-size: 24px;
 }
 
-
-
 /**
  * Posts
  */
 .post-header {
-    margin-bottom: $spacing-unit;
+    margin-bottom: $spacing-unit / 2;
+
+    .last-modified {
+        font-size: $base-font-size - 2;
+    }
 }
 
 .post-title {
-    font-size: 42px;
+    font-size: 32px;
     letter-spacing: -1px;
     line-height: 1;
 
     @include media-query($on-laptop) {
-        font-size: 36px;
+        font-size: 28px;
     }
 }
 
@@ -211,18 +213,18 @@
     margin-bottom: $spacing-unit;
 
     h2 {
-        font-size: 32px;
+        font-size: 24px;
 
         @include media-query($on-laptop) {
-            font-size: 28px;
+            font-size: 22px;
         }
     }
 
     h3 {
-        font-size: 26px;
+        font-size: 22px;
 
         @include media-query($on-laptop) {
-            font-size: 22px;
+            font-size: 18px;
         }
     }
 
@@ -230,7 +232,34 @@
         font-size: 20px;
 
         @include media-query($on-laptop) {
-            font-size: 18px;
+            font-size: 16px;
         }
     }
 }
+
+.games-nav {
+    ul {
+      list-style-type: none;
+      margin: 0;
+      padding: 0;
+      font-size: 16px;
+      overflow: hidden;
+
+      li {
+        float: left;
+        margin-right: 2px;
+
+        a {
+          display: block;
+          padding: 2px 4px 2px 4px;
+          text-decoration: none;
+          color: #fff;
+          background-color: #333;
+        }
+
+        a:hover {
+          background-color: #111;
+        }
+      }
+    }
+  }

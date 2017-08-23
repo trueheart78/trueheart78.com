@@ -2,9 +2,8 @@
 layout: page
 title: Naked Dagger Runs
 permalink: /naked-dagger/
+update: 2017-05-04
 ---
-
-*Last updated on May 1st, 2017*
 
 ## Bosses
 

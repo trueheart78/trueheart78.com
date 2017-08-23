@@ -2,6 +2,7 @@
 layout: page
 title: How Do I Love Thee, Ruby?
 permalink: /ruby/
+update: 2017-07-31
 ---
 
 ## Let Me Count The Ways...
