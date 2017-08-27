@@ -6,7 +6,7 @@ customnav: games_nav.html
 customjs:
 - random_game.js
 - random_name.js
-update: 2017-08-23
+update: 2017-08-28
 ---
 
 <a name='currently-playing'></a>
@@ -14,6 +14,7 @@ update: 2017-08-23
 
 ## Playing
 
+1. Undertale (P4/Vita)
 1. Final Fantasy X/X-2 HD Remastered (PS4/Vita)
   - X-2 has gotten a lil boring, but still fun.
   - Strategy guide arrived. I'd like to see this through.
@@ -82,7 +83,6 @@ update: 2017-08-23
 1. Titanfall 2 (PS4)
 1. The Last of Us: Remastered (PS4)
 1. The Last of Us: Left Behind (DLC) (PS4)
-1. Undertale (P4/Vita)
 1. Until Dawn (PS4)
 1. Wolfenstein: The New Blood (PS4)
 1. Wolfenstein: The Old Order (DLC) (PS4)

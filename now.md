@@ -2,7 +2,7 @@
 layout: page
 title: Now
 permalink: /now/
-update: 2017-08-23
+update: 2017-08-28
 ---
 
 I'm currently living in Franklin, OH working remote for [CoverMyMeds](http://covermymeds.com) as a software developer.
@@ -12,6 +12,8 @@ I'm currently living in Franklin, OH working remote for [CoverMyMeds](http://cov
 * Learning [Elm](http://elm-lang.org).
   + Loving it.
 * Studying _The Rails 5 Way_.
+* Playing _Overwatch_ on PS4.
+* Playing _Undertale_ on Vita.
 * Playing _Dead Cells_ on PC.
   + This game is awesome.
 * Learning to cook.
@@ -34,7 +36,6 @@ I'm currently living in Franklin, OH working remote for [CoverMyMeds](http://cov
 * Played _Uncharted 4_ on PS4.
 * Played _Final Fantasy XII: The Zodiac Age_ on PS4.
 * Played _Uncharted 3_ on PS4.
-* Played _Overwatch_ on PS4.
 * Played _Rise of the Tomb Raider_ on PS4.
 * Replayed _Stardew Valley_ on PS4.
 * Did my _Dark Souls III_ [naked dagger challenge runs](/naked-dagger/) on PS4.
