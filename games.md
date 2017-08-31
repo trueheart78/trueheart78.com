@@ -6,7 +6,7 @@ customnav: games_nav.html
 customjs:
 - random_game.js
 - random_name.js
-update: 2017-08-28
+update: 2017-08-31
 ---
 
 <a name='currently-playing'></a>
@@ -14,7 +14,9 @@ update: 2017-08-28
 
 ## Playing
 
+1. Life is Strange: Before the Storm - Episode 1 (PS4)
 1. Undertale (P4/Vita)
+  - Pacifist run after having finished it once.
 1. Final Fantasy X/X-2 HD Remastered (PS4/Vita)
   - X-2 has gotten a lil boring, but still fun.
   - Strategy guide arrived. I'd like to see this through.
@@ -195,10 +197,10 @@ See the [New Releases Wiki][new-releases]
 
 1. Agents of Mayhem (PS4) - Wait and See
 1. Danganronpa V3: Killing Harmony (Vita) - Wait and See
-1. Life is Strange: Before the Storm (PS4) - Preordered
 1. Mass Effect: Andromeda (PS4) - $20 max
 1. Uncharted: The Lost Legacy (PS4) - Wait and See
 1. Zero Escape: The Nonary Games (Vita) - Wait and See
+1. ~~Life is Strange: Before the Storm (PS4) - Pre-ordered~~ [purchased]
 1. ~~Night in the Woods (PS4) - Wait and See~~ [purchased]
 1. ~~Persona 5 (PS4) - Pre-ordered~~ [purchased]
 1. ~~Red Dead Redemption 2 (PS4) - Day One~~ [delayed to 2018]
