@@ -6,7 +6,7 @@ customnav: games_nav.html
 customjs:
 - random_game.js
 - random_name.js
-update: 2017-08-31
+update: 2017-09-05
 ---
 
 <a name='currently-playing'></a>
@@ -15,10 +15,7 @@ update: 2017-08-31
 ## Playing
 
 1. Life is Strange: Before the Storm - Episode 1 (PS4)
-1. Undertale (P4/Vita)
-  - Pacifist run after having finished it once.
-1. Final Fantasy X/X-2 HD Remastered (PS4/Vita)
-  - X-2 has gotten a lil boring, but still fun.
+1. Final Fantasy X-2 HD Remastered (PS4/Vita)
   - Strategy guide arrived. I'd like to see this through.
 
 <!-- playing:end -->
@@ -157,6 +154,12 @@ update: 2017-08-31
    + Endings Seen: 5 (ABCDE)
    + This game goes places. Unexpected, wonderful places.
    + I give it an A- / A.
+1. Undertale (P4/Vita)
+  - Two runs, including Pacifist, complete.
+  - So many great characters!
+  - So very many unexpected twists and turns.
+  - Oh, and the _puns_ were wonderful. #sansIsBae
+  - Definitely an A+.
 
 <!-- beaten:end -->
 <a name='jettisoned'></a>
