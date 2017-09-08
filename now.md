@@ -2,7 +2,7 @@
 layout: page
 title: Now
 permalink: /now/
-update: 2017-09-05
+update: 2017-09-08
 ---
 
 I'm currently living in Franklin, OH working remote for [CoverMyMeds](http://covermymeds.com) as a software developer.
@@ -13,7 +13,6 @@ I'm currently living in Franklin, OH working remote for [CoverMyMeds](http://cov
   + Loving it.
 * Studying _The Rails 5 Way_.
 * Playing _Overwatch_ on PS4.
-* Playing _Life is Strange: Before the Storm - Episode 1_ on PS4.
 * Playing _Dead Cells_ on PC.
   + This game is awesome.
 * Learning to cook.
@@ -32,6 +31,7 @@ I'm currently living in Franklin, OH working remote for [CoverMyMeds](http://cov
 
 ### History for 2017
 
+* Played _Life is Strange: Before the Storm - Episode 1_ on PS4.
 * Played _Undertale_ on Vita.
 * Played _Nier: Automata_ on PS4.
 * Played _Uncharted 4_ on PS4.

@@ -6,7 +6,7 @@ customnav: games_nav.html
 customjs:
 - random_game.js
 - random_name.js
-update: 2017-09-05
+update: 2017-09-08
 ---
 
 <a name='currently-playing'></a>
@@ -14,7 +14,6 @@ update: 2017-09-05
 
 ## Playing
 
-1. Life is Strange: Before the Storm - Episode 1 (PS4)
 1. Final Fantasy X-2 HD Remastered (PS4/Vita)
   - Strategy guide arrived. I'd like to see this through.
 
@@ -40,6 +39,9 @@ update: 2017-09-05
 
 ## Awaiting Content
 
+1. Life is Strange: Before the Storm (PS4)
+  - Wow. Just... wow.
+  - Wasn't sure what to expect, but episode 2 can't come fast enough.
 1. Hitman (PS4)
   - Waiting on Season 2
 
