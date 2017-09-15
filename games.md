@@ -6,7 +6,7 @@ customnav: games_nav.html
 customjs:
 - random_game.js
 - random_name.js
-update: 2017-09-08
+update: 2017-09-15
 ---
 
 <a name='currently-playing'></a>
@@ -14,6 +14,9 @@ update: 2017-09-08
 
 ## Playing
 
+1. Wolfenstein: The New Blood (PS4)
+  - A completely different take on the series.
+  - Quite enjoyable.
 1. Final Fantasy X-2 HD Remastered (PS4/Vita)
   - Strategy guide arrived. I'd like to see this through.
 
@@ -85,7 +88,6 @@ update: 2017-09-08
 1. The Last of Us: Remastered (PS4)
 1. The Last of Us: Left Behind (DLC) (PS4)
 1. Until Dawn (PS4)
-1. Wolfenstein: The New Blood (PS4)
 1. Wolfenstein: The Old Order (DLC) (PS4)
 1. Yakuza 0 (PS4)
 

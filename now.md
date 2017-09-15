@@ -2,7 +2,7 @@
 layout: page
 title: Now
 permalink: /now/
-update: 2017-09-08
+update: 2017-09-15
 ---
 
 I'm currently living in Franklin, OH working remote for [CoverMyMeds](http://covermymeds.com) as a software developer.
@@ -12,6 +12,8 @@ I'm currently living in Franklin, OH working remote for [CoverMyMeds](http://cov
 * Learning [Elm](http://elm-lang.org).
   + Loving it.
 * Studying _The Rails 5 Way_.
+* Playing _Wolfenstein: The New Blood_ on PS4.
+* Playing _Persona 4 Dancing All Night_ on Vita.
 * Playing _Overwatch_ on PS4.
 * Playing _Dead Cells_ on PC.
   + This game is awesome.
@@ -19,7 +21,6 @@ I'm currently living in Franklin, OH working remote for [CoverMyMeds](http://cov
 
 ### Coming Up
 
-* Playing _Persona 4 Dancing All Night_ on Vita.
 * Building [a podcast site](https://github.com/trueheart78/lifetab-podcast)
 * Learning to work with [Braintree](https://www.braintreepayments.com/) in Rails.
   * Using the [ActiveMerchant gem](https://github.com/activemerchant/active_merchant).
