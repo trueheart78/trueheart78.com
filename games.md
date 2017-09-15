@@ -44,6 +44,7 @@ update: 2017-09-15
 
 1. Life is Strange: Before the Storm (PS4)
   - Wow. Just... wow.
+  - Did 3 playthroughs, and loved each of them.
   - Wasn't sure what to expect, but episode 2 can't come fast enough.
 1. Hitman (PS4)
   - Waiting on Season 2
