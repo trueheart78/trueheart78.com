@@ -4,7 +4,7 @@ title: Character Names
 permalink: /character-names/
 customjs:
 - random_name.js
-date: 2017-08-16
+date: 2017-09-16
 ---
 
 #### <a href="javascript: randomName()" id="character-name-link">Random Character Name</a>
@@ -14,6 +14,7 @@ date: 2017-08-16
 + Ashe (F) - Final Fantasy XII
 + Ashelia (F) - Final Fantasy XII
 + Basch (M) - Final Fantasy XII
++ Elisabet (F) - Horizon: Zero Dawn
 + Olivia (F) - FRINGE
 + Olive (F) - FRINGE
 + Butts (F)
