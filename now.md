@@ -2,7 +2,7 @@
 layout: page
 title: Now
 permalink: /now/
-update: 2017-09-15
+update: 2017-09-27
 ---
 
 I'm currently living in Franklin, OH working remote for [CoverMyMeds](http://covermymeds.com) as a software developer.
@@ -13,6 +13,7 @@ I'm currently living in Franklin, OH working remote for [CoverMyMeds](http://cov
   + Loving it.
 * Studying _The Rails 5 Way_.
 * Playing _Wolfenstein: The New Blood_ on PS4.
+* Playing _Steamworld Dig 2_ on Vita.
 * Playing _Persona 4 Dancing All Night_ on Vita.
 * Playing _Overwatch_ on PS4.
 * Playing _Dead Cells_ on PC.

@@ -6,7 +6,7 @@ customnav: games_nav.html
 customjs:
 - random_game.js
 - random_name.js
-update: 2017-09-15
+update: 2017-09-27
 ---
 
 <a name='currently-playing'></a>
@@ -17,6 +17,10 @@ update: 2017-09-15
 1. Wolfenstein: The New Blood (PS4)
   - A completely different take on the series.
   - Quite enjoyable.
+1. Steamworld Dig 2 (PS4/Vita)
+  - This game makes me smile a lot. 
+1. Persona 4 Dancing All Night (Vita)
+  - It's about time.
 1. Final Fantasy X-2 HD Remastered (PS4/Vita)
   - Strategy guide arrived. I'd like to see this through.
 
@@ -81,7 +85,6 @@ update: 2017-09-15
 1. Neon Chrome (Vita)
 1. Patapon (Vita)
 1. Persona 3 Portable (Vita)
-1. Persona 4 Dancing All Night (Vita)
 1. Resident Evil 2 (Vita)
 1. Shadowrun Returns: Dragonfall (PC)
 1. Shadowrun Returns: Hong Kong (PC)
@@ -212,6 +215,7 @@ See the [New Releases Wiki][new-releases]
 1. ~~Night in the Woods (PS4) - Wait and See~~ [purchased]
 1. ~~Persona 5 (PS4) - Pre-ordered~~ [purchased]
 1. ~~Red Dead Redemption 2 (PS4) - Day One~~ [delayed to 2018]
+1. ~~Steamworld Dig 2 (PS4/Vita) - Day One~~ [purchased]
 
 ## Planned Purchases (Previously Released)
 
