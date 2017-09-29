@@ -168,7 +168,7 @@ update: 2017-09-29
   - Definitely an A+.
 1. Steamworld Dig 2 (PS4/Vita)
   - Great sense of humor.
-  - Love Fen! #cutie
+  - Fen <img src=“/assets/images/site-heart.webp” height=“16” width=“16” />
   - Wonderful Vita title.
   - Definitely an A.
 
