@@ -6,7 +6,7 @@ customnav: games_nav.html
 customjs:
 - random_game.js
 - random_name.js
-update: 2017-09-27
+update: 2017-09-29
 ---
 
 <a name='currently-playing'></a>
@@ -17,8 +17,6 @@ update: 2017-09-27
 1. Wolfenstein: The New Blood (PS4)
   - A completely different take on the series.
   - Quite enjoyable.
-1. Steamworld Dig 2 (PS4/Vita)
-  - This game makes me smile a lot. 
 1. Persona 4 Dancing All Night (Vita)
   - It's about time.
 1. Final Fantasy X-2 HD Remastered (PS4/Vita)
@@ -168,6 +166,11 @@ update: 2017-09-27
   - So very many unexpected twists and turns.
   - Oh, and the _puns_ were wonderful. #sansIsBae
   - Definitely an A+.
+1. Steamworld Dig 2 (PS4/Vita)
+  - Great sense of humor.
+  - Love Fen! #cutie
+  - Wonderful Vita title.
+  - Definitely an A.
 
 <!-- beaten:end -->
 <a name='jettisoned'></a>
