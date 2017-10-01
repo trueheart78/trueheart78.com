@@ -2,14 +2,13 @@
 layout: page
 title: Audio Books
 permalink: /audio-books/
+update: 2016-10-14
 ---
 
 > I'd like a list of audio books, kind of like my games, but with less
 > goals.  Mainly, I'd just like to track what I am currently listening to,
 > and the list of audio books that I would like to get to.
 > - Me
-
-*Last updated on October 14th, 2016*
 
 [Currently Listening To][currently-listening-to] |
 [Want to Listen To][want-to-listen-to] |

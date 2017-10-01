@@ -2,6 +2,7 @@
 layout: page
 title: Favorite Games
 permalink: /favorite-games/
+update: 2017-09-30
 ---
 
 + [Game of the Year 2016][goty-2016]

@@ -2,6 +2,7 @@
 layout: page
 title: Picks
 permalink: /picks/
+update: 2016-08-13
 ---
 
 Shamelessy stealing this idea from the fantastic

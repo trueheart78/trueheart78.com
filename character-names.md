@@ -4,7 +4,7 @@ title: Character Names
 permalink: /character-names/
 customjs:
 - random_name.js
-date: 2017-09-16
+update: 2017-09-16
 ---
 
 #### <a href="javascript: randomName()" id="character-name-link">Random Character Name</a>
