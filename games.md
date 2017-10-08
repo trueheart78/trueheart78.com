@@ -14,9 +14,7 @@ update: 2017-09-29
 
 ## Playing
 
-1. Wolfenstein: The New Blood (PS4)
-  - A completely different take on the series.
-  - Quite enjoyable.
+1. Wolfenstein: The Old Order (DLC) (PS4)
 1. Persona 4 Dancing All Night (Vita)
   - It's about time.
 1. Final Fantasy X-2 HD Remastered (PS4/Vita)
@@ -90,7 +88,6 @@ update: 2017-09-29
 1. The Last of Us: Remastered (PS4)
 1. The Last of Us: Left Behind (DLC) (PS4)
 1. Until Dawn (PS4)
-1. Wolfenstein: The Old Order (DLC) (PS4)
 1. Yakuza 0 (PS4)
 
 <!-- unplayed:end -->
@@ -171,6 +168,10 @@ update: 2017-09-29
   - Fen <img src=“/assets/images/site-heart.webp” height=“16” width=“16” />
   - Wonderful Vita title.
   - Definitely an A.
+1. Wolfenstein: The New Blood (PS4)
+  - A completely different take on the series.
+  - Quite enjoyable.
+  - Solid B.
 
 <!-- beaten:end -->
 <a name='jettisoned'></a>
