@@ -1,0 +1,32 @@
+#!/usr/bin/env ruby
+
+require 'date'
+
+def header(page_name)
+  [
+    '---',
+    'layout: page',
+    "title: #{page_name}",
+    "permalink: /#{filename(page_name)}/",
+    "update: #{DateTime.now.strftime('%Y-%m-%d')}",
+    '---'
+  ].join "\n"
+end
+
+def filename(page_name)
+  page_name.downcase.gsub(' ','-')
+end
+
+def generate_file(page_name)
+  path = File.join Dir.pwd, "#{filename(page_name)}.md"
+  if File.exist? path
+    puts "Error: page exists #{path}"
+    exit 1
+  end
+  File.open(path, 'w') { |file| file.write(header(page_name)) }
+end
+
+print 'new page name? '
+page_name = gets.strip
+generate_file(page_name)
+puts "created #{filename(page_name)}"
