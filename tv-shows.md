@@ -6,17 +6,17 @@ update: 2017-10-10
 ---
 
 <a name='currently-watching'></a>
-<!-- playing:start -->
+<!-- watching:start -->
 
 ## Watching
 
 1. Gravity Falls - Season 2
   - Watched episode 1.
 
-<!-- playing:end -->
+<!-- watching:end -->
 
 <a name='unwatched'></a>
-<!-- playing:start -->
+<!-- unwatched:start -->
 
 ## Unwatched
 
@@ -25,5 +25,4 @@ update: 2017-10-10
 1. Supergirl - Season 2
 1. Supergirl - Season 3
 
-<!-- playing:end -->
-
+<!-- unwatched:end -->
