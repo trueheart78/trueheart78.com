@@ -6,7 +6,7 @@ customnav: games_nav.html
 customjs:
 - random_game.js
 - random_name.js
-update: 2017-10-08
+update: 2017-10-10
 ---
 
 <a name='currently-playing'></a>
@@ -14,7 +14,6 @@ update: 2017-10-08
 
 ## Playing
 
-1. Wolfenstein: The Old Order (DLC) (PS4)
 1. Persona 4 Dancing All Night (Vita)
   - It's about time.
 1. Final Fantasy X-2 HD Remastered (PS4/Vita)
@@ -172,6 +171,8 @@ update: 2017-10-08
   - A completely different take on the series.
   - Quite enjoyable.
   - Solid B.
+1. Wolfenstein: The Old Order (DLC) (PS4)
+  - Decent DLC.
 
 <!-- beaten:end -->
 <a name='jettisoned'></a>
