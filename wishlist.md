@@ -2,7 +2,7 @@
 layout: page
 title: Wishlist
 permalink: /wishlist/
-update: 2017-09-29
+update: 2017-10-11
 ---
 
 1. [Overwatch Tracer Coffee Mug - $20.00][tracer-mug] [_Online Only_]
@@ -16,7 +16,6 @@ update: 2017-09-29
 
 ### If You Don’t Value Your Sanity
 
-1. [SNES Classic - $80+][snes-classic] [_Stores or Online_] [Hard to find]
 1. [NES Classic - $60+][nes-classic] [_Stores or Online_] [Hard to find]
 
 ### If All Else Fails
