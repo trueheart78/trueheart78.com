@@ -21,9 +21,6 @@ update: 2017-10-12
 1. [Uncharted: The Lost Legacy (PS4) - $40][lost-legacy] [_Stores or Online_]
 1. [Sony DualShock 4 USB Wireless Adaptor - $45][ds4-adapter] [_Stores or Online_]
   - Let's me use my PS4 controller to play games I have on my laptop.
-1. **If you don't value your sanity**
-  - [NES Classic - $60+][nes-classic] [_Stores or Online_] [Hard to find]
-  - Seriously, a task for the insane. You have been warned.
 
 ## Gift Cards / If All Else Fails
 
