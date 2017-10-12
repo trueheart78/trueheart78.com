@@ -14,6 +14,8 @@ update: 2017-10-12
 
 ## Gaming
 
+1. [Nintendo Switch Console - $300][switch] [_Stores or Online_]
+  - I mean, c’mon now. Who doesn’t want this thing?
 1. [Gran Turismo Sport - Limited Edition (PS4)][gt-sport] [_Stores or Online_]
   - $56 until Oct 31st with Amazon Prime, $70 otherwise
 1. [Uncharted: The Lost Legacy (PS4) - $40][lost-legacy] [_Stores or Online_]
@@ -48,3 +50,4 @@ update: 2017-10-12
 [gt-sport]: https://www.amazon.com/Gran-Turismo-Sport-Limited-PlayStation-4/dp/B01FWLGWHQ
 [lost-legacy]: https://www.amazon.com/gp/product/B06ZYW7ZHB/
 [ds4-adapter]: https://www.amazon.com/gp/product/B01KWLKKQU
+[switch]: https://www.bestbuy.com//site/nintendo-switch-32gb-console-neon-red-neon-blue-joy-con/5670100.p?skuId=5670100
