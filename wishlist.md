@@ -13,6 +13,8 @@ update: 2017-10-11
   - Comic is adorable: [Extra Ordinary][comic-481]
 1. [XKCD Signed Print for Comic #150 - $15.00][xkcd-print] [_Online Only_]
   - Please make sure to **select comic "#150 Grownups" from the drop-down list**.
+1. [Elspeth Shirt: Eat Donuts Everyday - $20][elspeth-shirt]
+  - Blue Mens XL
 
 ### If You Don’t Value Your Sanity
 
@@ -30,3 +32,4 @@ update: 2017-10-11
 [tswift-calendar]: https://www.amazon.com/Monthly-Calendar-Songwriter-Celebrity-Multilingual/dp/1465091335
 [snes-classic]: https://www.nintendo.com/super-nes-classic
 [nes-classic]: https://www.nintendo.com/nes-classic
+[elspeth-shirt]: https://www.amazon.com/dp/B076CQM6C7/
