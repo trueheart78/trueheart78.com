@@ -2,7 +2,7 @@
 layout: page
 title: TV Shows
 permalink: /tv-shows/
-update: 2017-10-10
+update: 2017-10-12
 ---
 
 <a name='currently-watching'></a>
@@ -20,6 +20,8 @@ update: 2017-10-10
 
 ## Unwatched
 
+1. Rick & Morty - Season 1
+1. Rick & Morty - Season 2
 1. Supergirl - Season 1
   - Stopped at episode 13.
 1. Supergirl - Season 2
