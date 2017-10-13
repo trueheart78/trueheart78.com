@@ -15,6 +15,8 @@ update: 2017-10-12
 ## Gaming
 
 1. [Nintendo Switch Console - $300][switch] [_Stores or Online_]
+  - [with Zelda - $60][zelda] [_Stores or Online_]
+  - [and a Pro Controller - $70][pro-controller] [_Stores or Online_]
   - I mean, c’mon now. Who doesn’t want this thing?
 1. [Gran Turismo Sport - Limited Edition (PS4)][gt-sport] [_Stores or Online_]
   - $56 until Oct 31st with Amazon Prime, $70 otherwise
@@ -48,3 +50,5 @@ update: 2017-10-12
 [lost-legacy]: https://www.amazon.com/gp/product/B06ZYW7ZHB/
 [ds4-adapter]: https://www.amazon.com/gp/product/B01KWLKKQU
 [switch]: https://www.bestbuy.com//site/nintendo-switch-32gb-console-neon-red-neon-blue-joy-con/5670100.p?skuId=5670100
+[pro-controller]: https://www.bestbuy.com//site/nintendo-pro-wireless-controller-for-nintendo-switch/5748618.p?skuId=5748618
+[zelda]: https://www.bestbuy.com//site/the-legend-of-zelda-breath-of-the-wild-nintendo-switch/5721500.p?skuId=5721500
