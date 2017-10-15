@@ -49,6 +49,6 @@ update: 2017-10-13
 [gt-sport]: https://www.amazon.com/Gran-Turismo-Sport-Limited-PlayStation-4/dp/B01FWLGWHQ
 [lost-legacy]: https://www.amazon.com/gp/product/B06ZYW7ZHB/
 [ds4-adapter]: https://www.amazon.com/gp/product/B01KWLKKQU
-[switch]: https://www.bestbuy.com//site/nintendo-switch-32gb-console-neon-red-neon-blue-joy-con/5670100.p?skuId=5670100
-[pro-controller]: https://www.bestbuy.com//site/nintendo-pro-wireless-controller-for-nintendo-switch/5748618.p?skuId=5748618
-[zelda]: https://www.bestbuy.com//site/the-legend-of-zelda-breath-of-the-wild-nintendo-switch/5721500.p?skuId=5721500
+[switch]: https://www.amazon.com/gp/registry/wishlist/1P3O0QFXP9NRT
+[pro-controller]: https://www.amazon.com/gp/registry/wishlist/1P3O0QFXP9NRT
+[zelda]: https://www.amazon.com/gp/registry/wishlist/1P3O0QFXP9NRT
