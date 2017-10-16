@@ -6,7 +6,7 @@ customnav: games_nav.html
 customjs:
 - random_game.js
 - random_name.js
-update: 2017-10-10
+update: 2017-10-15
 ---
 
 <a name='currently-playing'></a>
@@ -14,6 +14,7 @@ update: 2017-10-10
 
 ## Playing
 
+1. Yakuza 0 (PS4)
 1. Persona 4 Dancing All Night (Vita)
   - It's about time.
 1. Final Fantasy X-2 HD Remastered (PS4/Vita)
@@ -87,7 +88,6 @@ update: 2017-10-10
 1. The Last of Us: Remastered (PS4)
 1. The Last of Us: Left Behind (DLC) (PS4)
 1. Until Dawn (PS4)
-1. Yakuza 0 (PS4)
 
 <!-- unplayed:end -->
 <a name='beaten'></a>
