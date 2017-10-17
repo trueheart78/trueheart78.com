@@ -6,7 +6,7 @@ customnav: games_nav.html
 customjs:
 - random_game.js
 - random_name.js
-update: 2017-10-15
+update: 2017-10-17
 ---
 
 <a name='currently-playing'></a>
@@ -15,6 +15,7 @@ update: 2017-10-15
 ## Playing
 
 1. Yakuza 0 (PS4)
+  - It's rad.
 1. Persona 4 Dancing All Night (Vita)
   - It's about time.
 1. Final Fantasy X-2 HD Remastered (PS4/Vita)
@@ -85,9 +86,12 @@ update: 2017-10-15
 1. Shadowrun Returns: Dragonfall (PC)
 1. Shadowrun Returns: Hong Kong (PC)
 1. Titanfall 2 (PS4)
+1. The Escapists (PS4)
+1. The Escapists: The Walking Dead (PS4)
 1. The Last of Us: Remastered (PS4)
 1. The Last of Us: Left Behind (DLC) (PS4)
 1. Until Dawn (PS4)
+1. What Remains of Edith Finch (PS4)
 
 <!-- unplayed:end -->
 <a name='beaten'></a>
