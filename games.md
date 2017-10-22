@@ -6,7 +6,7 @@ customnav: games_nav.html
 customjs:
 - random_game.js
 - random_name.js
-update: 2017-10-17
+update: 2017-10-22
 ---
 
 <a name='currently-playing'></a>
@@ -16,10 +16,10 @@ update: 2017-10-17
 
 1. Yakuza 0 (PS4)
   - It's rad.
+1. God of War Collection (Vita)
+  - Playing the first game. 
 1. Persona 4 Dancing All Night (Vita)
   - It's about time.
-1. Final Fantasy X-2 HD Remastered (PS4/Vita)
-  - Strategy guide arrived. I'd like to see this through.
 
 <!-- playing:end -->
 <a name='for-fun'></a>
@@ -29,13 +29,10 @@ update: 2017-10-17
 
 1. Dragon Quest Builders (Vita/PS4)
 1. Dark Souls III & DLCs (DLC) (PS4) [Naked Dagger Challenge Runs](/naked-dagger/)
-1. Darkest Dungeon (Vita/PS4)
 1. Dead Cells (PC)
 1. Hot Shots: World Invitational (Vita)
 1. Overwatch (PS4)
-1. Risk of Rain (Vita/PS4)
 1. Rocket League (PS4)
-1. Stardew Valley (PS4)
 
 <!-- for-fun:end -->
 <a name='awaiting-content'></a>
@@ -56,8 +53,8 @@ update: 2017-10-17
 
 ## Undecided
 
-1. Persona 4 Arena (PS3)
-  - Story isn't as captivating as it was in P4G.
+1. Final Fantasy X-2 HD Remastered (PS4/Vita)
+  - Strategy guide arrived. I’d like to see this through.
 
 <!-- undecided:end -->
 <a name='unplayed'></a>
@@ -75,7 +72,6 @@ update: 2017-10-17
 1. Darkside Detective (PC)
 1. Divinity: Original Sin (PS4)
 1. Final Fantasy VII (Vita)
-1. God of War Collection (Vita)
 1. Gravity Rush (Vita)
 1. Grow Home (PS4)
 1. Just Cause 3 (PS4)
@@ -90,7 +86,6 @@ update: 2017-10-17
 1. The Escapists: The Walking Dead (PS4)
 1. The Last of Us: Remastered (PS4)
 1. The Last of Us: Left Behind (DLC) (PS4)
-1. Until Dawn (PS4)
 1. What Remains of Edith Finch (PS4)
 
 <!-- unplayed:end -->
@@ -206,7 +201,9 @@ update: 2017-10-17
    - Don't have any desire to play it more.
 1. Inside (PS4)
    - Had it spoiled for me.
-
+1. Persona 4 Arena (PS3)
+  - Story wasn’t as captivating as it was in P4G.
+  
 <!-- jettisoned:end -->
 <a name='planned-purchases'></a>
 <!-- planned-purchases:start -->
@@ -215,11 +212,11 @@ update: 2017-10-17
 
 See the [New Releases Wiki][new-releases]
 
-1. Agents of Mayhem (PS4) - Wait and See
-1. Danganronpa V3: Killing Harmony (Vita) - Wait and See
-1. Mass Effect: Andromeda (PS4) - $20 max
 1. Uncharted: The Lost Legacy (PS4) - Wait and See
 1. Zero Escape: The Nonary Games (Vita) - Wait and See
+1. ~~Agents of Mayhem (PS4) - Wait and See~~ [skipped]
+1. ~~Danganronpa V3: Killing Harmony (Vita) - Wait and See~~ [skipped]
+1. ~~Mass Effect: Andromeda (PS4) - $20 max~~ [skipped]
 1. ~~Life is Strange: Before the Storm (PS4) - Pre-ordered~~ [purchased]
 1. ~~Night in the Woods (PS4) - Wait and See~~ [purchased]
 1. ~~Persona 5 (PS4) - Pre-ordered~~ [purchased]
