@@ -15,3 +15,7 @@ url: "http://blog.trueheart.com" # the base hostname & protocol for your site
 markdown: kramdown
 kramdown:
     input: GFM
+
+# Gems - supported https://pages.github.com/versions/
+plugins:
+  - jemoji
