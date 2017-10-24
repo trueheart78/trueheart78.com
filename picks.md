@@ -7,7 +7,7 @@ update: 2016-08-13
 
 Shamelessy stealing this idea from the fantastic
 [Ruby Rogues podcast][ruby-rogues-podcast]. Consider them the first pick
-<img src="/assets/images/site-heart.webp" width="18px" height="18px" />
+:sparkling_heart:
 
 August 13th, 2016:
 

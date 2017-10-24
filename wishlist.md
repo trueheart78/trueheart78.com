@@ -29,7 +29,7 @@ update: 2017-10-24
 
 ## Gift Cards / If All Else Fails
 
-1. Amazon Gift Cards <img src="/assets/images/site-heart.webp" height="26" width="26" />	
+1. Amazon Gift Cards :sparkling_heart:
    - Last year they allowed me to purchase some amazing headphones.
 
 ## Art & Prints
