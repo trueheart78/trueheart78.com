@@ -6,7 +6,7 @@ customnav: games_nav.html
 customjs:
 - random_game.js
 - random_name.js
-update: 2017-10-22
+update: 2017-10-24
 ---
 
 <a name='currently-playing'></a>
@@ -14,10 +14,11 @@ update: 2017-10-22
 
 ## Playing
 
-1. Yakuza 0 (PS4)
-  - It's rad.
-1. God of War Collection (Vita)
-  - Playing the first game. 
+1. Earthbound (SNES)
+  - It's been over 20 years.
+  - It still holds up.
+1. God of War 1 - God of War Collection (Vita)
+  - Playing through the first game. 
 1. Persona 4 Dancing All Night (Vita)
   - It's about time.
 
@@ -44,6 +45,7 @@ update: 2017-10-22
   - Wow. Just... wow.
   - Did 3 playthroughs, and loved each of them.
   - Wasn't sure what to expect, but episode 2 can't come fast enough.
+  - Episode 2 is out - will pick this back up soon.
 1. Hitman (PS4)
   - Waiting on Season 2
 
@@ -72,6 +74,7 @@ update: 2017-10-22
 1. Darkside Detective (PC)
 1. Divinity: Original Sin (PS4)
 1. Final Fantasy VII (Vita)
+1. God of War 2 - God of War Collection (Vita)
 1. Gravity Rush (Vita)
 1. Grow Home (PS4)
 1. Just Cause 3 (PS4)
@@ -163,7 +166,7 @@ update: 2017-10-22
   - Definitely an A+.
 1. Steamworld Dig 2 (PS4/Vita)
   - Great sense of humor.
-  - Fen <img src=“/assets/images/site-heart.webp” height=“16” width=“16” />
+  - Fen <img src="/assets/images/site-heart.webp" height="16" width="16" />
   - Wonderful Vita title.
   - Definitely an A.
 1. Wolfenstein: The New Blood (PS4)
@@ -203,6 +206,10 @@ update: 2017-10-22
    - Had it spoiled for me.
 1. Persona 4 Arena (PS3)
   - Story wasn’t as captivating as it was in P4G.
+1. Yakuza 0 (PS4)
+  - Such great style.
+  - I honestly couldn't care less about the story.
+  - 6 chapters and I've had my fill.
   
 <!-- jettisoned:end -->
 <a name='planned-purchases'></a>

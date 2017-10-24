@@ -2,7 +2,7 @@
 layout: page
 title: Wishlist
 permalink: /wishlist/
-update: 2017-10-15
+update: 2017-10-24
 ---
 
 ## General
@@ -16,7 +16,10 @@ update: 2017-10-15
 
 1. [Nintendo Switch Console - $300][switch] [_Stores or Online_]
   - [with Zelda - $60][zelda] [_Stores or Online_]
-  - [and a Pro Controller - $70][pro-controller] [_Stores or Online_]
+  - [with Mario Oddyssey (pre-order) - $60][mario-odyssey] [_Stores or Online_]
+    - Amazon has it for 20% off on pre-orders, so $48.
+  - [with Mario and Rabbids - $50][mario-and-rabbids] [_Stores or Online_]
+  - [with a Pro Controller - $70][pro-controller] [_Stores or Online_]
   - I mean, c’mon now. Who doesn’t want this thing?
 1. [Gran Turismo Sport - Limited Edition (PS4)][gt-sport] [_Stores or Online_]
   - $56 until Oct 31st with Amazon Prime, $70 otherwise
@@ -52,3 +55,5 @@ update: 2017-10-15
 [switch]: https://www.amazon.com/gp/registry/wishlist/1P3O0QFXP9NRT
 [pro-controller]: https://www.amazon.com/gp/registry/wishlist/1P3O0QFXP9NRT
 [zelda]: https://www.amazon.com/gp/registry/wishlist/1P3O0QFXP9NRT
+[mario-and-rabbids]: https://www.amazon.com/gp/registry/wishlist/1P3O0QFXP9NRT
+[mario-odyssey]: https://www.amazon.com/gp/registry/wishlist/1P3O0QFXP9NRT
