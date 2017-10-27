@@ -6,7 +6,7 @@ customnav: games_nav.html
 customjs:
 - random_game.js
 - random_name.js
-update: 2017-10-24
+update: 2017-10-27
 ---
 
 <a name='currently-playing'></a>
@@ -14,6 +14,7 @@ update: 2017-10-24
 
 ## Playing
 
+1. Legend of Zelda: Breath of the Wild (Switch)
 1. Earthbound (SNES)
   - It's been over 20 years.
   - It still holds up.
@@ -84,6 +85,7 @@ update: 2017-10-24
 1. Resident Evil 2 (Vita)
 1. Shadowrun Returns: Dragonfall (PC)
 1. Shadowrun Returns: Hong Kong (PC)
+1. Sonic Mania (Switch)
 1. Titanfall 2 (PS4)
 1. The Escapists (PS4)
 1. The Escapists: The Walking Dead (PS4)
@@ -189,7 +191,7 @@ update: 2017-10-24
    - Quit after about 70% into the main game.
    - Just not enjoying it.
 1. Flinthook (PS4)
-   - Love the style, but after nearly 10 hours, still can't be
+   - Love the style, but after nearly 10 hours, still can't beat
     the first boss. If rebalanced, will consider returning to it.
 1. Persona 1 (PSP/Vita)
    - I get what they were going for, and after about 10 hours, I'm good.
