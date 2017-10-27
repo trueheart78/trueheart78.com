@@ -2,7 +2,7 @@
 layout: page
 title: Wishlist
 permalink: /wishlist/
-update: 2017-10-24
+update: 2017-10-27
 ---
 
 ## General
@@ -14,12 +14,7 @@ update: 2017-10-24
 
 ## Gaming
 
-1. [Nintendo Switch Console - $300][switch] [_Stores or Online_]
-  - [with Zelda - $60][zelda] [_Stores or Online_]
-  - [with Mario Oddyssey (pre-order) - $60][mario-odyssey] [_Stores or Online_] (Amazon has it for 20% off on pre-orders, so $48.)
-  - [with Mario and Rabbids - $50][mario-and-rabbids] [_Stores or Online_]
-  - [with a Pro Controller - $70][pro-controller] [_Stores or Online_]
-  - I mean, c’mon now. Who doesn’t want this thing?
+1. [Mario and Rabbids - $60][mario-and-rabbids] [_Stores or Online_]
 1. [Gran Turismo Sport - Limited Edition (PS4)][gt-sport] [_Stores or Online_]
   - $56 until Oct 31st with Amazon Prime, $70 otherwise
 1. [Uncharted: The Lost Legacy (PS4) - $40][lost-legacy] [_Stores or Online_]
