@@ -6,41 +6,34 @@ customnav: games_nav.html
 customjs:
 - random_game.js
 - random_name.js
-update: 2017-10-27
+update: 2017-10-28
 ---
 
 <a name='currently-playing'></a>
 <!-- playing:start -->
 
-## Playing
+## :video_game: Playing
 
 1. Legend of Zelda: Breath of the Wild (Switch)
-1. Earthbound (SNES)
-  - It's been over 20 years.
-  - It still holds up.
-1. God of War 1 - God of War Collection (Vita)
-  - Playing through the first game. 
-1. Persona 4 Dancing All Night (Vita)
-  - It's about time.
+1. Earthbound (SNES Classic)
+  - Over 20 years later and it still holds up.
 
 <!-- playing:end -->
 <a name='for-fun'></a>
 <!-- for-fun:start -->
 
-## For Funsies -- <a href="javascript: randomGame('for-fun')" id="for-fun-link">Randomly Pick One</a>
+## :heart_eyes: For Funsies
+<!-- <a href="javascript: randomGame('for-fun')" id="for-fun-link" title="Random selection" alt="Random selection">:game_die:</a>-->
 
-1. Dragon Quest Builders (Vita/PS4)
 1. Dark Souls III & DLCs (DLC) (PS4) [Naked Dagger Challenge Runs](/naked-dagger/)
 1. Dead Cells (PC)
-1. Hot Shots: World Invitational (Vita)
 1. Overwatch (PS4)
-1. Rocket League (PS4)
 
 <!-- for-fun:end -->
 <a name='awaiting-content'></a>
 <!-- awaiting-content:start -->
 
-## Awaiting Content
+## :calendar: Awaiting Content
 
 1. Life is Strange: Before the Storm (PS4)
   - Wow. Just... wow.
@@ -54,50 +47,38 @@ update: 2017-10-27
 <a name='undecided'>
 <!-- undecided:start -->
 
-## Undecided
-
-1. Final Fantasy X-2 HD Remastered (PS4/Vita)
-  - Strategy guide arrived. I’d like to see this through.
-
 <!-- undecided:end -->
 <a name='unplayed'></a>
 <!-- unplayed:start -->
 
-## Unplayed -- <a href="javascript: randomGame('unplayed')" id="unplayed-link">Randomly Pick One</a>
+## :space_invader: Unplayed -- <a href="javascript: randomGame('unplayed')" id="unplayed-link">Randomly Pick One</a>
 
 1. Assassin's Creed: Syndicate (PS4)
-1. Beatcop (PC)
-1. Costume Quest 2 (PS4)
-1. Danganronpa: Trigger Happy Havoc (Vita)
-1. Danganronpa 2: Goodbye Despair (Vita)
-1. Dark Souls (PS3)
-1. Dark Souls II: Scholar of the First Sin (PS4)
 1. Darkside Detective (PC)
 1. Divinity: Original Sin (PS4)
-1. Final Fantasy VII (Vita)
-1. God of War 2 - God of War Collection (Vita)
-1. Gravity Rush (Vita)
-1. Grow Home (PS4)
-1. Just Cause 3 (PS4)
-1. Neon Chrome (Vita)
-1. Patapon (Vita)
-1. Persona 3 Portable (Vita)
-1. Resident Evil 2 (Vita)
-1. Shadowrun Returns: Dragonfall (PC)
-1. Shadowrun Returns: Hong Kong (PC)
 1. Sonic Mania (Switch)
+1. Super Mario Odyssey (Switch)
 1. Titanfall 2 (PS4)
-1. The Escapists (PS4)
-1. The Escapists: The Walking Dead (PS4)
-1. The Last of Us: Remastered (PS4)
-1. The Last of Us: Left Behind (DLC) (PS4)
 1. What Remains of Edith Finch (PS4)
 
 <!-- unplayed:end -->
+
+<a name='revisited'></a>
+<!-- revisited:start -->
+
+## :repeat: Revisiting Classics
+
+1. Legend of Zelda: A Link to the Past (SNES Classic)
+1. Mega Man X (SNES Classic)
+1. Secret of Mana (SNES Classic)
+1. ... and many other games on the (SNES Classic)
+
+<!-- revisited:end -->
+
 <a name='beaten'></a>
 <!-- beaten:start -->
 
-## Beaten
+## :checkered_flag: Beaten
 
 1. Persona 4 Golden (Vita)
    + Wow. Just... wow.
@@ -182,7 +163,7 @@ update: 2017-10-27
 <a name='jettisoned'></a>
 <!-- jettisoned:start -->
 
-## Jettisoned
+## :rocket: Jettisoned
 
 1. Axiom Verge (PS4/Vita)
    - I really wanted to like this, but just couldn't get into it
@@ -212,17 +193,51 @@ update: 2017-10-27
   - Such great style.
   - I honestly couldn't care less about the story.
   - 6 chapters and I've had my fill.
+
+<a name='birthday-purge'></a>
+
+### :birthday: Birthday Purge
+
+1. Beatcop (PC)
+1. Costume Quest 2 (PS4)
+1. Danganronpa: Trigger Happy Havoc (Vita)
+1. Danganronpa 2: Goodbye Despair (Vita)
+1. Dark Souls (PS3)
+1. Dark Souls II: Scholar of the First Sin (PS4)
+1. Dragon Quest Builders (Vita/PS4)
+1. Final Fantasy VII (Vita)
+1. Final Fantasy X-2 HD Remastered (PS4/Vita)
+   - Started but never finished.
+   - Strategy guide arrived. I’d like to get back to this, one day.
+1. God of War 1 - God of War Collection (Vita)
+   - Started but never finished.
+1. God of War 2 - God of War Collection (Vita)
+1. Gravity Rush (Vita)
+1. Grow Home (PS4)
+1. Hot Shots: World Invitational (Vita)
+1. Just Cause 3 (PS4)
+1. Neon Chrome (Vita)
+1. Patapon (Vita)
+1. Persona 3 Portable (Vita)
+1. Persona 4 Dancing All Night (Vita)
+   - Started but never finished.
+1. Resident Evil 2 (Vita)
+1. Rocket League (PS4)
+1. Shadowrun Returns: Dragonfall (PC)
+1. Shadowrun Returns: Hong Kong (PC)
+1. The Escapists (PS4)
+1. The Escapists: The Walking Dead (PS4)
+1. The Last of Us: Remastered (PS4)
+1. The Last of Us: Left Behind (DLC) (PS4)
   
 <!-- jettisoned:end -->
 <a name='planned-purchases'></a>
 <!-- planned-purchases:start -->
 
-## Planned Purchases 
+## :money_with_wings: Planned Purchases 
 
 See the [New Releases Wiki][new-releases]
 
-1. Uncharted: The Lost Legacy (PS4) - Wait and See
-1. Zero Escape: The Nonary Games (Vita) - Wait and See
 1. ~~Agents of Mayhem (PS4) - Wait and See~~ [skipped]
 1. ~~Danganronpa V3: Killing Harmony (Vita) - Wait and See~~ [skipped]
 1. ~~Mass Effect: Andromeda (PS4) - $20 max~~ [skipped]
@@ -231,23 +246,25 @@ See the [New Releases Wiki][new-releases]
 1. ~~Persona 5 (PS4) - Pre-ordered~~ [purchased]
 1. ~~Red Dead Redemption 2 (PS4) - Day One~~ [delayed to 2018]
 1. ~~Steamworld Dig 2 (PS4/Vita) - Day One~~ [purchased]
+1. ~~Uncharted: The Lost Legacy (PS4) - Wait and See~~ [gifted]
+1. ~~Zero Escape: The Nonary Games (Vita) - Wait and See~~ [skipped]
 
-## Planned Purchases (Previously Released)
+## :dollar: Planned Purchases (Previously Released)
 
-1. Zero Escape: Virtue's Last Reward (Vita) - $15 max
-1. Zero Escape: Zero Time Dilemma (Vita) - $25 max
 1. ~~Adventures of Mana (Vita) - $10 max~~ [purchased]
 1. ~~Axiom Verge (PS4/Vita) - $10 max~~ [purchased]
 1. ~~Danganronpa: Trigger Happy Havoc (Vita) - $20 max~~ [purchased]
 1. ~~Danganronpa 2: Goodbye Despair (Vita) - $25 max~~ [purchased]
 1. ~~Dragon Quest Builders (PS4 or Vita) - $30 or 25 max~~ [purchased]
 1. ~~XCOM: Enemy Unknown Plus (Vita) - $10 max~~ [purchased]
+1. ~~Zero Escape: Virtue's Last Reward (Vita) - $15 max~~ [skipped]
+1. ~~Zero Escape: Zero Time Dilemma (Vita) - $25 max~~ [skipped]
 
 <!-- planned-purchases:end -->
 
 <a name='why'>
 
-## Why?
+## :thought_balloon: Why?
 
 _"You should be playing games you enjoy. Just remember your pile when you start
 looking for something else to play, instead of purchasing another title. That's
@@ -256,7 +273,7 @@ rid of stuff that you aren't."_ - Me
 
 <a name='notes-to-self'>
 
-## Notes to Self
+## :memo: Notes to Self
 
 + I should not buy DLC until I am ready to play it.
 + I stop playing open world games when I complete the main story.

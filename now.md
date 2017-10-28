@@ -2,24 +2,29 @@
 layout: page
 title: Now
 permalink: /now/
-update: 2017-10-24
+update: 2017-10-28
 ---
 
 I'm currently living in Franklin, OH working remote for [CoverMyMeds](http://covermymeds.com) as a software developer.
 
-### Now
+## :space_invader: Playing
 
-* Learning [Elm](http://elm-lang.org).
+* New consoles arrived for my birthday :birthday:
+  + The [SNES Classic](https://www.nintendo.com/super-nes-classic) that a close friend gifted me.
+  + The [Nintendo Switch](https://www.nintendo.com/switch/) that my dear wife gifted me.
+* _Zelda: Breath of the Wild_ on Switch.
+* _Super Mario Odyssey_ on Switch.
+* _Earthbound_ on SNES Classic.
+* Jettisoned a [stack of games](/games#birthday-purge) from my backlog.
+
+## :books: Learning
+
+* [Elm](http://elm-lang.org).
   + Loving it.
 * Studying _The Rails 5 Way_.
-* Playing _Earthbound_ on my new SNES Classic :sparkling_heart:
-* Playing _Persona 4 Dancing All Night_ on Vita.
 * Playing _Overwatch_ on PS4.
-* Playing _Dead Cells_ on PC.
-  + This game is awesome.
-* Learning to cook.
 
-### Coming Up
+## :calendar: Coming Up
 
 * Building [a podcast site](https://github.com/trueheart78/lifetab-podcast)
 * Learning to work with [Braintree](https://www.braintreepayments.com/) in Rails.
@@ -30,8 +35,11 @@ I'm currently living in Franklin, OH working remote for [CoverMyMeds](http://cov
 * Studying [Working with TCP Sockets](http://www.jstorimer.com/products/working-with-tcp-sockets)
   - Left off at Chapter 14
 
-### History for 2017
+## :scroll: History for 2017
 
+* Played _Dead Cells_ on PC.
+* Played _God of War 1_ on Vita.
+* Played _Persona 4 Dancing All Night_ on Vita.
 * Played _Yakuza 0_ on PS4.
 * Played _Wolfenstein: The New Blood_ on PS4.
 * Played _Steamworld Dig 2_ on Vita.
@@ -54,7 +62,7 @@ I'm currently living in Franklin, OH working remote for [CoverMyMeds](http://cov
 * Adored _Persona 4 Golden_ on Vita.
 * Played _Bloodborne_ on PS4.
 
-### History for 2016
+### :scroll: History for 2016
 
 * Played _DOOM (PS4)_.
 * Played _Stardew Valley (PS4)_.
