@@ -6,7 +6,7 @@ customnav: games_nav.html
 customjs:
 - random_game.js
 - random_name.js
-update: 2017-10-28
+update: 2017-10-29
 ---
 
 <a name='currently-playing'></a>
@@ -14,7 +14,11 @@ update: 2017-10-28
 
 ## :video_game: Playing
 
-1. Legend of Zelda: Breath of the Wild (Switch)
+1. Legend of Zelda: Breath of the Wild (Switch) 
+   - The veritcal freedom is unparalleled.
+   - Actual real, not terrible story.
+   - Gameplay is solid.
+   - Zelda (the character) is spectacular.
 1. Earthbound (SNES Classic)
   - Over 20 years later and it still holds up.
 
@@ -53,25 +57,28 @@ update: 2017-10-28
 
 ## :space_invader: Unplayed -- <a href="javascript: randomGame('unplayed')" id="unplayed-link">Randomly Pick One</a>
 
-1. Assassin's Creed: Syndicate (PS4)
-1. Darkside Detective (PC)
-1. Divinity: Original Sin (PS4)
-1. Sonic Mania (Switch)
-1. Super Mario Odyssey (Switch)
-1. Titanfall 2 (PS4)
-1. What Remains of Edith Finch (PS4)
+* 2017
+  1. Darkside Detective (PC) [4hr est]
+  1. Sonic Mania (Switch) [7hr est]
+  1. Super Mario Odyssey (Switch) [30hr est for real ending]
+  1. Uncharted: The Lost Legacy (PS4) [8hr est]
+  1. What Remains of Edith Finch (PS4) [2hr est]
+* 2016
+  1. Assassin's Creed: Syndicate (PS4)
+  1. Divinity: Original Sin (PS4)
+  1. Titanfall 2 (PS4)
 
 <!-- unplayed:end -->
 
 <a name='revisited'></a>
 <!-- revisited:start -->
 
-## :repeat: Revisiting Classics
+## :repeat: Revisiting the SNES Classics
 
-1. Legend of Zelda: A Link to the Past (SNES Classic)
-1. Mega Man X (SNES Classic)
-1. Secret of Mana (SNES Classic)
-1. ... and many other games on the (SNES Classic)
+1. Legend of Zelda: A Link to the Past
+1. Mega Man X
+1. Secret of Mana
+1. ... and many others
 
 <!-- revisited:end -->
 

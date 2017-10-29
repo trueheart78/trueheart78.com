@@ -5,6 +5,7 @@ permalink: /favorite-games/
 update: 2017-09-30
 ---
 
++ [Game of the Year 2017][goty-2017]
 + [Game of the Year 2016][goty-2016]
 + [Random Thoughts][random-thoughts]
 
@@ -95,9 +96,41 @@ My bullet points, until I get to writing up something more proper:
 
 ### Game of the Year
 
+<a name='goty-2017'></a>
+
+#### :calendar: 2017
+
+An unordered list of titles that are making the first cut:
+
+* Horizon: Zero Dawn (PS4)
+* Night in the Woods (PS4)
+* Persona 5 (PS4)
+* Tomb Raider: Rise of the Tomb Raider (PS4)
+* Final Fantasy XII: The Zodiac Age (PS4)
+* Nier: Automata (PS4)
+* Undertale (P4/Vita)
+* Steamworld Dig 2 (PS4/Vita/Switch)
+
+Unplayed / Unfinished games that I feel will make the cut:
+
+* Zelda: Breath of the Wild (Switch)
+* Super Mario Odyssey (Switch) [unplayed]
+* Life is Strange: Before the Storm (PS4) [unfinished]
+* Uncharted: The Lost Legacy (PS4) [unplayed]
+* What Remains of Edith Finch (PS4)
+
+Older but played in 2017:
+
+* P4G (Vita)
+* Uncharted 4 (PS4)
+* Wolfenstein: The New Blood (PS4)
+* Overwatch (PS4)
+
+## Previous Years
+
 <a name='goty-2016'></a>
 
-#### 2016
+### :scroll: 2016
 
 ### 1. Hitman (PS4)
 
@@ -192,4 +225,5 @@ Yenefer and Ciri.
 [ffvi]: #ffvi
 [persona-4]: #persona-4
 [goty-2016]: #goty-2016
+[goty-2017]: #goty-2017
 [random-thoughts]: #random-thoughts
