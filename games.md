@@ -6,7 +6,7 @@ customnav: games_nav.html
 customjs:
 - random_game.js
 - random_name.js
-update: 2017-10-29
+update: 2017-11-05
 ---
 
 <a name='currently-playing'></a>
@@ -19,8 +19,10 @@ update: 2017-10-29
    - Actual real, not terrible story.
    - Gameplay is solid.
    - Zelda (the character) is spectacular.
+1. Super Mario Odyssey (Switch)
+   - 30hr estimated for real ending
 1. Earthbound (SNES Classic)
-  - Over 20 years later and it still holds up.
+   - Over 20 years later and it still holds up.
 
 <!-- playing:end -->
 <a name='for-fun'></a>
@@ -60,7 +62,6 @@ update: 2017-10-29
 * 2017
   1. Darkside Detective (PC) [4hr est]
   1. Sonic Mania (Switch) [7hr est]
-  1. Super Mario Odyssey (Switch) [30hr est for real ending]
   1. Uncharted: The Lost Legacy (PS4) [8hr est]
   1. What Remains of Edith Finch (PS4) [2hr est]
 * 2016
