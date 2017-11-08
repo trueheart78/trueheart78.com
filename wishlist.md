@@ -25,10 +25,6 @@ update: 2017-11-08
 
 ## Art & Prints
 
-1. [Print of Extra Ordinary][print-order] [_Online Only_]
-  - Choose **Comics**, enter **481**, and choose **A3 - NZ$32.00**.
-  - $34 USD with Shipping.
-  - Comic is adorable: [Extra Ordinary - #481][comic-481]
 1. [XKCD Signed Print for Comic #150 - $15.00][xkcd-print] [_Online Only_]
   - Please make sure to **select comic "#150 Grownups" from the drop-down list**.
 

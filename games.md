@@ -6,7 +6,7 @@ customnav: games_nav.html
 customjs:
 - random_game.js
 - random_name.js
-update: 2017-11-05
+update: 2017-11-08
 ---
 
 <a name='currently-playing'></a>
@@ -18,9 +18,10 @@ update: 2017-11-05
    - The veritcal freedom is unparalleled.
    - Actual real, not terrible story.
    - Gameplay is solid.
-   - Zelda (the character) is spectacular.
+   - Zelda (the character) is spectacular. _#senpai_ :sparkling_heart:
 1. Super Mario Odyssey (Switch)
    - 30hr estimated for real ending
+   - Pure delight.
 1. Earthbound (SNES Classic)
    - Over 20 years later and it still holds up.
 
