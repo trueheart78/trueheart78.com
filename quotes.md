@@ -2,7 +2,7 @@
 layout: page
 title: quotes
 permalink: /quotes/
-update: 2017-11-06
+update: 2017-11-08
 ---
 
 ## [AJ Mendez Brooks][aj mendez]
