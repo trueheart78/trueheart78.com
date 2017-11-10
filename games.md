@@ -6,7 +6,7 @@ customnav: games_nav.html
 customjs:
 - random_game.js
 - random_name.js
-update: 2017-11-08
+update: 2017-11-10
 ---
 
 <a name='currently-playing'></a>
@@ -19,9 +19,6 @@ update: 2017-11-08
    - Actual real, not terrible story.
    - Gameplay is solid.
    - Zelda (the character) is spectacular. _#senpai_ :sparkling_heart:
-1. Super Mario Odyssey (Switch)
-   - 30hr estimated for real ending
-   - Pure delight.
 1. Earthbound (SNES Classic)
    - Over 20 years later and it still holds up.
 
@@ -167,6 +164,9 @@ update: 2017-11-08
   - Solid B.
 1. Wolfenstein: The Old Order (DLC) (PS4)
   - Decent DLC.
+1. Super Mario Odyssey (Switch)
+  - Pure delight.
+  - Solid A+ title.
 
 <!-- beaten:end -->
 <a name='jettisoned'></a>

@@ -2,7 +2,7 @@
 layout: page
 title: Favorite Games
 permalink: /favorite-games/
-update: 2017-09-30
+update: 2017-11-10
 ---
 
 + [Game of the Year 2017][goty-2017]
@@ -102,29 +102,29 @@ My bullet points, until I get to writing up something more proper:
 
 An unordered list of titles that are making the first cut:
 
+* Final Fantasy XII: The Zodiac Age (PS4)
 * Horizon: Zero Dawn (PS4)
+* Nier: Automata (PS4)
 * Night in the Woods (PS4)
 * Persona 5 (PS4)
-* Tomb Raider: Rise of the Tomb Raider (PS4)
-* Final Fantasy XII: The Zodiac Age (PS4)
-* Nier: Automata (PS4)
-* Undertale (P4/Vita)
 * Steamworld Dig 2 (PS4/Vita/Switch)
+* Super Mario Odyssey (Switch) [unplayed]
+* Undertale (P4/Vita)
 
 Unplayed / Unfinished games that I feel will make the cut:
 
-* Zelda: Breath of the Wild (Switch)
-* Super Mario Odyssey (Switch) [unplayed]
+* Zelda: Breath of the Wild (Switch) [100hrs in]
 * Life is Strange: Before the Storm (PS4) [unfinished]
 * Uncharted: The Lost Legacy (PS4) [unplayed]
-* What Remains of Edith Finch (PS4)
+* What Remains of Edith Finch (PS4) [unplayed]
 
 Older but played in 2017:
 
+* Overwatch (PS4)
 * P4G (Vita)
+* Tomb Raider: Rise of the Tomb Raider (PS4)
 * Uncharted 4 (PS4)
 * Wolfenstein: The New Blood (PS4)
-* Overwatch (PS4)
 
 ## Previous Years
 

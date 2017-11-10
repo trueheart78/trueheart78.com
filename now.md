@@ -2,7 +2,7 @@
 layout: page
 title: Now
 permalink: /now/
-update: 2017-11-05
+update: 2017-11-10
 ---
 
 I'm currently living in Franklin, OH working remote for [CoverMyMeds](http://covermymeds.com) as a software developer.
@@ -13,7 +13,6 @@ I'm currently living in Franklin, OH working remote for [CoverMyMeds](http://cov
   + The [SNES Classic](https://www.nintendo.com/super-nes-classic) that a close friend gifted me.
   + The [Nintendo Switch](https://www.nintendo.com/switch/) that my dear wife gifted me.
 * _Zelda: Breath of the Wild_ on Switch.
-* _Super Mario Odyssey_ on Switch.
 * _Earthbound_ on SNES Classic.
 * Jettisoned a [stack of games](/games#birthday-purge) from my backlog.
 
@@ -37,6 +36,7 @@ I'm currently living in Franklin, OH working remote for [CoverMyMeds](http://cov
 
 ## :scroll: History for 2017
 
+* Played  _Super Mario Odyssey_ on Switch.
 * Played _Dead Cells_ on PC.
 * Played _God of War 1_ on Vita.
 * Played _Persona 4 Dancing All Night_ on Vita.
