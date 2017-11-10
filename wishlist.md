@@ -14,6 +14,8 @@ update: 2017-11-10
 
 ## Gaming
 
+All of the following can be found on my [Amazon Wishlist][amazon wishlist].
+
 1. [Mario and Rabbids (Switch) - $60][mario-and-rabbids] [_Stores or Online_]
   - May be cheaper from other places than Amazon.
 1. [8Bitdo SN30 2.4G Wireless Controller for SNES Classic Edition - $25][snes-wireless] [_Online Only_]
@@ -40,5 +42,6 @@ update: 2017-11-10
 [elspeth-shirt]: https://www.amazon.com/dp/B076CQM6C7/
 [ds4-adapter]: https://www.amazon.com/gp/product/B01KWLKKQU
 [switch]: https://www.amazon.com/gp/registry/wishlist/1P3O0QFXP9NRT
-[mario-and-rabbids]: https://www.amazon.com/gp/registry/wishlist/1P3O0QFXP9NRT
-[snes-wireless]: https://www.amazon.com/gp/product/B074HBNNH6
+[mario-and-rabbids]: https://www.amazon.com/dp/B071JRMKBH/
+[switch wishlist]: https://www.amazon.com/gp/registry/wishlist/1P3O0QFXP9NRT
+[snes-wireless]: https://www.amazon.com/gp/product/B074HBNNH6k0
