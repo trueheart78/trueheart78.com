@@ -151,7 +151,7 @@ update: 2017-11-10
   - Two runs, including Pacifist, complete.
   - So many great characters!
   - So very many unexpected twists and turns.
-  - Oh, and the _puns_ were wonderful. #sansIsBae
+  - Oh, and the _puns_ were wonderful. _#sansIsBae_
   - Definitely an A+.
 1. Steamworld Dig 2 (PS4/Vita)
   - Great sense of humor.
