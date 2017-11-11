@@ -6,7 +6,7 @@ customnav: games_nav.html
 customjs:
 - random_game.js
 - random_name.js
-update: 2017-11-10
+update: 2017-11-11
 ---
 
 <a name='currently-playing'></a>
@@ -61,7 +61,6 @@ update: 2017-11-10
   1. Darkside Detective (PC) [4hr est]
   1. Sonic Mania (Switch) [7hr est]
   1. Uncharted: The Lost Legacy (PS4) [8hr est]
-  1. What Remains of Edith Finch (PS4) [2hr est]
 * 2016
   1. Assassin's Creed: Syndicate (PS4)
   1. Divinity: Original Sin (PS4)
@@ -167,6 +166,12 @@ update: 2017-11-10
 1. Super Mario Odyssey (Switch)
   - Pure delight.
   - Solid A+ title.
+1. What Remains of Edith Finch (PS4)
+  - Wow. Simply fantastic.
+  - The different methods of storytelling were wonderful and unexpected.
+  - Audio was wonderful, from the creeky floorboards to the basement music.
+  - Teared up at the end. :cry: :heartpulse:
+  - A+
 
 <!-- beaten:end -->
 <a name='jettisoned'></a>

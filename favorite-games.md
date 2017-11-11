@@ -2,7 +2,7 @@
 layout: page
 title: Favorite Games
 permalink: /favorite-games/
-update: 2017-11-10
+update: 2017-11-11
 ---
 
 + [Game of the Year 2017][goty-2017]
@@ -110,13 +110,13 @@ An unordered list of titles that are making the first cut:
 * Steamworld Dig 2 (PS4/Vita/Switch)
 * Super Mario Odyssey (Switch) [unplayed]
 * Undertale (P4/Vita)
+* What Remains of Edith Finch (PS4) [unplayed]
 
 Unplayed / Unfinished games that I feel will make the cut:
 
 * Zelda: Breath of the Wild (Switch) [100hrs in]
 * Life is Strange: Before the Storm (PS4) [unfinished]
 * Uncharted: The Lost Legacy (PS4) [unplayed]
-* What Remains of Edith Finch (PS4) [unplayed]
 
 Older but played in 2017:
 

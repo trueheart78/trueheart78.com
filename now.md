@@ -2,7 +2,7 @@
 layout: page
 title: Now
 permalink: /now/
-update: 2017-11-10
+update: 2017-11-11
 ---
 
 I'm currently living in Franklin, OH working remote for [CoverMyMeds](http://covermymeds.com) as a software developer.
@@ -36,7 +36,8 @@ I'm currently living in Franklin, OH working remote for [CoverMyMeds](http://cov
 
 ## :scroll: History for 2017
 
-* Played  _Super Mario Odyssey_ on Switch.
+* Played _What Remains of Edith Finch_ on PS4.
+* Played _Super Mario Odyssey_ on Switch.
 * Played _Dead Cells_ on PC.
 * Played _God of War 1_ on Vita.
 * Played _Persona 4 Dancing All Night_ on Vita.
