@@ -6,7 +6,7 @@ customnav: games_nav.html
 customjs:
 - random_game.js
 - random_name.js
-update: 2017-11-11
+update: 2017-11-15
 ---
 
 <a name='currently-playing'></a>
@@ -15,10 +15,7 @@ update: 2017-11-11
 ## :video_game: Playing
 
 1. Legend of Zelda: Breath of the Wild (Switch) 
-   - The veritcal freedom is unparalleled.
-   - Actual real, not terrible story.
-   - Gameplay is solid.
-   - Zelda (the character) is spectacular. _#senpai_ :sparkling_heart:
+   - **Master Mode**
 1. Earthbound (SNES Classic)
    - Over 20 years later and it still holds up.
 
@@ -172,6 +169,12 @@ update: 2017-11-11
   - Audio was wonderful, from the creeky floorboards to the basement music.
   - Teared up at the end. :cry: :heartpulse:
   - A+
+1. Legend of Zelda: Breath of the Wild (Switch) 
+   - The veritcal freedom is unparalleled.
+   - Actual real, not terrible story.
+   - Gameplay is solid.
+   - Zelda (the character) is spectacular. _#senpai_ :sparkling_heart:
+   - **Master Mode**
 
 <!-- beaten:end -->
 <a name='jettisoned'></a>
