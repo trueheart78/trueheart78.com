@@ -45,3 +45,5 @@ All of the following can be found on my [Amazon Wishlist][amazon wishlist].
 [mario-and-rabbids]: https://www.amazon.com/dp/B071JRMKBH/
 [switch wishlist]: https://www.amazon.com/gp/registry/wishlist/1P3O0QFXP9NRT
 [snes-wireless]: https://www.amazon.com/gp/product/B074HBNNH6k0
+[cox n crendor]: https://theyetee.com/products/cox-n-crendor
+
