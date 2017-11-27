@@ -2,7 +2,7 @@
 layout: page
 title: quotes
 permalink: /quotes/
-update: 2017-11-08
+update: 2017-11-27
 ---
 
 ## [AJ Mendez Brooks][aj mendez]
@@ -12,6 +12,11 @@ update: 2017-11-08
 ### [Kent Beck][kent beck]
 
 > You're creating a vocabulary, not writing a program. Be a poet for a moment
+
+### Ashe from FFXII
+
+> I am simply myself. No more and no less.
+
 
 [aj mendez]: http://ajmendezbrooks.com/
 [aj oct 2017]: http://mailchi.mp/ajmendezbrooks/represent-team-aj-467805
