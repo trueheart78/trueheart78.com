@@ -6,7 +6,7 @@ customnav: games_nav.html
 customjs:
 - random_game.js
 - random_name.js
-update: 2017-11-15
+update: 2017-11-27
 ---
 
 <a name='currently-playing'></a>
@@ -55,9 +55,11 @@ update: 2017-11-15
 ## :space_invader: Unplayed -- <a href="javascript: randomGame('unplayed')" id="unplayed-link">Randomly Pick One</a>
 
 * 2017
-  1. Darkside Detective (PC) [4hr est]
-  1. Sonic Mania (Switch) [7hr est]
+  1. Wolfenstein 2: The New Colossus (PS4)
+  1. Assassins Creed: Origins (PS4)
   1. Uncharted: The Lost Legacy (PS4) [8hr est]
+  1. Sonic Mania (Switch) [7hr est]
+  1. Darkside Detective (PC) [4hr est] - _probably going to wait for the Switch version_
 * 2016
   1. Assassin's Creed: Syndicate (PS4)
   1. Divinity: Original Sin (PS4)
