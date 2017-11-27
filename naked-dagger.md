@@ -78,7 +78,7 @@ impossible).
 
 During my first run, the Twin Princes killed me consistently. Even when I wasn't
 doing a NDR, I was not skillful enough to fight them efficiently. After something
-like 70 attempts or more, I finally too down the Twin Princes.
+like 70 attempts or more, I finally took down the Twin Princes.
 
 <iframe width="720" height="405" src="https://www.youtube.com/embed/DwwKBSCZ8C0" frameborder="0" allowfullscreen></iframe>
 
