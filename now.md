@@ -2,19 +2,19 @@
 layout: page
 title: Now
 permalink: /now/
-update: 2017-11-15
+update: 2017-11-27
 ---
 
 I'm currently living in Franklin, OH working remote for [CoverMyMeds](http://covermymeds.com) as a software developer.
 
 ## :space_invader: Playing
 
-* New consoles arrived for my birthday :birthday:
+* New consoles arrived for my birthday in October :birthday:
   + The [SNES Classic](https://www.nintendo.com/super-nes-classic) that a close friend gifted me.
   + The [Nintendo Switch](https://www.nintendo.com/switch/) that my dear wife gifted me.
 * _Zelda: Breath of the Wild_ in **Master Mode** on Switch.
+  + Pushing 200 hours total in this game, including my first play-through.
 * _Earthbound_ on SNES Classic.
-* Jettisoned a [stack of games](/games#birthday-purge) from my backlog.
 
 ## :books: Learning
 
@@ -25,9 +25,6 @@ I'm currently living in Franklin, OH working remote for [CoverMyMeds](http://cov
 
 ## :calendar: Coming Up
 
-* Building [a podcast site](https://github.com/trueheart78/lifetab-podcast)
-* Learning to work with [Braintree](https://www.braintreepayments.com/) in Rails.
-  * Using the [ActiveMerchant gem](https://github.com/activemerchant/active_merchant).
 * Continuing my app study checklist.
 * Learning [Programming Elixir](https://pragprog.com/book/elixir12/programming-elixir-1-2) by Dave Thomas
   * Left off at chapter 10: Processing Collections.
@@ -36,6 +33,7 @@ I'm currently living in Franklin, OH working remote for [CoverMyMeds](http://cov
 
 ## :scroll: History for 2017
 
+* Jettisoned a [stack of games](/games#birthday-purge) from my backlog.
 * Played _What Remains of Edith Finch_ on PS4.
 * Played _Super Mario Odyssey_ on Switch.
 * Played _Dead Cells_ on PC.
