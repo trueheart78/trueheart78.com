@@ -55,6 +55,7 @@ update: 2017-11-28
   1. Wolfenstein 2: The New Colossus (PS4) [15hr est] 
   1. Assassins Creed: Origins (PS4) [40hr est]
   1. Uncharted: The Lost Legacy (PS4) [8hr est]
+  1. Horizon: Zero Dawn DLC (PS4) [10hr est]
   1. Sonic Mania (Switch) [7hr est]
   1. Life is Strange: Before the Storm: Episode 2 (PS4)
      - Wow. Just... wow.
