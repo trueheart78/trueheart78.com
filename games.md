@@ -52,8 +52,8 @@ update: 2017-11-28
 ## :space_invader: Unplayed -- <a href="javascript: randomGame('unplayed')" id="unplayed-link">Randomly Pick One</a>
 
 * 2017
-  1. Wolfenstein 2: The New Colossus (PS4)
-  1. Assassins Creed: Origins (PS4)
+  1. Wolfenstein 2: The New Colossus (PS4) [15hr est] 
+  1. Assassins Creed: Origins (PS4) [40hr est]
   1. Uncharted: The Lost Legacy (PS4) [8hr est]
   1. Sonic Mania (Switch) [7hr est]
   1. Life is Strange: Before the Storm: Episode 2 (PS4)
