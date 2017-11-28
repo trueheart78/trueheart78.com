@@ -2,15 +2,17 @@
 layout: page
 title: Wishlist
 permalink: /wishlist/
-update: 2017-11-10
+update: 2017-11-28
 ---
 
 ## General
 
 1. [Overwatch Tracer Coffee Mug - $20.00][tracer-mug] [_Online Only_]
 1. [Taylor Swift 2018 Calendar - $12.32][tswift-calendar] [_Stores or Online_]
+1. [Cox n' Crendor Shirt - $24 w/Shipping][cox-n-crendor] [_Online Only_]
+   - Unisex/Mens XL
 1. [Elspeth Shirt: Eat Donuts Everyday - $20][elspeth-shirt] [_Online Only_]
-  - Blue Mens XL
+   - Blue Mens XL
 
 ## Gaming
 
@@ -45,5 +47,5 @@ All of the following can be found on my [Amazon Wishlist][amazon wishlist].
 [mario-and-rabbids]: https://www.amazon.com/dp/B071JRMKBH/
 [switch wishlist]: https://www.amazon.com/gp/registry/wishlist/1P3O0QFXP9NRT
 [snes-wireless]: https://www.amazon.com/gp/product/B074HBNNH6k0
-[cox n crendor]: https://theyetee.com/products/cox-n-crendor
+[cox-n-crendor]: https://theyetee.com/products/cox-n-crendor
 

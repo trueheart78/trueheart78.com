@@ -6,7 +6,7 @@ customnav: games_nav.html
 customjs:
 - random_game.js
 - random_name.js
-update: 2017-11-27
+update: 2017-11-28
 ---
 
 <a name='currently-playing'></a>
@@ -16,6 +16,7 @@ update: 2017-11-27
 
 1. Legend of Zelda: Breath of the Wild (Switch) 
    - **Master Mode**
+   - 200+ hours logged thus far
 1. Earthbound (SNES Classic)
    - Over 20 years later and it still holds up.
 
@@ -27,6 +28,7 @@ update: 2017-11-27
 <!-- <a href="javascript: randomGame('for-fun')" id="for-fun-link" title="Random selection" alt="Random selection">:game_die:</a>-->
 
 1. Dark Souls III & DLCs (DLC) (PS4) [Naked Dagger Challenge Runs](/naked-dagger/)
+   - One last battle to master: Soul of Cinder :fire:
 1. Dead Cells (PC)
 1. Overwatch (PS4)
 
@@ -36,11 +38,6 @@ update: 2017-11-27
 
 ## :calendar: Awaiting Content
 
-1. Life is Strange: Before the Storm (PS4)
-  - Wow. Just... wow.
-  - Did 3 playthroughs, and loved each of them.
-  - Wasn't sure what to expect, but episode 2 can't come fast enough.
-  - Episode 2 is out - will pick this back up soon.
 1. Hitman (PS4)
   - Waiting on Season 2
 
@@ -59,6 +56,10 @@ update: 2017-11-27
   1. Assassins Creed: Origins (PS4)
   1. Uncharted: The Lost Legacy (PS4) [8hr est]
   1. Sonic Mania (Switch) [7hr est]
+  1. Life is Strange: Before the Storm: Episode 2 (PS4)
+     - Wow. Just... wow.
+     - Did 3 playthroughs of episode 1, and loved each of them.
+     - Wasn't sure what to expect, but excited for episode 2.
   1. Darkside Detective (PC) [4hr est] - _probably going to wait for the Switch version_
 * 2016
   1. Assassin's Creed: Syndicate (PS4)
