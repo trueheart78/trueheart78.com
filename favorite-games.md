@@ -2,7 +2,7 @@
 layout: page
 title: Favorite Games
 permalink: /favorite-games/
-update: 2017-11-11
+update: 2017-12-07
 ---
 
 + [Game of the Year 2017][goty-2017]
@@ -93,6 +93,9 @@ My bullet points, until I get to writing up something more proper:
   + Wowzers.
 + Nioh
   + Solid, but forgettable.
++ Zelda: Breath of the Wild was so good.
+  + 225+ hours played.
+  + Master Mode completed.
 
 ### Game of the Year
 
@@ -108,13 +111,13 @@ An unordered list of titles that are making the first cut:
 * Night in the Woods (PS4)
 * Persona 5 (PS4)
 * Steamworld Dig 2 (PS4/Vita/Switch)
-* Super Mario Odyssey (Switch) [unplayed]
+* Super Mario Odyssey (Switch)
 * Undertale (P4/Vita)
-* What Remains of Edith Finch (PS4) [unplayed]
+* What Remains of Edith Finch (PS4)
+* Zelda: Breath of the Wild (Switch)
 
 Unplayed / Unfinished games that I feel will make the cut:
 
-* Zelda: Breath of the Wild (Switch) [100hrs in]
 * Life is Strange: Before the Storm (PS4) [unfinished]
 * Uncharted: The Lost Legacy (PS4) [unplayed]
 
