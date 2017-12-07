@@ -2,7 +2,7 @@
 layout: page
 title: Now
 permalink: /now/
-update: 2017-11-27
+update: 2017-12-07
 ---
 
 I'm currently living in Franklin, OH working remote for [CoverMyMeds](http://covermymeds.com) as a software developer.
@@ -12,8 +12,6 @@ I'm currently living in Franklin, OH working remote for [CoverMyMeds](http://cov
 * New consoles arrived for my birthday in October :birthday:
   + The [SNES Classic](https://www.nintendo.com/super-nes-classic) that a close friend gifted me.
   + The [Nintendo Switch](https://www.nintendo.com/switch/) that my dear wife gifted me.
-* _Zelda: Breath of the Wild_ in **Master Mode** on Switch.
-  + Pushing 200 hours total in this game, including my first play-through.
 * _Earthbound_ on SNES Classic.
 
 ## :books: Learning
@@ -33,6 +31,8 @@ I'm currently living in Franklin, OH working remote for [CoverMyMeds](http://cov
 
 ## :scroll: History for 2017
 
+* Played _Zelda: Breath of the Wild_ in **Master Mode** on Switch.
+  + 225+ hours total in this game, including my first play-through.
 * Jettisoned a [stack of games](/games#birthday-purge) from my backlog.
 * Played _What Remains of Edith Finch_ on PS4.
 * Played _Super Mario Odyssey_ on Switch.
