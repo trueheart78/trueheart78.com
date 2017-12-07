@@ -6,7 +6,7 @@ customnav: games_nav.html
 customjs:
 - random_game.js
 - random_name.js
-update: 2017-11-28
+update: 2017-12-07
 ---
 
 <a name='currently-playing'></a>
@@ -14,9 +14,6 @@ update: 2017-11-28
 
 ## :video_game: Playing
 
-1. Legend of Zelda: Breath of the Wild (Switch) 
-   - **Master Mode**
-   - 200+ hours logged thus far
 1. Earthbound (SNES Classic)
    - Over 20 years later and it still holds up.
 
@@ -178,7 +175,8 @@ update: 2017-11-28
    - Actual real, not terrible story.
    - Gameplay is solid.
    - Zelda (the character) is spectacular. _#senpai_ :sparkling_heart:
-   - **Master Mode**
+   - **Master Mode** [completed]
+   - 225+ hours logged.
 
 <!-- beaten:end -->
 <a name='jettisoned'></a>
