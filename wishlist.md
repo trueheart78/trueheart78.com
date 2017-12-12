@@ -2,12 +2,11 @@
 layout: page
 title: Wishlist
 permalink: /wishlist/
-update: 2017-11-28
+update: 2017-12-12
 ---
 
 ## General
 
-1. [Overwatch Tracer Coffee Mug - $20.00][tracer-mug] [_Online Only_]
 1. [Taylor Swift 2018 Calendar - $12.32][tswift-calendar] [_Stores or Online_]
 1. [Cox n' Crendor Shirt - $24 w/Shipping][cox-n-crendor] [_Online Only_]
    - Unisex/Mens XL
