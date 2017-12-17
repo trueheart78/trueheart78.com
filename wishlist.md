@@ -2,7 +2,7 @@
 layout: page
 title: Wishlist
 permalink: /wishlist/
-update: 2017-12-12
+update: 2017-12-16
 ---
 
 ## General
@@ -19,8 +19,6 @@ All of the following can be found on my [Amazon Wishlist][amazon wishlist].
 
 1. [Mario and Rabbids (Switch) - $60][mario-and-rabbids] [_Stores or Online_]
   - May be cheaper from other places than Amazon.
-1. [8Bitdo SN30 2.4G Wireless Controller for SNES Classic Edition - $25][snes-wireless] [_Online Only_]
-  - Currently a pre-order. Releases on Dec 10th.
 1. [Sony DualShock 4 USB Wireless Adaptor - $45][ds4-adapter] [_Stores or Online_]
   - Let's me use my PS4 controller to play games I have on my laptop.
 
