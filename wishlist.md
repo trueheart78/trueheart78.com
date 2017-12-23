@@ -2,14 +2,12 @@
 layout: page
 title: Wishlist
 permalink: /wishlist/
-update: 2017-12-16
+update: 2017-12-23
 ---
 
 ## General
 
 1. [Taylor Swift 2018 Calendar - $12.32][tswift-calendar] [_Stores or Online_]
-1. [Cox n' Crendor Shirt - $24 w/Shipping][cox-n-crendor] [_Online Only_]
-   - Unisex/Mens XL
 1. [Elspeth Shirt: Eat Donuts Everyday - $20][elspeth-shirt] [_Online Only_]
    - Blue Mens XL
 
@@ -19,9 +17,6 @@ All of the following can be found on my [Amazon Wishlist][amazon wishlist].
 
 1. [Mario and Rabbids (Switch) - $60][mario-and-rabbids] [_Stores or Online_]
   - May be cheaper from other places than Amazon.
-1. [Sony DualShock 4 USB Wireless Adaptor - $45][ds4-adapter] [_Stores or Online_]
-  - Let's me use my PS4 controller to play games I have on my laptop.
-
 
 ## Gift Cards / If All Else Fails
 
