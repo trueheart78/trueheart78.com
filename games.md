@@ -6,7 +6,7 @@ customnav: games_nav.html
 customjs:
 - random_game.js
 - random_name.js
-update: 2017-12-07
+update: 2017-12-27
 ---
 
 <a name='currently-playing'></a>
@@ -14,6 +14,8 @@ update: 2017-12-07
 
 ## :video_game: Playing
 
+1. Wolfenstein 2: The New Colossus (PS4) [15hr est] 
+1. Legend of Zelda: Breath of the Wild - Champion's Ballad DLC (DLC) (Switch)
 1. Earthbound (SNES Classic)
    - Over 20 years later and it still holds up.
 
@@ -49,7 +51,6 @@ update: 2017-12-07
 ## :space_invader: Unplayed -- <a href="javascript: randomGame('unplayed')" id="unplayed-link">Randomly Pick One</a>
 
 * 2017
-  1. Wolfenstein 2: The New Colossus (PS4) [15hr est] 
   1. Assassins Creed: Origins (PS4) [40hr est]
   1. Uncharted: The Lost Legacy (PS4) [8hr est]
   1. Horizon: Zero Dawn DLC (PS4) [10hr est]
@@ -58,6 +59,8 @@ update: 2017-12-07
      - Wow. Just... wow.
      - Did 3 playthroughs of episode 1, and loved each of them.
      - Wasn't sure what to expect, but excited for episode 2.
+  1. Mario + Rabbids: Kingdom Battle (Switch) [30hr est]
+  1. Shovel Knight: Treasure Trove (Switch) [19hr est]
   1. Darkside Detective (PC) [4hr est] - _probably going to wait for the Switch version_
 * 2016
   1. Assassin's Creed: Syndicate (PS4)
@@ -176,7 +179,7 @@ update: 2017-12-07
    - Gameplay is solid.
    - Zelda (the character) is spectacular. _#senpai_ :sparkling_heart:
    - **Master Mode** [completed]
-   - 225+ hours logged.
+   - 235+ hours logged.
 
 <!-- beaten:end -->
 <a name='jettisoned'></a>

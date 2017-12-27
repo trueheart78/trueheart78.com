@@ -2,13 +2,16 @@
 layout: page
 title: Now
 permalink: /now/
-update: 2017-12-07
+update: 2017-12-27
 ---
 
 I'm currently living in Franklin, OH working remote for [CoverMyMeds](http://covermymeds.com) as a software developer.
 
 ## :space_invader: Playing
 
+* Wolfenstein 2: The New Colossus (PS4) [15hr est] 
+* Legend of Zelda: Breath of the Wild - Champion's Ballad DLC (DLC) (Switch)
+* Earthbound (SNES Classic)
 * New consoles arrived for my birthday in October :birthday:
   + The [SNES Classic](https://www.nintendo.com/super-nes-classic) that a close friend gifted me.
   + The [Nintendo Switch](https://www.nintendo.com/switch/) that my dear wife gifted me.
@@ -19,11 +22,9 @@ I'm currently living in Franklin, OH working remote for [CoverMyMeds](http://cov
 * [Elm](http://elm-lang.org).
   + Loving it.
 * Studying _The Rails 5 Way_.
-* Playing _Overwatch_ on PS4.
 
 ## :calendar: Coming Up
 
-* Continuing my app study checklist.
 * Learning [Programming Elixir](https://pragprog.com/book/elixir12/programming-elixir-1-2) by Dave Thomas
   * Left off at chapter 10: Processing Collections.
 * Studying [Working with TCP Sockets](http://www.jstorimer.com/products/working-with-tcp-sockets)
@@ -31,8 +32,9 @@ I'm currently living in Franklin, OH working remote for [CoverMyMeds](http://cov
 
 ## :scroll: History for 2017
 
+* Played _Overwatch_ on PS4.
 * Played _Zelda: Breath of the Wild_ in **Master Mode** on Switch.
-  + 225+ hours total in this game, including my first play-through.
+  + 235+ hours total in this game, including my first play-through.
 * Jettisoned a [stack of games](/games#birthday-purge) from my backlog.
 * Played _What Remains of Edith Finch_ on PS4.
 * Played _Super Mario Odyssey_ on Switch.
