@@ -2,21 +2,17 @@
 layout: page
 title: Wishlist
 permalink: /wishlist/
-update: 2017-12-23
+update: 2017-12-28
 ---
 
 ## General
 
-1. [Taylor Swift 2018 Calendar - $12.32][tswift-calendar] [_Stores or Online_]
 1. [Elspeth Shirt: Eat Donuts Everyday - $20][elspeth-shirt] [_Online Only_]
    - Blue Mens XL
 
 ## Gaming
 
-All of the following can be found on my [Amazon Wishlist][amazon wishlist].
-
-1. [Mario and Rabbids (Switch) - $60][mario-and-rabbids] [_Stores or Online_]
-  - May be cheaper from other places than Amazon.
+_Nothing to see here._
 
 ## Gift Cards / If All Else Fails
 
