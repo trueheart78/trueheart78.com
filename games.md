@@ -55,18 +55,19 @@ update: 2018-01-02
   1. _TBD_
 * 2017
   1. Assassins Creed: Origins (PS4) [40hr est]
-  1. Uncharted: The Lost Legacy (PS4) [8hr est]
+  1. Gravity Rush 2 (PS4)
   1. Horizon: Zero Dawn DLC (PS4) [10hr est]
-  1. Sonic Mania (Switch) [7hr est]
   1. Life is Strange: Before the Storm: Episode 2 (PS4)
      - Wow. Just... wow.
      - Did 3 playthroughs of episode 1, and loved each of them.
      - Wasn't sure what to expect, but excited for episode 2.
   1. Mario + Rabbids: Kingdom Battle (Switch) [30hr est]
-  1. Darkside Detective (PC) [4hr est] - _probably going to wait for the Switch version_
+  1. Sonic Mania (Switch) [7hr est]
+  1. Uncharted: The Lost Legacy (PS4) [8hr est]
 * 2016
   1. Assassin's Creed: Syndicate (PS4)
   1. Divinity: Original Sin (PS4)
+  1. Gravity Rush (PS4/Vita)
   1. Titanfall 2 (PS4)
 
 <!-- unplayed:end -->
