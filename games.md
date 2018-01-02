@@ -117,7 +117,7 @@ See the [New Releases Wiki][new-releases]
 1. Night in the Woods (Switch) - Day One
 1. Darkside Detective (Switch) - Day One
 
-## Planned Purchases (Hopefully a 2018 Release)
+## :moneybag: Planned Purchases (Hopefully in 2018)
 
 See the [Games in Development Wiki][games-in-development]
 
