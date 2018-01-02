@@ -103,24 +103,29 @@ My bullet points, until I get to writing up something more proper:
 
 ### :scroll: 2017
 
+This year, there was a single game that stood out among the rest. Instead of going through a traditional "Top 10" list,
+I have decided instead to single out the Game of the Year and then present awards for different games, if I found them
+deserving enough. It should give you a bit of insight into how I feel about them.
+
 ### :trophy: Horizon: Zero Dawn (PS4) :trophy:
 
 I couldn't get this game out of my head all year long. When I learned the backstory post-Deathbringer, I felt sick.
 Further in, the reveal of what "Zero Dawn" was pretty frickin’ awesome. The ending gave me the feels. It got dusty, for sure.
+Even after 240+ hours in Breath of the Wild, this is still my favorite game from 2017. 
 
-### Runner-ups / Awesome in 2017
+#### Awards
 
 * Final Fantasy XII: The Zodiac Age (PS4) :trophy: **Best Star Wars Game** :trophy:
-* Night in the Woods (PS4) :trophy: **Best Knife Fighting** :trophy:
-* Persona 4 Golden (Vita) :trophy: **Best Non-2017 Game** :trophy:
+* Night in the Woods (PS4) :trophy: **Best Knife Fighting & Best Friendship Simulator** :trophy:
+* Persona 4 Golden (Vita) :trophy: **Best Non-2017 & Most Huggable** :trophy:
   * The only game I have ever wanted to hug.
-* Persona 5 (PS4) :trophy: **Best Styyyyyle & Best Music** :trophy:
+* Persona 5 (PS4) :trophy: **Best Styyyyyle & Best Music & Best Waifu (Makoto)** :trophy:
 * Undertale (P4/Vita) :trophy: **Sweetest Story** :trophy:
 * What Remains of Edith Finch (PS4) :trophy: **Best Storytelling** :trophy:
-* Zelda: Breath of the Wild (Switch) :trophy: **Best Openworld** :trophy:
+* Zelda: Breath of the Wild (Switch) :trophy: **Best Openworld & Most Time Spent** :trophy:
   * 240+ hours played.
   * Master Mode completed.
-* Nier: Automata (PS4) :trophy: **Best End Credits** :trophy:
+* Nier: Automata (PS4) :trophy: **Best End Credits & Most Endings** :trophy:
 * Steamworld Dig 2 (PS4/Vita/Switch) :trophy: **Best Formula Changeup** :trophy:
 * Super Mario Odyssey (Switch) :trophy: **Best Throwback** :trophy:
 
