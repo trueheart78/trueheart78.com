@@ -6,7 +6,7 @@ customnav: games_nav.html
 customjs:
 - random_game.js
 - random_name.js
-update: 2017-12-27
+update: 2017-12-31
 ---
 
 <a name='currently-playing'></a>
@@ -60,7 +60,6 @@ update: 2017-12-27
      - Did 3 playthroughs of episode 1, and loved each of them.
      - Wasn't sure what to expect, but excited for episode 2.
   1. Mario + Rabbids: Kingdom Battle (Switch) [30hr est]
-  1. Shovel Knight: Treasure Trove (Switch) [19hr est]
   1. Darkside Detective (PC) [4hr est] - _probably going to wait for the Switch version_
 * 2016
   1. Assassin's Creed: Syndicate (PS4)
@@ -180,6 +179,11 @@ update: 2017-12-27
    - Zelda (the character) is spectacular. _#senpai_ :sparkling_heart:
    - **Master Mode** [completed]
    - 235+ hours logged.
+1. Shovel Knight: Treasure Trove (Switch)
+   - Main story was fun.
+   - Prequel was also fun.
+   - Mega Man vibe with shovels and scythes.
+   - Solid B+.
 
 <!-- beaten:end -->
 <a name='jettisoned'></a>
