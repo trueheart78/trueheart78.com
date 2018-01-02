@@ -103,11 +103,11 @@ My bullet points, until I get to writing up something more proper:
 
 ### :scroll: 2017
 
-This year, there was a single game that stood out among the rest. Instead of going through a traditional "Top 10" list,
+This year, there was a single game that stood out amongst the rest. Instead of going through a traditional "Top 10" list,
 I have decided instead to single out the Game of the Year and then present awards for different games, if I found them
 deserving enough. It should give you a bit of insight into how I feel about them.
 
-### :trophy: Horizon: Zero Dawn (PS4) :trophy:
+### :trophy: Horizon: Zero Dawn (PS4) :trophy: **Game of the Year** :trophy:
 
 I couldn't get this game out of my head all year long. When I learned the backstory post-Deathbringer, I felt sick.
 Further in, the reveal of what "Zero Dawn" was pretty frickin’ awesome. The ending gave me the feels. It got dusty, for sure.
