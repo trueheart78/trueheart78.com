@@ -2,7 +2,7 @@
 layout: page
 title: Favorite Games
 permalink: /favorite-games/
-update: 2017-12-07
+update: 2018-01-02
 ---
 
 + [Game of the Year 2017][goty-2017]
@@ -101,33 +101,28 @@ My bullet points, until I get to writing up something more proper:
 
 <a name='goty-2017'></a>
 
-#### :calendar: 2017
+### :scroll: 2017
 
-An unordered list of titles that are making the first cut:
+### :trophy: Horizon: Zero Dawn (PS4) :trophy:
 
-* Final Fantasy XII: The Zodiac Age (PS4)
-* Horizon: Zero Dawn (PS4)
-* Nier: Automata (PS4)
-* Night in the Woods (PS4)
-* Persona 5 (PS4)
-* Steamworld Dig 2 (PS4/Vita/Switch)
-* Super Mario Odyssey (Switch)
-* Undertale (P4/Vita)
-* What Remains of Edith Finch (PS4)
-* Zelda: Breath of the Wild (Switch)
+I couldn't get this game out of my head all year long. When I learned the backstory post-Deathbringer, I felt sick.
+Further in, the reveal of what "Zero Dawn" was pretty frickin’ awesome. The ending gave me the feels. It got dusty, for sure.
 
-Unplayed / Unfinished games that I feel will make the cut:
+### Runner-ups / Awesome in 2017
 
-* Life is Strange: Before the Storm (PS4) [unfinished]
-* Uncharted: The Lost Legacy (PS4) [unplayed]
-
-Older but played in 2017:
-
-* Overwatch (PS4)
-* P4G (Vita)
-* Tomb Raider: Rise of the Tomb Raider (PS4)
-* Uncharted 4 (PS4)
-* Wolfenstein: The New Blood (PS4)
+* Final Fantasy XII: The Zodiac Age (PS4) :trophy: **Best Star Wars Game** :trophy:
+* Night in the Woods (PS4) :trophy: **Best Knife Fighting** :trophy:
+* Persona 4 Golden (Vita) :trophy: **Best Non-2017 Game** :trophy:
+  * The only game I have ever wanted to hug.
+* Persona 5 (PS4) :trophy: **Best Styyyyyle & Best Music** :trophy:
+* Undertale (P4/Vita) :trophy: **Sweetest Story** :trophy:
+* What Remains of Edith Finch (PS4) :trophy: **Best Storytelling** :trophy:
+* Zelda: Breath of the Wild (Switch) :trophy: **Best Openworld** :trophy:
+  * 240+ hours played.
+  * Master Mode completed.
+* Nier: Automata (PS4) :trophy: **Best End Credits** :trophy:
+* Steamworld Dig 2 (PS4/Vita/Switch) :trophy: **Best Formula Changeup** :trophy:
+* Super Mario Odyssey (Switch) :trophy: **Best Throwback** :trophy:
 
 ## Previous Years
 
