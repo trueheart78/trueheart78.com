@@ -6,7 +6,7 @@ customnav: games_nav.html
 customjs:
 - random_game.js
 - random_name.js
-update: 2018-01-02
+update: 2018-01-03
 ---
 
 <a name='currently-playing'></a>
@@ -14,8 +14,6 @@ update: 2018-01-02
 
 ## :video_game: Playing
 
-1. VA-11 HALL-A: Cyberpunk Bartender Action (Vita)
-   - Currently in chapter 2.
 1. Wolfenstein 2: The New Colossus (PS4) [15hr est] 
 1. Legend of Zelda: Breath of the Wild - Champion's Ballad DLC (DLC) (Switch)
 1. Earthbound (SNES Classic)
@@ -89,7 +87,9 @@ update: 2018-01-02
 
 ## :checkered_flag: Beaten
 
-1. _Fresh Slate_.
+1. VA-11 HALL-A: Cyberpunk Bartender Action (Vita)
+   - Quite enjoyed this visual novel.
+   - Solid A.
 
 <!-- beaten:end -->
 <a name='jettisoned'></a>
