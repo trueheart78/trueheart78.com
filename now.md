@@ -2,13 +2,14 @@
 layout: page
 title: Now
 permalink: /now/
-update: 2017-12-27
+update: 2018-01-08
 ---
 
 I'm currently living in Franklin, OH working remote for [CoverMyMeds](http://covermymeds.com) as a software developer.
 
 ## :space_invader: Playing
 
+* Disgaea 5: Complete Edition (Switch)
 * Wolfenstein 2: The New Colossus (PS4) [15hr est] 
 * Legend of Zelda: Breath of the Wild - Champion's Ballad DLC (DLC) (Switch)
 * Earthbound (SNES Classic)
@@ -17,11 +18,24 @@ I'm currently living in Franklin, OH working remote for [CoverMyMeds](http://cov
   + The [Nintendo Switch](https://www.nintendo.com/switch/) that my dear wife gifted me.
 * _Earthbound_ on SNES Classic.
 
+## :wrench: Side Projects
+
+* Polishing up my [Gif Management Gem](https://github.com/trueheart78/gifs)
+
+## :book: Comics
+
+* Unbeatable Squirrel Girl 🐿️ 
+  + [Twitter](https://twitter.com/unbeatablesg)
+  + [Tumblr](https://unbeatablesquirrelgirl.tumblr.com/)
+* Gwenpool
+* The Mighty Thor
+* Spider-Gwen
+
 ## :books: Learning
 
+* Studying _The Rails 5 Way_.
 * [Elm](http://elm-lang.org).
   + Loving it.
-* Studying _The Rails 5 Way_.
 
 ## :calendar: Coming Up
 

@@ -2,12 +2,17 @@
 layout: page
 title: Picks
 permalink: /picks/
-update: 2016-08-13
+update: 2018-01-08
 ---
 
 Shamelessy stealing this idea from the fantastic
 [Ruby Rogues podcast][ruby-rogues-podcast]. Consider them the first pick
 :sparkling_heart:
+
+January 8th, 2018
+
+- [What's in a Name?](https://www.sitepoint.com/whats-in-a-name-anti-patterns-to-a-hard-problem/)
+  By Katrina Owen
 
 August 13th, 2016:
 

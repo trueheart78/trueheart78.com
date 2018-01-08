@@ -6,7 +6,7 @@ customnav: games_nav.html
 customjs:
 - random_game.js
 - random_name.js
-update: 2018-01-03
+update: 2018-01-08
 ---
 
 <a name='currently-playing'></a>
@@ -16,6 +16,7 @@ update: 2018-01-03
 
 1. Wolfenstein 2: The New Colossus (PS4) [15hr est] 
 1. Legend of Zelda: Breath of the Wild - Champion's Ballad DLC (DLC) (Switch)
+1. Disgaea 5: Complete Edition (Switch)
 1. Earthbound (SNES Classic)
    - Over 20 years later and it still holds up.
 
@@ -49,24 +50,23 @@ update: 2018-01-03
 
 ## :space_invader: Unplayed -- <a href="javascript: randomGame('unplayed')" id="unplayed-link">Randomly Pick One</a>
 
-* 2018
-  1. _TBD_
-* 2017
-  1. Assassins Creed: Origins (PS4) [40hr est]
-  1. Gravity Rush 2 (PS4)
-  1. Horizon: Zero Dawn DLC (PS4) [10hr est]
-  1. Life is Strange: Before the Storm: Episode 2 (PS4)
-     - Wow. Just... wow.
-     - Did 3 playthroughs of episode 1, and loved each of them.
-     - Wasn't sure what to expect, but excited for episode 2.
-  1. Mario + Rabbids: Kingdom Battle (Switch) [30hr est]
-  1. Sonic Mania (Switch) [7hr est]
-  1. Uncharted: The Lost Legacy (PS4) [8hr est]
-* 2016
-  1. Assassin's Creed: Syndicate (PS4)
-  1. Divinity: Original Sin (PS4)
-  1. Gravity Rush (PS4/Vita)
-  1. Titanfall 2 (PS4)
+1. Assassin's Creed: Origins (PS4) [40hr est]
+1. Assassin's Creed: Syndicate (PS4)
+1. Blaster Master Zero (Switch)
+1. Disgaea 3 (Vita)
+1. Disgaea 4 (Vita)
+1. Divinity: Original Sin (PS4)
+1. Gravity Rush (PS4/Vita)
+1. Gravity Rush 2 (PS4)
+1. Horizon: Zero Dawn DLC (PS4) [10hr est]
+1. Life is Strange: Before the Storm: Episode 2 (PS4)
+   - Wow. Just... wow.
+   - Did 3 playthroughs of episode 1, and loved each of them.
+   - Wasn't sure what to expect, but excited for episode 2.
+1. Mario + Rabbids: Kingdom Battle (Switch) [30hr est]
+1. Sonic Mania (Switch) [7hr est]
+1. Titanfall 2 (PS4)
+1. Uncharted: The Lost Legacy (PS4) [8hr est]
 
 <!-- unplayed:end -->
 
