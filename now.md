@@ -2,7 +2,7 @@
 layout: page
 title: Now
 permalink: /now/
-update: 2018-01-08
+update: 2018-01-10
 ---
 
 I'm currently living in Franklin, OH working remote for [CoverMyMeds](http://covermymeds.com) as a software developer.
@@ -11,7 +11,6 @@ I'm currently living in Franklin, OH working remote for [CoverMyMeds](http://cov
 
 * Disgaea 5: Complete Edition (Switch)
 * Wolfenstein 2: The New Colossus (PS4) [15hr est] 
-* Legend of Zelda: Breath of the Wild - Champion's Ballad DLC (DLC) (Switch)
 * Earthbound (SNES Classic)
 * New consoles arrived for my birthday in October :birthday:
   + The [SNES Classic](https://www.nintendo.com/super-nes-classic) that a close friend gifted me.
@@ -48,7 +47,7 @@ I'm currently living in Franklin, OH working remote for [CoverMyMeds](http://cov
 
 * Played _Overwatch_ on PS4.
 * Played _Zelda: Breath of the Wild_ in **Master Mode** on Switch.
-  + 235+ hours total in this game, including my first play-through.
+  + 245+ hours total in this game, including my first play-through, and DLC #2.
 * Jettisoned a [stack of games](/games#birthday-purge) from my backlog.
 * Played _What Remains of Edith Finch_ on PS4.
 * Played _Super Mario Odyssey_ on Switch.
