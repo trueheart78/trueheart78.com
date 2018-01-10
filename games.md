@@ -6,7 +6,7 @@ customnav: games_nav.html
 customjs:
 - random_game.js
 - random_name.js
-update: 2018-01-08
+update: 2018-01-10
 ---
 
 <a name='currently-playing'></a>
@@ -15,7 +15,6 @@ update: 2018-01-08
 ## :video_game: Playing
 
 1. Wolfenstein 2: The New Colossus (PS4) [15hr est] 
-1. Legend of Zelda: Breath of the Wild - Champion's Ballad DLC (DLC) (Switch)
 1. Disgaea 5: Complete Edition (Switch)
 1. Earthbound (SNES Classic)
    - Over 20 years later and it still holds up.
@@ -90,6 +89,10 @@ update: 2018-01-08
 1. VA-11 HALL-A: Cyberpunk Bartender Action (Vita)
    - Quite enjoyed this visual novel.
    - Solid A.
+1. Legend of Zelda: Breath of the Wild - Champion’s Ballad DLC (DLC) (Switch)
+   - Final boss was easily the hardest.
+   - Completed on Master Mode.
+   - 245+ hours.
 
 <!-- beaten:end -->
 <a name='jettisoned'></a>
