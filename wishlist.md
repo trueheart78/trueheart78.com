@@ -2,8 +2,10 @@
 layout: page
 title: Wishlist
 permalink: /wishlist/
-update: 2017-12-28
+update: 2017-01-20
 ---
+
+[My Amazon Wishlist][amazon-wishlist] is a great place to check for recent updates. 
 
 ## General
 
@@ -31,7 +33,7 @@ _Nothing to see here._
 [tswift-calendar]: https://www.amazon.com/Monthly-Calendar-Songwriter-Celebrity-Multilingual/dp/1465091335
 [elspeth-shirt]: https://www.amazon.com/dp/B076CQM6C7/
 [ds4-adapter]: https://www.amazon.com/gp/product/B01KWLKKQU
-[switch]: https://www.amazon.com/gp/registry/wishlist/1P3O0QFXP9NRT
+[amazon-wishlist]: https://www.amazon.com/gp/registry/wishlist/1P3O0QFXP9NRT
 [mario-and-rabbids]: https://www.amazon.com/dp/B071JRMKBH/
 [switch wishlist]: https://www.amazon.com/gp/registry/wishlist/1P3O0QFXP9NRT
 [snes-wireless]: https://www.amazon.com/gp/product/B074HBNNH6k0
