@@ -1,9 +1,13 @@
 # I :sparkling_heart: Ruby
 
-## Creating a new Post
+Jekyll-based blog for [I :sparkling_heart: Ruby][iheartruby]
+
+## Create a Post
 
 `scripts/new-post`
 
-## Creating a new Page
+## Create a Page
 
 `scripts/new-page`
+
+[iheartruby]: http://iheartruby.com
