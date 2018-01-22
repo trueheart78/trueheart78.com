@@ -1,0 +1,42 @@
+#!/usr/bin/env ruby
+
+require 'date'
+
+def front_matter(post_name, tags='ruby')
+  [
+    '---',
+    'layout: post',
+    "title: #{post_name}",
+    "date: #{DateTime.now.strftime('%Y-%m-%d %H:%M:%S')}",
+    "tags:",
+    tags.uniq.map { |c| "- #{c}" },
+    '---',
+    ''
+  ].join "\n"
+end
+
+def filename(post_name)
+  [
+    DateTime.now.strftime('%Y-%m-%d'),
+    "#{post_name.downcase}.md"
+  ].join('-').gsub(' ','-') 
+end
+
+def generate_file(post_filename, header)
+  path = File.join Dir.pwd, '_posts', post_filename
+  if File.exist? path
+    puts "Error: post exists #{path}"
+    exit 1
+  end
+  File.open(path, 'w') { |file| file.write header }
+end
+
+print 'new post name? '
+post_name = gets.strip
+puts "post name: #{filename(post_name)}"
+print 'post tags (comma-separated) '
+tags = gets.split(',').map { |s| s.strip }
+header = front_matter post_name, tags
+puts header
+generate_file filename(post_name), header
+puts "created #{filename(post_name)}"

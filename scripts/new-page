@@ -2,31 +2,36 @@
 
 require 'date'
 
-def header(page_name)
+def front_matter(page_name, page_filename)
   [
     '---',
     'layout: page',
     "title: #{page_name}",
-    "permalink: /#{filename(page_name)}/",
+    "permalink: /#{page_filename.gsub('.md','')}/",
     "update: #{DateTime.now.strftime('%Y-%m-%d')}",
-    '---'
+    '---',
+    ''
   ].join "\n"
 end
 
 def filename(page_name)
-  page_name.downcase.gsub(' ','-')
+  "#{page_name.downcase.gsub(' ','-')}.md"
 end
 
-def generate_file(page_name)
-  path = File.join Dir.pwd, "#{filename(page_name)}.md"
+def generate_file(page_filename, header)
+  path = File.join Dir.pwd, page_filename
   if File.exist? path
     puts "Error: page exists #{path}"
     exit 1
   end
-  File.open(path, 'w') { |file| file.write(header(page_name)) }
+  File.open(path, 'w') { |file| file.write header }
 end
 
 print 'new page name? '
 page_name = gets.strip
-generate_file(page_name)
-puts "created #{filename(page_name)}"
+page_filename = filename page_name
+puts "page name: #{page_filename}"
+header = front_matter page_name, page_filename
+puts header
+generate_file page_filename, header
+puts "created #{page_filename}"
