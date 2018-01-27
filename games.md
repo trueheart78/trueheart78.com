@@ -6,7 +6,7 @@ customnav: games_nav.html
 customjs:
 - random_game.js
 - random_name.js
-update: 2018-01-10
+update: 2018-01-27
 ---
 
 <a name='currently-playing'></a>
@@ -14,7 +14,6 @@ update: 2018-01-10
 
 ## :video_game: Playing
 
-1. Wolfenstein 2: The New Colossus (PS4) [15hr est] 
 1. Disgaea 5: Complete Edition (Switch)
 1. Earthbound (SNES Classic)
    - Over 20 years later and it still holds up.
@@ -86,6 +85,8 @@ update: 2018-01-10
 
 ## :checkered_flag: Beaten
 
+1. Wolfenstein 2: The New Colossus (PS4)
+   - Those cutscenes. :boom:
 1. VA-11 HALL-A: Cyberpunk Bartender Action (Vita)
    - Quite enjoyed this visual novel.
    - Solid A.
