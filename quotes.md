@@ -17,7 +17,11 @@ update: 2017-11-27
 
 > I am simply myself. No more and no less.
 
+### [Taylor Swift][taylor swift]
+
+> No matter what you’ve gone through that makes you wish you hadn’t said that or wish you hadn’t done that, just give yourself a break. Please, for me, take it easy on yourself. It’s hard enough to live with what other people have to say. Please let the voices in your head be nice to you.
 
 [aj mendez]: http://ajmendezbrooks.com/
 [aj oct 2017]: http://mailchi.mp/ajmendezbrooks/represent-team-aj-467805
 [kent beck]: https://twitter.com/KentBeck
+[taylor swift]: http://www.taylorswift.com
