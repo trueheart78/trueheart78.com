@@ -6,7 +6,7 @@ customnav: games_nav.html
 customjs:
 - random_game.js
 - random_name.js
-update: 2018-01-27
+update: 2018-02-03
 ---
 
 <a name='currently-playing'></a>
@@ -28,6 +28,7 @@ update: 2018-01-27
 1. Dark Souls III & DLCs (DLC) (PS4) [Naked Dagger Challenge Runs](/naked-dagger/)
    - One last battle to master: Soul of Cinder :fire:
 1. Dead Cells (PC)
+1. Sonic Mania (Switch) [7hr est]
 
 <!-- for-fun:end -->
 <a name='awaiting-content'></a>
@@ -50,7 +51,6 @@ update: 2018-01-27
 
 1. Assassin's Creed: Origins (PS4) [40hr est]
 1. Assassin's Creed: Syndicate (PS4)
-1. Blaster Master Zero (Switch)
 1. Disgaea 3 (Vita)
 1. Disgaea 4 (Vita)
 1. Divinity: Original Sin (PS4)
@@ -62,7 +62,6 @@ update: 2018-01-27
    - Did 3 playthroughs of episode 1, and loved each of them.
    - Wasn't sure what to expect, but excited for episode 2.
 1. Mario + Rabbids: Kingdom Battle (Switch) [30hr est]
-1. Sonic Mania (Switch) [7hr est]
 1. Titanfall 2 (PS4)
 1. Uncharted: The Lost Legacy (PS4) [8hr est]
 
@@ -85,8 +84,6 @@ update: 2018-01-27
 
 ## :checkered_flag: Beaten
 
-1. Wolfenstein 2: The New Colossus (PS4)
-   - Those cutscenes. :boom:
 1. VA-11 HALL-A: Cyberpunk Bartender Action (Vita)
    - Quite enjoyed this visual novel.
    - Solid A.
@@ -94,6 +91,10 @@ update: 2018-01-27
    - Final boss was easily the hardest.
    - Completed on Master Mode.
    - 245+ hours.
+1. Wolfenstein 2: The New Colossus (PS4)
+   - Those cutscenes. :boom:
+1. Blaster Master Zero (Switch)
+   - Fun nostalga trip.
 
 <!-- beaten:end -->
 <a name='jettisoned'></a>
