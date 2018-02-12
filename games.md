@@ -6,7 +6,7 @@ customnav: games_nav.html
 customjs:
 - random_game.js
 - random_name.js
-update: 2018-02-03
+update: 2018-02-12
 ---
 
 <a name='currently-playing'></a>
@@ -14,6 +14,7 @@ update: 2018-02-03
 
 ## :video_game: Playing
 
+1. Slay the Spire - Early Access (PC)
 1. Disgaea 5: Complete Edition (Switch)
 1. Earthbound (SNES Classic)
    - Over 20 years later and it still holds up.
@@ -95,6 +96,9 @@ update: 2018-02-03
    - Those cutscenes. :boom:
 1. Blaster Master Zero (Switch)
    - Fun nostalga trip.
+1. Darkside Detective (Switch)
+   - Great adventure game with wonderful humor. 
+   - Definitely an A-grade game. 
 
 <!-- beaten:end -->
 <a name='jettisoned'></a>
