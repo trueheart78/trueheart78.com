@@ -16,6 +16,7 @@ update: 2018-02-18
 
 1. Slay the Spire - Early Access (PC)
 1. Disgaea 5: Complete Edition (Switch)
+1. Bayonetta (Switch)
 1. Earthbound (SNES Classic)
    - Over 20 years later and it still holds up.
 
@@ -52,6 +53,7 @@ update: 2018-02-18
 
 1. Assassin's Creed: Origins (PS4) [40hr est]
 1. Assassin's Creed: Syndicate (PS4)
+1. Bayonetta 2 (Switch)
 1. Disgaea 3 (Vita)
 1. Disgaea 4 (Vita)
 1. Divinity: Original Sin (PS4)
