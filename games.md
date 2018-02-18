@@ -14,7 +14,6 @@ update: 2018-02-18
 
 ## :video_game: Playing
 
-1. Slay the Spire - Early Access (PC)
 1. Disgaea 5: Complete Edition (Switch)
 1. Bayonetta (Switch)
 1. Earthbound (SNES Classic)
@@ -27,6 +26,8 @@ update: 2018-02-18
 ## :heart_eyes: For Funsies
 <!-- <a href="javascript: randomGame('for-fun')" id="for-fun-link" title="Random selection" alt="Random selection">:game_die:</a>-->
 
+1. Slay the Spire - Early Access (PC)
+   - This game should come with an addiction warning label. 
 1. Dark Souls III & DLCs (DLC) (PS4) [Naked Dagger Challenge Runs](/naked-dagger/)
    - One last battle to master: Soul of Cinder :fire:
 1. Dead Cells (PC)
