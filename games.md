@@ -6,7 +6,7 @@ customnav: games_nav.html
 customjs:
 - random_game.js
 - random_name.js
-update: 2018-02-13
+update: 2018-02-18
 ---
 
 <a name='currently-playing'></a>
@@ -98,7 +98,12 @@ update: 2018-02-13
    - Fun nostalga trip.
 1. Darkside Detective (Switch)
    - Great adventure game with wonderful humor. 
-   - Definitely an A-grade game. 
+   - Definitely an A-grade game.
+1. Xeodrifter (Switch)
+   - Fun, if not a bit confusing.
+   - Used a walkthrough. 
+   - Enjoyed the game a lot.
+   - Grade: C+
 
 <!-- beaten:end -->
 <a name='jettisoned'></a>
