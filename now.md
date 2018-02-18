@@ -2,19 +2,15 @@
 layout: page
 title: Now
 permalink: /now/
-update: 2018-01-10
+update: 2018-02-18
 ---
 
 I'm currently living in Franklin, OH working remote for [CoverMyMeds](http://covermymeds.com) as a software developer.
 
 ## :space_invader: Playing
 
-* Disgaea 5: Complete Edition (Switch)
-* Wolfenstein 2: The New Colossus (PS4) [15hr est] 
-* Earthbound (SNES Classic)
-* New consoles arrived for my birthday in October :birthday:
-  + The [SNES Classic](https://www.nintendo.com/super-nes-classic) that a close friend gifted me.
-  + The [Nintendo Switch](https://www.nintendo.com/switch/) that my dear wife gifted me.
+* _Disgaea 5: Complete Edition_ on Switch
+* _Bayonetta_ on Switch.
 * _Earthbound_ on SNES Classic.
 
 ## :wrench: Side Projects
@@ -23,6 +19,7 @@ I'm currently living in Franklin, OH working remote for [CoverMyMeds](http://cov
 
 ## :book: Comics
 
+* Patsy Walker aka Hellcat (2015)
 * Unbeatable Squirrel Girl 🐿️ 
   + [Twitter](https://twitter.com/unbeatablesg)
   + [Tumblr](https://unbeatablesquirrelgirl.tumblr.com/)
@@ -42,6 +39,10 @@ I'm currently living in Franklin, OH working remote for [CoverMyMeds](http://cov
   * Left off at chapter 10: Processing Collections.
 * Studying [Working with TCP Sockets](http://www.jstorimer.com/products/working-with-tcp-sockets)
   - Left off at Chapter 14
+
+## :scroll: History for 2018
+
+* Played _Wolfenstein 2: The New Colossus_ on PS4.
 
 ## :scroll: History for 2017
 
