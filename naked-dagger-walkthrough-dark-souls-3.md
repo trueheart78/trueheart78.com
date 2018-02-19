@@ -28,7 +28,7 @@ update: 2018-02-19
 * :muscle: Vigor to 14
 * :rocket: Roof by tower.
 * :hand: :lollipop: Estus Shard #1
-* :exclamation: :bird: Drop Fire Bomb
+* :bird: Drop Fire Bomb
 * :hand: :ring: Silver Serpent
   * :exclamation: Equip it
 * :sake: :lollipop: Redeem Estus Shard #1
