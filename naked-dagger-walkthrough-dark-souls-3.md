@@ -29,8 +29,7 @@ update: 2018-02-19
 * :rocket: Roof by tower.
 * :hand: :lollipop: Estus Shard #1
 * :bird: Drop Fire Bomb
-* :hand: :gift:
-  * :gem: Large titanite shard
+* :hand: :gift: :gem: Large titanite shard #1
 * :hand: :ring: Silver Serpent
   * :exclamation: Equip it
 * :sake: :lollipop: Redeem Estus Shard #1
@@ -109,8 +108,8 @@ update: 2018-02-19
   * :bomb: Black firebomb
   * :balloon: Homeward bone
 * :hand: :gift:
-  * :gem: Large titanite shard
-  * :gem: Titanite chunk
+  * :gem: Large titanite shard #1
+  * :gem: Titanite chunk #1
   * :recycle: Iron Bracers
 * :muscle: Vigor to 24 (level X)
 * :airplane: High Wall of Lothric
