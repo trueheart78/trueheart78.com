@@ -101,7 +101,7 @@ update: 2018-02-19
   * :exclamation: equip it
 * :airplane: Firelink Shrine
 * :sake: :lollipop: Redeem Estus Shard #2
-* ::running: Up to tower
+* :running: Up to tower
 * :rocket: Jump onto roof
 * :running: Run to the :bird:
 * :bird: Drop
