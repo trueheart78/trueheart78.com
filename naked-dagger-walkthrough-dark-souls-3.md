@@ -34,7 +34,7 @@ update: 2018-02-19
   * :exclamation: Equip it
 * :sake: :lollipop: Redeem Estus Shard #1
 * :sake: Allot all 5 Estus as standard
-* :hocho: Big Crystal Lizard
+* :hocho: :skull: Big Crystal Lizard
 * :muscle: Vigor to 16 (level X)
 * :muscle: Endurance to 12 (level X)
 * :exclamation:  Collect embers and gear around Firelink
