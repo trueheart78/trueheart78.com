@@ -29,6 +29,8 @@ update: 2018-02-19
 * :rocket: Roof by tower.
 * :hand: :lollipop: Estus Shard #1
 * :bird: Drop Fire Bomb
+* :hand: :gift:
+  * :gem: Large titanite shard
 * :hand: :ring: Silver Serpent
   * :exclamation: Equip it
 * :sake: :lollipop: Redeem Estus Shard #1
@@ -106,7 +108,7 @@ update: 2018-02-19
   * :bomb: Firebomb (if you skipped it before)
   * :bomb: Black firebomb
   * :balloon: Homeward bone
-* :gift:
+* :hand: :gift:
   * :gem: Large titanite shard
   * :gem: Titanite chunk
   * :recycle: Iron Bracers
