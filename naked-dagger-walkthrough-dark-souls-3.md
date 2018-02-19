@@ -25,7 +25,7 @@ update: 2018-02-19
 * :fire: Iudex Gundyr
 * :fire: Firelink Shrine
 * :moneybag: Keep a single Fire Bomb :bomb:
-* :muscle: Vigor to 14 (level 9)
+* :muscle: +4 Vigor (14 at level 9)
 * :rocket: Roof by tower.
 * :hand: :lollipop: Estus Shard #1
 * :bird: Drop Fire Bomb
@@ -35,11 +35,11 @@ update: 2018-02-19
 * :sake: :lollipop: Redeem Estus Shard #1
 * :sake: Allot all 5 Estus as standard
 * :hocho: :skull: Big Crystal Lizard
-* :muscle: Vigor to 16 (level 11)
-* :muscle: Endurance to 12 (level 13)
+* :muscle: +2 Vigor (16 at level 11)
+* :muscle: +2 Endurance (12 at level 13)
 * :exclamation:  Collect embers and gear around Firelink
   * :moneybag: Sell everything you don't need, including embers
-* :muscle: Vigor to 18 (level 15)
+* :muscle: +2 Vigor (18 at level 15)
 
 <a name="high-wall-of-lothric">
 ## :airplane: High Wall of Lothric
@@ -70,7 +70,7 @@ update: 2018-02-19
 * :hammer: Infuse Bandit Dagger with Raw
   * :interrobang: Verify this is still relevant (may need to use sharp gem after coal)
 * :moneybag: Sell all armor, shields, embers, etc.
-* :muscle: Vigor to 19 (level 16)
+* :muscle: +1 Vigor (19 at level 16)
 * :airplane: Tower on the Wall
 * :running: Back to where we picked up the Undead Hunter Charm
 * :no_entry_sign: Wait and run past the spear knight
@@ -111,7 +111,7 @@ update: 2018-02-19
   * :gem: Large titanite shard #1
   * :gem: Titanite chunk #1
   * :recycle: Iron Bracers
-* :muscle: Vigor to 24 (level 21)
+* :muscle: +5 Vigor (24 at level 21)
 * :airplane: High Wall of Lothric
 * :running: :arrow_up_down: Run to elevator
 * :arrow_down: Take elevator down
@@ -128,7 +128,105 @@ update: 2018-02-19
 <a name="undead-settlement">
 ## :airplane: Undead Settlement
 
+**Note:** From here on in, lot's of fighting will happen. I will only call out when
+it is notable due to item pickup and the like.
+
 * :fire: Foot of the High Wall
+* :running: Dead pilgrims
+* :hand: Alluring skulls guarded by :dog: x 2
+* :no_entry_sign: :speech_balloon: Yoel
+* :hand: :balloon: Homeward bones
+* :running: :door: Open the large gate
+* :hocho: :dog: Fight the dogs (if needed)
+* :hocho: :skull: Fight the enemy once through the gate
+* :fire: Undead Settlement
+* :airplane: Firelink Shrine
+* :moneybag: Sell Vordt's soul, etc.
+* :muscle: +1 Endurance (14 at level 22)
+* :airplane: Undead Settlement
+* :running: Run through the :house:
+* :hand: Lorretta's Bone
+* :hocho: :busts_in_silhoette: Lady Firehug and her minions
+* :hand: :lollipop: Estus Shard #3 by the burning tree
+* :running: Across the bridge and through the barn
+* :door: Open barn door
+* :running: Across the bridge
+* :rocket: Drop off the bridge
+* :hand: :gem: Titanite Shard #4
+  * :interrobang: Need x2, then x4 - where are the other 2 expected
+    to be gotten around this same time?
+* :fire: Cliff Underside
+* :airplane: Firelink Shrine
+* :moneybag: :recycle:
+* :sake: :lollipop: Redeem Estus Shard #3
+* :hammer: Bandit Dagger +2
+* :exclamation: :man: Give Lorretta's Bone to Greirat
+* :airplane: Cliff Underside
+* :running: :arrow_up_down: Run to the Road of Sacrifices elevator
+* :arrow_down: Take the elevator down
+* :no_entry_sign: Irithyll Knight
+* :fire: Road of Sacrifices
+* :hocho: :skull: Irithyll Knight
+* :arrow_up: Take the elevator up
+* :exclamation: :arrow_down: Send the elevator down
+* :arrow_up: Take the elevator up
+* :speech_balloon: :man: Make peace with the giant
+* :arrow_down: Face the grate and take it down, and roll out to Siggy
+* :hocho: :japanese_ogre: Fight fire demon
+  * :hand: :gem: Fire gem
+* :speech_balloon: :man: Sigward of Catarina until he snores :zzz:
+  * :gift: Sigbrau
+  * :gift: Toast gesture
+* :running: :house: Run into the building
+* :hocho: :dog: x 2
+* :exclamation: Distract Fire Huggers with an Alluring Skull
+* :running: Onto the rooftop
+* :hand: :ring: Flynn's Ring
+  * :exclamation: Equip it
+* :rocket: Drop down to the tower
+* :hand: :balloon: Homeward Bones
+* :rocket: Drop down inside the tower
+* :hand: :ring: Chloryanthy
+  * :exclamation: Equip in place of the Life :ring:
+* :running: Cliff Underside :fire:
+* :running: Run to the sewer
+* :hocho: :rat: Big rat
+  * :hand: :ring: Bloodstone
+* :running: :door: Open the door
+* :fire: Dilapidated Bridge
+* :no_entry_sign: Invading NPC
+  * :interrobang: Get full name
+* :running: Run to the White Tree
+* :hand: :candy: Undead Bone Shard #1
+* :hand: :rice: Mortician's ashes
+* :running: :door: Open large door by Curse-Rotted Greatwood :guardsman:
+* :no_entry_sign: :guardsman: Curse-Rotted Greatwood
+  * :grey_question: Wait until after the Sirris quest is complete
+* :airplane: Firelink Shrine
+* :rice: :speech_balloon: Mortician's ashes
+* :moneybag: :recycle: Don't sell the fire gem
+* :money_with_wings: :key: Grave
+* :money_with_wings: :key: Tower
+* :muscle: +1 Endurance to 15 (level 23)
+* :sake: :candy: Burn Undead Bone Shard #1
+* :running: :door: :arrow_up_down: :arrow_up: Run to the tower elevator and go up
+* :hand: Fire Keeper Soul
+* :arrow_down: Back to the bottom of the elevator
+* :rocket: Drop off the left-hand side
+* :hand: :ring: Estus
+  * :grey_question: Equip as desired
+* :airplane: Cliff Underside
+* :running: :door: Grave door in the sewer
+* :hand: :gem: Titanite Shard #X
+* :speech_balloon: :woman: Irina _(optional)_
+* :door: Open door
+* :airplane: Firelink Shrine
+* :running: :man: Greirat
+* :money_with_wings: Bandit Dagger
+* :hammer: Infuse new Bandit Dagger with Fire
+  * :exclamation: Use against :dog: and :fire:-weak enemies
+* **RND** :interrobang:
+* :airplane: Road of Sacrifices
 
 <a name="legend">
 ## Legend
@@ -177,6 +275,7 @@ update: 2018-02-19
 * :balloon: = homeward bone
 * :recycle: = unusable gear
 * :flags: = banner
+* :rice: = ashes
 
 [cemetary]: #cemetary-of-ash
 [high-wall]: #high-wall-of-lothric
