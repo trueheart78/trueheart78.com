@@ -25,7 +25,7 @@ update: 2018-02-19
 * :fire: Iudex Gundyr
 * :fire: Firelink Shrine
 * :moneybag: Keep a single Fire Bomb :bomb:
-* :muscle: Vigor to 14
+* :muscle: Vigor to 14 (level 9)
 * :rocket: Roof by tower.
 * :hand: :lollipop: Estus Shard #1
 * :bird: Drop Fire Bomb
@@ -35,11 +35,11 @@ update: 2018-02-19
 * :sake: :lollipop: Redeem Estus Shard #1
 * :sake: Allot all 5 Estus as standard
 * :hocho: :skull: Big Crystal Lizard
-* :muscle: Vigor to 16 (level X)
-* :muscle: Endurance to 12 (level X)
+* :muscle: Vigor to 16 (level 11)
+* :muscle: Endurance to 12 (level 13)
 * :exclamation:  Collect embers and gear around Firelink
   * :moneybag: Sell everything you don't need, including embers
-* :muscle: Vigor to 18 (level X)
+* :muscle: Vigor to 18 (level 15)
 
 <a name="high-wall-of-lothric">
 ## :airplane: High Wall of Lothric
@@ -70,7 +70,7 @@ update: 2018-02-19
 * :hammer: Infuse Bandit Dagger with Raw
   * :interrobang: Verify this is still relevant (may need to use sharp gem after coal)
 * :moneybag: Sell all armor, shields, embers, etc.
-* :muscle: Vigor to 18 (level X)
+* :muscle: Vigor to 19 (level 16)
 * :airplane: Tower on the Wall
 * :running: Back to where we picked up the Undead Hunter Charm
 * :no_entry_sign: Wait and run past the spear knight
@@ -111,7 +111,7 @@ update: 2018-02-19
   * :gem: Large titanite shard #1
   * :gem: Titanite chunk #1
   * :recycle: Iron Bracers
-* :muscle: Vigor to 24 (level X)
+* :muscle: Vigor to 24 (level 21)
 * :airplane: High Wall of Lothric
 * :running: :arrow_up_down: Run to elevator
 * :arrow_down: Take elevator down
@@ -123,6 +123,12 @@ update: 2018-02-19
 * :hocho: :guardsman: Vordt of the Borreal Valley
   * :exclamation: Use lightning resin right as you crest the stairs before the big door
   * :exclamation: Use _Quick Step_ to make this boss simple.
+* :fire: Vordt of the Boreal Valley
+
+<a name="undead-settlement">
+## :airplane: Undead Settlement
+
+* :fire: Foot of the High Wall
 
 <a name="legend">
 ## Legend
@@ -174,4 +180,5 @@ update: 2018-02-19
 
 [cemetary]: #cemetary-of-ash
 [high-wall]: #high-wall-of-lothric
+[undead-settlement]: #undead-settlement
 [legend]: #legend
