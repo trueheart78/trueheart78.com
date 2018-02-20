@@ -27,12 +27,12 @@ update: 2018-02-19
 * :moneybag: Keep a single Fire Bomb :bomb:
 * :muscle: +4 Vigor (14 at level 9)
 * :rocket: Roof by tower.
-* :hand: :lollipop: Estus Shard #1
+* :hand: :candy: Estus Shard #1
 * :bird: Drop Fire Bomb
 * :hand: :gift: :gem: Large titanite shard #1
 * :hand: :ring: Silver Serpent
   * :exclamation: Equip it
-* :sake: :lollipop: Redeem Estus Shard #1
+* :sake: :candy: Redeem Estus Shard #1
 * :sake: Allot all 5 Estus as standard
 * :hocho: :skull: Big Crystal Lizard
 * :muscle: +2 Vigor (16 at level 11)
@@ -75,7 +75,7 @@ update: 2018-02-19
 * :running: Back to where we picked up the Undead Hunter Charm
 * :no_entry_sign: Wait and run past the spear knight
 * :running: Go straight and down the steps
-* :hand: :lollipop: Estus Shard #2
+* :hand: :candy: Estus Shard #2
 * :hand: :key: Cell Key guarded by :dog:
 * :rocket: Drop down out off the ledge
 * :no_entry_sign: Ignore the winged knight
@@ -99,7 +99,7 @@ update: 2018-02-19
 * :gift: :ring: Blue Tearstone
   * :exclamation: equip it
 * :airplane: Firelink Shrine
-* :sake: :lollipop: Redeem Estus Shard #2
+* :sake: :candy: Redeem Estus Shard #2
 * :running: Up to tower
 * :rocket: Jump onto roof
 * :running: Run to the :bird:
@@ -147,7 +147,7 @@ it is notable due to item pickup and the like.
 * :running: Run through the :house:
 * :hand: Lorretta's Bone
 * :hocho: :busts_in_silhoette: Lady Firehug and her minions
-* :hand: :lollipop: Estus Shard #3 by the burning tree
+* :hand: :candy: Estus Shard #3 by the burning tree
 * :running: Across the bridge and through the barn
 * :door: Open barn door
 * :running: Across the bridge
@@ -158,7 +158,7 @@ it is notable due to item pickup and the like.
 * :fire: Cliff Underside
 * :airplane: Firelink Shrine
 * :moneybag: :recycle:
-* :sake: :lollipop: Redeem Estus Shard #3
+* :sake: :candy: Redeem Estus Shard #3
 * :hammer: Bandit Dagger +2
 * :exclamation: :man: Give Lorretta's Bone to Greirat
 * :airplane: Cliff Underside
@@ -197,7 +197,7 @@ it is notable due to item pickup and the like.
 * :no_entry_sign: Invading NPC
   * :interrobang: Get full name
 * :running: Run to the White Tree
-* :hand: :candy: Undead Bone Shard #1
+* :hand: :lollipop: Undead Bone Shard #1
 * :hand: :rice: Mortician's ashes
 * :running: :door: Open large door by Curse-Rotted Greatwood :guardsman:
 * :no_entry_sign: :guardsman: Curse-Rotted Greatwood
@@ -208,7 +208,7 @@ it is notable due to item pickup and the like.
 * :money_with_wings: :key: Grave
 * :money_with_wings: :key: Tower
 * :muscle: +1 Endurance to 15 (level 23)
-* :sake: :candy: Burn Undead Bone Shard #1
+* :sake: :lollipop: Burn Undead Bone Shard #1
 * :running: :door: :arrow_up_down: :arrow_up: Run to the tower elevator and go up
 * :hand: Fire Keeper Soul
 * :arrow_down: Back to the bottom of the elevator
@@ -218,8 +218,7 @@ it is notable due to item pickup and the like.
 * :airplane: Cliff Underside
 * :running: :door: Grave door in the sewer
 * :hand: :gem: Titanite Shard #X
-* :speech_balloon: :woman: Irina _(optional)_
-* :door: Open door
+* :door: :man: Open door to Morne
 * :airplane: Firelink Shrine
 * :running: :man: Greirat
 * :money_with_wings: Bandit Dagger
@@ -257,14 +256,15 @@ it is notable due to item pickup and the like.
 * :bird: = bird
 * :skull: = enemy
 * :busts_in_silhouette: = enemies
+* :japanese_ogre: = demon
 * :guardsman: = boss
 
 ### Objects
 
 * :fire: = bonfire
 * :gem: = weapon upgrade shard/gem
-* :lollipop: = estus shard
-* :candy: = undead bone shard
+* :candy: = estus shard
+* :lollipop: = undead bone shard
 * :ring: = ring
 * :key: = key
 * :door: = door
