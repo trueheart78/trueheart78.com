@@ -124,20 +124,22 @@ update: 2018-02-21
 
 See the [New Releases Wiki][new-releases]
 
-1. The Escapists 2 (Switch) - Wait and See
 1. Burnout Paradise: Remastered (PS4) - Day One [pre-ordered]
-   * March 16
-1. Far Cry 5 (PS4) - Day One [pre-ordered]
-   * March 27
+   * March 16th @ $39.99 (may get 20% off for Prime)
+1. Dark Souls Remastered - Day One [pre-ordered]
+   * May 25th @ $39.99 (may get 20% off for Prime)
 1. Detroit: Become Human (PS4) - Wait and See
+1. Far Cry 5 (PS4) - Day One [pre-ordered]
+   * March 27th @ $47.99 (20% discount for Prime)
 1. Mega Man 11 (Switch) - Wait and See
+1. Night in the Woods (Switch) - Wait for a sale
 1. Red Dead Redemption 2 (PS4) - Wait and See
 1. Spider-Man (PS4) - Wait and See
-1. Night in the Woods (Switch) - Wait for a sale
+1. The Escapists 2 (Switch) - Wait and See
 1. ~~Bayonetta 2 (Switch) - Wait and See~~ [pre-ordered]
-   * February 16
+   * February 16th @ $47.99 (20% discount for Prime)
 1. ~~Darkside Detective (Switch) - Day One~~ [purchased]
-   * February 13
+   * February 13th @ $14.99 digitally
 1. ~~Secret of Mana (Vita) - Wait and See~~ [skipped]
 
 
