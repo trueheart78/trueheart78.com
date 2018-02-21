@@ -14,7 +14,7 @@ update: 2018-02-21
 
 ## :video_game: Playing
 
-1. Disgaea 5: Complete Edition (Switch)
+1. Mario + Rabbids: Kingdom Battle (Switch)
 1. Bayonetta (Switch)
 1. Earthbound (SNES Classic)
    - Over 20 years later and it still holds up.
@@ -31,6 +31,7 @@ update: 2018-02-21
 1. Dark Souls III & DLCs (DLC) (PS4) [Naked Dagger Challenge Runs](/naked-dagger/)
    - One last battle to master: Soul of Cinder :fire:
 1. Dead Cells (PC)
+1. Disgaea 5: Complete Edition (Switch)
 1. Sonic Mania (Switch) [7hr est]
 
 <!-- for-fun:end -->
@@ -65,7 +66,6 @@ update: 2018-02-21
    - Wow. Just... wow.
    - Did 3 playthroughs of episode 1, and loved each of them.
    - Wasn't sure what to expect, but excited for episode 2.
-1. Mario + Rabbids: Kingdom Battle (Switch) [30hr est]
 1. Titanfall 2 (PS4)
 1. Uncharted: The Lost Legacy (PS4) [8hr est]
 
