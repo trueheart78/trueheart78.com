@@ -6,7 +6,7 @@ customnav: games_nav.html
 customjs:
 - random_game.js
 - random_name.js
-update: 2018-02-18
+update: 2018-02-21
 ---
 
 <a name='currently-playing'></a>
@@ -125,15 +125,20 @@ update: 2018-02-18
 See the [New Releases Wiki][new-releases]
 
 1. The Escapists 2 (Switch) - Wait and See
-1. Secret of Mana (Vita) - Wait and See
-1. Far Cry 5 (PS4) - Day One
+1. Burnout Paradise: Remastered (PS4) - Day One [pre-ordered]
+   * March 16
+1. Far Cry 5 (PS4) - Day One [pre-ordered]
+   * March 27
 1. Detroit: Become Human (PS4) - Wait and See
 1. Mega Man 11 (Switch) - Wait and See
 1. Red Dead Redemption 2 (PS4) - Wait and See
 1. Spider-Man (PS4) - Wait and See
-1. Night in the Woods (Switch) - Day One
+1. Night in the Woods (Switch) - Wait for a sale
 1. ~~Bayonetta 2 (Switch) - Wait and See~~ [pre-ordered]
+   * February 16
 1. ~~Darkside Detective (Switch) - Day One~~ [purchased]
+   * February 13
+1. ~~Secret of Mana (Vita) - Wait and See~~ [skipped]
 
 
 ## :moneybag: Planned Purchases (Hopefully in 2018)
