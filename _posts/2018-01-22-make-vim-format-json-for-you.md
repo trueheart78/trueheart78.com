@@ -28,7 +28,7 @@ how to access said content in Ruby, properly formatting it, and sending it back 
 The basic Vim command I ended up with is
 
 ```
-%!ruby -r json -e 'content = `cat`; object = JSON.parse(content); json = JSON.pretty_generate(object); puts json'
+%!ruby -r json -e 'content = ARGF.read; object = JSON.parse(content); json = JSON.pretty_generate(object); puts json'
 ```
 
 ## The Command Portion
@@ -45,8 +45,8 @@ The basic Vim command I ended up with is
 ## The Code Portion
 
 ```ruby
-# `cat` reads the content that Vim sent over
-content = `cat`
+# ARGF.read reads the content that Vim sent over
+content = ARGF.read
 
 # the content is still in JSON format, and it needs to be in object format
 object = JSON.parse(content)
@@ -61,7 +61,7 @@ puts json
 I actually ended up compressing the code to the following:
 
 ```
-puts JSON.pretty_generate(JSON.parse(`cat`))
+puts JSON.pretty_generate(JSON.parse(ARGF.read))
 ```
 
 ## In Action
@@ -73,9 +73,9 @@ puts JSON.pretty_generate(JSON.parse(`cat`))
 To make sure Vim always has this available, I bound it to a leader-based command in my `.vimrc`
 
 ```vim
-nmap <leader>json :%!ruby -r json -e 'puts JSON.pretty_generate(JSON.parse(`cat`))'<CR>
-vmap <leader>json :%!ruby -r json -e 'puts JSON.pretty_generate(JSON.parse(`cat`))'<CR>
-imap <leader>json :%!ruby -r json -e 'puts JSON.pretty_generate(JSON.parse(`cat`))'<CR>
+nmap <leader>json :%!ruby -r json -e 'puts JSON.pretty_generate(JSON.parse(ARGF.read))'<CR>
+vmap <leader>json :%!ruby -r json -e 'puts JSON.pretty_generate(JSON.parse(ARGF.read))'<CR>
+imap <leader>json :%!ruby -r json -e 'puts JSON.pretty_generate(JSON.parse(ARGF.read))'<CR>
 ```
 
 Now, with just a couple keystrokes, formatting JSON is as simple as I hoped it could be.
