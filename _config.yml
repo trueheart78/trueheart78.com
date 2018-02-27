@@ -9,7 +9,7 @@ site_heart:
 email: josh@trueheart78.com
 
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://blog.trueheart.com" # the base hostname & protocol for your site
+url: "https://blog.trueheart.com" # the base hostname & protocol for your site
 
 # Build settings
 markdown: kramdown
