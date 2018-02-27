@@ -6,7 +6,7 @@ customnav: games_nav.html
 customjs:
 - random_game.js
 - random_name.js
-update: 2018-02-21
+update: 2018-02-27
 ---
 
 <a name='currently-playing'></a>
@@ -14,8 +14,8 @@ update: 2018-02-21
 
 ## :video_game: Playing
 
+1. Gravity Rush - Remastered (PS4)
 1. Mario + Rabbids: Kingdom Battle (Switch)
-1. Bayonetta (Switch)
 1. Earthbound (SNES Classic)
    - Over 20 years later and it still holds up.
 
@@ -55,11 +55,11 @@ update: 2018-02-21
 
 1. Assassin's Creed: Origins (PS4) [40hr est]
 1. Assassin's Creed: Syndicate (PS4)
+1. Bayonetta (Switch)
 1. Bayonetta 2 (Switch)
 1. Disgaea 3 (Vita)
 1. Disgaea 4 (Vita)
 1. Divinity: Original Sin (PS4)
-1. Gravity Rush (PS4/Vita)
 1. Gravity Rush 2 (PS4)
 1. Horizon: Zero Dawn DLC (PS4) [10hr est]
 1. Life is Strange: Before the Storm: Episode 2 (PS4)
