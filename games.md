@@ -6,7 +6,7 @@ customnav: games_nav.html
 customjs:
 - random_game.js
 - random_name.js
-update: 2018-02-27
+update: 2018-03-01
 ---
 
 <a name='currently-playing'></a>
@@ -57,6 +57,7 @@ update: 2018-02-27
 1. Assassin's Creed: Syndicate (PS4)
 1. Bayonetta (Switch)
 1. Bayonetta 2 (Switch)
+1. DiRT 4 (PS4)
 1. Disgaea 3 (Vita)
 1. Disgaea 4 (Vita)
 1. Divinity: Original Sin (PS4)
