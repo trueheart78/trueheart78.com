@@ -6,7 +6,7 @@ customnav: games_nav.html
 customjs:
 - random_game.js
 - random_name.js
-update: 2018-03-01
+update: 2018-03-03
 ---
 
 <a name='currently-playing'></a>
@@ -14,7 +14,6 @@ update: 2018-03-01
 
 ## :video_game: Playing
 
-1. Gravity Rush - Remastered (PS4)
 1. Mario + Rabbids: Kingdom Battle (Switch)
 1. Earthbound (SNES Classic)
    - Over 20 years later and it still holds up.
@@ -108,6 +107,11 @@ update: 2018-03-01
    - Used a walkthrough. 
    - Enjoyed the game a lot.
    - Grade: C+
+1. Gravity Rush - Remastered (PS4)
+   - Quite fun.
+   - Beat the DLC with it. 
+   - Story was unique. 
+   - At the end, felt like a B+.
 
 <!-- beaten:end -->
 <a name='jettisoned'></a>
@@ -125,8 +129,7 @@ update: 2018-03-01
 
 See the [New Releases Wiki][new-releases]
 
-1. Burnout Paradise: Remastered (PS4) - Day One [pre-ordered]
-   * March 16th @ $39.99 (may get 20% off for Prime)
+1. Burnout Paradise: Remastered (PS4) - $20 max
 1. Dark Souls Remastered - Day One [pre-ordered]
    * May 25th @ $39.99 (may get 20% off for Prime)
 1. Detroit: Become Human (PS4) - Wait and See
@@ -136,7 +139,7 @@ See the [New Releases Wiki][new-releases]
 1. Night in the Woods (Switch) - Wait for a sale
 1. Red Dead Redemption 2 (PS4) - Wait and See
 1. Spider-Man (PS4) - Wait and See
-1. The Escapists 2 (Switch) - Wait and See
+1. The Escapists 2 (Switch) - Wait for a sale
 1. ~~Bayonetta 2 (Switch) - Wait and See~~ [pre-ordered]
    * February 16th @ $47.99 (20% discount for Prime)
 1. ~~Darkside Detective (Switch) - Day One~~ [purchased]
