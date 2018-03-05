@@ -6,7 +6,7 @@ customnav: games_nav.html
 customjs:
 - random_game.js
 - random_name.js
-update: 2018-03-03
+update: 2018-03-05
 ---
 
 <a name='currently-playing'></a>
@@ -14,6 +14,7 @@ update: 2018-03-03
 
 ## :video_game: Playing
 
+1. Assassin's Creed: Origins (PS4) [40hr est]
 1. Mario + Rabbids: Kingdom Battle (Switch)
 1. Earthbound (SNES Classic)
    - Over 20 years later and it still holds up.
@@ -52,7 +53,6 @@ update: 2018-03-03
 
 ## :space_invader: Unplayed -- <a href="javascript: randomGame('unplayed')" id="unplayed-link">Randomly Pick One</a>
 
-1. Assassin's Creed: Origins (PS4) [40hr est]
 1. Assassin's Creed: Syndicate (PS4)
 1. Bayonetta (Switch)
 1. Bayonetta 2 (Switch)
