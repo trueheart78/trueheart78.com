@@ -6,7 +6,7 @@ customnav: games_nav.html
 customjs:
 - random_game.js
 - random_name.js
-update: 2018-03-05
+update: 2018-03-06
 ---
 
 <a name='currently-playing'></a>
