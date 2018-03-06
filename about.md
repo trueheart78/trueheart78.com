@@ -5,17 +5,14 @@ permalink: /about/
 update: 2018-03-06
 ---
 
-<div style='margin-bottom:10px;'>
-	<div style='float:left;margin-right:5px;margin-bottom:5px;'>
-		<img src="/assets/images/selfie-with-rosie.jpg" />
-	</div> 
-	<div style='float:left;'>
-		<img src="/assets/images/taylor-swift/taylor-heart.gif" style="height: 184px;" />
-	</div>
-	<div style='clear:both;'></div>
-</div>
+![Taylor Swift][taylor-hi-gif]
 
-My name is Josh and I'm a full time developer, and, if you can't tell, I :sparkling_heart: [Ruby][ruby-lang], [Taylor Swift][taylor-swift] :notes:, and gifs :fireworks:.
+My name is Josh and I'm a full time developer.
+
+If you can't tell, I :sparkling_heart: [Ruby][ruby-lang], [Taylor Swift][taylor-swift] :notes:, and [gifs][giphy]
 
 [ruby-lang]: https://www.ruby-lang.org
 [taylor-swift]: https://taylorswift.com/
+[taylor-hi-gif]: /assets/images/taylor-swift/taylor-wave.gif
+[taylor-love-gif]: /assets/images/taylor-swift/taylor-heart.gif
+[giphy]: https://giphy.com/search/taylor-swift
