@@ -2,7 +2,7 @@
 layout: page
 title: Now
 permalink: /now/
-update: 2018-03-06
+update: 2018-03-11
 ---
 
 I'm currently living in Franklin, OH working remote for [CoverMyMeds](http://covermymeds.com) as a software developer.
@@ -32,6 +32,7 @@ I'm currently living in Franklin, OH working remote for [CoverMyMeds](http://cov
 
 ## :books: Learning
 
+* Learning Go.
 * Studying _The Rails 5 Way_.
 * [Elm](http://elm-lang.org).
   + Loving it.
