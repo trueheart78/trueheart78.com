@@ -6,7 +6,7 @@ customnav: games_nav.html
 customjs:
 - random_game.js
 - random_name.js
-update: 2018-03-06
+update: 2018-03-18
 ---
 
 <a name='currently-playing'></a>
@@ -14,7 +14,6 @@ update: 2018-03-06
 
 ## :video_game: Playing
 
-1. Assassin's Creed: Origins (PS4) [40hr est]
 1. Mario + Rabbids: Kingdom Battle (Switch)
 1. Earthbound (SNES Classic)
    - Over 20 years later and it still holds up.
@@ -112,6 +111,10 @@ update: 2018-03-06
    - Beat the DLC with it. 
    - Story was unique. 
    - At the end, felt like a B+.
+1. Assassin's Creed: Origins (PS4)
+   - Best story in an AC game yet
+   - Aya :sparkling_heart:
+   - Solid A+ game. 
 
 <!-- beaten:end -->
 <a name='jettisoned'></a>
