@@ -4,7 +4,7 @@ title: Character Names
 permalink: /character-names/
 customjs:
 - random_name.js
-update: 2017-09-16
+update: 2018-03-18
 ---
 
 #### <a href="javascript: randomName()" id="character-name-link">Random Character Name</a>
@@ -18,6 +18,9 @@ update: 2017-09-16
 + Olivia (F) - FRINGE
 + Olive (F) - FRINGE
 + Butts (F)
++ Aya (F) - Assassins Creed Origins
++ Amunet "the hidden one" or "invisible" (F) - Assassins Creed Origins / Egyptian Mythology 
++ Amun "the hidden one" or "invisible" (M) - Assassins Creed Origins / Egyptian Mythology 
 
 <!-- characters:end -->
 
