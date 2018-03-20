@@ -6,7 +6,7 @@ customnav: games_nav.html
 customjs:
 - random_game.js
 - random_name.js
-update: 2018-03-18
+update: 2018-03-21
 ---
 
 <a name='currently-playing'></a>
@@ -14,9 +14,10 @@ update: 2018-03-18
 
 ## :video_game: Playing
 
-1. Mario + Rabbids: Kingdom Battle (Switch)
-1. Earthbound (SNES Classic)
-   - Over 20 years later and it still holds up.
+1. Bayonetta (Switch) [12.5hr est]
+1. Mario + Rabbids: Kingdom Battle (Switch) [28hr est]
+1. LEGO Star Wars: The Force Awakens (PS4) [30hr est]
+1. LEGO Marvel Super Heroes 2 (PS4) [25hr est]
 
 <!-- playing:end -->
 <a name='for-fun'></a>
@@ -25,6 +26,8 @@ update: 2018-03-18
 ## :heart_eyes: For Funsies
 <!-- <a href="javascript: randomGame('for-fun')" id="for-fun-link" title="Random selection" alt="Random selection">:game_die:</a>-->
 
+1. Earthbound (SNES Classic) [34hr est]
+   - Over 20 years later and it still holds up.
 1. Slay the Spire - Early Access (PC)
    - This game should come with an addiction warning label. 
 1. Dark Souls III & DLCs (DLC) (PS4) [Naked Dagger Challenge Runs](/naked-dagger/)
@@ -52,20 +55,20 @@ update: 2018-03-18
 
 ## :space_invader: Unplayed -- <a href="javascript: randomGame('unplayed')" id="unplayed-link">Randomly Pick One</a>
 
-1. Assassin's Creed: Syndicate (PS4)
-1. Bayonetta (Switch)
-1. Bayonetta 2 (Switch)
-1. DiRT 4 (PS4)
+1. Assassin's Creed: Syndicate (PS4) [40.5hr est]
+1. Bayonetta 2 (Switch) [11hr est]
+1. DiRT 4 (PS4) [52hr+ est]
 1. Disgaea 3 (Vita)
 1. Disgaea 4 (Vita)
 1. Divinity: Original Sin (PS4)
-1. Gravity Rush 2 (PS4)
+1. Gravity Rush 2 (PS4) [34hr est]
 1. Horizon: Zero Dawn DLC (PS4) [10hr est]
-1. Life is Strange: Before the Storm: Episode 2 (PS4)
-   - Wow. Just... wow.
-   - Did 3 playthroughs of episode 1, and loved each of them.
-   - Wasn't sure what to expect, but excited for episode 2.
-1. Titanfall 2 (PS4)
+1. LEGO Batman 3: Beyond Gotham (PS4) [36hr est]
+1. LEGO Movie Videogame (PS4) [17hr est]
+1. Life is Strange: Before the Storm - Episode 2: Brave New World (PS4) [4hr est]
+1. Life is Strange: Before the Storm - Episode 3: Hell is Empty (PS4) [3.5hr est]
+1. Life is Strange: Before the Storm - Bonus Episode: Farewell (PS4) [1.5hr est]
+1. Titanfall 2 (PS4) [6.5hr est]
 1. Uncharted: The Lost Legacy (PS4) [8hr est]
 
 <!-- unplayed:end -->

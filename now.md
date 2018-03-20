@@ -2,22 +2,24 @@
 layout: page
 title: Now
 permalink: /now/
-update: 2018-03-11
+update: 2018-03-21
 ---
 
 I'm currently living in Franklin, OH working remote for [CoverMyMeds](http://covermymeds.com) as a software developer.
 
 ## :space_invader: Playing
 
-* _Assassin's Creed: Origins_ on PS4
-* _Mario + Rabbids: Kingdom Battle_ Switch
-* _Disgaea 5: Complete Edition_ on Switch
+* _LEGO Star Wars: The Force Awakens_ on PS4.
+* _LEGO Marvel Super Heroes 2_ on PS4.
+* _Mario + Rabbids: Kingdom Battle_ Switch.
+* _Disgaea 5: Complete Edition_ on Switch.
 * _Bayonetta_ on Switch.
 * _Earthbound_ on SNES Classic.
 
 ## :wrench: Side Projects
 
-* Polishing up my [Gif Management Gem](https://github.com/trueheart78/gifs)
+* Writing a [BotFiles](https://github.com/trueheart78/bot_files) gem.
+  * For working with dotfiles.
 
 ## :book: Comics
 
@@ -32,12 +34,16 @@ I'm currently living in Franklin, OH working remote for [CoverMyMeds](http://cov
 
 ## :books: Learning
 
-* Learning Go.
-* Studying _The Rails 5 Way_.
+* Go
+   * [Distributed Computing with Go](https://github.com/trueheart78/book-notes/blob/master/distributed-computing-with-go/README.md)
+   * [Go Systems Programming](https://github.com/trueheart78/book-notes/blob/master/go-systems-programming/README.md)
+   * [Get Programming with Go](https://github.com/trueheart78/book-notes/blob/master/get-programming-with-go/README.md) 
+* Rails
+   * [The Rails 5 Way](https://github.com/trueheart78/book-notes/blob/master/the-rails-5-way/README.md)
 * [Elm](http://elm-lang.org).
-  + Loving it.
+   * [Building Web Apps with Elm](https://github.com/trueheart78/book-notes/blob/master/building-web-apps-with-elm-course/README.md)
 
-## :calendar: Coming Up
+## :calendar: Coming Up (Maybe)
 
 * Learning [Programming Elixir](https://pragprog.com/book/elixir12/programming-elixir-1-2) by Dave Thomas
   * Left off at chapter 10: Processing Collections.
@@ -46,6 +52,8 @@ I'm currently living in Franklin, OH working remote for [CoverMyMeds](http://cov
 
 ## :scroll: History for 2018
 
+* Played _Assassin's Creed: Origins_ on PS4
+* Polished up my [Gif Management Gem](https://github.com/trueheart78/gifs)
 * Played _Wolfenstein 2: The New Colossus_ on PS4.
 
 ## :scroll: History for 2017
