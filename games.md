@@ -6,7 +6,7 @@ customnav: games_nav.html
 customjs:
 - random_game.js
 - random_name.js
-update: 2018-03-21
+update: 2018-04-04
 ---
 
 <a name='currently-playing'></a>
@@ -17,7 +17,6 @@ update: 2018-03-21
 1. Bayonetta (Switch) [12.5hr est]
 1. Mario + Rabbids: Kingdom Battle (Switch) [28hr est]
 1. LEGO Star Wars: The Force Awakens (PS4) [30hr est]
-1. LEGO Marvel Super Heroes 2 (PS4) [25hr est]
 
 <!-- playing:end -->
 <a name='for-fun'></a>
@@ -26,6 +25,8 @@ update: 2018-03-21
 ## :heart_eyes: For Funsies
 <!-- <a href="javascript: randomGame('for-fun')" id="for-fun-link" title="Random selection" alt="Random selection">:game_die:</a>-->
 
+1. LEGO Marvel Super Heroes 2 (PS4) [25hr est]
+   - Wrapping up quests for Gwenpool
 1. Earthbound (SNES Classic) [34hr est]
    - Over 20 years later and it still holds up.
 1. Slay the Spire - Early Access (PC)
@@ -61,6 +62,7 @@ update: 2018-03-21
 1. Disgaea 3 (Vita)
 1. Disgaea 4 (Vita)
 1. Divinity: Original Sin (PS4)
+1. Far Cry 5 (PS4)
 1. Gravity Rush 2 (PS4) [34hr est]
 1. Horizon: Zero Dawn DLC (PS4) [10hr est]
 1. LEGO Batman 3: Beyond Gotham (PS4) [36hr est]
@@ -118,6 +120,11 @@ update: 2018-03-21
    - Best story in an AC game yet
    - Aya :sparkling_heart:
    - Solid A+ game. 
+1. LEGO Marvel Super Heroes 2 (PS4) [25hr est]
+   - So glad to see Squirrel Girl and Gwenpool :sparkling_heart:
+   - Great sense of humor.
+   - Stan Lee really needs to stop getting into sticky situations.
+   - Solid A game.
 
 <!-- beaten:end -->
 <a name='jettisoned'></a>

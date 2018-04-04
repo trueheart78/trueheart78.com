@@ -2,7 +2,7 @@
 layout: page
 title: Now
 permalink: /now/
-update: 2018-03-21
+update: 2018-04-04
 ---
 
 I'm currently living in Franklin, OH working remote for [CoverMyMeds](http://covermymeds.com) as a software developer.
@@ -11,6 +11,7 @@ I'm currently living in Franklin, OH working remote for [CoverMyMeds](http://cov
 
 * _LEGO Star Wars: The Force Awakens_ on PS4.
 * _LEGO Marvel Super Heroes 2_ on PS4.
+  - Finishing up Gwenpool missions.
 * _Mario + Rabbids: Kingdom Battle_ Switch.
 * _Disgaea 5: Complete Edition_ on Switch.
 * _Bayonetta_ on Switch.
