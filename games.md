@@ -6,7 +6,7 @@ customnav: games_nav.html
 customjs:
 - random_game.js
 - random_name.js
-update: 2018-04-04
+update: 2018-04-23
 ---
 
 <a name='currently-playing'></a>
@@ -14,6 +14,7 @@ update: 2018-04-04
 
 ## :video_game: Playing
 
+1. Divinity: Original Sin (PS4)
 1. Bayonetta (Switch) [12.5hr est]
 1. Mario + Rabbids: Kingdom Battle (Switch) [28hr est]
 1. LEGO Star Wars: The Force Awakens (PS4) [30hr est]
@@ -61,8 +62,6 @@ update: 2018-04-04
 1. DiRT 4 (PS4) [52hr+ est]
 1. Disgaea 3 (Vita)
 1. Disgaea 4 (Vita)
-1. Divinity: Original Sin (PS4)
-1. Far Cry 5 (PS4)
 1. Gravity Rush 2 (PS4) [34hr est]
 1. Horizon: Zero Dawn DLC (PS4) [10hr est]
 1. LEGO Batman 3: Beyond Gotham (PS4) [36hr est]
@@ -125,6 +124,11 @@ update: 2018-04-04
    - Great sense of humor.
    - Stan Lee really needs to stop getting into sticky situations.
    - Solid A game.
+1. Far Cry 5 (PS4)
+   - I enjoyed the world.
+   - The story felt like it needed better pacing.
+   - Being chased by "cutscene bullets" is not my idea of good way to "push the story forward".
+   - Fun, yes. Likely to end up on my GotY list? No.
 
 <!-- beaten:end -->
 <a name='jettisoned'></a>

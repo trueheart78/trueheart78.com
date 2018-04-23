@@ -2,25 +2,19 @@
 layout: page
 title: Now
 permalink: /now/
-update: 2018-04-04
+update: 2018-04-23
 ---
 
 I'm currently living in Franklin, OH working remote for [CoverMyMeds](http://covermymeds.com) as a software developer.
 
 ## :space_invader: Playing
 
+* _Divinity: Original Sin_ on PS4.
 * _LEGO Star Wars: The Force Awakens_ on PS4.
-* _LEGO Marvel Super Heroes 2_ on PS4.
-  - Finishing up Gwenpool missions.
 * _Mario + Rabbids: Kingdom Battle_ Switch.
 * _Disgaea 5: Complete Edition_ on Switch.
 * _Bayonetta_ on Switch.
 * _Earthbound_ on SNES Classic.
-
-## :wrench: Side Projects
-
-* Writing a [BotFiles](https://github.com/trueheart78/bot_files) gem.
-  * For working with dotfiles.
 
 ## :book: Comics
 
@@ -44,6 +38,10 @@ I'm currently living in Franklin, OH working remote for [CoverMyMeds](http://cov
 * [Elm](http://elm-lang.org).
    * [Building Web Apps with Elm](https://github.com/trueheart78/book-notes/blob/master/building-web-apps-with-elm-course/README.md)
 
+## :wrench: Side Projects
+
+* _None at the moment._
+
 ## :calendar: Coming Up (Maybe)
 
 * Learning [Programming Elixir](https://pragprog.com/book/elixir12/programming-elixir-1-2) by Dave Thomas
@@ -53,6 +51,8 @@ I'm currently living in Franklin, OH working remote for [CoverMyMeds](http://cov
 
 ## :scroll: History for 2018
 
+* Played _Far Cry 5_ on PS4.
+* Played _LEGO Marvel Super Heroes 2_ on PS4.
 * Played _Assassin's Creed: Origins_ on PS4
 * Polished up my [Gif Management Gem](https://github.com/trueheart78/gifs)
 * Played _Wolfenstein 2: The New Colossus_ on PS4.
