@@ -6,7 +6,7 @@ customnav: games_nav.html
 customjs:
 - random_game.js
 - random_name.js
-update: 2018-04-23
+update: 2018-04-24
 ---
 
 <a name='currently-playing'></a>
@@ -14,7 +14,8 @@ update: 2018-04-23
 
 ## :video_game: Playing
 
-1. Divinity: Original Sin (PS4)
+1. Persona 5 (PS4)
+   - New Game+
 1. Bayonetta (Switch) [12.5hr est]
 1. Mario + Rabbids: Kingdom Battle (Switch) [28hr est]
 1. LEGO Star Wars: The Force Awakens (PS4) [30hr est]
@@ -136,7 +137,9 @@ update: 2018-04-23
 
 ## :rocket: Jettisoned
 
-1. _Fresh Slate_.
+1. Divinity: Original Sin (PS4)
+   - It's a good game, not a great game.
+   - In the time it will take me to play through, I could play 2+ great games.
  
 <!-- jettisoned:end -->
 <a name='planned-purchases'></a>
