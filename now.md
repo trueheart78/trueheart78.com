@@ -2,14 +2,14 @@
 layout: page
 title: Now
 permalink: /now/
-update: 2018-04-23
+update: 2018-04-24
 ---
 
 I'm currently living in Franklin, OH working remote for [CoverMyMeds](http://covermymeds.com) as a software developer.
 
 ## :space_invader: Playing
 
-* _Divinity: Original Sin_ on PS4.
+* _Persona 5 NG+_ on PS4.
 * _LEGO Star Wars: The Force Awakens_ on PS4.
 * _Mario + Rabbids: Kingdom Battle_ Switch.
 * _Disgaea 5: Complete Edition_ on Switch.
@@ -51,6 +51,7 @@ I'm currently living in Franklin, OH working remote for [CoverMyMeds](http://cov
 
 ## :scroll: History for 2018
 
+* Jettisoned _Divinity: Original Sin_ on PS4.
 * Played _Far Cry 5_ on PS4.
 * Played _LEGO Marvel Super Heroes 2_ on PS4.
 * Played _Assassin's Creed: Origins_ on PS4
