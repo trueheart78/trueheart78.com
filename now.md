@@ -2,13 +2,14 @@
 layout: page
 title: Now
 permalink: /now/
-update: 2018-04-24
+update: 2018-05-15
 ---
 
 I'm currently living in Franklin, OH working remote for [CoverMyMeds](http://covermymeds.com) as a software developer.
 
 ## :space_invader: Playing
 
+* _Splatoon 2_ on Switch.
 * _Persona 5 NG+_ on PS4.
 * _LEGO Star Wars: The Force Awakens_ on PS4.
 * _Mario + Rabbids: Kingdom Battle_ Switch.

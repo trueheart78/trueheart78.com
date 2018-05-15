@@ -6,7 +6,7 @@ customnav: games_nav.html
 customjs:
 - random_game.js
 - random_name.js
-update: 2018-04-24
+update: 2018-05-15
 ---
 
 <a name='currently-playing'></a>
@@ -14,8 +14,8 @@ update: 2018-04-24
 
 ## :video_game: Playing
 
-1. Persona 5 (PS4)
-   - New Game+
+1. Wizard of Legend (Switch)
+1. Floor Kids (Switch)
 1. Bayonetta (Switch) [12.5hr est]
 1. Mario + Rabbids: Kingdom Battle (Switch) [28hr est]
 1. LEGO Star Wars: The Force Awakens (PS4) [30hr est]
@@ -24,9 +24,11 @@ update: 2018-04-24
 <a name='for-fun'></a>
 <!-- for-fun:start -->
 
-## :heart_eyes: For Funsies
+## :heart_eyes: For Funsies / Coming Back To
 <!-- <a href="javascript: randomGame('for-fun')" id="for-fun-link" title="Random selection" alt="Random selection">:game_die:</a>-->
 
+1. Persona 5 (PS4)
+   - New Game+
 1. LEGO Marvel Super Heroes 2 (PS4) [25hr est]
    - Wrapping up quests for Gwenpool
 1. Earthbound (SNES Classic) [34hr est]
@@ -35,7 +37,6 @@ update: 2018-04-24
    - This game should come with an addiction warning label. 
 1. Dark Souls III & DLCs (DLC) (PS4) [Naked Dagger Challenge Runs](/naked-dagger/)
    - One last battle to master: Soul of Cinder :fire:
-1. Dead Cells (PC)
 1. Disgaea 5: Complete Edition (Switch)
 1. Sonic Mania (Switch) [7hr est]
 
@@ -150,13 +151,16 @@ update: 2018-04-24
 See the [New Releases Wiki][new-releases]
 
 1. Burnout Paradise: Remastered (PS4) - $20 max
-1. Dark Souls Remastered - Day One [pre-ordered]
-   * May 25th @ $39.99 (may get 20% off for Prime)
+1. Dark Souls Remastered (PS4) - Day One [pre-ordered]
+   * May 25th @ $32.00
+1. Dead Cells (PS4 / Switch) - Wait and See
 1. Detroit: Become Human (PS4) - Wait and See
-1. Far Cry 5 (PS4) - Day One [pre-ordered]
-   * March 27th @ $47.99 (20% discount for Prime)
+1. Hyrule Warriers: Definitive Edition - Day One [pre-ordered]
+   * May 18th @ $4.00 after credit
 1. Mega Man 11 (Switch) - Wait and See
 1. Night in the Woods (Switch) - Wait for a sale
+1. Octopath Traveler (Switch) - Day One [pre-ordered]
+   * July 13th @ $17 after credit
 1. Red Dead Redemption 2 (PS4) - Wait and See
 1. Spider-Man (PS4) - Wait and See
 1. The Escapists 2 (Switch) - Wait for a sale
@@ -164,6 +168,8 @@ See the [New Releases Wiki][new-releases]
    * February 16th @ $47.99 (20% discount for Prime)
 1. ~~Darkside Detective (Switch) - Day One~~ [purchased]
    * February 13th @ $14.99 digitally
+1. ~~Far Cry 5 (PS4) - Day One~~ [pre-ordered]
+   * March 27th @ $47.99 (20% discount for Prime)
 1. ~~Secret of Mana (Vita) - Wait and See~~ [skipped]
 
 
