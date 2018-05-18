@@ -6,7 +6,7 @@ customnav: games_nav.html
 customjs:
 - random_game.js
 - random_name.js
-update: 2018-05-15
+update: 2018-05-18
 ---
 
 <a name='currently-playing'></a>
@@ -24,7 +24,7 @@ update: 2018-05-15
 <a name='for-fun'></a>
 <!-- for-fun:start -->
 
-## :heart_eyes: For Funsies / Coming Back To
+## :heart_eyes: For Funsies
 <!-- <a href="javascript: randomGame('for-fun')" id="for-fun-link" title="Random selection" alt="Random selection">:game_die:</a>-->
 
 1. Persona 5 (PS4)
@@ -60,6 +60,7 @@ update: 2018-05-15
 ## :space_invader: Unplayed -- <a href="javascript: randomGame('unplayed')" id="unplayed-link">Randomly Pick One</a>
 
 1. Assassin's Creed: Syndicate (PS4) [40.5hr est]
+1. Battle Chef Brigade (Switch)
 1. Bayonetta 2 (Switch) [11hr est]
 1. DiRT 4 (PS4) [52hr+ est]
 1. Disgaea 3 (Vita)
