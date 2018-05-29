@@ -14,6 +14,8 @@ update: 2018-05-18
 
 ## :video_game: Playing
 
+1. Dark Souls Remastered (PS4)
+1. Hyrule Warriers: Definitive Edition (Switch)
 1. Wizard of Legend (Switch)
 1. Floor Kids (Switch)
 1. Bayonetta (Switch) [12.5hr est]
@@ -152,12 +154,8 @@ update: 2018-05-18
 See the [New Releases Wiki][new-releases]
 
 1. Burnout Paradise: Remastered (PS4) - $20 max
-1. Dark Souls Remastered (PS4) - Day One [pre-ordered]
-   * May 25th @ $32.00
 1. Dead Cells (PS4 / Switch) - Wait and See
 1. Detroit: Become Human (PS4) - Wait and See
-1. Hyrule Warriers: Definitive Edition - Day One [pre-ordered]
-   * May 18th @ $4.00 after credit
 1. Mega Man 11 (Switch) - Wait and See
 1. Night in the Woods (Switch) - Wait for a sale
 1. Octopath Traveler (Switch) - Day One [pre-ordered]
@@ -169,8 +167,12 @@ See the [New Releases Wiki][new-releases]
    * February 16th @ $47.99 (20% discount for Prime)
 1. ~~Darkside Detective (Switch) - Day One~~ [purchased]
    * February 13th @ $14.99 digitally
+1. ~~Dark Souls Remastered (PS4) - Day One~~ [pre-ordered]
+   * May 25th @ $39.99 digitally
 1. ~~Far Cry 5 (PS4) - Day One~~ [pre-ordered]
    * March 27th @ $47.99 (20% discount for Prime)
+1. ~~Hyrule Warriers: Definitive Edition - Day One~~ [pre-ordered]
+   * May 18th @ $4.00 after credit
 1. ~~Secret of Mana (Vita) - Wait and See~~ [skipped]
 
 

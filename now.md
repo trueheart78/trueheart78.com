@@ -2,13 +2,15 @@
 layout: page
 title: Now
 permalink: /now/
-update: 2018-05-15
+update: 2018-06-29
 ---
 
 I'm currently living in Franklin, OH working remote for [CoverMyMeds](http://covermymeds.com) as a software developer.
 
 ## :space_invader: Playing
 
+* _Dark Souls Remastered_ on PS4.
+* _Hyrule Warriers: Definitive Edition_ on Switch.
 * _Splatoon 2_ on Switch.
 * _Persona 5 NG+_ on PS4.
 * _LEGO Star Wars: The Force Awakens_ on PS4.
