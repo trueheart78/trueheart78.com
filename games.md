@@ -6,7 +6,7 @@ customnav: games_nav.html
 customjs:
 - random_game.js
 - random_name.js
-update: 2018-05-18
+update: 2018-06-07
 ---
 
 <a name='currently-playing'></a>
@@ -134,6 +134,8 @@ update: 2018-05-18
    - The story felt like it needed better pacing.
    - Being chased by "cutscene bullets" is not my idea of good way to "push the story forward".
    - Fun, yes. Likely to end up on my GotY list? No.
+1. Yoku's Island Express
+   - OMGosh :sparkling_heart:
 
 <!-- beaten:end -->
 <a name='jettisoned'></a>
@@ -156,6 +158,8 @@ See the [New Releases Wiki][new-releases]
 1. Burnout Paradise: Remastered (PS4) - $20 max
 1. Dead Cells (PS4 / Switch) - Wait and See
 1. Detroit: Become Human (PS4) - Wait and See
+1. Hitman 2 (PS4) - Day One
+   - November 2018
 1. Mega Man 11 (Switch) - Wait and See
 1. Night in the Woods (Switch) - Wait for a sale
 1. Octopath Traveler (Switch) - Day One [pre-ordered]
