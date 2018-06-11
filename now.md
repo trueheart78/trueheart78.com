@@ -2,7 +2,7 @@
 layout: page
 title: Now
 permalink: /now/
-update: 2018-05-29
+update: 2018-06-11
 ---
 
 I'm currently living in Franklin, OH working remote for [CoverMyMeds](http://covermymeds.com) as a software developer.
@@ -12,23 +12,19 @@ I'm currently living in Franklin, OH working remote for [CoverMyMeds](http://cov
 * _Dark Souls Remastered_ on PS4.
 * _Hyrule Warriers: Definitive Edition_ on Switch.
 * _Splatoon 2_ on Switch.
-* _Persona 5 NG+_ on PS4.
 * _LEGO Star Wars: The Force Awakens_ on PS4.
 * _Mario + Rabbids: Kingdom Battle_ Switch.
 * _Disgaea 5: Complete Edition_ on Switch.
 * _Bayonetta_ on Switch.
-* _Earthbound_ on SNES Classic.
 
 ## :book: Comics
 
-* Patsy Walker aka Hellcat (2015)
 * Unbeatable Squirrel Girl 🐿️ 
   + [Twitter](https://twitter.com/unbeatablesg)
   + [Tumblr](https://unbeatablesquirrelgirl.tumblr.com/)
 * Gwenpool
   + Re-reading this series because it was so good! :sparkling_heart:
 * The Mighty Thor
-* Spider-Gwen
 
 ## :books: Learning
 
@@ -54,6 +50,7 @@ I'm currently living in Franklin, OH working remote for [CoverMyMeds](http://cov
 
 ## :scroll: History for 2018
 
+* Read _Patsy Walker aka Hellcat (2015)_.
 * Jettisoned _Divinity: Original Sin_ on PS4.
 * Played _Far Cry 5_ on PS4.
 * Played _LEGO Marvel Super Heroes 2_ on PS4.

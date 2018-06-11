@@ -6,7 +6,7 @@ customnav: games_nav.html
 customjs:
 - random_game.js
 - random_name.js
-update: 2018-06-07
+update: 2018-06-11
 ---
 
 <a name='currently-playing'></a>
@@ -14,13 +14,12 @@ update: 2018-06-07
 
 ## :video_game: Playing
 
-1. Dark Souls Remastered (PS4)
-1. Hyrule Warriers: Definitive Edition (Switch)
-1. Wizard of Legend (Switch)
-1. Floor Kids (Switch)
 1. Bayonetta (Switch) [12.5hr est]
+1. Dark Souls <sup>tm</sup>: Remastered (PS4)
+1. Disgaea 5: Complete Edition (Switch)
+1. Hyrule Warriers: Definitive Edition (Switch)
 1. Mario + Rabbids: Kingdom Battle (Switch) [28hr est]
-1. LEGO Star Wars: The Force Awakens (PS4) [30hr est]
+1. YAKUZA 0 (PS4)
 
 <!-- playing:end -->
 <a name='for-fun'></a>
@@ -29,18 +28,16 @@ update: 2018-06-07
 ## :heart_eyes: For Funsies
 <!-- <a href="javascript: randomGame('for-fun')" id="for-fun-link" title="Random selection" alt="Random selection">:game_die:</a>-->
 
-1. Persona 5 (PS4)
-   - New Game+
-1. LEGO Marvel Super Heroes 2 (PS4) [25hr est]
-   - Wrapping up quests for Gwenpool
-1. Earthbound (SNES Classic) [34hr est]
-   - Over 20 years later and it still holds up.
+1. Dark Souls III (PS4) [Naked Dagger Challenge Runs](/naked-dagger/)
+   - One last battle to master: Soul of Cinder :fire:
+1. Final Fantasy I (PSOne on PS3)
+1. Final Fantasy Tactics (PSOne on PS3)
+1. Gran Turismo SPORT (PS4)
+1. LEGO Star Wars: The Force Awakens (PS4) [30hr est]
 1. Slay the Spire - Early Access (PC)
    - This game should come with an addiction warning label. 
-1. Dark Souls III & DLCs (DLC) (PS4) [Naked Dagger Challenge Runs](/naked-dagger/)
-   - One last battle to master: Soul of Cinder :fire:
-1. Disgaea 5: Complete Edition (Switch)
 1. Sonic Mania (Switch) [7hr est]
+1. Splatoon 2 (Switch)
 
 <!-- for-fun:end -->
 <a name='awaiting-content'></a>
@@ -48,8 +45,7 @@ update: 2018-06-07
 
 ## :calendar: Awaiting Content
 
-1. Hitman (PS4)
-  - Waiting on Season 2
+_TBD_
 
 <!-- awaiting-content:end -->
 <a name='undecided'>
@@ -64,9 +60,12 @@ update: 2018-06-07
 1. Assassin's Creed: Syndicate (PS4) [40.5hr est]
 1. Battle Chef Brigade (Switch)
 1. Bayonetta 2 (Switch) [11hr est]
+1. Beyond: Two Souls<sup>tm</sup> (PS4) :banana:
 1. DiRT 4 (PS4) [52hr+ est]
 1. Disgaea 3 (Vita)
 1. Disgaea 4 (Vita)
+1. Floor Kids (Switch)
+1. Grand Theft Auto V (PS4)
 1. Gravity Rush 2 (PS4) [34hr est]
 1. Horizon: Zero Dawn DLC (PS4) [10hr est]
 1. LEGO Batman 3: Beyond Gotham (PS4) [36hr est]
@@ -74,8 +73,15 @@ update: 2018-06-07
 1. Life is Strange: Before the Storm - Episode 2: Brave New World (PS4) [4hr est]
 1. Life is Strange: Before the Storm - Episode 3: Hell is Empty (PS4) [3.5hr est]
 1. Life is Strange: Before the Storm - Bonus Episode: Farewell (PS4) [1.5hr est]
+1. Mad Max (PS4) :banana:
+1. Rayman Legends (PS4) :banana:
 1. Titanfall 2 (PS4) [6.5hr est]
+1. Trackmania Turbo (PS4) :banana:
+1. Trials Fusion (PS4) :banana:
 1. Uncharted: The Lost Legacy (PS4) [8hr est]
+1. West of Loathing (Switch)
+1. XCOM 2 (PS4) :banana:
+1. YAKUZA KIWAMI (PS4)
 
 <!-- unplayed:end -->
 
@@ -84,6 +90,8 @@ update: 2018-06-07
 
 ## :repeat: Revisiting the SNES Classics
 
+1. Earthbound (SNES Classic) [34hr est]
+   - Over 20 years later and it still holds up.
 1. Legend of Zelda: A Link to the Past
 1. Mega Man X
 1. Secret of Mana
@@ -129,12 +137,16 @@ update: 2018-06-07
    - Great sense of humor.
    - Stan Lee really needs to stop getting into sticky situations.
    - Solid A game.
+   - Still to wrap up quests for Gwenpool
 1. Far Cry 5 (PS4)
    - I enjoyed the world.
    - The story felt like it needed better pacing.
    - Being chased by "cutscene bullets" is not my idea of good way to "push the story forward".
    - Fun, yes. Likely to end up on my GotY list? No.
-1. Yoku's Island Express
+1. Wizard of Legend (Switch)
+   - Fun but needs balancing.
+   - Was hoping to like it more.
+1. Yoku's Island Express (Switch)
    - OMGosh :sparkling_heart:
 
 <!-- beaten:end -->
@@ -155,13 +167,15 @@ update: 2018-06-07
 
 See the [New Releases Wiki][new-releases]
 
-1. Burnout Paradise: Remastered (PS4) - $20 max
+1. Burnout Paradise: Remastered (PS4) - $20 Max
+1. Captain Spirit (PS4) - Day One
+   - June 26 @ FREE digitally
 1. Dead Cells (PS4 / Switch) - Wait and See
-1. Detroit: Become Human (PS4) - Wait and See
+1. Detroit: Become Human (PS4) - $30 Max
 1. Hitman 2 (PS4) - Day One
    - November 2018
 1. Mega Man 11 (Switch) - Wait and See
-1. Night in the Woods (Switch) - Wait for a sale
+1. Night in the Woods (Switch) - $10 Max
 1. Octopath Traveler (Switch) - Day One [pre-ordered]
    * July 13th @ $17 after credit
 1. Red Dead Redemption 2 (PS4) - Wait and See
@@ -186,7 +200,7 @@ See the [Games in Development Wiki][games-in-development]
 
 1. Bayonetta 3 (Switch)
 1. Beyond Good and Evil 2 (PS4)
-1. Cyberpunk 2077 (PS4)
+1. Cyberpunk 2077 (PS4) - Day One
 1. Death Stranding (PS4)
 1. Metroid Prime 4 (Switch)
 1. Resident Evil 2 Remake (PS4)
