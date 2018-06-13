@@ -9,6 +9,7 @@ I'm currently living in Franklin, OH working remote for [CoverMyMeds](http://cov
 
 ## :space_invader: Playing
 
+* _The Last of Us Remastered_ on PS4.
 * _Dark Souls Remastered_ on PS4.
 * _Hyrule Warriers: Definitive Edition_ on Switch.
 * _Splatoon 2_ on Switch.

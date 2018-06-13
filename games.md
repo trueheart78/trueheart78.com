@@ -14,30 +14,36 @@ update: 2018-06-11
 
 ## :video_game: Playing
 
+#### :eyes: Focused
+
+1. The Last of Us Remastered (PS4) [16.5hr est]
+
+#### :traffic_light: Started and Need to Finish
+
 1. Bayonetta (Switch) [12.5hr est]
-1. Dark Souls <sup>tm</sup>: Remastered (PS4)
-1. Disgaea 5: Complete Edition (Switch)
-1. Hyrule Warriers: Definitive Edition (Switch)
+1. Dark Souls <sup>tm</sup>: Remastered (PS4) [33.5hr est]
+1. Disgaea 5: Complete Edition (Switch) [67hr est]
+1. Hyrule Warriers: Definitive Edition (Switch) [31hr est]
 1. Mario + Rabbids: Kingdom Battle (Switch) [28hr est]
-1. YAKUZA 0 (PS4)
+1. YAKUZA 0 (PS4) [57hr est]
 
 <!-- playing:end -->
 <a name='for-fun'></a>
 <!-- for-fun:start -->
 
 ## :heart_eyes: For Funsies
-<!-- <a href="javascript: randomGame('for-fun')" id="for-fun-link" title="Random selection" alt="Random selection">:game_die:</a>-->
+<!-- <a href="javascript: randomGame('for-fun')" id="for-fun-link" title="Random selection" alt="Random selection">:dart:</a>-->
 
 1. Dark Souls III (PS4) [Naked Dagger Challenge Runs](/naked-dagger/)
    - One last battle to master: Soul of Cinder :fire:
 1. Final Fantasy I (PSOne on PS3)
-1. Final Fantasy Tactics (PSOne on PS3)
+1. Final Fantasy Tactics (PSOne on PS3) [54hr est]
 1. Gran Turismo SPORT (PS4)
 1. LEGO Star Wars: The Force Awakens (PS4) [30hr est]
 1. Slay the Spire - Early Access (PC)
    - This game should come with an addiction warning label. 
 1. Sonic Mania (Switch) [7hr est]
-1. Splatoon 2 (Switch)
+1. Splatoon 2 (Switch) [10.5hr est]
 
 <!-- for-fun:end -->
 <a name='awaiting-content'></a>
@@ -55,17 +61,17 @@ _TBD_
 <a name='unplayed'></a>
 <!-- unplayed:start -->
 
-## :space_invader: Unplayed -- <a href="javascript: randomGame('unplayed')" id="unplayed-link">Randomly Pick One</a>
+## :space_invader: Unplayed -- <a href="javascript: randomGame('unplayed')" id="unplayed-link">:dart:</a>
 
 1. Assassin's Creed: Syndicate (PS4) [40.5hr est]
-1. Battle Chef Brigade (Switch)
+1. Battle Chef Brigade (Switch) [9.5hr est]
 1. Bayonetta 2 (Switch) [11hr est]
-1. Beyond: Two Souls<sup>tm</sup> (PS4) :banana:
+1. Beyond: Two Souls<sup>tm</sup> (PS4) [17hr est] :banana:
 1. DiRT 4 (PS4) [52hr+ est]
-1. Disgaea 3 (Vita)
-1. Disgaea 4 (Vita)
-1. Floor Kids (Switch)
-1. Grand Theft Auto V (PS4)
+1. Disgaea 3 (Vita) [81hr est]
+1. Disgaea 4 (Vita) [68hr est]
+1. Floor Kids (Switch) [3.5hr est]
+1. Grand Theft Auto V (PS4) [43hr est]
 1. Gravity Rush 2 (PS4) [34hr est]
 1. Horizon: Zero Dawn DLC (PS4) [10hr est]
 1. LEGO Batman 3: Beyond Gotham (PS4) [36hr est]
@@ -73,15 +79,16 @@ _TBD_
 1. Life is Strange: Before the Storm - Episode 2: Brave New World (PS4) [4hr est]
 1. Life is Strange: Before the Storm - Episode 3: Hell is Empty (PS4) [3.5hr est]
 1. Life is Strange: Before the Storm - Bonus Episode: Farewell (PS4) [1.5hr est]
-1. Mad Max (PS4) :banana:
-1. Rayman Legends (PS4) :banana:
+1. Mad Max (PS4) [37.5hr est] :banana:
+1. Rayman Legends (PS4) [14hr est] :banana:
 1. Titanfall 2 (PS4) [6.5hr est]
+1. The Last of Us: Left Behind (PS4) [2.5hr est]
 1. Trackmania Turbo (PS4) :banana:
-1. Trials Fusion (PS4) :banana:
+1. Trials Fusion (PS4) [11hr est] :banana:
 1. Uncharted: The Lost Legacy (PS4) [8hr est]
-1. West of Loathing (Switch)
-1. XCOM 2 (PS4) :banana:
-1. YAKUZA KIWAMI (PS4)
+1. West of Loathing (Switch) [11.4hr est]
+1. XCOM 2 (PS4) [90hr est] :banana:
+1. YAKUZA KIWAMI (PS4) [29.5hr est]
 
 <!-- unplayed:end -->
 
