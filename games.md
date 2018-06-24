@@ -6,7 +6,7 @@ customnav: games_nav.html
 customjs:
 - random_game.js
 - random_name.js
-update: 2018-06-13
+update: 2018-06-24
 ---
 
 <a name='currently-playing'></a>
@@ -16,7 +16,7 @@ update: 2018-06-13
 
 #### :eyes: Focused
 
-1. The Last of Us Remastered (PS4) [16.5hr est]
+1. Detroit: Become Human (PS4)
 
 #### :traffic_light: Started and Need to Finish
 
@@ -73,6 +73,7 @@ _TBD_
 1. Floor Kids (Switch) [3.5hr est]
 1. Grand Theft Auto V (PS4) [43hr est]
 1. Gravity Rush 2 (PS4) [34hr est]
+1. Heavy Rain (PS4)
 1. Horizon: Zero Dawn DLC (PS4) [10hr est]
 1. LEGO Batman 3: Beyond Gotham (PS4) [36hr est]
 1. LEGO Movie Videogame (PS4) [17hr est]
@@ -155,6 +156,10 @@ _TBD_
    - Was hoping to like it more.
 1. Yoku's Island Express (Switch)
    - OMGosh :sparkling_heart:
+1. The Last of Us Remastered + DLC (PS4) [16.5hr est]
+   - Amazing game
+   - Right in the feels, oh so very often. 
+   - Ellie :sparkling_heart:
 
 <!-- beaten:end -->
 <a name='jettisoned'></a>
