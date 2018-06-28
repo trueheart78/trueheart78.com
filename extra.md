@@ -5,6 +5,7 @@ permalink: /extra/
 update: 2018-06-28
 ---
 
+- [About](/about)
 - [Audio Books](/audio-books)
 - [Books](/books)
 - [Character Names](/character-names)
@@ -17,7 +18,7 @@ update: 2018-06-28
 - [Naked Dagger Walkthrough for Dark Souls 3](/naked-dagger-walkthrough-dark-souls-3)
 - [Naked Dagger](/naked-dagger)
 - [Now](/now)
-- [Personalysis](/personalysis)
+- [Personalysis Briefing](/personalysis)
 - [Photon Alive](/photon-alive)
 - [Picks](/picks)
 - [Quotes](/quotes)
