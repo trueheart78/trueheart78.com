@@ -1,6 +1,6 @@
 ---
 layout: page
-title: quotes
+title: Quotes
 permalink: /quotes/
 update: 2017-11-27
 ---
