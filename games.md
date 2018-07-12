@@ -6,7 +6,7 @@ customnav: games_nav.html
 customjs:
 - random_game.js
 - random_name.js
-update: 2018-06-24
+update: 2018-07-12
 ---
 
 <a name='currently-playing'></a>
@@ -16,6 +16,7 @@ update: 2018-06-24
 
 #### :eyes: Focused
 
+1. Octopath Traveler (Switch)
 1. Detroit: Become Human (PS4)
 
 #### :traffic_light: Started and Need to Finish
@@ -25,7 +26,6 @@ update: 2018-06-24
 1. Disgaea 5: Complete Edition (Switch) [67hr est]
 1. Hyrule Warriers: Definitive Edition (Switch) [31hr est]
 1. Mario + Rabbids: Kingdom Battle (Switch) [28hr est]
-1. YAKUZA 0 (PS4) [57hr est]
 
 <!-- playing:end -->
 <a name='for-fun'></a>
@@ -83,7 +83,6 @@ _TBD_
 1. Mad Max (PS4) [37.5hr est] :banana:
 1. Rayman Legends (PS4) [14hr est] :banana:
 1. Titanfall 2 (PS4) [6.5hr est]
-1. The Last of Us: Left Behind (PS4) [2.5hr est]
 1. Trackmania Turbo (PS4) :banana:
 1. Trials Fusion (PS4) [11hr est] :banana:
 1. Uncharted: The Lost Legacy (PS4) [8hr est]
@@ -156,10 +155,16 @@ _TBD_
    - Was hoping to like it more.
 1. Yoku's Island Express (Switch)
    - OMGosh :sparkling_heart:
-1. The Last of Us Remastered + DLC (PS4) [16.5hr est]
+1. The Last of Us Remastered + Left Behind DLC (PS4) [16.5hr est]
    - Amazing game
    - Right in the feels, oh so very often. 
    - Ellie :sparkling_heart:
+1. YAKUZA 0 (PS4) [57hr est]
+   - Took time to get into, wasn't sure what to expect.
+   - Had trouble staying with it until about chapter 8 or 9.
+   - Finally got hooked and beelined the story.
+   - It went from "I'm not sure..." to "Ok, I'll get back to it later..." to "Just one more chapter"
+   - Started as a C+ and ended as an A+.
 
 <!-- beaten:end -->
 <a name='jettisoned'></a>

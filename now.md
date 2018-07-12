@@ -2,14 +2,20 @@
 layout: page
 title: Now
 permalink: /now/
-update: 2018-06-13
+update: 2018-07-12
 ---
 
 I'm currently living in Franklin, OH working remote for [CoverMyMeds](http://covermymeds.com) as a software developer.
 
 ## :space_invader: Playing
 
-* _The Last of Us Remastered_ on PS4.
+#### :eyes: Focused
+
+* _Octopath Traveler_ on Switch.
+* _Detroit: Become Human_ on PS4.
+
+#### :traffic_light: Started and Need to Finish
+
 * _Dark Souls Remastered_ on PS4.
 * _Hyrule Warriers: Definitive Edition_ on Switch.
 * _Splatoon 2_ on Switch.
@@ -23,14 +29,12 @@ I'm currently living in Franklin, OH working remote for [CoverMyMeds](http://cov
 * Unbeatable Squirrel Girl 🐿️ 
   + [Twitter](https://twitter.com/unbeatablesg)
   + [Tumblr](https://unbeatablesquirrelgirl.tumblr.com/)
-* Gwenpool
-  + Re-reading this series because it was so good! :sparkling_heart:
+* She-Hulk
 * The Mighty Thor
 
 ## :books: Learning
 
 * Go
-   * [Distributed Computing with Go](https://github.com/trueheart78/book-notes/blob/master/distributed-computing-with-go/README.md)
    * [Go Systems Programming](https://github.com/trueheart78/book-notes/blob/master/go-systems-programming/README.md)
    * [Get Programming with Go](https://github.com/trueheart78/book-notes/blob/master/get-programming-with-go/README.md) 
 * Rails
@@ -51,7 +55,12 @@ I'm currently living in Franklin, OH working remote for [CoverMyMeds](http://cov
 
 ## :scroll: History for 2018
 
-* Read _Patsy Walker aka Hellcat (2015)_.
+* Played _Yakuza 0_ on PS4.
+* Played _The Last of Us + Left Behind DLC_ on PS4.
+* Read [Distributed Computing with Go](https://github.com/trueheart78/book-notes/blob/master/distributed-computing-with-go/README.md)
+* Played _Far Cry 5_ on PS4.
+* Read _Gwenpool_ from Marvel. :sparkling_heart:
+* Read _Patsy Walker aka Hellcat (2015)_ from Marvel.
 * Jettisoned _Divinity: Original Sin_ on PS4.
 * Played _Far Cry 5_ on PS4.
 * Played _LEGO Marvel Super Heroes 2_ on PS4.
