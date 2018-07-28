@@ -6,7 +6,7 @@ customnav: games_nav.html
 customjs:
 - random_game.js
 - random_name.js
-update: 2018-07-12
+update: 2018-07-28
 ---
 
 <a name='currently-playing'></a>
@@ -16,8 +16,10 @@ update: 2018-07-12
 
 #### :eyes: Focused
 
-1. Octopath Traveler (Switch)
-1. Detroit: Become Human (PS4)
+1. Octopath Traveler (Switch) [77hr est]
+   - Will likely spend a lot of time, but not as a completionist.
+1. Detroit: Become Human (PS4) [11 to 26hr est]
+   - I expect to be playing this story at least twice.
 
 #### :traffic_light: Started and Need to Finish
 
