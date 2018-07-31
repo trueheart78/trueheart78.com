@@ -2,7 +2,7 @@
 layout: page
 title: Now
 permalink: /now/
-update: 2018-07-12
+update: 2018-07-31
 ---
 
 I'm currently living in Franklin, OH working remote for [CoverMyMeds](http://covermymeds.com) as a software developer.
@@ -35,6 +35,7 @@ I'm currently living in Franklin, OH working remote for [CoverMyMeds](http://cov
 ## :books: Learning
 
 * Go
+   * [The Go programming Language](http://www.gopl.io/)
    * [Go Systems Programming](https://github.com/trueheart78/book-notes/blob/master/go-systems-programming/README.md)
    * [Get Programming with Go](https://github.com/trueheart78/book-notes/blob/master/get-programming-with-go/README.md) 
 * Rails
@@ -55,6 +56,7 @@ I'm currently living in Franklin, OH working remote for [CoverMyMeds](http://cov
 
 ## :scroll: History for 2018
 
+* Played _Moonlighter_ PS4.
 * Played _Yakuza 0_ on PS4.
 * Played _The Last of Us + Left Behind DLC_ on PS4.
 * Read [Distributed Computing with Go](https://github.com/trueheart78/book-notes/blob/master/distributed-computing-with-go/README.md)

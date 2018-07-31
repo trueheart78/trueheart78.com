@@ -6,7 +6,7 @@ customnav: games_nav.html
 customjs:
 - random_game.js
 - random_name.js
-update: 2018-07-28
+update: 2018-07-31
 ---
 
 <a name='currently-playing'></a>
@@ -167,6 +167,11 @@ _TBD_
    - Finally got hooked and beelined the story.
    - It went from "I'm not sure..." to "Ok, I'll get back to it later..." to "Just one more chapter"
    - Started as a C+ and ended as an A+.
+1. Moonlighter (PS4)
+   - Loved the art style and game design
+   - Eventually wrought with bugs
+   - Restarted 2 times because of bugs
+   - Started as an A and finished as a D
 
 <!-- beaten:end -->
 <a name='jettisoned'></a>
