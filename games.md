@@ -6,7 +6,7 @@ customnav: games_nav.html
 customjs:
 - random_game.js
 - random_name.js
-update: 2018-07-31
+update: 2018-08-20
 ---
 
 <a name='currently-playing'></a>
@@ -17,16 +17,16 @@ update: 2018-07-31
 #### :eyes: Focused
 
 1. Octopath Traveler (Switch) [77hr est]
-   - Will likely spend a lot of time, but not as a completionist.
+   * Will likely spend a lot of time, but not as a completionist.
 1. Detroit: Become Human (PS4) [11 to 26hr est]
-   - I expect to be playing this story at least twice.
+   * I expect to be playing this story at least twice.
 
 #### :traffic_light: Started and Need to Finish
 
 1. Bayonetta (Switch) [12.5hr est]
 1. Dark Souls <sup>tm</sup>: Remastered (PS4) [33.5hr est]
 1. Disgaea 5: Complete Edition (Switch) [67hr est]
-1. Hyrule Warriers: Definitive Edition (Switch) [31hr est]
+1. Hyrule Warriors: Definitive Edition (Switch) [31hr est]
 1. Mario + Rabbids: Kingdom Battle (Switch) [28hr est]
 
 <!-- playing:end -->
@@ -36,14 +36,13 @@ update: 2018-07-31
 ## :heart_eyes: For Funsies
 <!-- <a href="javascript: randomGame('for-fun')" id="for-fun-link" title="Random selection" alt="Random selection">:dart:</a>-->
 
-1. Dark Souls III (PS4) [Naked Dagger Challenge Runs](/naked-dagger/)
-   - One last battle to master: Soul of Cinder :fire:
-1. Final Fantasy I (PSOne on PS3)
+1. Dead Cells (PS4/Switch)
+1. Final Fantasy I (PSOne on PS3) [17.5hr est]
 1. Final Fantasy Tactics (PSOne on PS3) [54hr est]
 1. Gran Turismo SPORT (PS4)
 1. LEGO Star Wars: The Force Awakens (PS4) [30hr est]
 1. Slay the Spire - Early Access (PC)
-   - This game should come with an addiction warning label. 
+   * This game should come with an addiction warning label. 
 1. Sonic Mania (Switch) [7hr est]
 1. Splatoon 2 (Switch) [10.5hr est]
 
@@ -65,42 +64,50 @@ _TBD_
 
 ## :space_invader: Unplayed -- <a href="javascript: randomGame('unplayed')" id="unplayed-link">:dart:</a>
 
-1. Assassin's Creed: Syndicate (PS4) [40.5hr est]
 1. Battle Chef Brigade (Switch) [9.5hr est]
 1. Bayonetta 2 (Switch) [11hr est]
-1. Beyond: Two Souls<sup>tm</sup> (PS4) [17hr est] :banana:
 1. DiRT 4 (PS4) [52hr+ est]
 1. Disgaea 3 (Vita) [81hr est]
 1. Disgaea 4 (Vita) [68hr est]
 1. Floor Kids (Switch) [3.5hr est]
 1. Grand Theft Auto V (PS4) [43hr est]
 1. Gravity Rush 2 (PS4) [34hr est]
-1. Heavy Rain (PS4)
+1. Heavy Rain (PS4) [10hr est]
 1. Horizon: Zero Dawn DLC (PS4) [10hr est]
 1. LEGO Batman 3: Beyond Gotham (PS4) [36hr est]
 1. LEGO Movie Videogame (PS4) [17hr est]
 1. Life is Strange: Before the Storm - Episode 2: Brave New World (PS4) [4hr est]
 1. Life is Strange: Before the Storm - Episode 3: Hell is Empty (PS4) [3.5hr est]
 1. Life is Strange: Before the Storm - Bonus Episode: Farewell (PS4) [1.5hr est]
-1. Mad Max (PS4) [37.5hr est] :banana:
-1. Rayman Legends (PS4) [14hr est] :banana:
-1. Titanfall 2 (PS4) [6.5hr est]
-1. Trackmania Turbo (PS4) :banana:
-1. Trials Fusion (PS4) [11hr est] :banana:
+1. Mario + Rabbids: Kingdom Battle - Donkey Kong Adventure DLC (Switch) [9hr est]
 1. Uncharted: The Lost Legacy (PS4) [8hr est]
 1. West of Loathing (Switch) [11.4hr est]
-1. XCOM 2 (PS4) [90hr est] :banana:
 1. YAKUZA KIWAMI (PS4) [29.5hr est]
 
 <!-- unplayed:end -->
 
+<a name='unplayed-freebies'>
+<!-- unplayed-freebies:start -->
+
+## :banana: Unplayed PS+ Freebies
+
+1. Beyond: Two Souls<sup>tm</sup> (PS4) [17hr est] :banana:
+1. Mad Max (PS4) [37.5hr est] :banana:
+1. Mafia III (PS4) [21.5hr est] :banana:
+1. Rayman Legends (PS4) [14hr est] :banana:
+1. Trackmania Turbo (PS4) :banana:
+1. Trials Fusion (PS4) [11hr est] :banana:
+1. XCOM 2 (PS4) [90hr est] :banana:
+
+<!-- unplayed-freebies:end -->
+
 <a name='revisited'></a>
 <!-- revisited:start -->
 
-## :repeat: Revisiting the SNES Classics
+## :repeat: Revisiting the SNES and NES Classics
 
 1. Earthbound (SNES Classic) [34hr est]
-   - Over 20 years later and it still holds up.
+   * Over 20 years later and it still holds up.
 1. Legend of Zelda: A Link to the Past
 1. Mega Man X
 1. Secret of Mana
@@ -114,64 +121,69 @@ _TBD_
 ## :checkered_flag: Beaten
 
 1. VA-11 HALL-A: Cyberpunk Bartender Action (Vita)
-   - Quite enjoyed this visual novel.
-   - Solid A.
+   * Quite enjoyed this visual novel.
+   * Solid A.
 1. Legend of Zelda: Breath of the Wild - Champion’s Ballad DLC (DLC) (Switch)
-   - Final boss was easily the hardest.
-   - Completed on Master Mode.
-   - 245+ hours.
+   * Final boss was easily the hardest.
+   * Completed on Master Mode.
+   * Still enamored with the total boss of the new Zelda :sparkling_heart:
+   * 245+ hours.
 1. Wolfenstein 2: The New Colossus (PS4)
-   - Those cutscenes. :boom:
+   * Those cutscenes. :boom:
 1. Blaster Master Zero (Switch)
-   - Fun nostalga trip.
+   * Fun nostalga trip.
 1. Darkside Detective (Switch)
-   - Great adventure game with wonderful humor. 
-   - Definitely an A-grade game.
+   * Great adventure game with wonderful humor. 
+   * Definitely an A-grade game.
 1. Xeodrifter (Switch)
-   - Fun, if not a bit confusing.
-   - Used a walkthrough. 
-   - Enjoyed the game a lot.
-   - Grade: C+
+   * Fun, if not a bit confusing.
+   * Used a walkthrough. 
+   * Enjoyed the game a lot.
+   * Grade: C+
 1. Gravity Rush - Remastered (PS4)
-   - Quite fun.
-   - Beat the DLC with it. 
-   - Story was unique. 
-   - At the end, felt like a B+.
+   * Quite fun.
+   * Beat the DLC with it. 
+   * Story was unique. 
+   * At the end, felt like a B+.
 1. Assassin's Creed: Origins (PS4)
-   - Best story in an AC game yet
-   - Aya :sparkling_heart:
-   - Solid A+ game. 
+   * Best story in an AC game yet
+   * Aya :sparkling_heart:
+   * Solid A+ game. 
 1. LEGO Marvel Super Heroes 2 (PS4) [25hr est]
-   - So glad to see Squirrel Girl and Gwenpool :sparkling_heart:
-   - Great sense of humor.
-   - Stan Lee really needs to stop getting into sticky situations.
-   - Solid A game.
-   - Still to wrap up quests for Gwenpool
+   * So glad to see Squirrel Girl and Gwenpool :sparkling_heart:
+   * Great sense of humor.
+   * Stan Lee really needs to stop getting into sticky situations.
+   * Solid A game.
+   * Still to wrap up quests for Gwenpool
 1. Far Cry 5 (PS4)
-   - I enjoyed the world.
-   - The story felt like it needed better pacing.
-   - Being chased by "cutscene bullets" is not my idea of good way to "push the story forward".
-   - Fun, yes. Likely to end up on my GotY list? No.
+   * I enjoyed the world.
+   * The story felt like it needed better pacing.
+   * Being chased by "cutscene bullets" is not my idea of good way to "push the story forward".
+   * Fun, yes. Likely to end up on my GotY list? No.
 1. Wizard of Legend (Switch)
-   - Fun but needs balancing.
-   - Was hoping to like it more.
+   * Fun but needs balancing.
+   * Was hoping to like it more.
 1. Yoku's Island Express (Switch)
-   - OMGosh :sparkling_heart:
+   * OMGosh :sparkling_heart:
 1. The Last of Us Remastered + Left Behind DLC (PS4) [16.5hr est]
-   - Amazing game
-   - Right in the feels, oh so very often. 
-   - Ellie :sparkling_heart:
+   * Amazing game
+   * Right in the feels, oh so very often. 
+   * Ellie :sparkling_heart:
 1. YAKUZA 0 (PS4) [57hr est]
-   - Took time to get into, wasn't sure what to expect.
-   - Had trouble staying with it until about chapter 8 or 9.
-   - Finally got hooked and beelined the story.
-   - It went from "I'm not sure..." to "Ok, I'll get back to it later..." to "Just one more chapter"
-   - Started as a C+ and ended as an A+.
+   * Took time to get into, wasn't sure what to expect.
+   * Had trouble staying with it until about chapter 8 or 9.
+   * Finally got hooked and beelined the story.
+   * It went from "I'm not sure..." to "Ok, I'll get back to it later..." to "Just one more chapter"
+   * Started as a C+ and ended as an A+.
 1. Moonlighter (PS4)
-   - Loved the art style and game design
-   - Eventually wrought with bugs
-   - Restarted 2 times because of bugs
-   - Started as an A and finished as a D
+   * Loved the art style and game design
+   * Eventually wrought with bugs
+   * Restarted 2 times because of bugs
+   * Started as an A and finished as a D
+1. Dead Cells (PS4/Switch)
+   * Great game that I've had to wean myself off as their are others to play.
+   * Will continue to play leisurely.
+   * Solid B+
 
 <!-- beaten:end -->
 <a name='jettisoned'></a>
@@ -180,8 +192,15 @@ _TBD_
 ## :rocket: Jettisoned
 
 1. Divinity: Original Sin (PS4)
-   - It's a good game, not a great game.
-   - In the time it will take me to play through, I could play 2+ great games.
+   * It's a good game, not a great game.
+   * In the time it will take me to play through, I could play 2+ great games.
+1. Dark Souls III (PS4) [Naked Dagger Challenge Runs](/naked-dagger/)
+   * One last battle to master: Soul of Cinder :fire:
+   * I may come back one day...
+1. Titanfall 2 (PS4) [6.5hr est]
+   * I'm literally never going to get to this.
+1. Assassin's Creed: Syndicate (PS4) [40.5hr est]
+   * With Origins being awesome and Odyssey around the corner, it's time to let it go.
  
 <!-- jettisoned:end -->
 <a name='planned-purchases'></a>
@@ -191,30 +210,43 @@ _TBD_
 
 See the [New Releases Wiki][new-releases]
 
-1. Burnout Paradise: Remastered (PS4) - $20 Max
-1. Captain Spirit (PS4) - Day One
-   - June 26 @ FREE digitally
-1. Dead Cells (PS4 / Switch) - Wait and See
-1. Detroit: Become Human (PS4) - $30 Max
+1. Assassin's Creed Odyssey (PS4) - Day One
+   * October 5th @ $26.38 after credit
+1. Donut County - Day One
+   * August 28th @ $10 after discount
 1. Hitman 2 (PS4) - Day One
-   - November 2018
+   * November 13th
+1. Life Is Strange 2 - Episode 1 (PS4) - Day One
+   * September 27th
 1. Mega Man 11 (Switch) - Wait and See
-1. Night in the Woods (Switch) - $10 Max
-1. Octopath Traveler (Switch) - Day One [pre-ordered]
-   * July 13th @ $17 after credit
+   * October 2nd
+1. Persona 5: Dancing in Starlight (PS4/Vita) - Wait and See
+   * December 4th
 1. Red Dead Redemption 2 (PS4) - Wait and See
+   * October 26th
+1. Shadow of the Tomb Raider (PS4) - Day One
+   * September 14th @ 47.99 (20% discount for Prime)
 1. Spider-Man (PS4) - Wait and See
-1. The Escapists 2 (Switch) - Wait for a sale
+   * September 7th
+1. ~~The Escapists 2 (Switch) - Wait for a sale~~ [skipped]
 1. ~~Bayonetta 2 (Switch) - Wait and See~~ [pre-ordered]
    * February 16th @ $47.99 (20% discount for Prime)
+1. ~~Burnout Paradise: Remastered (PS4) - $20 Max~~ [skipped]
+1. ~~Captain Spirit (PS4) - Day One~~ [purchased]
+   * June 26 @ FREE digitally
 1. ~~Darkside Detective (Switch) - Day One~~ [purchased]
    * February 13th @ $14.99 digitally
 1. ~~Dark Souls Remastered (PS4) - Day One~~ [pre-ordered]
    * May 25th @ $39.99 digitally
+1. ~~Dead Cells (PS4 / Switch) - Wait and See~~ [pre-ordered]
+1. ~~Detroit: Become Human (PS4) - $30 Max~~ [purchased]
 1. ~~Far Cry 5 (PS4) - Day One~~ [pre-ordered]
    * March 27th @ $47.99 (20% discount for Prime)
 1. ~~Hyrule Warriers: Definitive Edition - Day One~~ [pre-ordered]
    * May 18th @ $4.00 after credit
+1. ~~Night in the Woods (Switch) - $10 Max~~ [skipped]
+1. ~~Octopath Traveler (Switch) - Day One [pre-ordered]~~
+   * July 13th @ $17 after credit
 1. ~~Secret of Mana (Vita) - Wait and See~~ [skipped]
 
 
