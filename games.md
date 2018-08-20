@@ -24,56 +24,31 @@ update: 2018-08-20
 #### :traffic_light: Started and Need to Finish
 
 1. Bayonetta (Switch) [12.5hr est] <!-- mc:84 -->
-1. Dark Souls <sup>tm</sup>: Remastered (PS4) [33.5hr est] <!-- mc:85 -->
 1. Disgaea 5: Complete Edition (Switch) [67hr est] <!-- mc:81 -->
 1. Hyrule Warriors: Definitive Edition (Switch) [31hr est] <!-- mc:78 -->
 1. Mario + Rabbids: Kingdom Battle (Switch) [28hr est] <!-- mc:85 -->
 
 <!-- playing:end -->
-<a name='for-fun'></a>
-<!-- for-fun:start -->
-
-## :heart_eyes: For Funsies
-<!-- <a href="javascript: randomGame('for-fun')" id="for-fun-link" title="Random selection" alt="Random selection">:dart:</a>-->
-
-1. Final Fantasy I (PSOne on PS3) [17.5hr est] <!-- mc:79 -->
-1. Final Fantasy Tactics (PSOne on PS3) [54hr est] <!-- mc:83 -->
-1. Gran Turismo SPORT (PS4) <!-- mc:75 -->
-1. LEGO Star Wars: The Force Awakens (PS4) [30hr est] <!-- mc:78 -->
-1. Slay the Spire - Early Access (PC)
-   * This game should come with an addiction warning label. 
-1. Sonic Mania (Switch) [7hr est] <!-- mc:86 -->
-1. Splatoon 2 (Switch) [10.5hr est] <!-- mc:83 -->
-
-<!-- for-fun:end -->
-<a name='awaiting-content'></a>
-<!-- awaiting-content:start -->
-
-## :calendar: Awaiting Content
-
-_TBD_
-
-<!-- awaiting-content:end -->
-<a name='undecided'>
-<!-- undecided:start -->
-
-<!-- undecided:end -->
 <a name='unplayed'></a>
 <!-- unplayed:start -->
 
 ## :space_invader: Unplayed -- <a href="javascript: randomGame('unplayed')" id="unplayed-link">:dart:</a>
 
+:bangbang: Max of 3 flagged games to play next :bangbang:
+
 1. Battle Chef Brigade (Switch) [9.5hr est] <!-- mc:81 -->
 1. Bayonetta 2 (Switch) [11hr est] <!-- mc:92 -->
+1. Dark Souls <sup>tm</sup>: Remastered (PS4) [33.5hr est] <!-- mc:85 -->
 1. DiRT 4 (PS4) [52hr+ est] <!-- mc:85 -->
 1. Floor Kids (Switch) [3.5hr est] <!-- mc:76 -->
-1. Grand Theft Auto V (PS4) [43hr est] <!-- mc:97 -->
+1. God of War (2018) (PS4) [19.5hr est] <!-- mc:94 --> :star:
+1. Grand Theft Auto V (PS4) [43hr est] <!-- mc:97 --> :star:
 1. Gravity Rush 2 (PS4) [34hr est] <!-- mc:80 -->
 1. Heavy Rain (PS4) [10hr est] <!-- mc:78-87 -->
 1. Horizon: Zero Dawn DLC (PS4) [10hr est] <!-- mc:83 -->
 1. LEGO Batman 3: Beyond Gotham (PS4) [36hr est] <!-- mc:73 -->
 1. LEGO Movie Videogame (PS4) [17hr est] <!-- mc:71 -->
-1. Life is Strange: Before the Storm - Episode 2: Brave New World (PS4) [4hr est] <!-- mc:79 -->
+1. Life is Strange: Before the Storm - Episode 2: Brave New World (PS4) [4hr est] <!-- mc:79 --> :star:
 1. Life is Strange: Before the Storm - Episode 3: Hell is Empty (PS4) [3.5hr est] <!-- mc:77 -->
 1. Life is Strange: Before the Storm - Bonus Episode: Farewell (PS4) [1.5hr est] <!-- mc:80 -->
 1. Mario + Rabbids: Kingdom Battle - Donkey Kong Adventure DLC (Switch) [9hr est] <!-- mc:82 -->
@@ -97,6 +72,37 @@ _TBD_
 1. XCOM 2 (PS4) [90hr est] <!-- mc:87 --> :banana:
 
 <!-- unplayed-freebies:end -->
+
+<a name='for-fun'></a>
+<!-- for-fun:start -->
+
+## :heart_eyes: For Funsies
+<!-- <a href="javascript: randomGame('for-fun')" id="for-fun-link" title="Random selection" alt="Random selection">:dart:</a>-->
+
+1. Final Fantasy I (PSOne on PS3) [17.5hr est] <!-- mc:79 -->
+1. Final Fantasy Tactics (PSOne on PS3) [54hr est] <!-- mc:83 -->
+1. Gran Turismo SPORT (PS4) <!-- mc:75 -->
+1. LEGO Star Wars: The Force Awakens (PS4) [30hr est] <!-- mc:78 -->
+1. Slay the Spire - Early Access (PC)
+   * This game should come with an addiction warning label. 
+1. Sonic Mania (Switch) [7hr est] <!-- mc:86 -->
+1. Splatoon 2 (Switch) [10.5hr est] <!-- mc:83 -->
+
+<!-- for-fun:end -->
+
+<a name='awaiting-content'></a>
+<!-- awaiting-content:start -->
+
+## :calendar: Awaiting Content
+
+_TBD_
+
+<!-- awaiting-content:end -->
+
+<a name='undecided'>
+<!-- undecided:start -->
+
+<!-- undecided:end -->
 
 <a name='revisited'></a>
 <!-- revisited:start -->
@@ -213,26 +219,26 @@ _TBD_
 
 ## :money_with_wings: Planned Purchases 
 
-See the [New Releases Wiki][new-releases]
+See the [New Releases Wiki][new-releases]. Sorted by release date.
 
-1. Assassin's Creed Odyssey (PS4) - Day One
-   * October 5th @ $26.38 after credit
 1. Donut County - Day One
    * August 28th @ $10 after discount
-1. Hitman 2 (PS4) - Day One
-   * November 13th
+1. Spider-Man (PS4) - Wait and See
+   * September 7th
+1. Shadow of the Tomb Raider (PS4) - Day One
+   * September 14th @ 47.99 (20% discount for Prime)
 1. Life Is Strange 2 - Episode 1 (PS4) - Day One
    * September 27th
 1. Mega Man 11 (Switch) - Wait and See
    * October 2nd
-1. Persona 5: Dancing in Starlight (PS4/Vita) - Wait and See
-   * December 4th
+1. Assassin's Creed Odyssey (PS4) - Day One
+   * October 5th @ $26.38 after credit
 1. Red Dead Redemption 2 (PS4) - Wait and See
    * October 26th
-1. Shadow of the Tomb Raider (PS4) - Day One
-   * September 14th @ 47.99 (20% discount for Prime)
-1. Spider-Man (PS4) - Wait and See
-   * September 7th
+1. Hitman 2 (PS4) - Day One
+   * November 13th
+1. Persona 5: Dancing in Starlight (PS4/Vita) - Wait and See
+   * December 4th
 1. ~~The Escapists 2 (Switch) - Wait for a sale~~ [skipped]
 1. ~~Bayonetta 2 (Switch) - Wait and See~~ [pre-ordered]
    * February 16th @ $47.99 (20% discount for Prime)
