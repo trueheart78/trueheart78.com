@@ -16,18 +16,18 @@ update: 2018-08-20
 
 #### :eyes: Focused
 
-1. Octopath Traveler (Switch) [77hr est]
+1. Octopath Traveler (Switch) [77hr est] <!-- mc:83 -->
    * Will likely spend a lot of time, but not as a completionist.
-1. Detroit: Become Human (PS4) [11 to 26hr est]
+1. Detroit: Become Human (PS4) [11 to 26hr est] <!-- mc:78 -->
    * I expect to be playing this story at least twice.
 
 #### :traffic_light: Started and Need to Finish
 
-1. Bayonetta (Switch) [12.5hr est]
-1. Dark Souls <sup>tm</sup>: Remastered (PS4) [33.5hr est]
-1. Disgaea 5: Complete Edition (Switch) [67hr est]
-1. Hyrule Warriors: Definitive Edition (Switch) [31hr est]
-1. Mario + Rabbids: Kingdom Battle (Switch) [28hr est]
+1. Bayonetta (Switch) [12.5hr est] <!-- mc:84 -->
+1. Dark Souls <sup>tm</sup>: Remastered (PS4) [33.5hr est] <!-- mc:85 -->
+1. Disgaea 5: Complete Edition (Switch) [67hr est] <!-- mc:81 -->
+1. Hyrule Warriors: Definitive Edition (Switch) [31hr est] <!-- mc:78 -->
+1. Mario + Rabbids: Kingdom Battle (Switch) [28hr est] <!-- mc:85 -->
 
 <!-- playing:end -->
 <a name='for-fun'></a>
@@ -36,15 +36,14 @@ update: 2018-08-20
 ## :heart_eyes: For Funsies
 <!-- <a href="javascript: randomGame('for-fun')" id="for-fun-link" title="Random selection" alt="Random selection">:dart:</a>-->
 
-1. Dead Cells (PS4/Switch)
-1. Final Fantasy I (PSOne on PS3) [17.5hr est]
-1. Final Fantasy Tactics (PSOne on PS3) [54hr est]
-1. Gran Turismo SPORT (PS4)
-1. LEGO Star Wars: The Force Awakens (PS4) [30hr est]
+1. Final Fantasy I (PSOne on PS3) [17.5hr est] <!-- mc:79 -->
+1. Final Fantasy Tactics (PSOne on PS3) [54hr est] <!-- mc:83 -->
+1. Gran Turismo SPORT (PS4) <!-- mc:75 -->
+1. LEGO Star Wars: The Force Awakens (PS4) [30hr est] <!-- mc:78 -->
 1. Slay the Spire - Early Access (PC)
    * This game should come with an addiction warning label. 
-1. Sonic Mania (Switch) [7hr est]
-1. Splatoon 2 (Switch) [10.5hr est]
+1. Sonic Mania (Switch) [7hr est] <!-- mc:86 -->
+1. Splatoon 2 (Switch) [10.5hr est] <!-- mc:83 -->
 
 <!-- for-fun:end -->
 <a name='awaiting-content'></a>
@@ -64,25 +63,23 @@ _TBD_
 
 ## :space_invader: Unplayed -- <a href="javascript: randomGame('unplayed')" id="unplayed-link">:dart:</a>
 
-1. Battle Chef Brigade (Switch) [9.5hr est]
-1. Bayonetta 2 (Switch) [11hr est]
-1. DiRT 4 (PS4) [52hr+ est]
-1. Disgaea 3 (Vita) [81hr est]
-1. Disgaea 4 (Vita) [68hr est]
-1. Floor Kids (Switch) [3.5hr est]
-1. Grand Theft Auto V (PS4) [43hr est]
-1. Gravity Rush 2 (PS4) [34hr est]
-1. Heavy Rain (PS4) [10hr est]
-1. Horizon: Zero Dawn DLC (PS4) [10hr est]
-1. LEGO Batman 3: Beyond Gotham (PS4) [36hr est]
-1. LEGO Movie Videogame (PS4) [17hr est]
-1. Life is Strange: Before the Storm - Episode 2: Brave New World (PS4) [4hr est]
-1. Life is Strange: Before the Storm - Episode 3: Hell is Empty (PS4) [3.5hr est]
-1. Life is Strange: Before the Storm - Bonus Episode: Farewell (PS4) [1.5hr est]
-1. Mario + Rabbids: Kingdom Battle - Donkey Kong Adventure DLC (Switch) [9hr est]
-1. Uncharted: The Lost Legacy (PS4) [8hr est]
-1. West of Loathing (Switch) [11.4hr est]
-1. YAKUZA KIWAMI (PS4) [29.5hr est]
+1. Battle Chef Brigade (Switch) [9.5hr est] <!-- mc:81 -->
+1. Bayonetta 2 (Switch) [11hr est] <!-- mc:92 -->
+1. DiRT 4 (PS4) [52hr+ est] <!-- mc:85 -->
+1. Floor Kids (Switch) [3.5hr est] <!-- mc:76 -->
+1. Grand Theft Auto V (PS4) [43hr est] <!-- mc:97 -->
+1. Gravity Rush 2 (PS4) [34hr est] <!-- mc:80 -->
+1. Heavy Rain (PS4) [10hr est] <!-- mc:78-87 -->
+1. Horizon: Zero Dawn DLC (PS4) [10hr est] <!-- mc:83 -->
+1. LEGO Batman 3: Beyond Gotham (PS4) [36hr est] <!-- mc:73 -->
+1. LEGO Movie Videogame (PS4) [17hr est] <!-- mc:71 -->
+1. Life is Strange: Before the Storm - Episode 2: Brave New World (PS4) [4hr est] <!-- mc:79 -->
+1. Life is Strange: Before the Storm - Episode 3: Hell is Empty (PS4) [3.5hr est] <!-- mc:77 -->
+1. Life is Strange: Before the Storm - Bonus Episode: Farewell (PS4) [1.5hr est] <!-- mc:80 -->
+1. Mario + Rabbids: Kingdom Battle - Donkey Kong Adventure DLC (Switch) [9hr est] <!-- mc:82 -->
+1. Uncharted: The Lost Legacy (PS4) [8hr est] <!-- mc:84 -->
+1. West of Loathing (Switch) [11.4hr est] <!-- mc:? -->
+1. YAKUZA KIWAMI (PS4) [29.5hr est] <!-- mc:80 -->
 
 <!-- unplayed:end -->
 
@@ -91,13 +88,13 @@ _TBD_
 
 ## :banana: Unplayed PS+ Freebies
 
-1. Beyond: Two Souls<sup>tm</sup> (PS4) [17hr est] :banana:
-1. Mad Max (PS4) [37.5hr est] :banana:
-1. Mafia III (PS4) [21.5hr est] :banana:
-1. Rayman Legends (PS4) [14hr est] :banana:
-1. Trackmania Turbo (PS4) :banana:
-1. Trials Fusion (PS4) [11hr est] :banana:
-1. XCOM 2 (PS4) [90hr est] :banana:
+1. Beyond: Two Souls<sup>tm</sup> (PS4) [17hr est] <!-- mc:72 --> :banana:
+1. Mad Max (PS4) [37.5hr est] <!-- mc:69 --> :banana:
+1. Mafia III (PS4) [21.5hr est] <!-- mc:68 --> :banana:
+1. Rayman Legends (PS4) [14hr est] <!-- mc:90 --> :banana:
+1. Trackmania Turbo (PS4) <!-- mc:81 --> :banana:
+1. Trials Fusion (PS4) [11hr est] <!-- mc:79 --> :banana:
+1. XCOM 2 (PS4) [90hr est] <!-- mc:87 --> :banana:
 
 <!-- unplayed-freebies:end -->
 
@@ -108,9 +105,13 @@ _TBD_
 
 1. Earthbound (SNES Classic) [34hr est]
    * Over 20 years later and it still holds up.
-1. Legend of Zelda: A Link to the Past
-1. Mega Man X
-1. Secret of Mana
+1. Legend of Zelda: A Link to the Past (SNES Classic)
+1. Mega Man X (SNES Classic)
+1. Secret of Mana (SNES Classic)
+1. Legend of Zelda (NES Classic)
+1. Metroid (NES Classic)
+1. Zelda II (NES Classic)
+1. Kid Icarus (NES Classic)
 1. ... and many others
 
 <!-- revisited:end -->
@@ -120,67 +121,67 @@ _TBD_
 
 ## :checkered_flag: Beaten
 
-1. VA-11 HALL-A: Cyberpunk Bartender Action (Vita)
+1. VA-11 HALL-A: Cyberpunk Bartender Action (Vita) <!-- mc:83 -->
    * Quite enjoyed this visual novel.
    * Solid A.
-1. Legend of Zelda: Breath of the Wild - Champion’s Ballad DLC (DLC) (Switch)
+1. Legend of Zelda: Breath of the Wild - Champion’s Ballad DLC (DLC) (Switch) <!-- mc:81 -->
    * Final boss was easily the hardest.
    * Completed on Master Mode.
    * Still enamored with the total boss of the new Zelda :sparkling_heart:
    * 245+ hours.
-1. Wolfenstein 2: The New Colossus (PS4)
+1. Wolfenstein 2: The New Colossus (PS4) <!-- mc:87 -->
    * Those cutscenes. :boom:
-1. Blaster Master Zero (Switch)
+1. Blaster Master Zero (Switch) <!-- mc:78 -->
    * Fun nostalga trip.
-1. Darkside Detective (Switch)
+1. Darkside Detective (Switch) <!-- mc:81 -->
    * Great adventure game with wonderful humor. 
    * Definitely an A-grade game.
-1. Xeodrifter (Switch)
+1. Xeodrifter (Switch) <!-- mc:71 -->
    * Fun, if not a bit confusing.
    * Used a walkthrough. 
    * Enjoyed the game a lot.
    * Grade: C+
-1. Gravity Rush - Remastered (PS4)
+1. Gravity Rush - Remastered (PS4) <!-- mc:80 -->
    * Quite fun.
    * Beat the DLC with it. 
    * Story was unique. 
    * At the end, felt like a B+.
-1. Assassin's Creed: Origins (PS4)
+1. Assassin's Creed: Origins (PS4) <!-- mc:81 -->
    * Best story in an AC game yet
    * Aya :sparkling_heart:
    * Solid A+ game. 
-1. LEGO Marvel Super Heroes 2 (PS4) [25hr est]
+1. LEGO Marvel Super Heroes 2 (PS4) [25hr est] <!-- mc:83 -->
    * So glad to see Squirrel Girl and Gwenpool :sparkling_heart:
    * Great sense of humor.
    * Stan Lee really needs to stop getting into sticky situations.
    * Solid A game.
    * Still to wrap up quests for Gwenpool
-1. Far Cry 5 (PS4)
+1. Far Cry 5 (PS4) <!-- mc:81 -->
    * I enjoyed the world.
    * The story felt like it needed better pacing.
    * Being chased by "cutscene bullets" is not my idea of good way to "push the story forward".
    * Fun, yes. Likely to end up on my GotY list? No.
-1. Wizard of Legend (Switch)
+1. Wizard of Legend (Switch) <!-- mc:76 -->
    * Fun but needs balancing.
    * Was hoping to like it more.
-1. Yoku's Island Express (Switch)
+1. Yoku's Island Express (Switch) <!-- mc:82 -->
    * OMGosh :sparkling_heart:
-1. The Last of Us Remastered + Left Behind DLC (PS4) [16.5hr est]
+1. The Last of Us Remastered + Left Behind DLC (PS4) [16.5hr est] <!-- mc:95 -->
    * Amazing game
    * Right in the feels, oh so very often. 
    * Ellie :sparkling_heart:
-1. YAKUZA 0 (PS4) [57hr est]
+1. YAKUZA 0 (PS4) [57hr est] <!-- mc:85 -->
    * Took time to get into, wasn't sure what to expect.
    * Had trouble staying with it until about chapter 8 or 9.
    * Finally got hooked and beelined the story.
    * It went from "I'm not sure..." to "Ok, I'll get back to it later..." to "Just one more chapter"
    * Started as a C+ and ended as an A+.
-1. Moonlighter (PS4)
+1. Moonlighter (PS4) <!-- mc:80 -->
    * Loved the art style and game design
    * Eventually wrought with bugs
    * Restarted 2 times because of bugs
    * Started as an A and finished as a D
-1. Dead Cells (PS4/Switch)
+1. Dead Cells (PS4/Switch <!-- mc:87 -->)
    * Great game that I've had to wean myself off as their are others to play.
    * Will continue to play leisurely.
    * Solid B+
@@ -199,8 +200,12 @@ _TBD_
    * I may come back one day...
 1. Titanfall 2 (PS4) [6.5hr est]
    * I'm literally never going to get to this.
-1. Assassin's Creed: Syndicate (PS4) [40.5hr est]
+1. Assassin's Creed: Syndicate (PS4) [40.5hr est] <!-- mc:76 -->
    * With Origins being awesome and Odyssey around the corner, it's time to let it go.
+1. Disgaea 3 (Vita) [81hr est] <!-- mc:78 -->
+   * Just so much to play right now, this does not make the cut
+1. Disgaea 4 (Vita) [68hr est] <!-- mc:82 -->
+   * Just so much to play right now, this does not make the cut
  
 <!-- jettisoned:end -->
 <a name='planned-purchases'></a>
