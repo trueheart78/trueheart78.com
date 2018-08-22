@@ -198,7 +198,7 @@ _TBD_
    * Grade: B+
 1. Detroit: Become Human (PS4) [11 to 26hr est] <!-- mc:78 -->
    * Really, really enjoyed this game.
-   * I plan to replay a chapter or two to iron out a couple choices.
+   * I plan to replay a chapter or two to iron out a couple of my choices.
    * Kara :sparkling_heart:
    * Connor + Hank :sparkling_heart:
    * North :sparkling_heart:
