@@ -2,7 +2,7 @@
 layout: page
 title: Now
 permalink: /now/
-update: 2018-08-20
+update: 2018-08-22
 ---
 
 I'm currently living in Franklin, OH working remote for [CoverMyMeds](http://covermymeds.com) as a software developer.
@@ -12,7 +12,6 @@ I'm currently living in Franklin, OH working remote for [CoverMyMeds](http://cov
 #### :eyes: Focused
 
 * _Octopath Traveler_ on Switch.
-* _Detroit: Become Human_ on PS4.
 
 #### :traffic_light: Started and Need to Finish
 
@@ -56,6 +55,7 @@ I'm currently living in Franklin, OH working remote for [CoverMyMeds](http://cov
 
 ## :scroll: History for 2018
 
+* Played _Detroit: Become Human_ on PS4.
 * Played _Moonlighter_ PS4.
 * Played _Yakuza 0_ on PS4.
 * Played _The Last of Us + Left Behind DLC_ on PS4.

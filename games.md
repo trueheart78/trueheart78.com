@@ -6,7 +6,7 @@ customnav: games_nav.html
 customjs:
 - random_game.js
 - random_name.js
-update: 2018-08-20
+update: 2018-08-22
 ---
 
 <a name='currently-playing'></a>
@@ -18,8 +18,6 @@ update: 2018-08-20
 
 1. Octopath Traveler (Switch) [77hr est] <!-- mc:83 -->
    * Will likely spend a lot of time, but not as a completionist.
-1. Detroit: Become Human (PS4) [11 to 26hr est] <!-- mc:78 -->
-   * I expect to be playing this story at least twice.
 
 #### :traffic_light: Started and Need to Finish
 
@@ -129,19 +127,22 @@ _TBD_
 
 1. VA-11 HALL-A: Cyberpunk Bartender Action (Vita) <!-- mc:83 -->
    * Quite enjoyed this visual novel.
-   * Solid A.
+   * Grade: A
 1. Legend of Zelda: Breath of the Wild - Champion’s Ballad DLC (DLC) (Switch) <!-- mc:81 -->
    * Final boss was easily the hardest.
    * Completed on Master Mode.
    * Still enamored with the total boss of the new Zelda :sparkling_heart:
    * 245+ hours.
+   * Grade: B
 1. Wolfenstein 2: The New Colossus (PS4) <!-- mc:87 -->
    * Those cutscenes. :boom:
+   * Grade: A-
 1. Blaster Master Zero (Switch) <!-- mc:78 -->
    * Fun nostalga trip.
+   * Grade: B
 1. Darkside Detective (Switch) <!-- mc:81 -->
    * Great adventure game with wonderful humor. 
-   * Definitely an A-grade game.
+   * Grade: A
 1. Xeodrifter (Switch) <!-- mc:71 -->
    * Fun, if not a bit confusing.
    * Used a walkthrough. 
@@ -151,46 +152,57 @@ _TBD_
    * Quite fun.
    * Beat the DLC with it. 
    * Story was unique. 
-   * At the end, felt like a B+.
+   * Grade: B+
 1. Assassin's Creed: Origins (PS4) <!-- mc:81 -->
    * Best story in an AC game yet
    * Aya :sparkling_heart:
-   * Solid A+ game. 
+   * Grade: A+
 1. LEGO Marvel Super Heroes 2 (PS4) [25hr est] <!-- mc:83 -->
    * So glad to see Squirrel Girl and Gwenpool :sparkling_heart:
    * Great sense of humor.
    * Stan Lee really needs to stop getting into sticky situations.
-   * Solid A game.
-   * Still to wrap up quests for Gwenpool
+   * Still need to wrap up quests for Gwenpool
+   * Grade: A
 1. Far Cry 5 (PS4) <!-- mc:81 -->
    * I enjoyed the world.
    * The story felt like it needed better pacing.
    * Being chased by "cutscene bullets" is not my idea of good way to "push the story forward".
    * Fun, yes. Likely to end up on my GotY list? No.
+   * Grade: B
 1. Wizard of Legend (Switch) <!-- mc:76 -->
    * Fun but needs balancing.
    * Was hoping to like it more.
+   * Grade: C
 1. Yoku's Island Express (Switch) <!-- mc:82 -->
    * OMGosh :sparkling_heart:
+   * Grade: A
 1. The Last of Us Remastered + Left Behind DLC (PS4) [16.5hr est] <!-- mc:95 -->
    * Amazing game
    * Right in the feels, oh so very often. 
    * Ellie :sparkling_heart:
+   * Grade: A+
 1. YAKUZA 0 (PS4) [57hr est] <!-- mc:85 -->
    * Took time to get into, wasn't sure what to expect.
    * Had trouble staying with it until about chapter 8 or 9.
    * Finally got hooked and beelined the story.
    * It went from "I'm not sure..." to "Ok, I'll get back to it later..." to "Just one more chapter"
-   * Started as a C+ and ended as an A+.
+   * Grade: A+ (started out as a C+)
 1. Moonlighter (PS4) <!-- mc:80 -->
    * Loved the art style and game design
    * Eventually wrought with bugs
    * Restarted 2 times because of bugs
-   * Started as an A and finished as a D
+   * Grade: D (started out as an A)
 1. Dead Cells (PS4/Switch <!-- mc:87 -->)
    * Great game that I've had to wean myself off as their are others to play.
    * Will continue to play leisurely.
-   * Solid B+
+   * Grade: B+
+1. Detroit: Become Human (PS4) [11 to 26hr est] <!-- mc:78 -->
+   * Really, really enjoyed this game.
+   * I plan to replay a chapter or two to iron out a couple choices.
+   * Kara :sparkling_heart:
+   * Connor + Hank :sparkling_heart:
+   * North :sparkling_heart:
+   * Grade: A+
 
 <!-- beaten:end -->
 <a name='jettisoned'></a>
