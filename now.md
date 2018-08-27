@@ -2,7 +2,7 @@
 layout: page
 title: Now
 permalink: /now/
-update: 2018-08-22
+update: 2018-08-27
 ---
 
 I'm currently living in Franklin, OH working remote for [CoverMyMeds](http://covermymeds.com) as a software developer.
@@ -12,6 +12,8 @@ I'm currently living in Franklin, OH working remote for [CoverMyMeds](http://cov
 #### :eyes: Focused
 
 * _Octopath Traveler_ on Switch.
+* _Grand Theft Auto V_ on PS4.
+* _Pokémon Platinum_ on DS.
 
 #### :traffic_light: Started and Need to Finish
 

@@ -6,7 +6,7 @@ customnav: games_nav.html
 customjs:
 - random_game.js
 - random_name.js
-update: 2018-08-22
+update: 2018-08-27
 ---
 
 <a name='currently-playing'></a>
@@ -16,6 +16,8 @@ update: 2018-08-22
 
 #### :eyes: Focused
 
+1. Grand Theft Auto V (PS4) [43hr est] <!-- mc:97 -->
+1. Pokémon Platinum (DS) [35hr est] <!-- mc:83 -->
 1. Octopath Traveler (Switch) [77hr est] <!-- mc:83 -->
    * Will likely spend a lot of time, but not as a completionist.
 
@@ -40,7 +42,6 @@ update: 2018-08-22
 1. DiRT 4 (PS4) [52hr+ est] <!-- mc:85 -->
 1. Floor Kids (Switch) [3.5hr est] <!-- mc:76 -->
 1. God of War (2018) (PS4) [19.5hr est] <!-- mc:94 --> :star:
-1. Grand Theft Auto V (PS4) [43hr est] <!-- mc:97 --> :star:
 1. Gravity Rush 2 (PS4) [34hr est] <!-- mc:80 -->
 1. Heavy Rain (PS4) [10hr est] <!-- mc:78-87 -->
 1. Horizon: Zero Dawn DLC (PS4) [10hr est] <!-- mc:83 -->
@@ -50,6 +51,9 @@ update: 2018-08-22
 1. Life is Strange: Before the Storm - Episode 3: Hell is Empty (PS4) [3.5hr est] <!-- mc:77 -->
 1. Life is Strange: Before the Storm - Bonus Episode: Farewell (PS4) [1.5hr est] <!-- mc:80 -->
 1. Mario + Rabbids: Kingdom Battle - Donkey Kong Adventure DLC (Switch) [9hr est] <!-- mc:82 -->
+1. Mario vs. Donkey Kong 2: March of the Minis (DS) [4.5hr est] <!-- mc:76 -->
+1. Mario vs. Donkey Kong 2: Mini-Land Mayhem (DS) [5hr est] <!-- mc:79 -->
+1. New Super Mario Bros. (DS) [7hr est] <!-- mc:89 -->
 1. Uncharted: The Lost Legacy (PS4) [8hr est] <!-- mc:84 -->
 1. West of Loathing (Switch) [11.4hr est] <!-- mc:? -->
 1. YAKUZA KIWAMI (PS4) [29.5hr est] <!-- mc:80 -->
