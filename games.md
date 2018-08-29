@@ -6,7 +6,7 @@ customnav: games_nav.html
 customjs:
 - random_game.js
 - random_name.js
-update: 2018-08-27
+update: 2018-08-29
 ---
 
 <a name='currently-playing'></a>
@@ -16,7 +16,6 @@ update: 2018-08-27
 
 #### :eyes: Focused
 
-1. Grand Theft Auto V (PS4) [43hr est] <!-- mc:97 -->
 1. Pokémon Platinum (DS) [35hr est] <!-- mc:83 -->
 1. Octopath Traveler (Switch) [77hr est] <!-- mc:83 -->
    * Will likely spend a lot of time, but not as a completionist.
@@ -207,6 +206,10 @@ _TBD_
    * Connor + Hank :sparkling_heart:
    * North :sparkling_heart:
    * Grade: A+
+1. Donut County (PS4/iOS)
+   * Such an amazing game.
+   * Short but really sweet.
+   * Grade: A+
 
 <!-- beaten:end -->
 <a name='jettisoned'></a>
@@ -228,6 +231,9 @@ _TBD_
    * Just so much to play right now, this does not make the cut
 1. Disgaea 4 (Vita) [68hr est] <!-- mc:82 -->
    * Just so much to play right now, this does not make the cut
+1. Grand Theft Auto V (PS4) [43hr est] <!-- mc:97 -->
+   * Played it enough to know that RDR2's world will be amazing.
+   * Looked up the plot on Wikipedia to expedite my time with the game.
  
 <!-- jettisoned:end -->
 <a name='planned-purchases'></a>
@@ -271,7 +277,7 @@ See the [New Releases Wiki][new-releases]. Sorted by release date.
    * March 27th @ $47.99 (20% discount for Prime)
 1. ~~Hyrule Warriers: Definitive Edition - Day One~~ [pre-ordered]
    * May 18th @ $4.00 after credit
-1. ~~Night in the Woods (Switch) - $10 Max~~ [skipped]
+1. ~~Night in the Woods (Switch) - $10 Max~~ [purchased]
 1. ~~Octopath Traveler (Switch) - Day One [pre-ordered]~~
    * July 13th @ $17 after credit
 1. ~~Secret of Mana (Vita) - Wait and See~~ [skipped]
