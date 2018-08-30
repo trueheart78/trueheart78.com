@@ -33,8 +33,8 @@ find yourself need more. It's a common issue, though, as once you get past the b
 a web site, it's easy to find yourself bolting on libraries to accomodate the missing
 featureset of Rails. At that point, you should consider something more.
 
-So when you want something like Rails, but know Sinatra, there is still a large step between them
- - and it's a doozy. Thankfully, that's where [Padrino][padrino] comes in. It's built on top of
+So when you want something like Rails, but know Sinatra, there is still a large step between them,
+and it's a doozy. Thankfully, that's where [Padrino][padrino] comes in. It's built on top of
 Sinatra, so it will be familiar, but it adds in support for Rails-isms that you'll eventually
 be working with, like code generation, and database migrations.
 
