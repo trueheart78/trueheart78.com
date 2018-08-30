@@ -8,7 +8,6 @@ customjs:
 - random_name.js
 update: 2018-08-30
 ---
-
 <a name='currently-playing'></a>
 <!-- playing:start -->
 

@@ -4,7 +4,6 @@ title: Now
 permalink: /now/
 update: 2018-08-30
 ---
-
 I'm currently living in Franklin, OH working remote for [CoverMyMeds](http://covermymeds.com) as a software developer.
 
 ## :space_invader: Playing
