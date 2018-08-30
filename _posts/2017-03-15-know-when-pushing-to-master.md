@@ -5,6 +5,8 @@ date:   2017-03-15 12:15:00
 categories: ruby
 ---
 
+**Update:** See [Know When Pushing to Master Redux][redux] for a more complete solution.
+
 You really probably shouldn't be pushing to the `master` branch of your repo.
 Well, at least not for all repos. After I facepalmed recently when realizing
 what I had done, I figured it was time to at least question myself before
@@ -24,3 +26,5 @@ through with it.
 The caveats are, of course, if I _don't use_ `gp`, this won't run. However, my
 muscle-memory keeps `git push` from being used much at all. So, while not 100%
 coverage, definitely better than 0%. And, it's system-wide.
+
+[redux]: /2018/08/30/know-when-pushing-to-master-redux.html
