@@ -6,7 +6,7 @@ customnav: games_nav.html
 customjs:
 - random_game.js
 - random_name.js
-update: 2018-08-30
+update: 2018-09-03
 ---
 
 <a name='currently-playing'></a>
@@ -245,6 +245,7 @@ See the [New Releases Wiki][new-releases]. Sorted by release date.
 
 1. Donut County - Day One
    * August 28th @ $10 after discount
+1. Dragon Quest XI (PS4) - Wait for Discount
 1. Spider-Man (PS4) - Wait and See
    * September 7th
 1. Shadow of the Tomb Raider (PS4) - Day One
