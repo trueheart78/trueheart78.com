@@ -6,7 +6,7 @@ customnav: games_nav.html
 customjs:
 - random_game.js
 - random_name.js
-update: 2018-09-03
+update: 2018-09-04
 ---
 
 <a name='currently-playing'></a>
@@ -243,18 +243,16 @@ _TBD_
 
 See the [New Releases Wiki][new-releases]. Sorted by release date.
 
-1. Donut County - Day One
-   * August 28th @ $10 after discount
 1. Dragon Quest XI (PS4) - Wait for Discount
-1. Spider-Man (PS4) - Wait and See
+1. Spider-Man (PS4) [pre-ordered]
    * September 7th
-1. Shadow of the Tomb Raider (PS4) - Day One
+1. Shadow of the Tomb Raider (PS4) [pre-ordered]
    * September 14th @ 47.99 (20% discount for Prime)
-1. Life Is Strange 2 - Episode 1 (PS4) - Day One
+1. Life Is Strange 2 - Episode 1 (PS4) [pre-ordered]
    * September 27th
 1. Mega Man 11 (Switch) - Wait and See
    * October 2nd
-1. Assassin's Creed Odyssey (PS4) - Day One
+1. Assassin's Creed Odyssey (PS4) [pre-ordered]
    * October 5th @ $26.38 after credit
 1. Red Dead Redemption 2 (PS4) - Wait and See
    * October 26th
@@ -262,6 +260,8 @@ See the [New Releases Wiki][new-releases]. Sorted by release date.
    * November 13th
 1. Persona 5: Dancing in Starlight (PS4/Vita) - Wait and See
    * December 4th
+1. ~~Donut County - Day One~~ [purchased]
+   * August 28th @ $10 after discount
 1. ~~The Escapists 2 (Switch) - Wait for a sale~~ [skipped]
 1. ~~Bayonetta 2 (Switch) - Wait and See~~ [pre-ordered]
    * February 16th @ $47.99 (20% discount for Prime)
