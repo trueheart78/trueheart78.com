@@ -6,7 +6,7 @@ customnav: games_nav.html
 customjs:
 - random_game.js
 - random_name.js
-update: 2018-09-04
+update: 2018-09-06
 ---
 
 <a name='currently-playing'></a>
@@ -19,7 +19,6 @@ update: 2018-09-04
 1. Pokémon Platinum (DS) [35hr est] <!-- mc:83 -->
 1. Octopath Traveler (Switch) [77hr est] <!-- mc:83 -->
    * Will likely spend a lot of time, but not as a completionist.
-1. Uncharted: The Lost Legacy (PS4) [8hr est] <!-- mc:84 -->
 
 #### :traffic_light: Started and Need to Finish
 
@@ -210,6 +209,12 @@ _TBD_
    * Such an amazing game.
    * Short but really sweet.
    * Grade: A+
+1. Uncharted: The Lost Legacy (PS4) [8hr est] <!-- mc:84 -->
+   * Claudia Black is as good as ever. 
+   * Decent story
+   * Chloe Frazer :sparkling_heart:
+   * Grade: A
+
 
 <!-- beaten:end -->
 <a name='jettisoned'></a>
