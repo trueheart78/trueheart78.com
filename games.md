@@ -6,7 +6,7 @@ customnav: games_nav.html
 customjs:
 - random_game.js
 - random_name.js
-update: 2018-09-06
+update: 2018-09-07
 ---
 
 <a name='currently-playing'></a>
@@ -16,6 +16,7 @@ update: 2018-09-06
 
 #### :eyes: Focused
 
+1. Marvel's Spider-Man (PS4) [18hr est] <!-- mc:87 -->
 1. Pokémon Platinum (DS) [35hr est] <!-- mc:83 -->
 1. Octopath Traveler (Switch) [77hr est] <!-- mc:83 -->
    * Will likely spend a lot of time, but not as a completionist.
@@ -39,6 +40,7 @@ update: 2018-09-06
 1. Bayonetta 2 (Switch) [11hr est] <!-- mc:92 -->
 1. Dark Souls <sup>tm</sup>: Remastered (PS4) [33.5hr est] <!-- mc:85 -->
 1. DiRT 4 (PS4) [52hr+ est] <!-- mc:85 -->
+1. Dragon Quest XI (PS4) [56.5hr est] <!-- mc:87 -->
 1. Floor Kids (Switch) [3.5hr est] <!-- mc:76 -->
 1. God of War (2018) (PS4) [19.5hr est] <!-- mc:94 --> :star:
 1. Gravity Rush 2 (PS4) [34hr est] <!-- mc:80 -->
@@ -248,7 +250,6 @@ _TBD_
 
 See the [New Releases Wiki][new-releases]. Sorted by release date.
 
-1. Dragon Quest XI (PS4) - Wait for Discount
 1. Spider-Man (PS4) [pre-ordered]
    * September 7th
 1. Shadow of the Tomb Raider (PS4) [pre-ordered]
@@ -267,6 +268,7 @@ See the [New Releases Wiki][new-releases]. Sorted by release date.
    * December 4th
 1. ~~Donut County - Day One~~ [purchased]
    * August 28th @ $10 after discount
+1. ~~Dragon Quest XI (PS4)~~ [purchased]
 1. ~~The Escapists 2 (Switch) - Wait for a sale~~ [skipped]
 1. ~~Bayonetta 2 (Switch) - Wait and See~~ [pre-ordered]
    * February 16th @ $47.99 (20% discount for Prime)
