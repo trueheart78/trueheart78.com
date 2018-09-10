@@ -6,7 +6,7 @@ customnav: games_nav.html
 customjs:
 - random_game.js
 - random_name.js
-update: 2018-09-07
+update: 2018-09-10
 ---
 
 <a name='currently-playing'></a>
@@ -16,7 +16,7 @@ update: 2018-09-07
 
 #### :eyes: Focused
 
-1. Marvel's Spider-Man (PS4) [18hr est] <!-- mc:87 -->
+1. Dragon Quest XI (PS4) [56.5hr est] <!-- mc:87 -->
 1. Pokémon Platinum (DS) [35hr est] <!-- mc:83 -->
 1. Octopath Traveler (Switch) [77hr est] <!-- mc:83 -->
    * Will likely spend a lot of time, but not as a completionist.
@@ -40,7 +40,6 @@ update: 2018-09-07
 1. Bayonetta 2 (Switch) [11hr est] <!-- mc:92 -->
 1. Dark Souls <sup>tm</sup>: Remastered (PS4) [33.5hr est] <!-- mc:85 -->
 1. DiRT 4 (PS4) [52hr+ est] <!-- mc:85 -->
-1. Dragon Quest XI (PS4) [56.5hr est] <!-- mc:87 -->
 1. Floor Kids (Switch) [3.5hr est] <!-- mc:76 -->
 1. God of War (2018) (PS4) [19.5hr est] <!-- mc:94 --> :star:
 1. Gravity Rush 2 (PS4) [34hr est] <!-- mc:80 -->
@@ -216,7 +215,14 @@ _TBD_
    * Decent story
    * Chloe Frazer :sparkling_heart:
    * Grade: A
-
+1. Marvel's Spider-Man (PS4) [18hr est] <!-- mc:87 -->
+   * World and combat both very enjoyable.
+   * Being able to play as Mary Jane and Miles Morales was awesome.
+   * Mary Jane (as voice by Laura Bailey) :sparkling_heart:
+   * Easily the best story in an open world game in recent memory; definitely had the Marvel touch.
+   * All the feels! I cheered, I squee'd, I cried!
+   * First game since Horizon: Zero Dawn I've felt the need to binge. Worth it.
+   * Grade: A++
 
 <!-- beaten:end -->
 <a name='jettisoned'></a>

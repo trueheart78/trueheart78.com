@@ -2,7 +2,7 @@
 layout: page
 title: Now
 permalink: /now/
-update: 2018-09-07
+update: 2018-09-10
 ---
 
 I'm currently living in Franklin, OH working remote for [CoverMyMeds](http://covermymeds.com) as a software developer.
@@ -11,7 +11,7 @@ I'm currently living in Franklin, OH working remote for [CoverMyMeds](http://cov
 
 #### :eyes: Focused
 
-* _Marvel's Spider-Man_ on PS4.
+* _Dragon Quest XI_ on PS4.
 * _Octopath Traveler_ on Switch.
 * _Pokémon Platinum_ on DS.
 
@@ -38,7 +38,6 @@ I'm currently living in Franklin, OH working remote for [CoverMyMeds](http://cov
 * Go
    * [The Go programming Language](http://www.gopl.io/)
    * [Go Systems Programming](https://github.com/trueheart78/book-notes/blob/master/go-systems-programming/README.md)
-   * [Get Programming with Go](https://github.com/trueheart78/book-notes/blob/master/get-programming-with-go/README.md) 
 * Rails
    * [The Rails 5 Way](https://github.com/trueheart78/book-notes/blob/master/the-rails-5-way/README.md)
 * [Elm](http://elm-lang.org).
@@ -57,6 +56,7 @@ I'm currently living in Franklin, OH working remote for [CoverMyMeds](http://cov
 
 ## :scroll: History for 2018
 
+* Played _Marvel's Spider-Man_ on PS4.
 * Played _Uncharted: The Lost Legacy_ on PS4.
 * Played _Donut County_ on PS4.
 * Played _Grand Theft Auto V_ on PS4.
@@ -70,6 +70,7 @@ I'm currently living in Franklin, OH working remote for [CoverMyMeds](http://cov
 * Read _Patsy Walker aka Hellcat (2015)_ from Marvel.
 * Jettisoned _Divinity: Original Sin_ on PS4.
 * Played _Far Cry 5_ on PS4.
+* Read [Get Programming with Go](https://github.com/trueheart78/book-notes/blob/master/get-programming-with-go/README.md) 
 * Played _LEGO Marvel Super Heroes 2_ on PS4.
 * Played _Assassin's Creed: Origins_ on PS4
 * Polished up my [Gif Management Gem](https://github.com/trueheart78/gifs)
