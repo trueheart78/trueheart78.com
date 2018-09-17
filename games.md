@@ -6,7 +6,7 @@ customnav: games_nav.html
 customjs:
 - random_game.js
 - random_name.js
-update: 2018-09-10
+update: 2018-09-17
 ---
 
 <a name='currently-playing'></a>
@@ -20,6 +20,7 @@ update: 2018-09-10
 1. Pokémon Platinum (DS) [35hr est] <!-- mc:83 -->
 1. Octopath Traveler (Switch) [77hr est] <!-- mc:83 -->
    * Will likely spend a lot of time, but not as a completionist.
+1. Shadow of the Tomb Raider (PS4) [19hr est] <!-- mc:78 -->
 
 #### :traffic_light: Started and Need to Finish
 
@@ -256,10 +257,6 @@ _TBD_
 
 See the [New Releases Wiki][new-releases]. Sorted by release date.
 
-1. Spider-Man (PS4) [pre-ordered]
-   * September 7th
-1. Shadow of the Tomb Raider (PS4) [pre-ordered]
-   * September 14th @ 47.99 (20% discount for Prime)
 1. Life Is Strange 2 - Episode 1 (PS4) [pre-ordered]
    * September 27th
 1. Mega Man 11 (Switch) - Wait and See
@@ -295,6 +292,10 @@ See the [New Releases Wiki][new-releases]. Sorted by release date.
 1. ~~Octopath Traveler (Switch) - Day One [pre-ordered]~~
    * July 13th @ $17 after credit
 1. ~~Secret of Mana (Vita) - Wait and See~~ [skipped]
+1. ~~Shadow of the Tomb Raider (PS4)~~ [pre-ordered]
+   * September 14th @ 47.99 (20% discount for Prime)
+1. ~~Spider-Man (PS4)~~ [pre-ordered]
+   * September 7th
 
 
 ## :moneybag: Planned Purchases (Hopefully in 2018)
