@@ -2,7 +2,7 @@
 layout: page
 title: Now
 permalink: /now/
-update: 2018-09-17
+update: 2018-10-11
 ---
 
 I'm currently living in Franklin, OH working remote for [CoverMyMeds](http://covermymeds.com) as a software developer.
@@ -11,10 +11,10 @@ I'm currently living in Franklin, OH working remote for [CoverMyMeds](http://cov
 
 #### :eyes: Focused
 
+* _Assassin's Creed Odyssey_ on PS4.
 * _Dragon Quest XI_ on PS4.
 * _Octopath Traveler_ on Switch.
 * _Pokémon Platinum_ on DS.
-* _Shadow of the Tomb Raider_ on PS4.
 
 #### :traffic_light: Started and Need to Finish
 
@@ -57,6 +57,8 @@ I'm currently living in Franklin, OH working remote for [CoverMyMeds](http://cov
 
 ## :scroll: History for 2018
 
+* Played _Shadow of the Tomb Raider_ on PS4.
+* Played _Mega Man 11_ on PS4.
 * Played _Marvel's Spider-Man_ on PS4.
 * Played _Uncharted: The Lost Legacy_ on PS4.
 * Played _Donut County_ on PS4.
