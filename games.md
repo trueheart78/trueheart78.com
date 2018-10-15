@@ -6,7 +6,7 @@ customnav: games_nav.html
 customjs:
 - random_game.js
 - random_name.js
-update: 2018-10-11
+update: 2018-10-15
 ---
 
 <a name='currently-playing'></a>
@@ -17,10 +17,12 @@ update: 2018-10-11
 #### :eyes: Focused
 
 1. Assassin's Creed Odyssey (PS4)
+1. Battle Chef Brigade (Switch) [9.5hr est] <!-- mc:81 -->
 1. Dragon Quest XI (PS4) [56.5hr est] <!-- mc:87 -->
-1. Pokémon Platinum (DS) [35hr est] <!-- mc:83 -->
+1. Life is Strange 2: Episode 1 (PS4) [4hr est]
 1. Octopath Traveler (Switch) [77hr est] <!-- mc:83 -->
    * Will likely spend a lot of time, but not as a completionist.
+1. Pokémon Platinum (DS) [35hr est] <!-- mc:83 -->
 
 #### :traffic_light: Started and Need to Finish
 
@@ -37,8 +39,8 @@ update: 2018-10-11
 
 :bangbang: Max of 3 flagged games to play next :bangbang:
 
-1. Battle Chef Brigade (Switch) [9.5hr est] <!-- mc:81 -->
 1. Bayonetta 2 (Switch) [11hr est] <!-- mc:92 -->
+1. Burnout Paradise: Remastered (PS4) [21.5hr est]
 1. Dark Souls <sup>tm</sup>: Remastered (PS4) [33.5hr est] <!-- mc:85 -->
 1. DiRT 4 (PS4) [52hr+ est] <!-- mc:85 -->
 1. Floor Kids (Switch) [3.5hr est] <!-- mc:76 -->
@@ -48,13 +50,14 @@ update: 2018-10-11
 1. Horizon: Zero Dawn DLC (PS4) [10hr est] <!-- mc:83 -->
 1. LEGO Batman 3: Beyond Gotham (PS4) [36hr est] <!-- mc:73 -->
 1. LEGO Movie Videogame (PS4) [17hr est] <!-- mc:71 -->
-1. Life is Strange: Before the Storm - Episode 2: Brave New World (PS4) [4hr est] <!-- mc:79 --> :star:
+1. Life is Strange: Before the Storm - Episode 2: Brave New World (PS4) [4hr est] <!-- mc:79 -->
 1. Life is Strange: Before the Storm - Episode 3: Hell is Empty (PS4) [3.5hr est] <!-- mc:77 -->
 1. Life is Strange: Before the Storm - Bonus Episode: Farewell (PS4) [1.5hr est] <!-- mc:80 -->
 1. Mario + Rabbids: Kingdom Battle - Donkey Kong Adventure DLC (Switch) [9hr est] <!-- mc:82 -->
 1. Mario vs. Donkey Kong 2: March of the Minis (DS) [4.5hr est] <!-- mc:76 -->
 1. Mario vs. Donkey Kong 2: Mini-Land Mayhem (DS) [5hr est] <!-- mc:79 -->
 1. New Super Mario Bros. (DS) [7hr est] <!-- mc:89 -->
+1. Shadow of the Colossus (PS4) [9hr est]
 1. West of Loathing (Switch) [11.4hr est] <!-- mc:? -->
 1. YAKUZA KIWAMI (PS4) [29.5hr est] <!-- mc:80 -->
 
@@ -268,9 +271,7 @@ _TBD_
 
 See the [New Releases Wiki][new-releases]. Sorted by release date.
 
-1. Life Is Strange 2 - Episode 1 (PS4) [pre-ordered]
-   * September 27th
-1. Red Dead Redemption 2 (PS4) - Wait and See
+1. Red Dead Redemption 2 (PS4) [pre-ordered]
    * October 26th
 1. Hitman 2 (PS4) - Day One
    * November 13th
@@ -282,6 +283,8 @@ See the [New Releases Wiki][new-releases]. Sorted by release date.
    * October 5th @ $26.38 after credit
 1. ~~Donut County - Day One~~ [purchased]
    * August 28th @ $10 after discount
+1. ~~Life Is Strange 2 - Episode 1 (PS4)~~ [pre-ordered]
+   * September 27th
 1. ~~Dragon Quest XI (PS4)~~ [purchased]
 1. ~~The Escapists 2 (Switch) - Wait for a sale~~ [skipped]
 1. ~~Bayonetta 2 (Switch) - Wait and See~~ [pre-ordered]

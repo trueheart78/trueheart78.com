@@ -2,7 +2,7 @@
 layout: page
 title: Now
 permalink: /now/
-update: 2018-10-11
+update: 2018-10-15
 ---
 
 I'm currently living in Franklin, OH working remote for [CoverMyMeds](http://covermymeds.com) as a software developer.
@@ -12,7 +12,9 @@ I'm currently living in Franklin, OH working remote for [CoverMyMeds](http://cov
 #### :eyes: Focused
 
 * _Assassin's Creed Odyssey_ on PS4.
+* _Battle Chef Brigade_ on Switch.
 * _Dragon Quest XI_ on PS4.
+* _Life is Strange 2: Episode 1_ on PS4.
 * _Octopath Traveler_ on Switch.
 * _Pokémon Platinum_ on DS.
 
@@ -28,9 +30,12 @@ I'm currently living in Franklin, OH working remote for [CoverMyMeds](http://cov
 
 ## :book: Comics
 
+* Saga
+  + Reading book 5 of 9. :star: :star: :star: :star: :star:
 * Unbeatable Squirrel Girl 🐿️ 
   + [Twitter](https://twitter.com/unbeatablesg)
   + [Tumblr](https://unbeatablesquirrelgirl.tumblr.com/)
+* West Coast Avengers
 * She-Hulk
 * The Mighty Thor
 
@@ -46,7 +51,7 @@ I'm currently living in Franklin, OH working remote for [CoverMyMeds](http://cov
 
 ## :wrench: Side Projects
 
-* _None at the moment._
+* [Dropbox Gif Linker](https://github.com/trueheart78/dropbox-gif-linker) in Go.
 
 ## :calendar: Coming Up (Maybe)
 
