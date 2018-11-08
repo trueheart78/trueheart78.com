@@ -2,7 +2,7 @@
 layout: page
 title: Favorite Games
 permalink: /favorite-games/
-update: 2018-01-02
+update: 2018-11-08
 ---
 
 + [Game of the Year 2017][goty-2017]
@@ -47,6 +47,21 @@ own individuals.
 I can say I was honestly surprised that a game originally released in 2008 that
 I never got to until 2017 would jump into second place on my favorite games of all
 time list, but here we are. And I think it deserves this spot, without question.
+
+### 3. Road Rash (PS1/Gen/Win)
+
+This is such wonderful game. It's been so long since I've played it. I remember spending
+so much time with this at my cousin's house when I was young. When I was in my 20's, I had
+it on PC and it was still great. Recently (late 2018), I bought the PS1 version to play on
+my PS3 and it has been a joy just getting back into it.
+
+This game does so many things right, and (save for the Genesis version) even has some
+great FMV. The intro made me tear up, and I say that with pride. I've always adored this
+game and am thrilled to put it on this list.
+
+Here's a taste of the goodness that is the intro video.
+
+<iframe width="680" height="408" src="https://www.youtube.com/embed/gBdlScU7N6M" frameborder="0" allowfullscreen></iframe>
 
 <a name='horizon-zero-dawn'></a>
 
