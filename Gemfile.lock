@@ -67,10 +67,11 @@ GEM
 
 PLATFORMS
   ruby
+  x86_64-darwin-16
 
 DEPENDENCIES
   jekyll
   jemoji
 
 BUNDLED WITH
-   1.10.6
+   1.16.4
