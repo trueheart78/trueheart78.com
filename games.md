@@ -6,7 +6,7 @@ customnav: games_nav.html
 customjs:
 - random_game.js
 - random_name.js
-update: 2018-10-15
+update: 2018-11-08
 ---
 
 <a name='currently-playing'></a>
@@ -16,7 +16,7 @@ update: 2018-10-15
 
 #### :eyes: Focused
 
-1. Assassin's Creed Odyssey (PS4)
+1. Road Rash (PS1)
 1. Battle Chef Brigade (Switch) [9.5hr est] <!-- mc:81 -->
 1. Dragon Quest XI (PS4) [56.5hr est] <!-- mc:87 -->
 1. Life is Strange 2: Episode 1 (PS4) [4hr est]
@@ -27,6 +27,7 @@ update: 2018-10-15
 #### :traffic_light: Started and Need to Finish
 
 1. Bayonetta (Switch) [12.5hr est] <!-- mc:84 -->
+1. Captain Toad: Treasure Tracker (Switch)
 1. Disgaea 5: Complete Edition (Switch) [67hr est] <!-- mc:81 -->
 1. Hyrule Warriors: Definitive Edition (Switch) [31hr est] <!-- mc:78 -->
 1. Mario + Rabbids: Kingdom Battle (Switch) [28hr est] <!-- mc:85 -->
@@ -238,6 +239,14 @@ _TBD_
    * Was a lot of fun.
    * Would love to do some "any %" runs but I'll never get to it.
    * Grade: A
+1. Assassin's Creed Odyssey (PS4)
+   * I loved Origins, and while not as succint, I don't think I've enjoyed a game in this
+     series as much as I have here.
+   * Kassandra :sparkling_heart: :hocho:
+   * Nice to have choices that stayed with me all the way to the end.
+   * Epic battles with some great creatures, not just some throw aways.
+   * Played for 85 hours :open_mouth:, and I agree that it should have been shorter :hourglass:.
+   * Grade: A+
 
 <!-- beaten:end -->
 <a name='jettisoned'></a>
@@ -271,16 +280,20 @@ _TBD_
 
 See the [New Releases Wiki][new-releases]. Sorted by release date.
 
-1. Red Dead Redemption 2 (PS4) [pre-ordered]
-   * October 26th
 1. Hitman 2 (PS4) - Day One
    * November 13th
 1. Persona 5: Dancing in Starlight (PS4/Vita) - Wait and See
    * December 4th
-1. ~~Mega Man 11 (Switch) - Wait and See~~ [purchased]
-   * October 2nd
+1. ~~Red Dead Redemption 2 (PS4) [gifted]~~
+   * October 26th
 1. ~~Assassin's Creed Odyssey (PS4)~~ [pre-ordered]
    * October 5th @ $26.38 after credit
+1. ~~Mega Man 11 (Switch) - Wait and See~~ [purchased]
+   * October 2nd
+1. ~~Shadow of the Tomb Raider (PS4)~~ [pre-ordered]
+   * September 14th @ 47.99 (20% discount for Prime)
+1. ~~Spider-Man (PS4)~~ [pre-ordered]
+   * September 7th
 1. ~~Donut County - Day One~~ [purchased]
    * August 28th @ $10 after discount
 1. ~~Life Is Strange 2 - Episode 1 (PS4)~~ [pre-ordered]
@@ -306,11 +319,6 @@ See the [New Releases Wiki][new-releases]. Sorted by release date.
 1. ~~Octopath Traveler (Switch) - Day One [pre-ordered]~~
    * July 13th @ $17 after credit
 1. ~~Secret of Mana (Vita) - Wait and See~~ [skipped]
-1. ~~Shadow of the Tomb Raider (PS4)~~ [pre-ordered]
-   * September 14th @ 47.99 (20% discount for Prime)
-1. ~~Spider-Man (PS4)~~ [pre-ordered]
-   * September 7th
-
 
 ## :moneybag: Planned Purchases (Hopefully in 2018)
 
