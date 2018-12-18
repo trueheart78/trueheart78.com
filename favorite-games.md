@@ -124,6 +124,8 @@ for many other games, except for those I considered personal disappointments.
 
 ### :trophy: Assassin's Creed Odyssey (PS4) :trophy: **Game of the Year** :trophy:
 
+![Assassin's Creed Odyssey - Kassandra][ac-odyssey-kassandra]
+
 I really didn't expect this to end up as the game to define my year. Until recently, with
 the wonderful Origins entry, this series was completely off my radar. In a year where I
 played Origins and then months later went on to play Odyssey, you'd think my combined time
@@ -201,6 +203,8 @@ I have decided instead to single out the Game of the Year and then present award
 deserving enough. It should give you a bit of insight into how I feel about them.
 
 ### :trophy: Horizon: Zero Dawn (PS4) :trophy: **Game of the Year** :trophy:
+
+![Horizon Zero Dawn - Aloy vs Behemoth][hzd-aloy-behemoth]
 
 I couldn't get this game out of my head all year long. When I learned the backstory post-Deathbringer, I felt sick.
 Further in, the reveal of what "Zero Dawn" was pretty frickin’ awesome. The ending gave me the feels. It got dusty, for sure.
@@ -324,3 +328,5 @@ Yenefer and Ciri.
 [goty-2017]: #goty-2017
 [goty-2018]: #goty-2018
 [random-thoughts]: #random-thoughts
+[ac-odyssey-kassandra]: /assets/images/favorites/ac-odyssey-kassandra.png
+[hzd-aloy-behemoth]: /assets/images/favorites/hzd-aloy-behemoth.png
