@@ -2,9 +2,10 @@
 layout: page
 title: Favorite Games
 permalink: /favorite-games/
-update: 2018-11-08
+update: 2018-12-18
 ---
 
++ [Game of the Year 2018][goty-2018]
 + [Game of the Year 2017][goty-2017]
 + [Game of the Year 2016][goty-2016]
 + [Random Thoughts][random-thoughts]
@@ -113,6 +114,83 @@ My bullet points, until I get to writing up something more proper:
   + Master Mode completed.
 
 ### Game of the Year
+
+<a name='goty-2018'></a>
+
+### :scroll: 2018
+
+Much like [last year][goty-2017], I'm going with a single standout title. I've also got some awards
+for many other games, except for those I considered personal disappointments.
+
+### :trophy: Assassin's Creed Odyssey (PS4) :trophy: **Game of the Year** :trophy:
+
+I really didn't expect this to end up as the game to define my year. Until recently, with
+the wonderful Origins entry, this series was completely off my radar. In a year where I
+played Origins and then months later went on to play Odyssey, you'd think my combined time
+with them would have worn me out. That I would have been beaten down by the weight of
+Ubisoft's stabby franchise. This is, after all, the eleventh main game in the series.
+
+However, Origins was a wonderful reboot, and Odyssey just took it even further. A huge map,
+an interesting backstory, and a character that just excels at taking down everything. Changing things
+up might as well be the name of the game, and I loved the fact that I could stealthily take down
+an entire fort, wade into a battlefield and fight multiple enemies at once, or snipe camp after camp.
+
+They also spent a lot of time making sure to not overdue the whole Greek monsters aspect. I didn't
+even realize they were in the game until I encountered my first one, and each of them that I fought
+felt like they were done with respect and not just to create another boss battle.
+
+I spent 85 hours in this game, and haven't been able to stop thinking about it. Kassandra was a
+delight to play, and I will be picking it up again. I rarely, if ever, want to continue an open-world
+game once I've completed the main story, and that speaks volumes.
+
+#### Awards
+
+* VA-11 HALL-A: Cyberpunk Bartender Action (Vita)
+  * :trophy: **Best Visual Novel** :trophy:
+  * :trophy: **So Good I Had to Play It Again** :trophy:
+* Wolfenstein 2: The New Colossus (PS4)
+  * :trophy: **Best Nazi-Stomping Game** :trophy:
+  * :trophy: **Biggest End Credits Surprise** :trophy:
+* Darkside Detective (Switch)
+  * :trophy: **Best X-Files Game** :trophy:
+* LEGO Marvel Super Heroes 2 (PS4)
+  * :trophy: **Best Squirrel Girl Game** :trophy:
+  * :trophy: **Most Stan Lee Predicaments** :trophy:
+* The Last of Us Remastered + DLC (PS4)
+  * :trophy: **Best Game I Waited Way Too Long to Play** :trophy:
+  * :trophy: **Best Naughty Dog Game** :trophy:
+* YAKUZA 0 (PS4)
+  * :trophy: **Best Game That Took Forever to Hook Me** :trophy:
+* Mega Man 11 (PS4)
+  * :trophy: **Best Improvements to a Series** :trophy:
+* Donut County (PS4/iOS)
+  * :trophy: **Best New Mechanic** :trophy:
+  * :trophy: **Best New Character (BK)** :trophy:
+* Yoku's Island Express (Switch) 
+  * :trophy: **Biggest Surprise** :trophy:
+* Uncharted: The Lost Legacy (PS4)
+  * :trophy: **Best Claudia Black Performance** :trophy:
+* Marvel's Spider-Man (PS4)
+  * :trophy: **Most Feels Felt** :trophy:
+  * :trophy: **Best Laura Bailey Performance** :trophy:
+  * :trophy: **Best Story** :trophy:
+  * :trophy: **Best Post-Credits Scene** :trophy:
+* Detroit: Become Human (PS4)
+  * :trophy: **Best Ship (Connor :cupid: Hank)** :trophy:
+  * :trophy: **Best Tracking of Unlocked Options** :trophy:
+  * :trophy: **Most Unpredictable Outcomes from Dialogue Choices** :trophy:
+* Shadow of the Tomb Raider (PS4)
+  * :trophy: **Best Callbacks to Games in the Series** :trophy:
+* Assassin's Creed: Origins (PS4)
+  * :trophy: **Best Story in an Assassin's Creed Game** :trophy:
+  * :trophy: **Best Character I Wish I Could Have Played (Aya)** :trophy:
+  * :trophy: **Tie: Best Protagonist in an Assassin's Creed Game (Bayak)** :trophy:
+* Assassin's Creed Odyssey (PS4)
+  * :trophy: **Most Fun in an Assassin's Creed Game** :trophy:
+  * :trophy: **Most Time Spent in an Assassin's Creed Game (85 Hours)** :trophy:
+  * :trophy: **Best Locations** :trophy:
+  * :trophy: **Best Combat** :trophy:
+  * :trophy: **Tie: Best Protagonist in an Assassin's Creed Game (Kassandra)** :trophy:
 
 <a name='goty-2017'></a>
 
@@ -244,4 +322,5 @@ Yenefer and Ciri.
 [persona-4]: #persona-4
 [goty-2016]: #goty-2016
 [goty-2017]: #goty-2017
+[goty-2018]: #goty-2018
 [random-thoughts]: #random-thoughts
