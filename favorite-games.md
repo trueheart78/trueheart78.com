@@ -68,6 +68,8 @@ Here's a taste of the goodness that is the intro video.
 
 ### Horizon: Zero Dawn
 
+![Horizon Zero Dawn - Aloy Scouting][hzd-aloy-scouting]
+
 Not quite sure where this game goes on my overall list of favorites ever. For a
 2017 game though, it's going to take a lot to challenge it for GotY. Oh yeah, and
 it's only March...
@@ -330,3 +332,4 @@ Yenefer and Ciri.
 [random-thoughts]: #random-thoughts
 [ac-odyssey-kassandra]: /assets/images/favorites/ac-odyssey-kassandra.png
 [hzd-aloy-thunderjaw]: /assets/images/favorites/hzd-aloy-thunderjaw.png
+[hzd-aloy-scouting]: /assets/images/favorites/hzd-aloy-scouting.png
