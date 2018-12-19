@@ -6,7 +6,7 @@ customnav: games_nav.html
 customjs:
 - random_game.js
 - random_name.js
-update: 2018-12-18
+update: 2018-12-19
 ---
 
 <a name='currently-playing'></a>
@@ -18,6 +18,7 @@ update: 2018-12-18
 
 1. Gravity Rush 2 (PS4) [34hr est] <!-- mc:80 -->
    * I didn't know I needed this. :sparkling_heart:
+1. Hitman 2 (PS4)
 1. Road Rash (PS1)
 1. Battle Chef Brigade (Switch) [9.5hr est] <!-- mc:81 -->
 
@@ -288,10 +289,10 @@ _TBD_
 
 See the [New Releases Wiki][new-releases]. Sorted by release date.
 
-1. Hitman 2 (PS4) - Day One
-   * November 13th
-1. Persona 5: Dancing in Starlight (PS4/Vita) - Wait and See
+1. ~~Persona 5: Dancing in Starlight (PS4/Vita)~~ [skipped]
    * December 4th
+1. ~~Hitman 2 (PS4)~~ [purchased]
+   * November 13th
 1. ~~Red Dead Redemption 2 (PS4) [gifted]~~
    * October 26th
 1. ~~Assassin's Creed Odyssey (PS4)~~ [pre-ordered]
