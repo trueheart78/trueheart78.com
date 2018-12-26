@@ -2,7 +2,7 @@
 layout: page
 title: Now
 permalink: /now/
-update: 2018-12-19
+update: 2018-12-25
 ---
 
 I'm currently living in Ohio, working remote for [CoverMyMeds](http://covermymeds.com) as a software developer.
@@ -12,7 +12,6 @@ I'm currently living in Ohio, working remote for [CoverMyMeds](http://covermymed
 #### :eyes: Focused
 
 * _Gravity Rush 2_ on PS4.
-* _Hitman 2_ on PS4.
 * _Road Rash_ on PS1.
 * _Battle Chef Brigade_ on Switch.
 * _Octopath Traveler_ on Switch.
@@ -61,6 +60,7 @@ I'm currently living in Ohio, working remote for [CoverMyMeds](http://covermymed
 
 ## :scroll: History for 2018
 
+* Played _Hitman 2_ on PS4.
 * Played _Dragon Quest XI_ on PS4.
 * Played _Life is Strange 2: Episode 1_ on PS4.
 * Played _Pokémon Platinum_ on DS.

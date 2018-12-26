@@ -6,7 +6,7 @@ customnav: games_nav.html
 customjs:
 - random_game.js
 - random_name.js
-update: 2018-12-19
+update: 2018-12-25
 ---
 
 <a name='currently-playing'></a>
@@ -18,7 +18,6 @@ update: 2018-12-19
 
 1. Gravity Rush 2 (PS4) [34hr est] <!-- mc:80 -->
    * I didn't know I needed this. :sparkling_heart:
-1. Hitman 2 (PS4)
 1. Road Rash (PS1)
 1. Battle Chef Brigade (Switch) [9.5hr est] <!-- mc:81 -->
 
@@ -243,6 +242,12 @@ _TBD_
    * Epic battles with some great creatures, not just some throw aways.
    * Played for 85 hours :open_mouth:, and I agree that it should have been shorter :hourglass:.
    * Grade: A+
+1. Hitman 2 (PS4)
+   * Fun but not as fun as the first game. 
+   * Maps are huge. 
+   * Would have liked it more if I watched others play it, like GiantBomb. 
+   * Grade: C+
+
 
 <!-- beaten:end -->
 <a name='jettisoned'></a>
