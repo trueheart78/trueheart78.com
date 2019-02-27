@@ -2,7 +2,7 @@
 layout: page
 title: Resume
 permalink: /resume/
-update: 2018-08-30
+update: 2019-02-27
 ---
 
 # Hi, I'm Josh.
@@ -42,10 +42,10 @@ development skills.
 
 ![refresh if you don't see a 'taylor swift whats up.gif'][taylor-whats-up]
 
-* Five years of Ruby.
-* Five years of being a huge Taylor Swift fan.
+* Six years of Ruby.
+* Six years of being a huge Taylor Swift fan.
 * Thirteen years of PHP, MySQL, and JavaScript.
-* Ten years of managing critical on-line systems.
+* Eleven years of managing critical on-line systems.
 
 ## Side Projects
 
@@ -114,7 +114,6 @@ A Ruby application with the Sinatra framework that accesses the `/games` endpoin
 uses Nokogiri to parse lists, caches it in Redis for five minutes, and returns a randomly selected
 title.
 
-* Site: [blog.trueheart78.com/games#unplayed][game-selector-example]
 * Source: [GitHub][game-selector-source]
 
 ### Dead To Us :skull:
@@ -130,21 +129,33 @@ times.
 
 This consists of an AWS Lambda that I wrote in Go, and a web page on AWS S3 that interacted with it
 using an AWS API Gateway endpoint. They don't talk to each other anymore now that the showtime has
-passed, but I'm keeping it around for the next one.
+passed, but I'm keeping it around for the next one. :microphone:
 
 * Site: [timetotaylor.com][time-to-taylor]
 * API Endpoint: [time-to-taylor-endpoint][time-to-taylor-endpoint]
 * Site Source: [GitHub][time-to-taylor-html-source]
 * Lambda Source: [GitHub][time-to-taylor-go-source]
 
-### Alexa Alerter :rotating_light:
+### Go! Call Me (Maybe)! :rotating_light:
 
-A Ruby application with the Sinatra framework that receives a message from an Alexa skill (_"tell
-Josh I need them"_), and uses Twilio to both call and text me.
+Originally a Sinatra-based Ruby application called _Alexa Alerter_, I converted this into a Go-based
+binary that works with Twilio and can be uploaded to the AWS Lambda service, with environment
+variables controlling some of the features. It then can have an Alexa-based skill pointed towards it,
+enabling features like, "tell Josh I need him".
 
-* Source: [GitHub][alexa-alerter-source]
+* Go Source: [GitHub][go-call-me-maybe]
+* Ruby Source: [GitHub][alexa-alerter-source]
 
-### Alexa Food Tracker (WIP) :spaghetti:
+### Go! Call Me Notifier :pager:
+
+Since I always have my watch or phone on vibrate when I'm working (and often charging at that time),
+I tend to miss an alert from the above *Alexa Alerter*. To fix that, I developed a Go program that
+subscribes to the remote Redis server, which then pings me on my MacOS desktop that my attention is
+needed.
+
+* Source: [GitHub][go-call-me-notifier]
+
+### Alexa Food Tracker (WIP) :hamburger:
 
 A Ruby application with the Sinatra framework that will integrate with an Alexa skill to provide
 answers to questions like, "What do we have for snacks?", and "What do we have for dinner?".
@@ -159,7 +170,7 @@ just use Rails' CRUD for now._
 
 ![refresh if you don't see 'taylor swift epic.gif'][taylor-epic]
 
-### Turbolinks
+### Turbolinks :zap:
 
 Discovered an IE8-related bug in Turbolinks and submitted a PR to the project. It was merged later that same day.
 
@@ -171,13 +182,13 @@ Discovered an IE8-related bug in Turbolinks and submitted a PR to the project. I
 
 ![refresh if you don't see a 'taylor mountain.gif'][taylor-mountain]
 
-### CoverMyMeds (2015 to present)
+### CoverMyMeds (2015 to present) :pill:
 
 * Mentored multiple software apprentices.
 * Ushered in a gif revolution.
 * Primary maintainer for the JWT authentication projects.
 
-### Vya (2007 to 2015)
+### Vya (2007 to 2015) :envelope:
 
 #### Senior Software Developer (2010 to 2015)
 
@@ -221,7 +232,6 @@ Associate of Computer Science in Software Applications and Programming, ITT Tech
 [book-notes-source]: https://github.com/trueheart78/book-notes
 [book-notes-generator-source]: https://github.com/trueheart78/book-notes-generator
 [dotfiles-source]: https://github.com/trueheart78/dotfiles
-[game-selector-example]: http://blog.trueheart78.com/games/#unplayed
 [game-selector-source]: https://github.com/trueheart78/game-selector
 [dead-to-us]: https://www.deadtous.com/
 [dead-to-us-source]: https://github.com/trueheart78/dead-to-us-html
@@ -230,6 +240,8 @@ Associate of Computer Science in Software Applications and Programming, ITT Tech
 [time-to-taylor-html-source]: https://github.com/trueheart78/timeToTaylor.com
 [time-to-taylor-go-source]: https://github.com/trueheart78/timeToTaylor
 [alexa-alerter-source]: https://github.com/trueheart78/alexa-alerter
+[go-call-me-maybe]: https://github.com/trueheart78/go-call-me-maybe
+[go-call-me-notifier]: https://github.com/trueheart78/go-call-me-notifier
 [alexa-food-tracker-source]: https://github.com/trueheart78/alexa-food-tracker
 [github]: https://github.com/trueheart78
 [turbolinks-pr]: https://github.com/turbolinks/turbolinks/pull/284
