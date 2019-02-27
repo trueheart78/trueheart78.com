@@ -202,7 +202,7 @@ Discovered an IE8-related bug in Turbolinks and submitted a PR to the project. I
 * Migrated the marketing portal codebase to from Mac OS X Server to Windows Server 2008, in production.
 * Introduced the use of coding standards.
 
-### Self-Employed Contractor (2004 to 2007)
+### Self-Employed Contractor (2004 to 2007) :house:
 
 * Maintained the _Advanced Office System (AOS)_ REALTOR-focused showing system.
 * Worked with REALTOR-based listing services to create custom data imports for clients.
@@ -214,7 +214,9 @@ Discovered an IE8-related bug in Turbolinks and submitted a PR to the project. I
 
 ![refresh if you don't see a 'taylor swift studying.gif'][taylor-studying]
 
-Associate of Computer Science in Software Applications and Programming, ITT Technical Institute, 2004
+### ITT Technical Institute :mortar_board:
+
+Associate of Computer Science in Software Applications and Programming
 
 ## Thanks for Reading!
 
