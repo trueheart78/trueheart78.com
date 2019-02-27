@@ -5,7 +5,7 @@ permalink: /resume/
 update: 2019-02-27
 ---
 
-# Hi, I'm Josh.
+# Hi, I'm Josh. :wave:
 
 [Strengths](#strengths) |
 [Experience](#experience) |
@@ -22,7 +22,7 @@ make others smile :smile:.
 I'm looking for a light-hearted, collaborative team, that could benefit from my strong back-end
 development skills.
 
-## Strengths
+## Strengths :muscle:
 
 [:back: to the top][top]
 
@@ -36,7 +36,7 @@ development skills.
 * I desire to contribute to open source.
 * I was called "Gif Captain" by my manager.
 
-## Experience
+## Experience :scroll:
 
 [:back: to the top][top]
 
@@ -47,7 +47,7 @@ development skills.
 * Thirteen years of PHP, MySQL, and JavaScript.
 * Eleven years of managing critical on-line systems.
 
-## Side Projects
+## Side Projects :wrench:
 
 [:back: to the top][top]
 
@@ -55,7 +55,7 @@ development skills.
 
 I’ve written some fun things over the past few years.
 
-### I :heart: Ruby
+### I :heart: Ruby :ledger:
 
 My somewhat active blog. I post about development-related topics, from Ruby and Rails, to Heroku
 and command-line tools. Uses Jekyll so I only have to use markdown, and is hosted on GitHub pages.
@@ -63,7 +63,7 @@ and command-line tools. Uses Jekyll so I only have to use markdown, and is hoste
 * Site: [iheartruby.com][iheartruby]
 * Source: [GitHub][iheartruby-source]
 
-### Dropbox Gif Linker (Formerly my Gifs Gem) :gem:
+### Dropbox Gif Linker :link:
 
 I have a lot of gifs in my Dropbox, so I wanted a simpler way to get a publicly viewable URL. It
 connects to Dropbox’s api and creates a public share, caches that in a key-value store (in said
@@ -164,7 +164,7 @@ just use Rails' CRUD for now._
 
 * Source: [GitHub][alexa-food-tracker-source]
 
-## Open Source Contributions
+## Open Source Contributions :octocat:
 
 [:back: to the top][top]
 
@@ -176,7 +176,7 @@ Discovered an IE8-related bug in Turbolinks and submitted a PR to the project. I
 
 * Pull request: [GitHub][turbolinks-pr]
 
-## Work History
+## Work History :office:
 
 [:back: to the top][top]
 
@@ -208,7 +208,7 @@ Discovered an IE8-related bug in Turbolinks and submitted a PR to the project. I
 * Worked with REALTOR-based listing services to create custom data imports for clients.
 * Created an integrated online support system for managing user-submitted tickets.
 
-## Education
+## Education :apple:
 
 [:back: to the top][top]
 
@@ -218,7 +218,7 @@ Discovered an IE8-related bug in Turbolinks and submitted a PR to the project. I
 
 Associate of Computer Science in Software Applications and Programming
 
-## Thanks for Reading!
+## Thanks for Reading! :sparkling_heart:
 
 [:back: to the top][top]
 
