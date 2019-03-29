@@ -2,7 +2,7 @@
 layout: page
 title: Resume
 permalink: /resume/
-update: 2019-02-27
+update: 2019-03-29
 ---
 
 # Hi, I'm Josh. :wave:
@@ -43,6 +43,7 @@ development skills.
 ![refresh if you don't see a 'taylor swift whats up.gif'][taylor-whats-up]
 
 * Six years of Ruby.
+* One year of Go.
 * Six years of being a huge Taylor Swift fan.
 * Thirteen years of PHP, MySQL, and JavaScript.
 * Eleven years of managing critical on-line systems.
