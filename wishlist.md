@@ -2,24 +2,26 @@
 layout: page
 title: Wishlist
 permalink: /wishlist/
-update: 2017-01-20
+update: 2019-09-18
 ---
 
 [My Amazon Wishlist][amazon-wishlist] is a great place to check for recent updates. 
 
-## General
-
-1. [Elspeth Shirt: Eat Donuts Everyday - $20][elspeth-shirt] [_Online Only_]
-   - Blue Mens XL
-
 ## Gaming
 
-_Nothing to see here._
+1. [Nintendo Switch Halloween Controllers - $80][switch-spooky]
+  - Love the neon purple and orange, totally my colors.
+1. [Control (PS4) - $50][control-ps4]
+  - Want to play this by the end of the year.
+
+## Motorcycle
+
+1. [DAINESE Full Metal 6 Gloves (Medium) - $315][dainese-gloves]
+  - Yes, they are expensive. It doesn't mean I don't want them. They are wonderful.
 
 ## Gift Cards / If All Else Fails
 
 1. Amazon Gift Cards :sparkling_heart:
-   - Last year they allowed me to purchase some amazing headphones.
 
 ## Art & Prints
 
@@ -28,14 +30,9 @@ _Nothing to see here._
 
 [print-order]: http://exocomics.com/store/prints
 [comic-481]: http://exocomics.com/481
-[tracer-mug]: https://gear.blizzard.com/us/overwatch-tracer-mug
 [xkcd-print]: https://store.xkcd.com/products/signed-prints
 [tswift-calendar]: https://www.amazon.com/Monthly-Calendar-Songwriter-Celebrity-Multilingual/dp/1465091335
-[elspeth-shirt]: https://www.amazon.com/dp/B076CQM6C7/
-[ds4-adapter]: https://www.amazon.com/gp/product/B01KWLKKQU
-[amazon-wishlist]: https://www.amazon.com/gp/registry/wishlist/1P3O0QFXP9NRT
-[mario-and-rabbids]: https://www.amazon.com/dp/B071JRMKBH/
-[switch wishlist]: https://www.amazon.com/gp/registry/wishlist/1P3O0QFXP9NRT
-[snes-wireless]: https://www.amazon.com/gp/product/B074HBNNH6k0
-[cox-n-crendor]: https://theyetee.com/products/cox-n-crendor
-
+[amazon-wishlist]: https://www.amazon.com/hz/wishlist/ls/6O11CFXI277L?ref_=wl_share
+[dainese-gloves]: https://www.dainese.com/us/en/motorbike/gloves/leather/full-metal-6-gloves-201815895.html?dwvar_201815895_color=BLACK%2FBLACK%2FFLUO-YELLOW&cgid=motorbike-gloves-leather#
+[control-ps4]: https://www.amazon.com/Control-PlayStation-4/dp/B07DPJ3LZQ
+[switch-spooky]: https://www.amazon.com/dp/B07VHR4Y8G/
