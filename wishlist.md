@@ -2,15 +2,13 @@
 layout: page
 title: Wishlist
 permalink: /wishlist/
-update: 2019-09-18
+update: 2019-10-14
 ---
 
 [My Amazon Wishlist][amazon-wishlist] is a great place to check for recent updates. 
 
 ## Gaming
 
-1. [Nintendo Switch Halloween Controllers - $80][switch-spooky]
-  - Love the neon purple and orange, totally my colors.
 1. [Control (PS4) - $50][control-ps4]
   - Want to play this by the end of the year.
 
@@ -35,4 +33,3 @@ update: 2019-09-18
 [amazon-wishlist]: https://www.amazon.com/hz/wishlist/ls/6O11CFXI277L?ref_=wl_share
 [dainese-gloves]: https://www.dainese.com/us/en/motorbike/gloves/leather/full-metal-6-gloves-201815895.html?dwvar_201815895_color=BLACK%2FBLACK%2FFLUO-YELLOW&cgid=motorbike-gloves-leather#
 [control-ps4]: https://www.amazon.com/Control-PlayStation-4/dp/B07DPJ3LZQ
-[switch-spooky]: https://www.amazon.com/dp/B07VHR4Y8G/
