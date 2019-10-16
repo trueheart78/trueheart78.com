@@ -2,14 +2,18 @@
 layout: page
 title: Wishlist
 permalink: /wishlist/
-update: 2019-10-14
+update: 2019-10-16
 ---
 
 **[My Amazon Wishlist][amazon-wishlist]** is a great place to check for recent updates. 
 
+## Figurines
+
+1. [RWBY Series 4 Ruby Figure - $27][rwby-ruby]
+
 ## Gaming
 
-1. [Control (PS4) - $50][control-ps4]
+1. [Control (PS4) - $35 to $50][control-ps4]
   - Want to play this by the end of the year.
 
 ## Motorcycle
@@ -33,3 +37,4 @@ update: 2019-10-14
 [amazon-wishlist]: https://www.amazon.com/hz/wishlist/ls/6O11CFXI277L?ref_=wl_share
 [dainese-gloves]: https://www.dainese.com/us/en/motorbike/gloves/leather/full-metal-6-gloves-201815895.html?dwvar_201815895_color=BLACK%2FBLACK%2FFLUO-YELLOW&cgid=motorbike-gloves-leather#
 [control-ps4]: https://www.amazon.com/Control-PlayStation-4/dp/B07DPJ3LZQ
+[rwby-ruby]: https://store.roosterteeth.com/collections/rwby/products/rwby-series-4-ruby-figure
