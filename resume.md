@@ -2,7 +2,7 @@
 layout: page
 title: Resume
 permalink: /resume/
-update: 2019-03-29
+update: 2019-10-16
 ---
 
 # Hi, I'm Josh. :wave:
@@ -177,6 +177,16 @@ Discovered an IE8-related bug in Turbolinks and submitted a PR to the project. I
 
 * Pull request: [GitHub][turbolinks-pr]
 
+### Stoplight Admin :traffic_light:
+
+Found two bugs in the project related to a previous user's PR. One related to support for Redis
+version dependency being increased when it made no sense, the other related to missing library
+support for `sinatra/json`. Not only were both the bugs fixed, but I also introduced tests into the
+project to make sure that at least the core framework would load with issue.
+
+* Redis Pull Request: [GitHub][stoplight-redis-pr]
+* Tests Pull Request: [GitHub][stoplight-tests-pr]
+
 ## Work History :office:
 
 [:back: to the top][top]
@@ -248,6 +258,8 @@ Associate of Computer Science in Software Applications and Programming
 [alexa-food-tracker-source]: https://github.com/trueheart78/alexa-food-tracker
 [github]: https://github.com/trueheart78
 [turbolinks-pr]: https://github.com/turbolinks/turbolinks/pull/284
+[stoplight-redis-pr]: https://github.com/orgsync/stoplight-admin/pull/24
+[stoplight-tests-pr]: https://github.com/orgsync/stoplight-admin/pull/26
 [php-cert]: http://www.zend.com/en/yellow-pages/ZEND022958
 [contact-converter]: https://github.com/trueheart78/Contacts-To-PDF
 [caring-for-karen]: https://caringforkarensue.com/
