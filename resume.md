@@ -235,7 +235,7 @@ Associate of Computer Science in Software Applications and Programming
 
 ![refresh if you don't see a 'taylor heart.gif'][taylor-heart]
 
-[top]: #hi-im-josh
+[top]: #hi-im-josh-wave
 [iheartruby]: http://iheartruby.com
 [iheartruby-source]: https://github.com/trueheart78/trueheart78.github.io
 [dropbox-gif-linker-source]: https://github.com/trueheart78/dropbox-gif-linker
