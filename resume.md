@@ -179,10 +179,10 @@ Discovered an IE8-related bug in Turbolinks and submitted a PR to the project. I
 
 ### Stoplight Admin :traffic_light:
 
-Found two bugs in the project related to a previous user's PR. One related to support for Redis
+Found two bugs in the project related to a previous user's PR. One related to support for the Redis
 version dependency being increased when it made no sense, the other related to missing library
 support for `sinatra/json`. Not only were both the bugs fixed, but I also introduced tests into the
-project to make sure that at least the core framework would load with issue.
+project to make sure that at least the core framework would load without issue.
 
 * Redis Pull Request: [GitHub][stoplight-redis-pr]
 * Tests Pull Request: [GitHub][stoplight-tests-pr]
