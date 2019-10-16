@@ -7,12 +7,12 @@ update: 2019-10-16
 
 # Hi, I'm Josh. :wave:
 
-[Strengths](#strengths) |
-[Experience](#experience) |
-[Side Projects](#side-projects) |
-[Open Source](#open-source-contributions) |
-[Work History](#work-history) |
-[Education](#education)
+[Strengths](#strengths-muscle) |
+[Experience](#experience-scroll) |
+[Side Projects](#side-projects-wrench) |
+[Open Source](#open-source-contributions-octocat) |
+[Work History](#work-history-office) |
+[Education](#education-apple)
 
 ![refresh if you don't see a 'taylor waving.gif'][taylor-hi]
 
