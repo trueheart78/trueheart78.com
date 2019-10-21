@@ -2,7 +2,7 @@
 layout: page
 title: Wishlist
 permalink: /wishlist/
-update: 2019-10-16
+update: 2019-10-21
 ---
 
 **[My Amazon Wishlist][amazon-wishlist]** is a great place to check for recent updates. 
@@ -34,7 +34,7 @@ update: 2019-10-16
 [comic-481]: http://exocomics.com/481
 [xkcd-print]: https://store.xkcd.com/products/signed-prints
 [tswift-calendar]: https://www.amazon.com/Monthly-Calendar-Songwriter-Celebrity-Multilingual/dp/1465091335
-[amazon-wishlist]: https://www.amazon.com/hz/wishlist/ls/6O11CFXI277L?ref_=wl_share
+[amazon-wishlist]: https://www.amazon.com/hz/wishlist/ls/6O11CFXI277L?type=wishlist&filter=unpurchased&sort=priority
 [dainese-gloves]: https://www.dainese.com/us/en/motorbike/gloves/leather/full-metal-6-gloves-201815895.html?dwvar_201815895_color=BLACK%2FBLACK%2FFLUO-YELLOW&cgid=motorbike-gloves-leather#
 [control-ps4]: https://www.amazon.com/Control-PlayStation-4/dp/B07DPJ3LZQ
 [rwby-ruby]: https://store.roosterteeth.com/collections/rwby/products/rwby-series-4-ruby-figure
