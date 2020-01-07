@@ -1,12 +1,12 @@
 ---
 layout: page
-title: Games
-permalink: /games/
+title: Games (2019)
+permalink: /games-2019/
 customnav: games_nav.html
 customjs:
 - random_game.js
 - random_name.js
-update: 2020-01-07
+update: 2019-12-31
 ---
 
 <a name='currently-playing'></a>
@@ -16,15 +16,14 @@ update: 2020-01-07
 
 #### :eyes: Focused
 
-1. Control (PS4)
-1. Final Fantasy 7 (NS)
-1. Trine 2: Complete Story (NS)
-
-#### :traffic_light: Started and Need to Finish
-
 1. Assassin's Creed: Odyssey (PS4)
    * Loving the replay of my 2018 GotY.
    * Just have the last set of DLC to play through.
+1. Trine 2: Complete Story (NS)
+1. Control (PS4)
+
+#### :traffic_light: Started and Need to Finish
+
 1. Battle Chef Brigade (NS) [9.5hr est]
 1. Bayonetta (NS) [12.5hr est]
 1. Beat Cop (NS)
@@ -44,14 +43,11 @@ update: 2020-01-07
 1. Ape Out (NS)
 1. Bayonetta 2 (NS) [11hr est]
 1. Blackhole (PS4)
-1. Final Fantasy VIII (NS)
-1. Final Fantasy IX (NS)
 1. Final Fantasy XV (PS4)
 1. Floor Kids (NS) [3.5hr est]
 1. Gato Roboto (NS)
 1. God of War (2018) (PS4) [19.5hr est]
 1. Horizon: Zero Dawn DLC (PS4) [10hr est]
-1. Indivisible (PS4)
 1. Judgement (PS4)
 1. Mario + Rabbids: Kingdom Battle - Donkey Kong Adventure DLC (NS) [9hr est]
 1. Mario vs. Donkey Kong 2: March of the Minis (DS) [4.5hr est]
@@ -62,6 +58,7 @@ update: 2020-01-07
 1. Sayonara: Wild Hearts (NS)
 1. Shadow of the Colossus (PS4) [9hr est]
 1. South Park: The Fractured But Whole (NS)
+1. South Park: The Stick of Truth (NS)
 1. Steamworld Heist (NS)
 1. Untitled Goose Game (NS)
 1. Wandersong (NS)
@@ -128,7 +125,32 @@ _TBD_
 
 ## :checkered_flag: Beaten
 
-_TBD_
+1. Shakedown: Hawaii (NS)
+   * A fun, overhead-style GTA game that doesn't take itself too seriously.
+1. Katana Zero (NS)
+   * Really enjoyed the style (music, colors, VHS, etc).
+   * Combat was very fun.
+   * Story was quite intriguing.
+   * Very few dull moments.
+1. Zelda: Link's Awakening (NS)
+   * Beat on standard and hard mode.
+   * Fun, but more obtuse than what I expected (see Eagle Tower).
+   * Overall, a good time, but would have preferred a sale.
+1. Neo Cab (NS)
+   * Interesting concept.
+   * Endings were not strong.
+1. Trine: Enchanted Edition (NS)
+   * Enjoyed a decent amount.
+1. Fire Emblem: Three Houses (NS)
+   * Spent 164 hours across three play throughs.
+   * Adored the interactions with support characters.
+   * Enjoyed it so much I upgraded my Switch for better battery life.
+1. Star Wars: Jedi - Fallen Order (PS4)
+   * A throwback to the good lightsaber fighting games of old.
+   * A fantastic story told quite well.
+   * New cannonical characters that I hope to see more of (Merrin, mainly).
+   * An enjoyable skill tree that didn't feel limiting.
+   * Lots of exploration.
 
 <!-- beaten:end -->
 
@@ -152,30 +174,22 @@ _TBD_
 
 See the [New Releases Wiki][new-releases]. Sorted by release date.
 
-1. Final Fantasy VII Remake (PS4) [3/6/20]
-1. Doom Eternal (PS4) [3/20/20]
-1. Cyberpunk 2077 (PS4) [4/16/20]
-1. Trials of Mana (PS4/NS) [4/24/20]
-1. The Last of Us Part II (PS4) [5/29/20]
+1. Cyberpunk 2077 (PS4) - Day One
+1. Spelunky 2 (PS4)
 
-## :moneybag: Planned Purchases (Hopefully in 2020)
+## :moneybag: Planned Purchases (Hopefully in 2019)
 
 See the [Games in Development Wiki][games-in-development]
 
 1. Bayonetta 3 (NS)
 1. Beyond Good and Evil 2 (PS4)
-1. Disco Elysium (PS4/PC)
+1. Death Stranding (PS4)
 1. Metroid Prime 4 (NS)
-1. No More Heroes III (NS)
-1. Spelunky 2 (PS4)
-1. System Shock (PS4)
-1. Vampire: The Masquerade – Bloodlines 2 (PS4)
-1. Vampire: The Masquerade – Coteries of New York (PS4/NS)
-1. Watch Dogs: Legion (PS4/PS5)
+1. Resident Evil 2 Remake (PS4)
 
 ## :dollar: Planned Purchases (Previously Released)
 
-1. _TBD_
+1. _TBD_.
 
 <!-- planned-purchases:end -->
 
@@ -195,7 +209,7 @@ rid of stuff that you aren't."_ - Me
 + I should not buy DLC until I am ready to play it.
 + I stop playing open world games when I complete the main story.
 
-[new-releases]: https://en.wikipedia.org/wiki/2020_in_video_gaming#Game_releases
+[new-releases]: https://en.wikipedia.org/wiki/2019_in_video_gaming#Game_releases
 [games-in-development]: https://en.wikipedia.org/wiki/List_of_video_games_in_development
 [notes-to-self]: #notes-to-self
 [currently-playing]: #currently-playing

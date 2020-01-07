@@ -2,9 +2,10 @@
 layout: page
 title: Favorite Games
 permalink: /favorite-games/
-update: 2018-12-18
+update: 2020-01-07
 ---
 
++ [Game of the Year 2019][goty-2019]
 + [Game of the Year 2018][goty-2018]
 + [Game of the Year 2017][goty-2017]
 + [Game of the Year 2016][goty-2016]
@@ -100,6 +101,12 @@ My bullet points, until I get to writing up something more proper:
 + Lance Reddick was a great addition.
 + Strong women throughout the game. 
 
+### Fire Emblem: Three Houses
+
+![Fire Emblem - All Three Leaders][fe3h-all-3]
+
+See GotY 2019 :sparkling_heart:
+
 <a name='random-thoughts'></a>
 
 ### Random Thoughts for 2017 Games
@@ -116,6 +123,38 @@ My bullet points, until I get to writing up something more proper:
   + Master Mode completed.
 
 ### Game of the Year
+
+<a name='goty-2019'></a>
+
+### :scroll: 2019
+
+### :trophy: Fire Emblem: Three Houses (NS) :trophy: **Game of the Year** :trophy:
+
+![Fire Emblem - Byleth Main][fe3h-all-3-fan]
+
+Rarely does a game come out that I have zero anticipation for that captures my attention as quickly
+as Three Houses did. It came out, I knew little about it, but I was enticed enough to purchase
+it digitally, and after 165 hours across 3 of the storylines, I can say without a doubt that it
+was my favorite game of the year.
+
+This was a game that made me want to upgrade my console when the revised Switch with better
+battery life was announced, because I could barely get 2 hours in handheld mode. It bumped up
+to over 4 hours after the upgrade and I don't regret it one bit.
+
+#### Awards
+
+* Assassin's Creed Odyssey (PS4)
+  * :trophy: **2018's Game of 2019** :trophy:
+* Fire Emblem: Three Houses (NS)
+  * :trophy: **Most Romances** :trophy:
+  * :trophy: **Most Playthroughs** :trophy:
+* Katana Zero (NS)
+  * :trophy: **Best Soundtrack** :trophy:
+  * :trophy: **Best Style** :trophy:
+* Star Wars: Jedi - Fallen Order (PS4)
+  * :trophy: **Best Lightsabre Combat** :trophy:
+  * :trophy: **Best Star Wars Story** :trophy:
+  * :trophy: **Favorite New Character: Nightsister Merrin** :trophy:
 
 <a name='goty-2018'></a>
 
@@ -329,7 +368,10 @@ Yenefer and Ciri.
 [goty-2016]: #goty-2016
 [goty-2017]: #goty-2017
 [goty-2018]: #goty-2018
+[goty-2019]: #goty-2019
 [random-thoughts]: #random-thoughts
 [ac-odyssey-kassandra]: /assets/images/favorites/ac-odyssey-kassandra.png
 [hzd-aloy-thunderjaw]: /assets/images/favorites/hzd-aloy-thunderjaw.png
 [hzd-aloy-scouting]: /assets/images/favorites/hzd-aloy-scouting.png
+[fe3h-all-3]: /assets/images/favorites/fe3h-all-3.jpg
+[fe3h-all-3-fan]: /assets/images/favorites/fe3h-all-3-fan.jpg

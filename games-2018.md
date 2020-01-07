@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Games
-permalink: /games/
+title: Games (2018)
+permalink: /games-2018/
 customnav: games_nav.html
 customjs:
 - random_game.js

@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Games
+title: Games (2017)
 permalink: /games-2017/
 customnav: games_nav.html
 customjs:
