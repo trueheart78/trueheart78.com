@@ -2,21 +2,22 @@
 layout: page
 title: Now
 permalink: /now/
-update: 2019-11-28
+update: 2020-01-07
 ---
 
 I'm currently living in Ohio, working remote for [CoverMyMeds](http://covermymeds.com) as a software developer.
 
 ## :space_invader: Playing
 
+* _Control_ on PS4.
+* _Final Fantasy VII_ on Switch.
+
 #### Just Finished
 
-* _Fire Emblem: Three Houses_ on Switch.
-* _Star Wars Jedi: Fallen Order_ on PS4.
+* _South Park: The Stick of Truth_ on Switch.
 
 ## :book: Comics
 
-* Gwenpool
 * Jane Foster: Valkyrie
 * Saga
   + Reading book 6 of 9. :star: :star: :star: :star: :star:
