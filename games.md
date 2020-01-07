@@ -63,6 +63,7 @@ update: 2020-01-07
 1. Shadow of the Colossus (PS4) [9hr est]
 1. South Park: The Fractured But Whole (NS)
 1. Steamworld Heist (NS)
+1. Travis Strikes Again: No More Heroes (NS)
 1. Untitled Goose Game (NS)
 1. Wandersong (NS)
 1. WATCH_DOGS (PS4)
