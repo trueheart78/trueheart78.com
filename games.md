@@ -6,7 +6,7 @@ customnav: games_nav.html
 customjs:
 - random_game.js
 - random_name.js
-update: 2020-01-07
+update: 2020-01-22
 ---
 
 <a name='currently-playing'></a>
@@ -16,7 +16,7 @@ update: 2020-01-07
 
 #### :eyes: Focused
 
-1. Control (PS4)
+1. YAKUZA KIWAMI (PS4) [29.5hr est]
 1. Final Fantasy 7 (NS)
 1. Trine 2: Complete Story (NS)
 
@@ -68,7 +68,6 @@ update: 2020-01-07
 1. Wandersong (NS)
 1. WATCH_DOGS (PS4)
 1. West of Loathing (NS) [11.4hr est]
-1. YAKUZA KIWAMI (PS4) [29.5hr est]
 1. YAKUZA 6: The Song of Life (PS4)
 
 <!-- unplayed:end -->
@@ -138,12 +137,7 @@ _TBD_
 
 ## :rocket: Jettisoned
 
-1. Baba is You (NS)
-1. Captain Toad: Treasure Tracker (NS)
-1. Dark Souls (PS4)
-1. Disgaea 5: Complete Edition (NS) [67hr est]
-1. Hyrule Warriors: Definitive Edition (NS) [31hr est]
-1. Life is Strange 2 (PS4)
+1. Control (PS4)
 
 <!-- jettisoned:end -->
 <a name='planned-purchases'></a>
