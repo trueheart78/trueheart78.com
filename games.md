@@ -6,7 +6,7 @@ customnav: games_nav.html
 customjs:
 - random_game.js
 - random_name.js
-update: 2020-01-22
+update: 2020-01-25
 ---
 
 <a name='currently-playing'></a>
@@ -42,8 +42,12 @@ update: 2020-01-22
 :bangbang: Max of 3 flagged games to play next :bangbang:
 
 1. Ape Out (NS)
+1. Baldur's Gate (NS)
+1. Baldur's Gate 2 (NS)
 1. Bayonetta 2 (NS) [11hr est]
 1. Blackhole (PS4)
+1. Dishonored 2 (PS4)
+1. Dishonored 2: Death of the Outsider (PS4)
 1. Final Fantasy VIII (NS)
 1. Final Fantasy IX (NS)
 1. Final Fantasy XV (PS4)
@@ -51,6 +55,7 @@ update: 2020-01-22
 1. Gato Roboto (NS)
 1. God of War (2018) (PS4) [19.5hr est]
 1. Horizon: Zero Dawn DLC (PS4) [10hr est]
+1. Icewind Dale (NS)
 1. Indivisible (PS4)
 1. Judgement (PS4)
 1. Mario + Rabbids: Kingdom Battle - Donkey Kong Adventure DLC (NS) [9hr est]
@@ -58,6 +63,7 @@ update: 2020-01-22
 1. Mario vs. Donkey Kong 2: Mini-Land Mayhem (DS) [5hr est]
 1. New Super Mario Bros. (DS) [7hr est]
 1. Phoenix Wright: Ace Attorney Trilogy (NS)
+1. Planescape: Torment (NS)
 1. Resident Evil 2 (PS4)
 1. Sayonara: Wild Hearts (NS)
 1. Shadow of the Colossus (PS4) [9hr est]
