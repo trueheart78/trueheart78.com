@@ -2,7 +2,7 @@
 layout: page
 title: Resume
 permalink: /resume/
-update: 2019-10-16
+update: 2020-01-29
 ---
 
 # Hi, I'm Josh. :wave:
@@ -42,9 +42,10 @@ development skills.
 
 ![refresh if you don't see a 'taylor swift whats up.gif'][taylor-whats-up]
 
-* Six years of Ruby.
+* Seven years of Ruby.
+* Five years of Ruby on Rails.
 * One year of Go.
-* Six years of being a huge Taylor Swift fan.
+* Seven years of being a huge Taylor Swift fan.
 * Thirteen years of PHP, MySQL, and JavaScript.
 * Eleven years of managing critical on-line systems.
 
@@ -81,8 +82,11 @@ Originally written in Ruby, now written in Go.
 A charity-focused site, built in Ruby and using Sinatra as the web framework. I started this during
 my early days of Ruby.
 
+Currently reworking it into a Rails v5.2 site with a fresh design.
+
 * Site: [caringforkarensue.com][caringforkarensue]
 * Source: [GitHub][caringforkarensue-source]
+* Rails Source: [GitHub][caringforkarensue-rails-source]
 
 ### Book Notes :notebook:
 
@@ -242,6 +246,8 @@ Associate of Computer Science in Software Applications and Programming
 [gifs-gem-source]: https://github.com/trueheart78/gifs
 [caringforkarensue]: https://caringforkarensue.com
 [caringforkarensue-source]: https://github.com/trueheart78/CaringForKarenSue2014
+[caringforkarensue-rails]: https://caringforkarensue.com
+[caringforkarensue-rails-source]: https://github.com/trueheart78/CaringForKarenSue-Rails
 [book-notes-source]: https://github.com/trueheart78/book-notes
 [book-notes-generator-source]: https://github.com/trueheart78/book-notes-generator
 [dotfiles-source]: https://github.com/trueheart78/dotfiles
