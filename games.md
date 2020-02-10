@@ -6,7 +6,7 @@ customnav: games_nav.html
 customjs:
 - random_game.js
 - random_name.js
-update: 2020-01-25
+update: 2020-02-10
 ---
 
 <a name='currently-playing'></a>
@@ -30,8 +30,6 @@ update: 2020-01-25
 1. Beat Cop (NS)
 1. Gravity Rush 2 (PS4) [34hr est]
 1. Mario + Rabbids: Kingdom Battle (NS) [28hr est]
-1. Octopath Traveler (NS) [77hr est]
-   * Will likely spend a lot of time, but not as a completionist.
 
 <!-- playing:end -->
 <a name='unplayed'></a>
@@ -44,7 +42,6 @@ update: 2020-01-25
 1. Ape Out (NS)
 1. Baldur's Gate (NS)
 1. Baldur's Gate 2 (NS)
-1. Bayonetta 2 (NS) [11hr est]
 1. Blackhole (PS4)
 1. Dishonored 2 (PS4)
 1. Dishonored 2: Death of the Outsider (PS4)
@@ -57,14 +54,12 @@ update: 2020-01-25
 1. Horizon: Zero Dawn DLC (PS4) [10hr est]
 1. Icewind Dale (NS)
 1. Indivisible (PS4)
-1. Judgement (PS4)
 1. Mario + Rabbids: Kingdom Battle - Donkey Kong Adventure DLC (NS) [9hr est]
 1. Mario vs. Donkey Kong 2: March of the Minis (DS) [4.5hr est]
 1. Mario vs. Donkey Kong 2: Mini-Land Mayhem (DS) [5hr est]
 1. New Super Mario Bros. (DS) [7hr est]
 1. Phoenix Wright: Ace Attorney Trilogy (NS)
 1. Planescape: Torment (NS)
-1. Resident Evil 2 (PS4)
 1. Sayonara: Wild Hearts (NS)
 1. Shadow of the Colossus (PS4) [9hr est]
 1. South Park: The Fractured But Whole (NS)
@@ -84,7 +79,6 @@ update: 2020-01-25
 ## :heart_eyes: For Funsies
 <!-- <a href="javascript: randomGame('for-fun')" id="for-fun-link" title="Random selection" alt="Random selection">:dart:</a>-->
 
-1. Burnout Paradise: Remastered (PS4) [21.5hr est]
 1. Cities: Skylines (NS)
 1. Cook, Serve, Delicious! 2!! (NS)
 1. DiRT 4 (PS4) [52hr+ est]
@@ -143,7 +137,12 @@ _TBD_
 
 ## :rocket: Jettisoned
 
+1. Bayonetta 2 (NS) [11hr est]
+1. Burnout Paradise: Remastered (PS4) [21.5hr est]
 1. Control (PS4)
+1. Judgement (PS4)
+1. Octopath Traveler (NS) [77hr est]
+1. Resident Evil 2 (PS4)
 
 <!-- jettisoned:end -->
 <a name='planned-purchases'></a>
