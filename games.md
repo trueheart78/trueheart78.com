@@ -178,26 +178,25 @@ of games I have to play is oh so long._
 
 See the [New Releases Wiki][new-releases]. Sorted by release date.
 
-1. Final Fantasy VII Remake (PS4) [3/6/20]
-1. Doom Eternal (PS4) [3/20/20]
-1. Cyberpunk 2077 (PS4) [4/16/20]
+1. Doom Eternal (PS4/XB1) [3/20/20]
+1. Final Fantasy VII Remake (PS4) [4/10/20]
 1. Trials of Mana (PS4/NS) [4/24/20]
 1. The Last of Us Part II (PS4) [5/29/20]
+1. Cyberpunk 2077 (PS4/XB1) [9/17/20]
 
 ## :moneybag: Planned Purchases (Hopefully in 2020)
 
 See the [Games in Development Wiki][games-in-development]
 
-1. Bayonetta 3 (NS)
-1. Beyond Good and Evil 2 (PS4)
-1. Disco Elysium (PS4/PC)
+1. Beyond Good and Evil 2 (XB1)
+1. Disco Elysium (XB1/PC)
 1. Metroid Prime 4 (NS)
 1. No More Heroes III (NS)
-1. Spelunky 2 (PS4)
-1. System Shock (PS4)
-1. Vampire: The Masquerade – Bloodlines 2 (PS4)
-1. Vampire: The Masquerade – Coteries of New York (PS4/NS)
-1. Watch Dogs: Legion (PS4/PS5)
+1. Spelunky 2 (XB1)
+1. System Shock (XB1)
+1. Vampire: The Masquerade – Bloodlines 2 (XB1)
+1. Vampire: The Masquerade – Coteries of New York (XB1/NS)
+1. Watch Dogs: Legion (XB1)
 
 ## :dollar: Planned Purchases (Previously Released)
 
@@ -220,6 +219,8 @@ rid of stuff that you aren't."_ - Me
 
 + I should not buy DLC until I am ready to play it.
 + I stop playing open world games when I complete the main story.
++ I am bad at platformers, regardless of how much I enjoy watching them.
+  - See _Super Lucky's Tale_ and _Mario Maker 2_.
 
 [new-releases]: https://en.wikipedia.org/wiki/2020_in_video_gaming#Game_releases
 [games-in-development]: https://en.wikipedia.org/wiki/List_of_video_games_in_development
