@@ -6,7 +6,7 @@ customnav: games_nav.html
 customjs:
 - random_game.js
 - random_name.js
-update: 2020-02-16
+update: 2020-02-17
 ---
 
 <a name='currently-playing'></a>
@@ -17,13 +17,12 @@ update: 2020-02-16
 #### :eyes: Focused
 
 1. Knights of the Old Republic (XB1)
-1. Trine 2: Complete Story (NS)
-1. YAKUZA KIWAMI (PS4) [29.5hr est]
 
 #### :traffic_light: Started and Need to Finish
 
-1. Assassin's Creed: Odyssey (PS4)
-   * Just have the last set of DLC to play through.
+1. Assassin's Creed: Odyssey (PS4/XB1)
+   * Just have the last set of DLC to play through on PS4
+   * Re-purchased it again on Xbox One
 
 <!-- playing:end -->
 <a name='unplayed'></a>
@@ -36,10 +35,8 @@ update: 2020-02-16
 1. Ape Out (NS)
 1. Baldur's Gate (NS)
 1. Baldur's Gate 2 (NS)
-1. Devil May Cry 5 (XB1)
-   - Gamepass
-1. Dishonored 2 (XB1)
-   - Gamepass
+1. Devil May Cry 5 (XB1) _[gamepass]_
+1. Dishonored 2 (XB1) _[gamepass]_
 1. Dishonored 2: Death of the Outsider (PS4)
 1. Final Fantasy VIII (NS)
 1. Final Fantasy IX (NS)
@@ -47,32 +44,26 @@ update: 2020-02-16
 1. Floor Kids (NS) [3.5hr est]
 1. Gato Roboto (NS)
 1. God of War (2018) (PS4) [19.5hr est]
-1. Hellblade: Senua's Sacrifice (XB1)
-   - Gamepass
+1. Hellblade: Senua's Sacrifice (XB1) _[gamepass]_
 1. Horizon: Zero Dawn DLC (PS4) [10hr est]
 1. Icewind Dale (NS)
-1. Indivisible (XB1)
-   - Gamepass
+1. Indivisible (XB1) _[gamepass]_
 1. Knights of the Old Republic 2 (XB1)
-1. The Outer Worlds (XB1)
+1. The Outer Worlds (XB1) _[gamepass]_
 1. Phoenix Wright: Ace Attorney Trilogy (NS)
 1. Planescape: Torment (NS)
-1. Ruiner (XB1)
-   - Gamepass
+1. Ruiner (XB1) _[gamepass]_
 1. Sayonara: Wild Hearts (NS)
 1. Shadow of the Colossus (PS4) [9hr est]
 1. South Park: The Fractured But Whole (NS)
 1. Steamworld Heist (NS)
-1. Sunset Overdrive (XB1)
-   - Gamepass
-1. SUPER HOT (XB1)
-   - Gamepass
+1. Sunset Overdrive (XB1) _[gamepass]_
+1. SUPER HOT (XB1) _[gamepass]_
 1. Travis Strikes Again: No More Heroes (NS)
 1. Untitled Goose Game (NS)
 1. Wandersong (NS)
 1. West of Loathing (NS) [11.4hr est]
 1. The Witcher 2 (XB1)
-1. YAKUZA 6: The Song of Life (PS4)
 
 <!-- unplayed:end -->
 
@@ -82,8 +73,7 @@ update: 2020-02-16
 ## :heart_eyes: For Funsies
 <!-- <a href="javascript: randomGame('for-fun')" id="for-fun-link" title="Random selection" alt="Random selection">:dart:</a>-->
 
-1. Forza Horizon 4 (XB1)
-   - Gamepass
+1. Forza Horizon 4 (XB1) _[gamepass]_
 1. Gran Turismo SPORT (PS4)
 1. Road Rash (PS1/GEN)
 1. Slay the Spire (PC/NS)
@@ -157,18 +147,21 @@ of games I have to play is oh so long._
 1. New Super Mario Bros. (DS) [7hr est]
 1. Octopath Traveler (NS)
    - Nearly 3 years and I haven't gotten back to it.
-1. The Outer Wilds (XB1)
+1. The Outer Wilds (XB1)_[gamepass]_
    - I am finding casual exploration games harder to care about.
    - I still respect it, just didn't enjoy it as much as I had hoped I would.
-   - Gamepass
 1. Resident Evil 2 (PS4)
    - Just not for me.
-1. Super Lucky's Tale (XB1)
+1. Super Lucky's Tale (XB1)_[gamepass]_
    - Adorable, but I am apparently _turrible_ at platformers, both 2D and 3D.
    - Those load times. Oof.
-   - Gamepass
+1. Trine 2: Complete Story (NS)
+   - First one was fun enough for me.
 1. WATCH_DOGS (PS4)
    - Let's be honest, I'm not getting back to this.
+1. YAKUZA KIWAMI (PS4)
+   - Back in it and just not feeling the running around vibe.
+1. YAKUZA 6: The Song of Life (PS4)
 
 <!-- jettisoned:end -->
 <a name='planned-purchases'></a>

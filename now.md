@@ -2,7 +2,7 @@
 layout: page
 title: Now
 permalink: /now/
-update: 2020-02-16
+update: 2020-02-17
 ---
 
 I'm currently living in Ohio, working remote for [CoverMyMeds](http://covermymeds.com) as a software developer.
@@ -10,8 +10,6 @@ I'm currently living in Ohio, working remote for [CoverMyMeds](http://covermymed
 ## :space_invader: Playing
 
 * _KotoR_ on XB1.
-* _YAKUZA KIWAMI_ on PS4.
-* _Trine 2_ on Switch.
 
 #### Just Finished
 
