@@ -6,7 +6,7 @@ customnav: games_nav.html
 customjs:
 - random_game.js
 - random_name.js
-update: 2020-02-17
+update: 2020-02-26
 ---
 
 <a name='currently-playing'></a>
@@ -17,6 +17,7 @@ update: 2020-02-17
 #### :eyes: Focused
 
 1. Knights of the Old Republic (XB1)
+1. Batman: Arkham Knight (XB1)
 
 #### :traffic_light: Started and Need to Finish
 
@@ -33,34 +34,26 @@ update: 2020-02-17
 :bangbang: Max of 3 flagged games to play next :bangbang:
 
 1. Ape Out (NS)
-1. Baldur's Gate (NS)
-1. Baldur's Gate 2 (NS)
-1. Devil May Cry 5 (XB1) _[gamepass]_
-1. Dishonored 2 (XB1) _[gamepass]_
-1. Dishonored 2: Death of the Outsider (PS4)
-1. Final Fantasy VIII (NS)
-1. Final Fantasy IX (NS)
-1. Final Fantasy XV (PS4)
+1. Devil May Cry 5 (XB1) [gamepass]
+1. Dishonored 2 (XB1) [gamepass]
 1. Floor Kids (NS) [3.5hr est]
 1. Gato Roboto (NS)
 1. God of War (2018) (PS4) [19.5hr est]
-1. Hellblade: Senua's Sacrifice (XB1) _[gamepass]_
-1. Horizon: Zero Dawn DLC (PS4) [10hr est]
-1. Icewind Dale (NS)
-1. Indivisible (XB1) _[gamepass]_
+1. Hellblade: Senua's Sacrifice (XB1) [gamepass]
+1. Indivisible (XB1) [gamepass]
 1. Knights of the Old Republic 2 (XB1)
-1. The Outer Worlds (XB1) _[gamepass]_
+1. The Outer Worlds (XB1) [gamepass]
 1. Phoenix Wright: Ace Attorney Trilogy (NS)
 1. Planescape: Torment (NS)
-1. Ruiner (XB1) _[gamepass]_
+1. Ruiner (XB1) [gamepass]
 1. Sayonara: Wild Hearts (NS)
 1. Shadow of the Colossus (PS4) [9hr est]
 1. South Park: The Fractured But Whole (NS)
 1. Steamworld Heist (NS)
-1. Sunset Overdrive (XB1) _[gamepass]_
-1. SUPER HOT (XB1) _[gamepass]_
+1. Sunset Overdrive (XB1) [gamepass]
+1. SUPER HOT (XB1) [gamepass]
 1. Travis Strikes Again: No More Heroes (NS)
-1. Untitled Goose Game (NS)
+1. Untitled Goose Game (NS/XB1)
 1. Wandersong (NS)
 1. West of Loathing (NS) [11.4hr est]
 1. The Witcher 2 (XB1)
@@ -73,7 +66,7 @@ update: 2020-02-17
 ## :heart_eyes: For Funsies
 <!-- <a href="javascript: randomGame('for-fun')" id="for-fun-link" title="Random selection" alt="Random selection">:dart:</a>-->
 
-1. Forza Horizon 4 (XB1) _[gamepass]_
+1. Forza Horizon 4 (XB1) [gamepass]
 1. Gran Turismo SPORT (PS4)
 1. Road Rash (PS1/GEN)
 1. Slay the Spire (PC/NS)
@@ -99,6 +92,9 @@ _TBD_
 
 ## :repeat: Revisiting the Classics
 
+1. Baldur's Gate (NS)
+1. Baldur's Gate 2 (NS)
+1. Icewind Dale (NS)
 1. Mass Effect Series (XB1)
 
 <!-- revisited:end -->
@@ -135,8 +131,14 @@ of games I have to play is oh so long._
    - Expected something different. In the end, just wasn't enjoying it.
 1. Final Fantasy 7 (NS)
    - Just didn't feel good in this day and age.
+1. Final Fantasy VIII (NS)
+1. Final Fantasy IX (NS)
+1. Final Fantasy XV (PS4)
 1. Gravity Rush 2 (PS4)
    - First was enough for me.
+1. Horizon: Zero Dawn DLC (PS4) [10hr est]
+   - After nearly 300 hours of AC Odyssey, it's really hard to enjoy the traversal
+     mechanic.
 1. Judgement (PS4)
    - Traded in after being spoiler'd.
 1. Mario + Rabbids: Kingdom Battle (NS)
@@ -147,12 +149,12 @@ of games I have to play is oh so long._
 1. New Super Mario Bros. (DS) [7hr est]
 1. Octopath Traveler (NS)
    - Nearly 3 years and I haven't gotten back to it.
-1. The Outer Wilds (XB1)_[gamepass]_
+1. The Outer Wilds (XB1) [gamepass]
    - I am finding casual exploration games harder to care about.
    - I still respect it, just didn't enjoy it as much as I had hoped I would.
 1. Resident Evil 2 (PS4)
    - Just not for me.
-1. Super Lucky's Tale (XB1)_[gamepass]_
+1. Super Lucky's Tale (XB1) [gamepass]
    - Adorable, but I am apparently _turrible_ at platformers, both 2D and 3D.
    - Those load times. Oof.
 1. Trine 2: Complete Story (NS)

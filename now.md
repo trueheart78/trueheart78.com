@@ -2,13 +2,14 @@
 layout: page
 title: Now
 permalink: /now/
-update: 2020-02-17
+update: 2020-02-26
 ---
 
 I'm currently living in Ohio, working remote for [CoverMyMeds](http://covermymeds.com) as a software developer.
 
 ## :space_invader: Playing
 
+* _Batman: Arkham Knight_ on XB1.
 * _KotoR_ on XB1.
 
 #### Just Finished
