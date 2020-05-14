@@ -6,7 +6,7 @@ customnav: games_nav.html
 customjs:
 - random_game.js
 - random_name.js
-update: 2020-02-26
+update: 2020-05-14
 ---
 
 <a name='currently-playing'></a>
@@ -17,7 +17,7 @@ update: 2020-02-26
 #### :eyes: Focused
 
 1. Knights of the Old Republic (XB1)
-1. Batman: Arkham Knight (XB1)
+1. Mass Effect: Andromeda (XB1)
 
 #### :traffic_light: Started and Need to Finish
 
