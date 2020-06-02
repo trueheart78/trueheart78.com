@@ -6,7 +6,7 @@ customnav: games_nav.html
 customjs:
 - random_game.js
 - random_name.js
-update: 2020-05-14
+update: 2020-06-02
 ---
 
 <a name='currently-playing'></a>
@@ -16,8 +16,8 @@ update: 2020-05-14
 
 #### :eyes: Focused
 
+1. Titanfall 2
 1. Knights of the Old Republic (XB1)
-1. Mass Effect: Andromeda (XB1)
 
 #### :traffic_light: Started and Need to Finish
 
@@ -42,7 +42,6 @@ update: 2020-05-14
 1. Hellblade: Senua's Sacrifice (XB1) [gamepass]
 1. Indivisible (XB1) [gamepass]
 1. Knights of the Old Republic 2 (XB1)
-1. The Outer Worlds (XB1) [gamepass]
 1. Phoenix Wright: Ace Attorney Trilogy (NS)
 1. Planescape: Torment (NS)
 1. Ruiner (XB1) [gamepass]
@@ -164,6 +163,10 @@ of games I have to play is oh so long._
 1. YAKUZA KIWAMI (PS4)
    - Back in it and just not feeling the running around vibe.
 1. YAKUZA 6: The Song of Life (PS4)
+1. Mass Effect: Andromeda (XB1)
+   - Played enough to know it's not for me.
+1. The Outer Worlds (XB1) [gamepass]
+   - Played enough to get what was going on. 
 
 <!-- jettisoned:end -->
 <a name='planned-purchases'></a>
