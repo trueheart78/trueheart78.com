@@ -6,7 +6,7 @@ customnav: games_nav.html
 customjs:
 - random_game.js
 - random_name.js
-update: 2020-06-02
+update: 2020-06-26
 ---
 
 <a name='currently-playing'></a>
@@ -16,8 +16,8 @@ update: 2020-06-02
 
 #### :eyes: Focused
 
-1. Titanfall 2
-1. Knights of the Old Republic (XB1)
+1. Destiny 2 (XB1)
+1. Assassin's Creed: Syndicate (XB1)
 
 #### :traffic_light: Started and Need to Finish
 
@@ -34,8 +34,6 @@ update: 2020-06-02
 :bangbang: Max of 3 flagged games to play next :bangbang:
 
 1. Ape Out (NS)
-1. Devil May Cry 5 (XB1) [gamepass]
-1. Dishonored 2 (XB1) [gamepass]
 1. Floor Kids (NS) [3.5hr est]
 1. Gato Roboto (NS)
 1. God of War (2018) (PS4) [19.5hr est]
@@ -44,18 +42,14 @@ update: 2020-06-02
 1. Knights of the Old Republic 2 (XB1)
 1. Phoenix Wright: Ace Attorney Trilogy (NS)
 1. Planescape: Torment (NS)
-1. Ruiner (XB1) [gamepass]
 1. Sayonara: Wild Hearts (NS)
 1. Shadow of the Colossus (PS4) [9hr est]
 1. South Park: The Fractured But Whole (NS)
 1. Steamworld Heist (NS)
-1. Sunset Overdrive (XB1) [gamepass]
 1. SUPER HOT (XB1) [gamepass]
 1. Travis Strikes Again: No More Heroes (NS)
-1. Untitled Goose Game (NS/XB1)
 1. Wandersong (NS)
 1. West of Loathing (NS) [11.4hr est]
-1. The Witcher 2 (XB1)
 
 <!-- unplayed:end -->
 
@@ -167,6 +161,14 @@ of games I have to play is oh so long._
    - Played enough to know it's not for me.
 1. The Outer Worlds (XB1) [gamepass]
    - Played enough to get what was going on. 
+1. Titanfall 2
+1. Devil May Cry 5 (XB1) [gamepass]
+   - Played a lot, then youtube'd the rest.
+1. Dishonored 2 (XB1) [gamepass]
+1. Ruiner (XB1) [gamepass]
+1. Sunset Overdrive (XB1) [gamepass]
+1. Untitled Goose Game (NS/XB1)
+1. The Witcher 2 (XB1)
 
 <!-- jettisoned:end -->
 <a name='planned-purchases'></a>
