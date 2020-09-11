@@ -6,7 +6,7 @@ customnav: games_nav.html
 customjs:
 - random_game.js
 - random_name.js
-update: 2020-06-26
+update: 2020-09-11
 ---
 
 <a name='currently-playing'></a>
@@ -16,8 +16,7 @@ update: 2020-06-26
 
 #### :eyes: Focused
 
-1. Destiny 2 (XB1)
-1. Assassin's Creed: Syndicate (XB1)
+1. Undermine (XB1) [gamepass]
 
 #### :traffic_light: Started and Need to Finish
 
@@ -169,6 +168,8 @@ of games I have to play is oh so long._
 1. Sunset Overdrive (XB1) [gamepass]
 1. Untitled Goose Game (NS/XB1)
 1. The Witcher 2 (XB1)
+1. Destiny 2 (XB1) [gamepass]
+1. Assassin's Creed: Syndicate (XB1)
 
 <!-- jettisoned:end -->
 <a name='planned-purchases'></a>
@@ -178,11 +179,13 @@ of games I have to play is oh so long._
 
 See the [New Releases Wiki][new-releases]. Sorted by release date.
 
-1. Doom Eternal (PS4/XB1) [3/20/20]
-1. Final Fantasy VII Remake (PS4) [4/10/20]
-1. Trials of Mana (PS4/NS) [4/24/20]
-1. The Last of Us Part II (PS4) [5/29/20]
-1. Cyberpunk 2077 (PS4/XB1) [9/17/20]
+1. Doom Eternal (PS4/XB1) [3/20/20] [skipped]
+1. Final Fantasy VII Remake (PS4) [4/10/20] [purchased]
+1. Trials of Mana (PS4/NS) [4/24/20] [skipped]
+1. The Last of Us Part II (PS4) [5/29/20] [skipped]
+1. Assassin's Creed Valhalla (XSX) [11/10/20]
+1. Cyberpunk 2077 (XB1) [11/19/20] [pre-ordering]
+1. Immortals Fenyx Rising [12/03/20]
 
 ## :moneybag: Planned Purchases (Hopefully in 2020)
 

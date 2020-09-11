@@ -2,15 +2,14 @@
 layout: page
 title: Now
 permalink: /now/
-update: 2020-06-26
+update: 2020-09-11
 ---
 
 I'm currently living in Ohio, working remote for [CoverMyMeds](http://covermymeds.com) as a software developer.
 
 ## :space_invader: Playing
 
-* _Destiny 2_on XB1.
-* _Assassin's Creed: Syndicate_ on XB1.
+* _Undermine_ on XB1.
 
 #### Just Finished
 
