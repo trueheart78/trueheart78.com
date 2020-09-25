@@ -2,18 +2,18 @@
 layout: page
 title: Now
 permalink: /now/
-update: 2020-09-11
+update: 2020-09-25
 ---
 
 I'm currently living in Ohio, working remote for [CoverMyMeds](http://covermymeds.com) as a software developer.
 
 ## :space_invader: Playing
 
-* _Undermine_ on XB1.
+* _TBD_
 
 #### Just Finished
 
-* _South Park: The Stick of Truth_ on Switch.
+* _Undermine_ on XB1.
 
 ## :book: Comics
 

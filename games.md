@@ -6,7 +6,7 @@ customnav: games_nav.html
 customjs:
 - random_game.js
 - random_name.js
-update: 2020-09-11
+update: 2020-09-25
 ---
 
 <a name='currently-playing'></a>
@@ -16,7 +16,7 @@ update: 2020-09-11
 
 #### :eyes: Focused
 
-1. Undermine (XB1) [gamepass]
+1. TBD
 
 #### :traffic_light: Started and Need to Finish
 
@@ -170,6 +170,8 @@ of games I have to play is oh so long._
 1. The Witcher 2 (XB1)
 1. Destiny 2 (XB1) [gamepass]
 1. Assassin's Creed: Syndicate (XB1)
+1. Undermine (XB1) [gamepass]
+   - That final boss is not for me.
 
 <!-- jettisoned:end -->
 <a name='planned-purchases'></a>
@@ -183,7 +185,9 @@ See the [New Releases Wiki][new-releases]. Sorted by release date.
 1. Final Fantasy VII Remake (PS4) [4/10/20] [purchased]
 1. Trials of Mana (PS4/NS) [4/24/20] [skipped]
 1. The Last of Us Part II (PS4) [5/29/20] [skipped]
-1. Assassin's Creed Valhalla (XSX) [11/10/20]
+1. Watch Dogs: Legion (XSX) [10/29/20]
+1. Assassin's Creed Valhalla (XSX) [11/10/20] [pre-ordered]
+1. Yakuza: Like a Dragon (XSX) [11/10/20] [pre-ordered]
 1. Cyberpunk 2077 (XB1) [11/19/20] [pre-ordering]
 1. Immortals Fenyx Rising [12/03/20]
 
@@ -199,7 +203,6 @@ See the [Games in Development Wiki][games-in-development]
 1. System Shock (XB1)
 1. Vampire: The Masquerade – Bloodlines 2 (XB1)
 1. Vampire: The Masquerade – Coteries of New York (XB1/NS)
-1. Watch Dogs: Legion (XB1)
 
 ## :dollar: Planned Purchases (Previously Released)
 
