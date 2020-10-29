@@ -2,14 +2,15 @@
 layout: page
 title: Now
 permalink: /now/
-update: 2020-09-25
+update: 2020-10-29
 ---
 
 I'm currently living in Ohio, working remote for [CoverMyMeds](http://covermymeds.com) as a software developer.
 
 ## :space_invader: Playing
 
-* _TBD_
+* _Beat Saber_ on Quest 2.
+* _Ghost of Tsushima_ on PS4.
 
 #### Just Finished
 
@@ -17,14 +18,9 @@ I'm currently living in Ohio, working remote for [CoverMyMeds](http://covermymed
 
 ## :book: Comics
 
-* Captain Marvel
 * Jane Foster: Valkyrie
 * Saga
-  + Reading book 6 of 9. :star: :star: :star: :star: :star:
-* Unbeatable Squirrel Girl 🐿️ 
-  + [Twitter](https://twitter.com/unbeatablesg)
-  + [Tumblr](https://unbeatablesquirrelgirl.tumblr.com/)
-* West Coast Avengers
+  + Reading book 5 of 9. :star: :star: :star: :star: :star:
 
 ## :books: Learning
 
@@ -38,4 +34,4 @@ I'm currently living in Ohio, working remote for [CoverMyMeds](http://covermymed
 
 * Rewriting my [Ruby-based Book Notes Generator](https://github.com/trueheart78/book-notes-generator) in [Go](https://github.com/trueheart78/book-notes-go)
 * [Dropbox Gif Linker](https://github.com/trueheart78/dropbox-gif-linker) in Go.
-* Upgrading [CaringForKarenSue.com](http://www.caringforkarensue.com) from Sinatra to Rails 5.2.
+* Upgraded [CaringForKarenSue.com](http://www.caringforkarensue.com) from Sinatra to Rails 5.2.

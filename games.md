@@ -6,7 +6,7 @@ customnav: games_nav.html
 customjs:
 - random_game.js
 - random_name.js
-update: 2020-09-25
+update: 2020-10-29
 ---
 
 <a name='currently-playing'></a>
@@ -16,7 +16,9 @@ update: 2020-09-25
 
 #### :eyes: Focused
 
-1. TBD
+1. Beat Saber (Q2)
+1. Ghost of Tsushima (PS4)
+1. Waiting on the Series X to launch.
 
 #### :traffic_light: Started and Need to Finish
 
@@ -46,7 +48,10 @@ update: 2020-09-25
 1. South Park: The Fractured But Whole (NS)
 1. Steamworld Heist (NS)
 1. SUPER HOT (XB1) [gamepass]
+1. Tales of Berseria (PS4) [44.5hr est]
 1. Travis Strikes Again: No More Heroes (NS)
+1. Valkyria Chronicles Remastered (PS4) [27.5hr est]
+1. Valkyria Chronicles 4 (PS4) [35.5hr est]
 1. Wandersong (NS)
 1. West of Loathing (NS) [11.4hr est]
 
@@ -185,11 +190,12 @@ See the [New Releases Wiki][new-releases]. Sorted by release date.
 1. Final Fantasy VII Remake (PS4) [4/10/20] [purchased]
 1. Trials of Mana (PS4/NS) [4/24/20] [skipped]
 1. The Last of Us Part II (PS4) [5/29/20] [skipped]
-1. Watch Dogs: Legion (XSX) [10/29/20]
-1. Assassin's Creed Valhalla (XSX) [11/10/20] [pre-ordered]
-1. Yakuza: Like a Dragon (XSX) [11/10/20] [pre-ordered]
-1. Cyberpunk 2077 (XB1) [11/19/20] [pre-ordering]
-1. Immortals Fenyx Rising [12/03/20]
+1. Control: Ultimate Edition (XSX) [9/10/20] [wait for sale]
+1. Watch Dogs: Legion (XSX) [10/29/20] [wait and see]
+1. Assassin's Creed Valhalla (XSX) [11/10/20] [day one purchase]
+1. Yakuza: Like a Dragon (XSX) [11/10/20] [day one purchase]
+1. Immortals Fenyx Rising [12/03/20] [wait and see]
+1. Cyberpunk 2077 (XB1) [12/10/20] [day one purchase]
 
 ## :moneybag: Planned Purchases (Hopefully in 2020)
 
