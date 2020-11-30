@@ -6,7 +6,7 @@ customnav: games_nav.html
 customjs:
 - random_game.js
 - random_name.js
-update: 2020-10-29
+update: 2020-11-30
 ---
 
 <a name='currently-playing'></a>
@@ -16,15 +16,18 @@ update: 2020-10-29
 
 #### :eyes: Focused
 
-1. Beat Saber (Q2)
-1. Ghost of Tsushima (PS4)
-1. Waiting on the Series X to launch.
+1. Beat Saber (VR)
+   * Bought the BTS and Linkin Park packs.
+1. Assassin's Creed: Odyssey (PS4/XB1)
+   * Re-purchased it and re-playing it again on Xbox One.
 
 #### :traffic_light: Started and Need to Finish
 
-1. Assassin's Creed: Odyssey (PS4/XB1)
-   * Just have the last set of DLC to play through on PS4
-   * Re-purchased it again on Xbox One
+1. Assassin's Creed: Valhalla (XSX)
+   * Playing when the wife is up to watching.
+1. Ghost of Tsushima (PS4)
+1. Watch Dogs: Legion (XSX)
+   * Waiting for a patch to fix the save issues.
 
 <!-- playing:end -->
 <a name='unplayed'></a>
@@ -40,20 +43,23 @@ update: 2020-10-29
 1. God of War (2018) (PS4) [19.5hr est]
 1. Hellblade: Senua's Sacrifice (XB1) [gamepass]
 1. Indivisible (XB1) [gamepass]
+1. In Death: Unchained (VR)
 1. Knights of the Old Republic 2 (XB1)
 1. Phoenix Wright: Ace Attorney Trilogy (NS)
+1. Pixel Ripped 1995 (VR)
 1. Planescape: Torment (NS)
 1. Sayonara: Wild Hearts (NS)
 1. Shadow of the Colossus (PS4) [9hr est]
 1. South Park: The Fractured But Whole (NS)
 1. Steamworld Heist (NS)
-1. SUPER HOT (XB1) [gamepass]
+1. SUPER HOT (VR)
+1. SUPER HOT: Mind Control Delete (XB1)
 1. Tales of Berseria (PS4) [44.5hr est]
-1. Travis Strikes Again: No More Heroes (NS)
 1. Valkyria Chronicles Remastered (PS4) [27.5hr est]
 1. Valkyria Chronicles 4 (PS4) [35.5hr est]
 1. Wandersong (NS)
 1. West of Loathing (NS) [11.4hr est]
+1. Yakuza: Like a Dragon (XSX)
 
 <!-- unplayed:end -->
 
@@ -177,6 +183,8 @@ of games I have to play is oh so long._
 1. Assassin's Creed: Syndicate (XB1)
 1. Undermine (XB1) [gamepass]
    - That final boss is not for me.
+1. Travis Strikes Again: No More Heroes (NS)
+   - Just not enjoying it.
 
 <!-- jettisoned:end -->
 <a name='planned-purchases'></a>
