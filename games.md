@@ -194,16 +194,16 @@ of games I have to play is oh so long._
 
 See the [New Releases Wiki][new-releases]. Sorted by release date.
 
-1. Doom Eternal (PS4/XB1) [3/20/20] [skipped]
+1. Doom Eternal (PS4/XB1) [3/20/20] [skipped][on gamepass]
 1. Final Fantasy VII Remake (PS4) [4/10/20] [purchased]
 1. Trials of Mana (PS4/NS) [4/24/20] [skipped]
 1. The Last of Us Part II (PS4) [5/29/20] [skipped]
-1. Control: Ultimate Edition (XSX) [9/10/20] [wait for sale]
-1. Watch Dogs: Legion (XSX) [10/29/20] [wait and see]
-1. Assassin's Creed Valhalla (XSX) [11/10/20] [day one purchase]
-1. Yakuza: Like a Dragon (XSX) [11/10/20] [day one purchase]
-1. Immortals Fenyx Rising [12/03/20] [wait and see]
-1. Cyberpunk 2077 (XB1) [12/10/20] [day one purchase]
+1. Control: Ultimate Edition (XSX) [9/10/20] [purchased]
+1. Watch Dogs: Legion (XSX) [10/29/20] [purchased]
+1. Assassin's Creed Valhalla (XSX) [11/10/20] [purchased]
+1. Yakuza: Like a Dragon (XSX) [11/10/20] [purchased]
+1. Immortals Fenyx Rising [12/03/20] [wait for sale]
+1. Cyberpunk 2077 (XB1) [12/10/20] [pre-ordered]
 
 ## :moneybag: Planned Purchases (Hopefully in 2020)
 
