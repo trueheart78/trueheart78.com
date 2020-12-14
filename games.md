@@ -3,10 +3,7 @@ layout: page
 title: Games
 permalink: /games/
 customnav: games_nav.html
-customjs:
-- random_game.js
-- random_name.js
-update: 2020-11-30
+update: 2020-12-14
 ---
 
 <a name='currently-playing'></a>
@@ -20,6 +17,7 @@ update: 2020-11-30
    * Bought the BTS and Linkin Park packs.
 1. Assassin's Creed: Odyssey (PS4/XB1)
    * Re-purchased it and re-playing it again on Xbox One.
+1. Cyberpunk 2077 (XSX)
 
 #### :traffic_light: Started and Need to Finish
 
@@ -33,7 +31,7 @@ update: 2020-11-30
 <a name='unplayed'></a>
 <!-- unplayed:start -->
 
-## :space_invader: Unplayed -- <a href="javascript: randomGame('unplayed')" id="unplayed-link">:dart:</a>
+## :space_invader: Unplayed
 
 :bangbang: Max of 3 flagged games to play next :bangbang:
 
@@ -67,7 +65,6 @@ update: 2020-11-30
 <!-- for-fun:start -->
 
 ## :heart_eyes: For Funsies
-<!-- <a href="javascript: randomGame('for-fun')" id="for-fun-link" title="Random selection" alt="Random selection">:dart:</a>-->
 
 1. Forza Horizon 4 (XB1) [gamepass]
 1. Gran Turismo SPORT (PS4)
