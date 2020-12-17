@@ -13,7 +13,7 @@ I was very excited for this game, then majorly let down with the last delay. Whe
 
 ## Filters
 
-The nudity filter is appreciated. By the time I finished Act 1, it had saved me a lot of unnecessary visuals.
+The nudity filter is appreciated. By the time I finished Act 1, it had saved me a lot of unwanted visuals.
 
 ## My System of Choice
 
