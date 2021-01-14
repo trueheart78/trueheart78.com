@@ -2,7 +2,7 @@
 layout: page
 title: Now
 permalink: /now/
-update: 2020-12-14
+update: 2021-01-14
 ---
 
 I'm currently living in Ohio, working remote for [CoverMyMeds](http://covermymeds.com) as a software developer.
@@ -13,12 +13,13 @@ I'm currently living in Ohio, working remote for [CoverMyMeds](http://covermymed
 * _Assassin's Creed: Valhalla_ on Xbox Series X.
   * Playing when the wife is up to it, she's a huge viking fan.
 * _Assassin's Creed: Odyssey_ on Xbox Series X.
-* _Cyberpunk 2077_ on Xbox Series X.
 * _Ghost of Tsushima_ on PS4.
 
 #### Just Finished
 
-* _Undermine_ on XB1.
+* _Cyberpunk 2077_ on Xbox Series X.
+  * Really enjoyed my time with it, bugs aside.
+  * Got a satisfying ending with both my girls.
 
 ## :book: Comics
 
