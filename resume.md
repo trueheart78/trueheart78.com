@@ -2,7 +2,7 @@
 layout: page
 title: Resume
 permalink: /resume/
-update: 2020-01-29
+update: 2021-01-18
 ---
 
 # Hi, I'm Josh. :wave:
@@ -42,10 +42,10 @@ development skills.
 
 ![refresh if you don't see a 'taylor swift whats up.gif'][taylor-whats-up]
 
-* Seven years of Ruby.
-* Five years of Ruby on Rails.
-* One year of Go.
-* Seven years of being a huge Taylor Swift fan.
+* Eight years of Ruby.
+* Six years of Ruby on Rails.
+* Two years of Go.
+* Eight years of being a huge Taylor Swift fan.
 * Thirteen years of PHP, MySQL, and JavaScript.
 * Eleven years of managing critical on-line systems.
 
@@ -79,14 +79,10 @@ Originally written in Ruby, now written in Go.
 
 ### Caring for Karen Sue :credit_card:
 
-A charity-focused site, built in Ruby and using Sinatra as the web framework. I started this during
-my early days of Ruby.
-
-Currently reworking it into a Rails v5.2 site with a fresh design.
+A charity-focused site, built in Ruby using Rails.
 
 * Site: [caringforkarensue.com][caringforkarensue]
 * Source: [GitHub][caringforkarensue-source]
-* Rails Source: [GitHub][caringforkarensue-rails-source]
 
 ### Book Notes :notebook:
 
@@ -103,15 +99,6 @@ Book Notes project in a new folder, with a handy Readme link provided at the end
 change this into a gem or a binary_.
 
 * Source: [GitHub][book-notes-generator-source]
-
-### Dotfiles :file_folder:
-
-Sharing dotfiles between my linux laptop, my work Mac, and a CentOS VM, I saw a need to make this
-as seamless as possible. It’s managed via git for easy updates, and includes a script to check for 
-the status of existing symlinks and creates/corrects those that it identifies. Scripting is done
-via Ruby.
-
-* Source: [GitHub][dotfiles-source]
 
 ### Game Selector :space_invader:
 
@@ -245,12 +232,9 @@ Associate of Computer Science in Software Applications and Programming
 [dropbox-gif-linker-source]: https://github.com/trueheart78/dropbox-gif-linker
 [gifs-gem-source]: https://github.com/trueheart78/gifs
 [caringforkarensue]: https://caringforkarensue.com
-[caringforkarensue-source]: https://github.com/trueheart78/CaringForKarenSue2014
-[caringforkarensue-rails]: https://caringforkarensue.com
-[caringforkarensue-rails-source]: https://github.com/trueheart78/CaringForKarenSue-Rails
+[caringforkarensue-source]: https://github.com/trueheart78/CaringForKarenSue-Rails
 [book-notes-source]: https://github.com/trueheart78/book-notes
 [book-notes-generator-source]: https://github.com/trueheart78/book-notes-generator
-[dotfiles-source]: https://github.com/trueheart78/dotfiles
 [game-selector-source]: https://github.com/trueheart78/game-selector
 [dead-to-us]: https://www.deadtous.com/
 [dead-to-us-source]: https://github.com/trueheart78/dead-to-us-html
@@ -268,8 +252,6 @@ Associate of Computer Science in Software Applications and Programming
 [stoplight-tests-pr]: https://github.com/orgsync/stoplight-admin/pull/26
 [php-cert]: http://www.zend.com/en/yellow-pages/ZEND022958
 [contact-converter]: https://github.com/trueheart78/Contacts-To-PDF
-[caring-for-karen]: https://caringforkarensue.com/
-[caring-for-code]: https://github.com/trueheart78/CaringForKarenSue2014
 [email-me]: mailto:iloveyourresume@nym.hush.com
 [taylor-hi]: /assets/images/resume/taylor-hi.gif
 [taylor-strong]: /assets/images/resume/taylor-strong.gif
