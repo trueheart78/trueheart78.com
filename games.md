@@ -35,28 +35,38 @@ update: 2021-01-18
 
 :bangbang: Max of 3 flagged games to play next :bangbang:
 
-1. Ape Out (NS)
-1. Floor Kids (NS) [3.5hr est]
-1. Gato Roboto (NS)
+1. Control: Ultimate Edition (2019) (XSX)
+1. Cross Code (XSX) [gamepass]
+1. DOOM Eternal (XB1) [gamepass]
+1. Gears of War 4 (XB1) [gamepass]
+1. Gears 5 (XSX) [gamepass]
 1. God of War (2018) (PS4) [19.5hr est]
+1. Greedfall (XB1) [gamepass]
 1. Hellblade: Senua's Sacrifice (XB1) [gamepass]
+1. Ikenfell (XB1) [gamepass]
 1. Indivisible (XB1) [gamepass]
 1. In Death: Unchained (VR)
 1. Knights of the Old Republic 2 (XB1)
 1. Phoenix Wright: Ace Attorney Trilogy (NS)
 1. Pixel Ripped 1995 (VR)
 1. Planescape: Torment (NS)
+1. Recore (XB1) [gamepass]
+1. River City Girls (XB1) [gamepass]
 1. Sayonara: Wild Hearts (NS)
 1. Shadow of the Colossus (PS4) [9hr est]
 1. South Park: The Fractured But Whole (NS)
+1. SpiritFarer (XB1) [gamepass]
 1. Steamworld Heist (NS)
-1. SUPER HOT (VR)
-1. SUPER HOT: Mind Control Delete (XB1)
+1. SUPERHOT (VR)
+1. SUPERHOT: Mind Control Delete (XB1)
 1. Tales of Berseria (PS4) [44.5hr est]
+1. TouHou Luna Nights (XB1) [gamepass]
 1. Valkyria Chronicles Remastered (PS4) [27.5hr est]
 1. Valkyria Chronicles 4 (PS4) [35.5hr est]
 1. Wandersong (NS)
 1. West of Loathing (NS) [11.4hr est]
+1. Yakuza Kiwami (XB1) [gamepass]
+1. Yakuza Kiwami 2 (XB1) [gamepass]
 1. Yakuza: Like a Dragon (XSX)
 
 <!-- unplayed:end -->
