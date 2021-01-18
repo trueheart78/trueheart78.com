@@ -3,7 +3,7 @@ layout: page
 title: Games
 permalink: /games/
 customnav: games_nav.html
-update: 2021-01-14
+update: 2021-01-18
 ---
 
 <a name='currently-playing'></a>
@@ -15,6 +15,7 @@ update: 2021-01-14
 
 1. Beat Saber (VR)
    * Bought the BTS and Linkin Park packs.
+1. SUPERHOT (XB1)
 1. Assassin's Creed: Odyssey (PS4/XB1)
    * Re-purchased it and re-playing it again on Xbox One.
 
