@@ -60,7 +60,7 @@ All of the above? That’s just her, as a person. That doesn’t even touch on h
 
 I adore good lyrics, and she does not disappoint. They are simply amazing, getting better and better
 with every new song or album. For me, songs that lyrically make no sense are hard to become engaged
-with. That has never been the problem with her writing. Her story telling is second to none, at this
+with. That has never been a problem with her writing. Her story telling is second to none, at this
 point. 
 
 If you asked me to pick a favorite album, I couldn’t. They are all my favorite children. The best I
