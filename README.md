@@ -4,10 +4,14 @@ Jekyll-based blog for [I :sparkling_heart: Ruby][iheartruby]
 
 ## Create a Post
 
-`scripts/new-post`
+`_scripts/new-post`
 
 ## Create a Page
 
-`scripts/new-page`
+`_scripts/new-page`
+
+## Ruby Version
+
+Currently setup to work with Ruby 2.6
 
 [iheartruby]: http://iheartruby.com
