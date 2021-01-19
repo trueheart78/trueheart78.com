@@ -20,7 +20,7 @@ vocalists. She never names names about people songs may be about, regardless of 
 kept getting asked if she planned to settle down when she turned 30, and she flipped the tables
 again that they would never ask a man that question.
 
-When Apple announced a *90 free trial* for their new Music subscription service, they didn’t intend
+When Apple announced a *90 day free trial* for their new Music subscription service, they didn’t intend
 to pay the artists during that time.  [She wrote an open letter to
 them](https://www.forbes.com/sites/hughmcintyre/2015/06/21/taylor-swifts-letter-to-apple-stern-polite-and-necessary/?sh=5a16b8d5113d),
 and it opened their eyes and they changed their minds.
