@@ -79,7 +79,7 @@ Originally written in Ruby, now written in Go.
 
 ### Caring for Karen Sue :credit_card:
 
-A charity-focused site, built in Ruby using Rails.
+A charity-focused site, built in Ruby using Rails. Uses PayPal for paymrnt processing. 
 
 * Site: [caringforkarensue.com][caringforkarensue]
 * Source: [GitHub][caringforkarensue-source]
