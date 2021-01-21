@@ -3,7 +3,7 @@ layout: page
 title: Games
 permalink: /games/
 customnav: games_nav.html
-update: 2021-01-18
+update: 2021-01-21
 ---
 
 <a name='currently-playing'></a>
@@ -38,10 +38,12 @@ update: 2021-01-18
 1. Control: Ultimate Edition (2019) (XSX)
 1. Cross Code (XSX) [gamepass]
 1. DOOM Eternal (XB1) [gamepass]
+1. Eastshade (XB1) [gamepass]
 1. Gears of War 4 (XB1) [gamepass]
 1. Gears 5 (XSX) [gamepass]
 1. God of War (2018) (PS4) [19.5hr est]
 1. Greedfall (XB1) [gamepass]
+1. Haven (XSX) [gamepass]
 1. Hellblade: Senua's Sacrifice (XB1) [gamepass]
 1. Ikenfell (XB1) [gamepass]
 1. Indivisible (XB1) [gamepass]
