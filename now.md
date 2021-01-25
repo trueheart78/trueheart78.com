@@ -2,7 +2,7 @@
 layout: page
 title: Now
 permalink: /now/
-update: 2021-01-18
+update: 2021-01-25
 ---
 
 I'm currently living in Ohio, working remote for [CoverMyMeds](http://covermymeds.com) as a software developer.
@@ -10,7 +10,7 @@ I'm currently living in Ohio, working remote for [CoverMyMeds](http://covermymed
 ## :space_invader: Playing
 
 * _Beat Saber_ on Quest 2.
-* _SUPERHOT_ on Xbox Series X.
+* _SUPERHOT VR_ on Quest 2.
 * _Assassin's Creed: Valhalla_ on Xbox Series X.
   * Playing when the wife is up to it, she's a huge viking fan.
 * _Assassin's Creed: Odyssey_ on Xbox Series X.
