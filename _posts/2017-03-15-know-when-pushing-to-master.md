@@ -5,7 +5,7 @@ date:   2017-03-15 12:15:00
 categories: ruby
 ---
 
-**Update:** See [Know When Pushing to Master Redux][redux] for a more complete solution.
+**Update:** See [Know When Pushing to Master (Redux)][redux] for a more complete solution.
 
 You really probably shouldn't be pushing to the `master` branch of your repo.
 Well, at least not for all repos. After I facepalmed recently when realizing

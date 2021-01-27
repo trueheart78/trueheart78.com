@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Know When Pushing to Master (Redux)
-date: 2018-08-30 09:50:41
+title: Know When Pushing to Main
+date: 2021-01-27 14:50:00
 tags:
 - git
 - branches
@@ -12,22 +12,21 @@ tags:
 - personal
 ---
 
-**Update:** See [Know When Pushing to Main][main] for a more up-to-date solution.
+I previously blogged twice about a way how to [Know When Pushing to Master (Redux)][know when pushing to master redux].
+Since then, tech is in the process of moving away from the term `master` and, for git, moving
+towards calling the primary branch `main`.
 
-I previously blogged about a way how to [Know When Pushing to Master][know when pushing to master].
-It was amazingly helpful, but I wanted it to work with stock `git` commands, not just custom aliases
-I would define for myself. I wanted it to work with _any_ potential alias.
 
-And it does.
+A reminder that this works with _any_ potential alias.
 
 I decided to create a new shell function, `git()`, that will be called instead of `git` (_Note: this
 does not require uninstalling git, or any other change to it_). I then hand that off to my shorthand
 function, `g()`, which performs some parsing to detect which branch you are pushing to (_if you are
 pushing_).
 
-The first version would check to see if any extra arguments were passed, and if so, it would check
-to see if `push` was the primary one, and then it would check the current branch for `master`, so it
-could prompt you for confirmation (if required). If it was not `push`, it would execute whichever
+This versions checks to see if you are pushing, and if so, which branch you may be on.
+If you are on either the `main` or `master` branch, it prompts for confirmation.
+If you are not pushing, it executes whichever
 git-based command you had typed. If only `git()` or `g()` was called, without commands, it would
 execute `git status`.
 
@@ -45,7 +44,17 @@ g () {
     then
       if [[ $1 = "push" ]]; then
         branch=`command git rev-parse --abbrev-ref HEAD`
-        if [[ $branch = 'master' ]]; then
+        if [[ $branch = 'main' ]]; then
+          while true; do
+            echo -n "Push to 🔥  Main 🔥 ? (y/n) "
+            read yn
+            case $yn in
+              [Yy]* ) command git "$@"; break;;
+              [Nn]* ) echo "❤️  Push-to-Main crisis averted ❤️"; break;;
+              * ) echo "Please answer yes or no.";;
+            esac
+          done  
+        elif [[ $branch = 'master' ]]; then
           while true; do
             echo -n "Push to 🔥  Master 🔥 ? (y/n) "
             read yn
@@ -54,7 +63,7 @@ g () {
               [Nn]* ) echo "❤️  Push-to-Master crisis averted ❤️"; break;;
               * ) echo "Please answer yes or no.";;
             esac
-          done
+          done  
         else
           if [[ $# -eq 1 ]]; then
             command git push origin $branch
@@ -143,7 +152,17 @@ g () {
         done
       elif [[ $1 = "push" ]]; then
         branch=`command git rev-parse --abbrev-ref HEAD`
-        if [[ $branch = 'master' ]]; then
+        if [[ $branch = 'main' ]]; then
+          while true; do
+            echo -n "Push to 🔥  Main 🔥 ? (y/n) "
+            read yn
+            case $yn in
+              [Yy]* ) command git "$@"; break;;
+              [Nn]* ) echo "❤️  Push-to-Main crisis averted ❤️"; break;;
+              * ) echo "Please answer yes or no.";;
+            esac
+          done
+        elif [[ $branch = 'master' ]]; then
           while true; do
             echo -n "Push to 🔥  Master 🔥 ? (y/n) "
             read yn
@@ -183,5 +202,4 @@ git_work () {
 
 Feel free to use this everywhere and anywhere it helps you.
 
-[main]: /2021/01/27/know-when-pushing-to-main.html
-[know when pushing to master]: /ruby/2017/03/15/know-when-pushing-to-master.html
+[know when pushing to master redux]: /2018/08/30/know-when-pushing-to-master-redux.html
