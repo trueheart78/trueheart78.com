@@ -2,7 +2,7 @@
 layout: page
 title: Now
 permalink: /now/
-update: 2021-01-25
+update: 2021-02-01
 ---
 
 I'm currently living in Ohio, working remote for [CoverMyMeds](http://covermymeds.com) as a software developer.
@@ -15,6 +15,7 @@ I'm currently living in Ohio, working remote for [CoverMyMeds](http://covermymed
   * Playing when the wife is up to it, she's a huge viking fan.
 * _Assassin's Creed: Odyssey_ on Xbox Series X.
 * _Ghost of Tsushima_ on PS4.
+* _TouHou Luna Nights_ on Xbox Series X.
 
 #### Just Finished
 

@@ -3,7 +3,7 @@ layout: page
 title: Games
 permalink: /games/
 customnav: games_nav.html
-update: 2021-01-25
+update: 2021-02-01
 ---
 
 <a name='currently-playing'></a>
@@ -13,15 +13,15 @@ update: 2021-01-25
 
 #### :eyes: Focused
 
-1. Beat Saber (VR)
-   * Bought the BTS and Linkin Park packs.
 1. SUPERHOT (VR)
    * Great bit of light exercise for me.
-1. Assassin's Creed: Odyssey (PS4/XB1)
-   * Re-purchased it and re-playing it again on Xbox One.
+1. TouHou Luna Nights (XB1) [5.0hr est] [gamepass]
 
 #### :traffic_light: Started and Need to Finish
 
+1. Assassin's Creed: Odyssey (PS4/XB1)
+   * Re-purchased it and re-playing it again on Xbox One.
+   * Have fully explored the world. Now, I just need to do the quests.
 1. Assassin's Creed: Valhalla (XSX) [53.0hr est]
    * Playing when the wife is up to watching.
 1. Ghost of Tsushima (PS4) [24.5hr est]
@@ -46,9 +46,9 @@ update: 2021-01-25
 1. Greedfall (XB1) [22.0hr est] [gamepass]
 1. Haven (XSX) [9.5hr est] [gamepass]
 1. Hellblade: Senua's Sacrifice (XB1) [7.5hr est] [gamepass]
-1. Ikenfell (XB1) [175hr est] [gamepass]
-1. Indivisible (XB1) [18.0hr est] [gamepass]
+1. Ikenfell (XB1) [18.0hr est] [gamepass]
 1. Knights of the Old Republic 2 (XB1) [31.0hr est]
+1. Pistol Whip (VR)
 1. Pixel Ripped 1995 (VR) [3.0hr est]
 1. Recore (XB1) [12.0hr est] [gamepass]
 1. River City Girls (XB1) [7.0hr est] [gamepass]
@@ -60,7 +60,6 @@ update: 2021-01-25
 1. SUPERHOT (XB1) [2.5hr est]
 1. SUPERHOT: Mind Control Delete (XB1) [6.0hr est]
 1. Tales of Berseria (PS4) [44.5hr est]
-1. TouHou Luna Nights (XB1) [5.0hr est] [gamepass]
 1. Valkyria Chronicles Remastered (PS4) [27.5hr est]
 1. Valkyria Chronicles 4 (PS4) [35.5hr est]
 1. Wandersong (NS) [9.0hr est]
@@ -76,6 +75,9 @@ update: 2021-01-25
 
 ## :heart_eyes: For Funsies
 
+1. Beat Saber (VR)
+   * Bought the BTS and Linkin Park packs.
+   * Mainly play the "solo" mode, so there is no "completion".
 1. Road Rash (PS1/GEN)
 
 <!-- for-fun:end -->
@@ -135,6 +137,8 @@ of games I have to play is oh so long._
   * Another game I'm never going to get to.
 1. Phoenix Wright: Ace Attorney Trilogy (NS) [60.0hr est]
   * 60 hours? I cannot commit to such a lengthy journey right now.
+1. Indivisible (XB1) [18.0hr est] [gamepass]
+  * Left Game Pass before I could get to it.
 
 <!-- jettisoned:end -->
 <a name='planned-purchases'></a>
