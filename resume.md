@@ -2,7 +2,7 @@
 layout: page
 title: Resume
 permalink: /resume/
-update: 2021-01-18
+update: 2021-02-08
 ---
 
 # Hi, I'm Josh. :wave:
@@ -69,8 +69,7 @@ and command-line tools. Uses Jekyll so I only have to use markdown, and is hoste
 
 I have a lot of gifs in my Dropbox, so I wanted a simpler way to get a publicly viewable URL. It
 connects to Dropbox’s api and creates a public share, caches that in a key-value store (in said
-Dropbox), and provides an embeddable URL. Great for bypassing HipChat’s 2mb animation limit, as well
-as for markdown support.
+Dropbox), and provides an embeddable URL. Great for markdown and BBCode support.
 
 Originally written in Ruby, now written in Go.
 
@@ -79,7 +78,7 @@ Originally written in Ruby, now written in Go.
 
 ### Caring for Karen Sue :credit_card:
 
-A charity-focused site, built in Ruby using Rails. Uses PayPal for paymrnt processing. 
+A charity-focused site, built in Ruby using Rails. Uses PayPal for payment processing. 
 
 * Site: [caringforkarensue.com][caringforkarensue]
 * Source: [GitHub][caringforkarensue-source]
@@ -112,7 +111,7 @@ title.
 
 A goof project to display team members at CMM that are "dead to us" (read: anyone that has left the
 team). Originally a Rails 5 project, I converted it to a basic HTML site on AWS S3 for faster load
-times.
+times, and no monthly cost.
 
 * Site: [deadtous.com][dead-to-us]
 * Source: [GitHub][dead-to-us-source]
@@ -144,6 +143,8 @@ Since I always have my watch or phone on vibrate when I'm working (and often cha
 I tend to miss an alert from the above *Alexa Alerter*. To fix that, I developed a Go program that
 subscribes to the remote Redis server, which then pings me on my MacOS desktop that my attention is
 needed.
+
+_Note: No longer works as of MacOS Catalina 10.15_
 
 * Source: [GitHub][go-call-me-notifier]
 
@@ -188,7 +189,7 @@ project to make sure that at least the core framework would load without issue.
 
 * Mentored multiple software apprentices.
 * Ushered in a gif revolution.
-* Primary maintainer for the JWT authentication projects.
+* Handled the upgrade process for multiple applications through different Rails and Ruby versions.
 
 ### Vya (2007 to 2015) :envelope:
 
