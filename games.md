@@ -3,7 +3,7 @@ layout: page
 title: Games
 permalink: /games/
 customnav: games_nav.html
-update: 2021-02-01
+update: 2021-02-08
 ---
 
 <a name='currently-playing'></a>
@@ -48,7 +48,6 @@ update: 2021-02-01
 1. Hellblade: Senua's Sacrifice (XB1) [7.5hr est] [gamepass]
 1. Ikenfell (XB1) [18.0hr est] [gamepass]
 1. Knights of the Old Republic 2 (XB1) [31.0hr est]
-1. Pistol Whip (VR)
 1. Pixel Ripped 1995 (VR) [3.0hr est]
 1. Recore (XB1) [12.0hr est] [gamepass]
 1. River City Girls (XB1) [7.0hr est] [gamepass]
@@ -75,6 +74,10 @@ update: 2021-02-01
 
 ## :heart_eyes: For Funsies
 
+1. Audica (VR)
+   * This is my jam.
+   * Made by Harmonix.
+   * Has _Bad Guy_ and _Juice_.
 1. Beat Saber (VR)
    * Bought the BTS and Linkin Park packs.
    * Mainly play the "solo" mode, so there is no "completion".
@@ -139,6 +142,8 @@ of games I have to play is oh so long._
   * 60 hours? I cannot commit to such a lengthy journey right now.
 1. Indivisible (XB1) [18.0hr est] [gamepass]
   * Left Game Pass before I could get to it.
+1. Pistol Whip (VR)
+  * I just wasn't enjoying it.
 
 <!-- jettisoned:end -->
 <a name='planned-purchases'></a>

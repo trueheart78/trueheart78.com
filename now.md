@@ -2,13 +2,14 @@
 layout: page
 title: Now
 permalink: /now/
-update: 2021-02-01
+update: 2021-02-08
 ---
 
 I'm currently living in Ohio, working remote for [CoverMyMeds](http://covermymeds.com) as a software developer.
 
 ## :space_invader: Playing
 
+* _Audica_ on Quest 2.
 * _Beat Saber_ on Quest 2.
 * _SUPERHOT VR_ on Quest 2.
 * _Assassin's Creed: Valhalla_ on Xbox Series X.
