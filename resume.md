@@ -150,8 +150,8 @@ needed. _Note: No longer maintained due to work-related VPN restrictions._
 
 A Ruby application with the Sinatra framework that will integrate with an Alexa skill to provide
 answers to questions like, "What do we have for snacks?", and "What do we have for dinner?".
-Currently in the process of learning Elm for the desired front-end that will be required. _I may
-just use Rails' CRUD for now._
+Currently in the process of learning Elm for the desired front-end that will be required.
+_Note: Archived the repository with plans to rebuild it better in the future._
 
 * Source: [GitHub][alexa-food-tracker-source]
 
