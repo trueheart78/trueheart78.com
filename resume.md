@@ -144,7 +144,7 @@ I tend to miss an alert from the above *Alexa Alerter*. To fix that, I developed
 subscribes to the remote Redis server, which then pings me on my MacOS desktop that my attention is
 needed.
 
-_Note: No longer works as of MacOS Catalina 10.15_
+_Note: No longer maintained due to work-related VPN restrictions._
 
 * Source: [GitHub][go-call-me-notifier]
 
