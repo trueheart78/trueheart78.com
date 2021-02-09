@@ -116,7 +116,7 @@ times, and no monthly cost.
 * Site: [deadtous.com][dead-to-us]
 * Source: [GitHub][dead-to-us-source]
 
-### Go, Deathbonus! :space_invader:
+### Go, Deathbonus! :video_game:
 
 As someone that enjoys watching streamers play games on [Twitch][twitch], and generally does so from
 a mobile device, I wanted to create a simple, easy-to-use site that could take me to a streamer's
