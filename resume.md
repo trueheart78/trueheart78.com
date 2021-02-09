@@ -142,9 +142,7 @@ enabling features like, "tell Josh I need him".
 Since I always have my watch or phone on vibrate when I'm working (and often charging at that time),
 I tend to miss an alert from the above *Alexa Alerter*. To fix that, I developed a Go program that
 subscribes to the remote Redis server, which then pings me on my MacOS desktop that my attention is
-needed.
-
-_Note: No longer maintained due to work-related VPN restrictions._
+needed. _Note: No longer maintained due to work-related VPN restrictions._
 
 * Source: [GitHub][go-call-me-notifier]
 
