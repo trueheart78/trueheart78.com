@@ -121,8 +121,8 @@ times, and no monthly cost.
 As someone that enjoys watching streamers play games on [Twitch][twitch], and generally does so from
 a mobile device, I wanted to create a simple, easy-to-use site that could take me to a streamer's
 subscribe page, their chat in a browser window, or directly to their stream. So, as [Dexbonus][dexbonus]
-is one of my favorite streamers, I created a simple site using an alias of theirs, and host it as a
-simple JavaScript-powered HTML page on AWS S3.
+is one of my favorite streamers, I created a simple site using an alias of theirs, and hosted it as a
+simple, JavaScript-powered HTML page on AWS S3.
 
 * Site: [go.deathbon.us][deathbonus]
 * Source: [GitHub][deathbonus-source]
