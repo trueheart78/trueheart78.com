@@ -116,6 +116,17 @@ times, and no monthly cost.
 * Site: [deadtous.com][dead-to-us]
 * Source: [GitHub][dead-to-us-source]
 
+### Go, Deathbonus! :space_invader:
+
+As someone that enjoys watching streamers play games on [Twitch][twitch], and generally does so from
+a mobile device, I wanted to create a simple, easy-to-use site that could take me to a streamer's
+subscribe page, their chat in a browser window, or directly to their stream. So, as [Dexbonus][dexbonus]
+is one of my favorite streamers, I created a simple site using an alias of theirs, and host it as a
+simple JavaScript-powered HTML page on AWS S3.
+
+* Site: [go.deathbon.us][deathbonus]
+* Source: [GitHub][deathbonus-source]
+
 ### TimeToTaylor :clock7:
 
 This consists of an AWS Lambda that I wrote in Go, and a web page on AWS S3 that interacted with it
@@ -237,6 +248,8 @@ Associate of Computer Science in Software Applications and Programming
 [game-selector-source]: https://github.com/trueheart78/game-selector
 [dead-to-us]: https://www.deadtous.com/
 [dead-to-us-source]: https://github.com/trueheart78/dead-to-us-html
+[deathbonus]: https://go.deathbon.us/
+[deathbonus-source]: https://github.com/trueheart78/deathbonus-2.0
 [time-to-taylor]: http://timetotaylor.com
 [time-to-taylor-endpoint]: https://gvitovaif0.execute-api.us-east-2.amazonaws.com/development/showtime
 [time-to-taylor-html-source]: https://github.com/trueheart78/timeToTaylor.com
@@ -251,6 +264,8 @@ Associate of Computer Science in Software Applications and Programming
 [stoplight-tests-pr]: https://github.com/orgsync/stoplight-admin/pull/26
 [php-cert]: http://www.zend.com/en/yellow-pages/ZEND022958
 [contact-converter]: https://github.com/trueheart78/Contacts-To-PDF
+[twitch]: https://twitch.tv/
+[dexbonus]: https://twitch.tv/dexbonus
 [email-me]: mailto:iloveyourresume@nym.hush.com
 [taylor-hi]: /assets/images/resume/taylor-hi.gif
 [taylor-strong]: /assets/images/resume/taylor-strong.gif
