@@ -34,9 +34,7 @@ update: 2021-02-08
 
 ## :space_invader: Unplayed
 
-:bangbang: Max of 3 flagged games to play next :bangbang:
-
-1. Control: Ultimate Edition (2019) (XSX)
+1. Control: Ultimate Edition (XSX) [20.0hr est]
 1. Cross Code (XSX) [31.5hr est] [gamepass]
 1. DOOM Eternal (XB1) [13.5hr est] [gamepass]
 1. Eastshade (XB1) [11.5hr est] [gamepass]
