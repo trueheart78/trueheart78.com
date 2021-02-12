@@ -3,7 +3,7 @@ layout: page
 title: Games
 permalink: /games/
 customnav: games_nav.html
-update: 2021-02-08
+update: 2021-02-12
 ---
 
 <a name='currently-playing'></a>
@@ -40,14 +40,12 @@ update: 2021-02-08
 1. Eastshade (XB1) [11.5hr est] [gamepass]
 1. Gears of War 4 (XB1) [9.0hr est] [gamepass]
 1. Gears 5 (XSX) [10.5hr est] [gamepass]
-1. God of War (2018) (PS4) [19.5hr est]
 1. Greedfall (XB1) [22.0hr est] [gamepass]
 1. Haven (XSX) [9.5hr est] [gamepass]
 1. Hellblade: Senua's Sacrifice (XB1) [7.5hr est] [gamepass]
 1. Ikenfell (XB1) [18.0hr est] [gamepass]
 1. Knights of the Old Republic 2 (XB1) [31.0hr est]
 1. Pixel Ripped 1995 (VR) [3.0hr est]
-1. Recore (XB1) [12.0hr est] [gamepass]
 1. River City Girls (XB1) [7.0hr est] [gamepass]
 1. Sayonara: Wild Hearts (NS) [1.5hr est]
 1. South Park: The Fractured But Whole (NS) [17.5hr est]
@@ -142,6 +140,10 @@ of games I have to play is oh so long._
   * Left Game Pass before I could get to it.
 1. Pistol Whip (VR)
   * I just wasn't enjoying it.
+1. Recore (XB1) [12.0hr est] [gamepass]
+  * This has been on the pile so long, other things are way more likely to get played.
+1. God of War (2018) (PS4) [19.5hr est]
+  * It's been over 2 years: I'm not getting to this.
 
 <!-- jettisoned:end -->
 <a name='planned-purchases'></a>

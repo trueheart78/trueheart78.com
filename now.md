@@ -2,7 +2,7 @@
 layout: page
 title: Now
 permalink: /now/
-update: 2021-02-08
+update: 2021-02-12
 ---
 
 I'm currently living in Ohio, working remote for [CoverMyMeds](http://covermymeds.com) as a software developer.
