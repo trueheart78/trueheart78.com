@@ -3,7 +3,7 @@ layout: page
 title: Games
 permalink: /games/
 customnav: games_nav.html
-update: 2021-03-01
+update: 2021-03-02
 ---
 
 <a name='currently-playing'></a>
@@ -37,6 +37,7 @@ update: 2021-03-01
 1. Control: Ultimate Edition (XSX) [20.0hr est]
 1. Cross Code (XSX) [31.5hr est] [gamepass]
 1. DOOM Eternal (XB1) [13.5hr est] [gamepass]
+1. Dirt 5 (XSX) [6.5hr est] [gamepass]
 1. Eastshade (XB1) [11.5hr est] [gamepass]
 1. Gears of War 4 (XB1) [9.0hr est] [gamepass]
 1. Gears 5 (XSX) [10.5hr est] [gamepass]
