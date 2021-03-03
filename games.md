@@ -3,7 +3,7 @@ layout: page
 title: Games
 permalink: /games/
 customnav: games_nav.html
-update: 2021-02-12
+update: 2021-03-01
 ---
 
 <a name='currently-playing'></a>
@@ -45,12 +45,13 @@ update: 2021-02-12
 1. Hellblade: Senua's Sacrifice (XB1) [7.5hr est] [gamepass]
 1. Ikenfell (XB1) [18.0hr est] [gamepass]
 1. Knights of the Old Republic 2 (XB1) [31.0hr est]
+1. Moss (VR) [4.5hr est]
 1. Pixel Ripped 1995 (VR) [3.0hr est]
 1. River City Girls (XB1) [7.0hr est] [gamepass]
 1. Sayonara: Wild Hearts (NS) [1.5hr est]
 1. South Park: The Fractured But Whole (NS) [17.5hr est]
 1. SpiritFarer (XB1) [23.0hr est] [gamepass]
-   * May delay playing this for quite some time as I lost close family member last year.
+   * May delay playing this for quite some time as I lost a close family member last year.
 1. Steamworld Heist (NS) [12.0hr est]
 1. SUPERHOT (XB1) [2.5hr est]
 1. SUPERHOT: Mind Control Delete (XB1) [6.0hr est]
