@@ -19,13 +19,8 @@ update: 2021-03-07
 
 #### :traffic_light: Started and Need to Finish
 
-1. Assassin's Creed: Odyssey (PS4/XB1)
-   * Re-purchased it and re-playing it again on Xbox One.
-   * Have fully explored the world. Now, I just need to do the quests.
 1. Assassin's Creed: Valhalla (XSX) [53.0hr]
 1. Ghost of Tsushima (PS4) [24.5hr]
-1. Watch Dogs: Legion (XSX) [17.5hr]
-   * Waiting for a firmware update to fix quick load issues.
 
 <!-- playing:end -->
 <a name='unplayed'></a>
@@ -33,40 +28,38 @@ update: 2021-03-07
 
 ## :space_invader: Unplayed
 
-1. Altdeus: Beyond Chronos (VR) [20.0hr]
-1. Bravely Default II Demo (NS) [3.0hr]
-1. Control: Ultimate Edition (XSX) [20.0hr]
-1. Cross Code (XSX) [31.5hr] :green_heart:
-1. DOOM Eternal (XB1) [13.5hr est] :green_heart:
-1. Dirt 5 (XSX) [6.5hr] :green_heart:
-1. Eastshade (XB1) [11.5hr] :green_heart:
-1. Gears of War 4 (XB1) [9.0hr] :green_heart:
-1. Gears 5 (XSX) [10.5hr] :green_heart:
-1. Greedfall (XB1) [22.0hr] :green_heart:
-1. GRIS (NS) [4hr]
-1. Haven (XSX) [9.5hr] :green_heart:
-1. Hellblade: Senua's Sacrifice (XB1) [7.5hr] :green_heart:
-1. Ikenfell (XB1) [18.0hr] :green_heart:
-1. Knights of the Old Republic 2 (XB1) [31.0hr]
-1. Moss (VR) [4.5hr]
-1. Pixel Ripped 1995 (VR) [3.0hr]
-1. Project TRIANGLE STRATEGY™ (working title) Debut Demo (NS)
-1. Ratchet & Clank (PS4) [10hr]
-1. River City Girls (XB1) [7.0hr] :green_heart:
 1. Sayonara: Wild Hearts (NS) [1.5hr]
-1. South Park: The Fractured But Whole (NS) [17.5hr]
-1. SpiritFarer (XB1) [23.0hr] :green_heart:
-   * May delay playing this for quite some time as I lost a close family member last year.
-1. Steamworld Heist (NS) [12.0hr]
-1. SUPERHOT (XB1) [2.5hr]
-1. SUPERHOT: Mind Control Delete (XB1) [6.0hr]
-1. Tales of Berseria (PS4) [44.5hr]
-1. Valkyria Chronicles Remastered (PS4) [27.5hr]
-1. Valkyria Chronicles 4 (PS4) [35.5hr]
+1. Bravely Default II Demo (NS) [3.0hr]
+1. Pixel Ripped 1995 (VR) [3.0hr]
+1. Project TRIANGLE STRATEGY™ (working title) Debut Demo (NS) [4.0hr guess]
+1. GRIS (NS) [4.0hr]
+1. Moss (VR) [4.5hr]
+1. Dirt 5 (XSX) [6.5hr] :green_heart:
+1. River City Girls (XB1) [7.0hr] :green_heart:
+1. Hellblade: Senua's Sacrifice (XB1) [7.5hr] :green_heart:
+1. Gears of War 4 (XB1) [9.0hr] :green_heart:
 1. Wandersong (NS) [9.0hr]
-1. West of Loathing (NS) [11.4hr]
+1. Haven (XSX) [9.5hr] :green_heart:
+1. Ratchet & Clank (PS4) [10hr]
+1. Gears 5 (XSX) [10.5hr] :green_heart:
+1. Eastshade (XB1) [11.5hr] :green_heart:
+1. West of Loathing (NS) [11.5hr]
+1. Steamworld Heist (NS) [12.0hr]
+1. DOOM Eternal (XB1) [13.5hr] :green_heart:
+1. South Park: The Fractured But Whole (NS) [17.5hr]
+1. Ikenfell (XB1) [18.0hr] :green_heart:
 1. Yakuza Kiwami (XB1) [18.0hr] :green_heart:
 1. Yakuza Kiwami 2 (XB1) [18.5hr] :green_heart:
+1. Altdeus: Beyond Chronos (VR) [20.0hr]
+1. Control: Ultimate Edition (XSX) [20.0hr]
+1. Greedfall (XB1) [22.0hr] :green_heart:
+1. SpiritFarer (XB1) [23.0hr] :green_heart:
+   * May delay playing this for quite some time as I lost a close family member last year.
+1. Valkyria Chronicles Remastered (PS4) [27.5hr]
+1. Knights of the Old Republic 2 (XB1) [31.0hr]
+1. Cross Code (XSX) [31.5hr] :green_heart:
+1. Valkyria Chronicles 4 (PS4) [35.5hr]
+1. Tales of Berseria (PS4) [44.5hr]
 1. Yakuza: Like a Dragon (XSX) [45.0hr]
 
 <!-- unplayed:end -->
@@ -76,6 +69,9 @@ update: 2021-03-07
 
 ## :heart_eyes: For Funsies
 
+1. Assassin's Creed: Odyssey (XB1/PS4)
+   * Re-purchased it and re-playing it again on Xbox One.
+   * Have fully explored the world. Now, I just need to do the quests.
 1. Audica (VR)
    * This is my jam.
    * Made by Harmonix.
@@ -92,7 +88,8 @@ update: 2021-03-07
 
 ## :calendar: Awaiting Content
 
-_TBD_
+1. Watch Dogs: Legion (XSX) [17.5hr]
+   * Waiting for a firmware update to fix quick load issues.
 
 <!-- awaiting-content:end -->
 
