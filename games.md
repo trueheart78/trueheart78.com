@@ -34,6 +34,7 @@ update: 2021-03-07
 ## :space_invader: Unplayed
 
 1. Altdeus: Beyond Chronos (VR) [20.0hr]
+1. Bravely Default II Demo (NS) [3.0hr]
 1. Control: Ultimate Edition (XSX) [20.0hr]
 1. Cross Code (XSX) [31.5hr] [gamepass]
 1. DOOM Eternal (XB1) [13.5hr est] [gamepass]
@@ -48,8 +49,9 @@ update: 2021-03-07
 1. Ikenfell (XB1) [18.0hr] [gamepass]
 1. Knights of the Old Republic 2 (XB1) [31.0hr]
 1. Moss (VR) [4.5hr]
-1. Ratchet & Clank (PS4) [10hr]
 1. Pixel Ripped 1995 (VR) [3.0hr]
+1. Project TRIANGLE STRATEGY™ (working title) Debut Demo (NS)
+1. Ratchet & Clank (PS4) [10hr]
 1. River City Girls (XB1) [7.0hr] [gamepass]
 1. Sayonara: Wild Hearts (NS) [1.5hr]
 1. South Park: The Fractured But Whole (NS) [17.5hr]
