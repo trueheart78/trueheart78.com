@@ -15,7 +15,7 @@ update: 2021-03-07
 
 1. SUPERHOT (VR)
    * Great bit of light exercise for me.
-1. TouHou Luna Nights (XB1) [5.0hr] [gamepass]
+1. TouHou Luna Nights (XB1) [5.0hr] :green_heart:
 
 #### :traffic_light: Started and Need to Finish
 
@@ -36,26 +36,26 @@ update: 2021-03-07
 1. Altdeus: Beyond Chronos (VR) [20.0hr]
 1. Bravely Default II Demo (NS) [3.0hr]
 1. Control: Ultimate Edition (XSX) [20.0hr]
-1. Cross Code (XSX) [31.5hr] [gamepass]
-1. DOOM Eternal (XB1) [13.5hr est] [gamepass]
-1. Dirt 5 (XSX) [6.5hr] [gamepass]
-1. Eastshade (XB1) [11.5hr] [gamepass]
-1. Gears of War 4 (XB1) [9.0hr] [gamepass]
-1. Gears 5 (XSX) [10.5hr] [gamepass]
-1. Greedfall (XB1) [22.0hr] [gamepass]
+1. Cross Code (XSX) [31.5hr] :green_heart:
+1. DOOM Eternal (XB1) [13.5hr est] :green_heart:
+1. Dirt 5 (XSX) [6.5hr] :green_heart:
+1. Eastshade (XB1) [11.5hr] :green_heart:
+1. Gears of War 4 (XB1) [9.0hr] :green_heart:
+1. Gears 5 (XSX) [10.5hr] :green_heart:
+1. Greedfall (XB1) [22.0hr] :green_heart:
 1. GRIS (NS) [4hr]
-1. Haven (XSX) [9.5hr] [gamepass]
-1. Hellblade: Senua's Sacrifice (XB1) [7.5hr] [gamepass]
-1. Ikenfell (XB1) [18.0hr] [gamepass]
+1. Haven (XSX) [9.5hr] :green_heart:
+1. Hellblade: Senua's Sacrifice (XB1) [7.5hr] :green_heart:
+1. Ikenfell (XB1) [18.0hr] :green_heart:
 1. Knights of the Old Republic 2 (XB1) [31.0hr]
 1. Moss (VR) [4.5hr]
 1. Pixel Ripped 1995 (VR) [3.0hr]
 1. Project TRIANGLE STRATEGY™ (working title) Debut Demo (NS)
 1. Ratchet & Clank (PS4) [10hr]
-1. River City Girls (XB1) [7.0hr] [gamepass]
+1. River City Girls (XB1) [7.0hr] :green_heart:
 1. Sayonara: Wild Hearts (NS) [1.5hr]
 1. South Park: The Fractured But Whole (NS) [17.5hr]
-1. SpiritFarer (XB1) [23.0hr] [gamepass]
+1. SpiritFarer (XB1) [23.0hr] :green_heart:
    * May delay playing this for quite some time as I lost a close family member last year.
 1. Steamworld Heist (NS) [12.0hr]
 1. SUPERHOT (XB1) [2.5hr]
@@ -65,8 +65,8 @@ update: 2021-03-07
 1. Valkyria Chronicles 4 (PS4) [35.5hr]
 1. Wandersong (NS) [9.0hr]
 1. West of Loathing (NS) [11.4hr]
-1. Yakuza Kiwami (XB1) [18.0hr] [gamepass]
-1. Yakuza Kiwami 2 (XB1) [18.5hr] [gamepass]
+1. Yakuza Kiwami (XB1) [18.0hr] :green_heart:
+1. Yakuza Kiwami 2 (XB1) [18.5hr] :green_heart:
 1. Yakuza: Like a Dragon (XSX) [45.0hr]
 
 <!-- unplayed:end -->
@@ -132,7 +132,7 @@ _TBD_
 _Games here aren't bad, they just didn't keep me until the credits, or were culled because the list
 of games I have to play is oh so long._
 
-1. The Touryst (XSX) [5.0hr] [gamepass]
+1. The Touryst (XSX) [5.0hr] :green_heart:
    * Cute, reminds me of Fez crossed with Crossy Road.
 1. In Death: Unchained (VR)
   * Causes shoulder pain that I haven't had to deal with in years.
@@ -142,11 +142,11 @@ of games I have to play is oh so long._
   * Another game I'm never going to get to.
 1. Phoenix Wright: Ace Attorney Trilogy (NS) [60.0hr]
   * 60 hours? I cannot commit to such a lengthy journey right now.
-1. Indivisible (XB1) [18.0hr] [gamepass]
+1. Indivisible (XB1) [18.0hr] :green_heart:
   * Left Game Pass before I could get to it.
 1. Pistol Whip (VR)
   * I just wasn't enjoying it.
-1. Recore (XB1) [12.0hr] [gamepass]
+1. Recore (XB1) [12.0hr] :green_heart:
   * This has been on the pile so long, other things are way more likely to get played.
 1. God of War (2018) (PS4) [19.5hr]
   * It's been over 2 years: I'm not getting to this.
@@ -160,7 +160,7 @@ of games I have to play is oh so long._
 See the [New Releases Wiki][new-releases]. Sorted by release date.
 
 1. Hitman 3 (XSX) [1/20/21] [wait for sale]
-1. The Medium (XSX) [1/28/21] [gamepass] [skipped]
+1. The Medium (XSX) [1/28/21] :green_heart: [skipped]
 1. Bravely Default II [2/26/21] [wait for sale]
 1. Far Cry 6 (XSX) [4/1/21] [wait for sale]
 1. Mass Effect: Legendary Edition [4/1/21] [wait for sale]
