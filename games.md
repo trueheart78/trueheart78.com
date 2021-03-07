@@ -50,7 +50,7 @@ update: 2021-03-07
 1. Ikenfell (XB1) [18.0hr] :green_heart:
 1. Yakuza Kiwami (XB1) [18.0hr] :green_heart:
 1. Yakuza Kiwami 2 (XB1) [18.5hr] :green_heart:
-1. Altdeus: Beyond Chronos (VR) [20.0hr]
+1. ALTDEUS: Beyond Chronos (VR) [20.0hr]
 1. Control: Ultimate Edition (XSX) [20.0hr]
 1. Greedfall (XB1) [22.0hr] :green_heart:
 1. SpiritFarer (XB1) [23.0hr] :green_heart:
