@@ -169,7 +169,7 @@ See the [Games in Development Wiki][games-in-development]
 1. Beyond Good and Evil 2 (XB1)
 1. Disco Elysium (XSX)
 1. Metroid Prime 4 (NS)
-1. Project Triangle Strategy (working title) [NS]
+1. Project Triangle Strategy (working title) (NS)
 1. System Shock (XB1)
 1. Untitled RWBY Game (XB1)
 1. Vampire: The Masquerade – Bloodlines 2 (XB1)
