@@ -46,7 +46,7 @@ I'm currently living in Ohio, working remote for [CoverMyMeds](http://covermymed
 #### :soon: In The Works
 
 * Creating an Alexa-based skill as a virtual fridge / pantry tracker.
-* Upgrading [CaringForKarenSue.com](http://www.caringforkarensue.com) from Rails 5.2 Rails 6.0.
+* Upgrading [CaringForKarenSue.com](http://www.caringforkarensue.com) from Rails 5.2 to Rails 6.0.
 * Rewriting my [Ruby-based Book Notes Generator](https://github.com/trueheart78/book-notes-generator) in [Go](https://github.com/trueheart78/book-notes-go)
 
 #### :ballot_box_with_check: Completed
