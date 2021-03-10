@@ -15,8 +15,9 @@ update: 2021-03-10
 
 1. SUPERHOT (VR)
    * Great bit of light exercise for me.
-1. Phoenix Wright: Ace Attorney Trilogy (NS) [60.0hr]
-   * Decided to give this a try since I can play it in handheld.
+1. Phoenix Wright: Ace Attorney (NS) [17.5hr]
+   * Giving this a try since I can play it in handheld.
+   * First in the trilogy collection.
 1. TouHou Luna Nights (XB1) [5.0hr] :green_heart:
 
 #### :traffic_light: Started and Need to Finish
@@ -50,10 +51,14 @@ update: 2021-03-10
 1. DOOM Eternal (XB1) [13.5hr] :green_heart:
 1. South Park: The Fractured But Whole (NS) [17.5hr]
 1. Ikenfell (XB1) [18.0hr] :green_heart:
+1. Phoenix Wright: Ace Attorney - Justice for All (NS) [18.0hr]
+   * Second in the trilogy collection.
 1. Yakuza Kiwami (XB1) [18.0hr] :green_heart:
 1. Yakuza Kiwami 2 (XB1) [18.5hr] :green_heart:
 1. ALTDEUS: Beyond Chronos (VR) [20.0hr]
 1. Control: Ultimate Edition (XSX) [20.0hr]
+1. Phoenix Wright: Ace Attorney - Trials and Tribulations (NS) [20.5hr]
+   * Third in the trilogy collectiom.
 1. Greedfall (XB1) [22.0hr] :green_heart:
 1. SpiritFarer (XB1) [23.0hr] :green_heart:
    * May delay playing this for quite some time as I lost a close family member last year.

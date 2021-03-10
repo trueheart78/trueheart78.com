@@ -12,7 +12,8 @@ I'm currently living in Ohio, working remote for [CoverMyMeds](http://covermymed
 * _SUPERHOT VR_ on Quest 2.
 * _Assassin's Creed: Valhalla_ on Xbox Series X.
 * _Ghost of Tsushima_ on PS4.
-* _Phoenix Wright: Ace Attorney Trilogy_ on Switch.
+* _Phoenix Wright: Ace Attorney_ on Switch.
+  * First in the trilogy collection.
 * _TouHou Luna Nights_ on Xbox Series X. :green_heart:
 
 #### :heart_eyes: Playing for Fun 
