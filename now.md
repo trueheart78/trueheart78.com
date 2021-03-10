@@ -51,7 +51,7 @@ I'm currently living in Ohio, working remote for [CoverMyMeds](http://covermymed
 
 #### :ballot_box_with_check: Completed
 
-* [Global Pandemic Goofs Site :microbe:](https://pandemic.pls.lol)
+* [Global Pandemic Goofs Site 🦠](https://pandemic.pls.lol)
   * [Source - Ruby & Sinatra](https://github.com/trueheart78/global-pandemic-goofs)
 * [Carrot Chase :carrot - Ruby Script](https://github.com/trueheart78/carrot-chase)
 * [Dropbox Gif Linker - Go Program](https://github.com/trueheart78/dropbox-gif-linker)
