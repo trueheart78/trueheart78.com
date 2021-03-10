@@ -58,7 +58,7 @@ update: 2021-03-10
 1. ALTDEUS: Beyond Chronos (VR) [20.0hr]
 1. Control: Ultimate Edition (XSX) [20.0hr]
 1. Phoenix Wright: Ace Attorney - Trials and Tribulations (NS) [20.5hr]
-   * Third in the trilogy collectiom.
+   * Third in the trilogy collection.
 1. Greedfall (XB1) [22.0hr] :green_heart:
 1. SpiritFarer (XB1) [23.0hr] :green_heart:
    * May delay playing this for quite some time as I lost a close family member last year.
