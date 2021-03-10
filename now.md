@@ -2,23 +2,26 @@
 layout: page
 title: Now
 permalink: /now/
-update: 2021-02-12
+update: 2021-03-10
 ---
 
 I'm currently living in Ohio, working remote for [CoverMyMeds](http://covermymeds.com) as a software developer.
 
-## :space_invader: Playing
+## :video_game: Playing Until Credits
+
+* _SUPERHOT VR_ on Quest 2.
+* _Assassin's Creed: Valhalla_ on Xbox Series X.
+* _Ghost of Tsushima_ on PS4.
+* _Phoenix Wright: Ace Attorney Trilogy_ on Switch.
+* _TouHou Luna Nights_ on Xbox Series X. :green_heart:
+
+#### :heart_eyes: Playing for Fun 
 
 * _Audica_ on Quest 2.
 * _Beat Saber_ on Quest 2.
-* _SUPERHOT VR_ on Quest 2.
-* _Assassin's Creed: Valhalla_ on Xbox Series X.
-  * Playing when the wife is up to it, she's a huge viking fan.
 * _Assassin's Creed: Odyssey_ on Xbox Series X.
-* _Ghost of Tsushima_ on PS4.
-* _TouHou Luna Nights_ on Xbox Series X.
 
-#### Just Finished
+#### :checkered_flag: Just Finished
 
 * _Cyberpunk 2077_ on Xbox Series X.
   * Really enjoyed my time with it, bugs aside.
@@ -40,6 +43,15 @@ I'm currently living in Ohio, working remote for [CoverMyMeds](http://covermymed
 
 ## :wrench: Side Projects
 
+#### :soon: In The Works
+
+* Creating an Alexa-based skill as a virtual fridge / pantry tracker.
+* Upgrading [CaringForKarenSue.com](http://www.caringforkarensue.com) from Rails 5.2 Rails 6.0.
 * Rewriting my [Ruby-based Book Notes Generator](https://github.com/trueheart78/book-notes-generator) in [Go](https://github.com/trueheart78/book-notes-go)
-* [Dropbox Gif Linker](https://github.com/trueheart78/dropbox-gif-linker) in Go.
-* Upgraded [CaringForKarenSue.com](http://www.caringforkarensue.com) from Sinatra to Rails 5.2.
+
+#### :ballot_box_with_check: Completed
+
+* [Global Pandemic Goofs Site :microbe:](https://pandemic.pls.lol)
+  * [Source - Ruby & Sinatra](https://github.com/trueheart78/global-pandemic-goofs)
+* [Carrot Chase :carrot - Ruby Script](https://github.com/trueheart78/carrot-chase)
+* [Dropbox Gif Linker - Go Program](https://github.com/trueheart78/dropbox-gif-linker)

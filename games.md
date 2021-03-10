@@ -3,7 +3,7 @@ layout: page
 title: Games
 permalink: /games/
 customnav: games_nav.html
-update: 2021-03-07
+update: 2021-03-10
 ---
 
 <a name='currently-playing'></a>
@@ -15,6 +15,8 @@ update: 2021-03-07
 
 1. SUPERHOT (VR)
    * Great bit of light exercise for me.
+1. Phoenix Wright: Ace Attorney Trilogy (NS) [60.0hr]
+   * Decided to give this a try since I can play it in handheld.
 1. TouHou Luna Nights (XB1) [5.0hr] :green_heart:
 
 #### :traffic_light: Started and Need to Finish
@@ -137,8 +139,6 @@ of games I have to play is oh so long._
   * Let's be honest: I'm not getting to this.
 1. Shadow of the Colossus (PS4) [9.0hr]
   * Another game I'm never going to get to.
-1. Phoenix Wright: Ace Attorney Trilogy (NS) [60.0hr]
-  * 60 hours? I cannot commit to such a lengthy journey right now.
 1. Indivisible (XB1) [18.0hr] :green_heart:
   * Left Game Pass before I could get to it.
 1. Pistol Whip (VR)
