@@ -2,7 +2,7 @@
 layout: page
 title: Resume
 permalink: /resume/
-update: 2021-02-08
+update: 2021-03-15
 ---
 
 # Hi, I'm Josh. :wave:
@@ -157,14 +157,29 @@ needed. _Note: No longer maintained due to work-related VPN restrictions._
 
 * Source: [GitHub][go-call-me-notifier]
 
-### Alexa Food Tracker (WIP) :hamburger:
+### Global Pandemic Goofs 🦠
 
-A Ruby application with the Sinatra framework that will integrate with an Alexa skill to provide
-answers to questions like, "What do we have for snacks?", and "What do we have for dinner?".
-Currently in the process of learning Elm for the desired front-end that will be required.
-_Note: Archived the repository with plans to rebuild it better in the future._
+This abomination of a website was created because of the absurdness of the global pandemic. At one
+point, this pandemic will pass, and then this site will be useless, so we goof on it while we can. It
+is a Ruby application utilizing Sinatra and has weighted logic to select random elements that make
+up the phrases. It reads from text files to provide options to replace the phrase, "In this global
+pandemic?", with something like, "In this gleaming pop concert hall?", or "In this gothic Pulp Juice
+And Smoothie Bar?"
 
-* Source: [GitHub][alexa-food-tracker-source]
+* Site: [pandemic.pls.lol][pandemic-goofs]
+* API Endpoint: [pandemic.pls.lol/api][pandemic-goofs-api]
+* Source: [GitHub][pandemic-goofs-source]
+
+### Food Tracker (WIP) :hamburger:
+
+A personalized Ruby application with the Sinatra framework that displays what we have to eat. Uses
+text files to store data, so that it can be edited on-the-go (no database interface required).
+Utilizes a meta data to help create the illusion of a database.
+_Note: Plans to cache with Redis forthcoming._
+
+* Site: [food.pls.lol][food-tracker]
+* API Endpoint: [food.pls.lol/api][food-tracker-api]
+* Source: [GitHub][food-tracker-source]
 
 ## Open Source Contributions :octocat:
 
@@ -258,6 +273,12 @@ Associate of Computer Science in Software Applications and Programming
 [go-call-me-maybe]: https://github.com/trueheart78/go-call-me-maybe
 [go-call-me-notifier]: https://github.com/trueheart78/go-call-me-notifier
 [alexa-food-tracker-source]: https://github.com/trueheart78/alexa-food-tracker
+[pandemic-goofs]: https://pandemic.pls.lol
+[pandemic-goofs-api]: https://pandemic.pls.lol/api
+[pandemic-goofs-source]: https://github.com/trueheart78/global-pandemic-goofs
+[food-tracker]: https://food.pls.lol
+[food-tracker-api]: https://food.pls.lol/api
+[food-tracker-source]: https://github.com/trueheart78/food-tracker
 [github]: https://github.com/trueheart78
 [turbolinks-pr]: https://github.com/turbolinks/turbolinks/pull/284
 [stoplight-redis-pr]: https://github.com/orgsync/stoplight-admin/pull/24
