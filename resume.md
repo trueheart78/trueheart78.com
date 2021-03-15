@@ -164,21 +164,20 @@ point, this pandemic will pass, and then this site will be useless, so we goof o
 is a Ruby application utilizing Sinatra and has weighted logic to select random elements that make
 up the phrases. It reads from text files to provide options to replace the phrase, "In this global
 pandemic?", with something like, "In this gleaming pop concert hall?", or "In this gothic Pulp Juice
-And Smoothie Bar?"
+And Smoothie Bar?". It even has a simple, but effect, API.
 
 * Site: [pandemic.pls.lol][pandemic-goofs]
-* API Endpoint: [pandemic.pls.lol/api][pandemic-goofs-api]
 * Source: [GitHub][pandemic-goofs-source]
 
 ### Food Tracker (WIP) :hamburger:
 
 A personalized Ruby application with the Sinatra framework that displays what we have to eat. Uses
 text files to store data, so that it can be edited on-the-go (no database interface required).
-Utilizes a meta data to help create the illusion of a database.
+Utilizes meta data to help create the illusion of a database.
+
 _Note: Plans to cache with Redis forthcoming._
 
 * Site: [food.pls.lol][food-tracker]
-* API Endpoint: [food.pls.lol/api][food-tracker-api]
 * Source: [GitHub][food-tracker-source]
 
 ## Open Source Contributions :octocat:
@@ -274,10 +273,8 @@ Associate of Computer Science in Software Applications and Programming
 [go-call-me-notifier]: https://github.com/trueheart78/go-call-me-notifier
 [alexa-food-tracker-source]: https://github.com/trueheart78/alexa-food-tracker
 [pandemic-goofs]: https://pandemic.pls.lol
-[pandemic-goofs-api]: https://pandemic.pls.lol/api
 [pandemic-goofs-source]: https://github.com/trueheart78/global-pandemic-goofs
 [food-tracker]: https://food.pls.lol
-[food-tracker-api]: https://food.pls.lol/api
 [food-tracker-source]: https://github.com/trueheart78/food-tracker
 [github]: https://github.com/trueheart78
 [turbolinks-pr]: https://github.com/turbolinks/turbolinks/pull/284
