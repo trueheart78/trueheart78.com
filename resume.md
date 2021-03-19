@@ -2,7 +2,7 @@
 layout: page
 title: Resume
 permalink: /resume/
-update: 2021-03-15
+update: 2021-03-19
 ---
 
 # Hi, I'm Josh. :wave:
@@ -186,6 +186,16 @@ _Note: Plans to cache with Redis forthcoming._
 
 ![refresh if you don't see 'taylor swift epic.gif'][taylor-epic]
 
+### Kitty :cat:
+
+Migrated to a cross-platform terminal emulator called [kitty][kitty] and realized it did not support
+the default Emoji keyboard on MacOS. Submitted a PR which added the missing support, and
+(although the PR was closed), it was addressed minutes later in a new commit by the maintainer,
+with a reference included.
+
+* Pull Request: [GitHub][kitty-pr]
+* Commit: [GitHub][kitty-commit]
+
 ### Turbolinks :zap:
 
 Discovered an IE8-related bug in Turbolinks and submitted a PR to the project. It was merged later that same day.
@@ -277,6 +287,9 @@ Associate of Computer Science in Software Applications and Programming
 [food-tracker]: https://food.pls.lol
 [food-tracker-source]: https://github.com/trueheart78/food-tracker
 [github]: https://github.com/trueheart78
+[kitty]: https://github.com/kovidgoyal/kitty
+[kitty-commit]: https://github.com/kovidgoyal/kitty/commit/9e476127d3c2f2643990b67d9b4642e956abbb54
+[kitty-pr]: https://github.com/kovidgoyal/kitty/pull/3407
 [turbolinks-pr]: https://github.com/turbolinks/turbolinks/pull/284
 [stoplight-redis-pr]: https://github.com/orgsync/stoplight-admin/pull/24
 [stoplight-tests-pr]: https://github.com/orgsync/stoplight-admin/pull/26
