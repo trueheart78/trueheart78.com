@@ -3,7 +3,7 @@ layout: page
 title: Games
 permalink: /games/
 customnav: games_nav.html
-update: 2021-03-11
+update: 2021-03-19
 ---
 
 <a name='currently-playing'></a>
@@ -48,6 +48,8 @@ update: 2021-03-11
 1. Eastshade (XB1) [11.5hr] :green_heart:
 1. West of Loathing (NS) [11.5hr]
 1. Steamworld Heist (NS) [12.0hr]
+1. Need For Speed Heat (XB1) [12.5hr] :green_heart:
+   * Compared to Underground 1 & 2. :sparkling_heart:
 1. DOOM Eternal (XB1) [13.5hr] :green_heart:
 1. DRAGON QUEST II: Luminaries of the Legendary Line (NS) [16.5hr]
 1. South Park: The Fractured But Whole (NS) [17.5hr]
