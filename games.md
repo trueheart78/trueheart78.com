@@ -40,6 +40,8 @@ update: 2021-03-19
 1. Dirt 5 (XSX) [6.5hr] :green_heart:
 1. River City Girls (XB1) [7.0hr] :green_heart:
 1. Hellblade: Senua's Sacrifice (XB1) [7.5hr] :green_heart:
+1. SSX (2012) (XB1) [8.0hr] :green_heart:
+   * Highly rated. Would love to just taste test it. 
 1. Gears of War 4 (XB1) [9.0hr] :green_heart:
 1. Wandersong (NS) [9.0hr]
 1. Haven (XSX) [9.5hr] :green_heart:
