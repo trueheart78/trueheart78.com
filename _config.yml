@@ -11,7 +11,7 @@ emoji:
   src: "/assets/images"
 
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "https://blog.trueheart.com" # the base hostname & protocol for your site
+url: "https://blog.trueheart78.com" # the base hostname & protocol for your site
 
 # Build settings
 markdown: kramdown
