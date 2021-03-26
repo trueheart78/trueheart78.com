@@ -57,4 +57,4 @@ update: 2021-03-26
 [ruby]: /ruby/
 [swears]: /swears/
 [taylor swift]: /taylor-swift/
-[wishlisht]: /wishlist/
+[wishlist]: /wishlist/
