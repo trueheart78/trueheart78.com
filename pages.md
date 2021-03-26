@@ -8,7 +8,7 @@ update: 2021-03-26
 ## Primary
 
 * [Home][home]
-* [Ruby][ruby]
+* [How Do I Love Thee, Ruby?][ruby]
 * [Now][now]
 * [Games][games]
 * [About][about]
