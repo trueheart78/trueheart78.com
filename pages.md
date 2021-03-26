@@ -23,7 +23,7 @@ update: 2021-03-26
 ## Achievements :trophy:
 
 * [Naked Dagger Runs - Dark Souls 3][naked dagger]
-* [Resume - Open Source Contributions][resume opensource]
+* [Open Source Contributions - Resume][resume opensource]
 
 ## Goofs :grin:
 
