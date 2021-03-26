@@ -2,7 +2,7 @@
 layout: page
 title: Resume
 permalink: /resume/
-update: 2021-03-19
+update: 2021-03-26
 ---
 
 # Hi, I'm Josh. :wave:
@@ -169,13 +169,10 @@ And Smoothie Bar?". It even has a simple, but effect, API.
 * Site: [pandemic.pls.lol][pandemic-goofs]
 * Source: [GitHub][pandemic-goofs-source]
 
-### Food Tracker (WIP) :hamburger:
+### Food Tracker :hamburger:
 
 A personalized Ruby application with the Sinatra framework that displays what we have to eat. Uses
-text files to store data, so that it can be edited on-the-go (no database interface required).
-Utilizes meta data to help create the illusion of a database.
-
-_Note: Plans to cache with Redis forthcoming._
+YAML files to store data, so that it can be edited on-the-go (no database interface required).
 
 * Site: [food.pls.lol][food-tracker]
 * Source: [GitHub][food-tracker-source]
