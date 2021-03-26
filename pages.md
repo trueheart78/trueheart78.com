@@ -5,7 +5,7 @@ permalink: /pages/
 update: 2021-03-26
 ---
 
-## Primary
+## Primary :100:
 
 * [About][about]
 * [Blog][blog]
@@ -13,23 +13,23 @@ update: 2021-03-26
 * [How Do I Love Thee, Ruby?][ruby]
 * [Now][now]
 
-## Secondary
+## Secondary :dizzy:
 
 * [Cult of Done Manifesto][cult of done]
 * [Favorite Games][favorite games]
 * [Resume][resume]
 * [Personalysis Briefing][personalysis]
-* [Taylor Swift - Jan 2021][taylor swift]
 
-## Goofs
+## Achievements :trophy:
+
+* [Naked Dagger Runs - Dark Souls 3][naked dagger]
+* [Open Source Contributions][resume opensource]
+
+## Goofs :grin:
 
 * [Swears - The Good Place][swears]
 
-## Achievements
-
-* [Naked Dagger Runs - Dark Souls 3][naked dagger]
-
-## Less Maintained
+## Less Maintained :zzz:
 
 * [Audio Books][audio books]
 * [Books][books]
@@ -38,6 +38,7 @@ update: 2021-03-26
 * [Naked Dagger Walkthrough - Dark Souls 3][naked dagger walkthrough]
 * [Picks][picks]
 * [Quotes][quotes]
+* [Taylor Swift - Jan 2021][taylor swift]
 * [Wishlist][wishlist]
 
 
@@ -57,6 +58,7 @@ update: 2021-03-26
 [picks]: /picks/
 [quotes]: /quotes/
 [resume]: /resume/
+[resume opensource]: /resume/#open-source-contributions-octocat
 [ruby]: /ruby/
 [swears]: /swears/
 [taylor swift]: /taylor-swift/
