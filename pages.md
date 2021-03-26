@@ -30,7 +30,7 @@ update: 2021-03-26
 * [Audio Books][audio books]
 * [Books][books]
 * [Character Names][character names]
-* [Cyberpunk 2077 Thoughts][cyberpunk 2077]
+* [Cyberpunk 2077 - Early Thoughts][cyberpunk 2077]
 * [Naked Dagger Runs - Dark Souls 3][naked dagger]
 * [Naked Dagger Walkthrough - Dark Souls 3][naked dagger walkthrough]
 * [Picks][picks]

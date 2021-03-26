@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Cyberpunk 2077 Thoughts
+title: Cyberpunk 2077 - Early Thoughts
 permalink: /cyberpunk-2077/
 update: 2020-12-17
 ---
