@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Naked Dagger Runs
+title: Naked Dagger Runs - Dark Souls 3
 permalink: /naked-dagger/
 update: 2017-05-04
 ---

@@ -2,22 +2,15 @@
 layout: page
 title: Wishlist
 permalink: /wishlist/
-update: 2020-09-28
+update: 2021-03-26
 ---
 
-**[My Amazon Wishlist][amazon-wishlist]** is a great place to check for recent updates. 
-
-## Gaming
-
-1. [Control (PS4) - $35 to $50][control-ps4]
-  - Want to play this by the end of the year.
-1. [Jedi: Fallen Order (PS4) - $60][star-wars-ps4]
-  - Looks wonderful.
+**[My Amazon Wishlist][amazon-wishlist]** is a great place to check for recent updates.
 
 ## Gift Cards / If All Else Fails
 
-1. Amazon Gift Cards :sparkling_heart:
-  - I am probably going to use this/these to buy new shoes.
+1. Amazon Gift Cards (preferred) :sparkling_heart:
+1. Xbox Gift Cards
 
 ## Art & Prints
 
@@ -25,5 +18,4 @@ update: 2020-09-28
   - Please make sure to **select comic "#150 Grownups" from the drop-down list**.
 
 [xkcd-print]: https://store.xkcd.com/products/signed-prints
-[tswift-calendar]: https://www.amazon.com/Monthly-Calendar-Songwriter-Celebrity-Multilingual/dp/1465091335
-[amazon-wishlist]: https://www.amazon.com/hz/wishlist/ls/6O11CFXI277L?type=wishlist&filter=unpurchased&sort=priority
+[amazon-wishlist]: https://www.amazon.com/hz/wishlist/ls/1HYNRZIICEIHW?type=wishlist&filter=unpurchased&sort=priority

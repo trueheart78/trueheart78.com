@@ -1,6 +1,6 @@
 ---
 layout: page
-title: The Cult of Done Manifesto
+title: Cult of Done Manifesto
 permalink: /cult-of-done/
 update: 2021-03-26
 ---
