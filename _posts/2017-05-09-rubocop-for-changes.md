@@ -118,4 +118,4 @@ analyzed by Rubocop.
 puts RubocopHelper.new.valid? ? 'Looks Good' : 'Ugggggghhhh'
 ```
 
-[rubocop-for-tests]: 2016-09-18-make-rubocop-part-of-your-tests.md
+[rubocop-for-tests]: /ruby/2016/09/18/make-rubocop-part-of-your-tests.html
