@@ -19,7 +19,7 @@ update: 2021-03-26
 1. If you have an idea and publish it on the internet, that counts as a ghost of done.
 1. Done is the engine of more.
 
-Written by Bre Pettis and Kio Stark. They licenced it under Creative Commons and put it out into the world. 
+Written by Bre Pettis and Kio Stark. They licensed it under Creative Commons and put it out into the world. 
 
 Source: _[The Cult of Done Manifesto on Medium.com by Bre Pettis][source]_.
 
