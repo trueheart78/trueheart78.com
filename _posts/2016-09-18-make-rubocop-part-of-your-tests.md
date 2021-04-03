@@ -1,11 +1,11 @@
 ---
 layout: post
-title:  "Make Rubocop Part of Your Tests"
+title:  "Make RuboCop Part of Your Tests"
 date:   2016-09-18 05:00:00
 categories: ruby
 ---
 
-[Rubocop](http://batsov.com/rubocop/) is a static code analyzer, and can be a
+[RuboCop][rubocop] is a static code analyzer, and can be a
 wonderful tool to help you keep your style consistent either across multiple
 developers, or just across a project that you work on by yourself.
 
@@ -33,7 +33,7 @@ In `test/linters/rubocop_test.rb`:
 ```ruby
 require 'test_helper'
 
-class RubocopTest < Minitest::Test
+class RuboCopTest < Minitest::Test
   def subject
     `rubocop`
   end
@@ -63,15 +63,15 @@ RSpec.describe 'rubocop analysis' do
 end
 ```
 
-## Rubocop Settings
+## RuboCop Settings
 
-Now, you'll likely notice that Rubocop can be a bit of a style... cop. To
+Now, you'll likely notice that RuboCop can be a bit of a style... cop. To
 override any of the default settings, you'll need to make sure to create a
 `.rubocop.yml` file, at the root of your project.
 
 ### Minitest
 
-To override the default Rubocop settings for Minitest, use something like the
+To override the default RuboCop settings for Minitest, use something like the
 this:
 
 In `.rubocop.yml`:
@@ -96,7 +96,7 @@ Style/ClassAndModuleChildren:
 
 ### RSpec
 
-To override the default Rubocop settings for RSpec, use something like the
+To override the default RuboCop settings for RSpec, use something like the
 following:
 
 ```yaml
@@ -126,3 +126,5 @@ Style/ClassAndModuleChildren:
 Metrics/BlockLength:
   ExcludedMethods: ['describe', 'context', 'shared_examples']
 ```
+
+[rubocop]: https://www.rubocop.org/
