@@ -7,6 +7,14 @@ update: 2021-04-03
 
 **[My Amazon Wishlist][amazon-wishlist]** is a great place to check for recent updates.
 
+## Donations
+
+1. [Meals on Wheels America][meals on wheels]
+   * It made a difference for my mom and my dad-in-law when they were
+     struggling late in life. I appreciate their work, so if you ever want to
+     give me something but can’t think of what I'd like, this is a completely
+     valid and preferred option.
+
 ## Gift Cards / If All Else Fails
 
 1. Amazon Gift Cards (preferred) :sparkling_heart:
@@ -33,5 +41,6 @@ So choose wisely! If an item is on this list, it's probably because he can't jus
 
 Use the given information wisely.
 
+[meals on wheels]: https://ams.mealsonwheelsamerica.org/eweb/DynamicPage.aspx?WebCode=globaldonate&site=mowa&CampCode=AnnualCampaign&AplCode=AnnCampWeb
 [xkcd-print]: https://store.xkcd.com/products/signed-prints
 [amazon-wishlist]: https://www.amazon.com/hz/wishlist/ls/1HYNRZIICEIHW?type=wishlist&filter=unpurchased&sort=priority
