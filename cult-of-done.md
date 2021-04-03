@@ -2,7 +2,7 @@
 layout: page
 title: Cult of Done Manifesto
 permalink: /cult-of-done/
-update: 2021-03-26
+update: 2021-04-03
 ---
 
 1. There are three states of being. Not knowing, action and completion.
