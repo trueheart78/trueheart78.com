@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Rubocop for Changes"
+title:  "RuboCop for Changes"
 date:   2017-05-09 12:00:00
 categories: ruby
 ---
