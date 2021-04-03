@@ -5,10 +5,10 @@ date:   2017-05-09 12:00:00
 categories: ruby
 ---
 
-One of the biggest problems of adopting Rubocop into existing projects is the
+One of the biggest problems of adopting RuboCop into existing projects is the
 onboarding of other developers, in a graceful manner.
 
-Previously, I posted about using [Rubocop for tests][rubocop-for-tests]. While
+Previously, I posted about using [RuboCop for tests][rubocop-for-tests]. While
 that's all good and fine, being responsible for style issues outside of the
 files you've changed can cause a fair amount of friction and/or anger.
 
@@ -16,7 +16,7 @@ The following class is something that could be adapted to work within specs to
 better validate changes.
 
 ```ruby
-class RubocopHelper
+class RuboCopHelper
   OutOfSyncError = Class.new StandardError
 
   def analyze
@@ -112,10 +112,10 @@ end
 ```
 
 You can then inspect the current branch with all relevant Ruby files being
-analyzed by Rubocop.
+analyzed by RuboCop.
 
 ```ruby
-puts RubocopHelper.new.valid? ? 'Looks Good' : 'Ugggggghhhh'
+puts RuboCopHelper.new.valid? ? 'Looks Good' : 'Ugggggghhhh'
 ```
 
 [rubocop-for-tests]: /ruby/2016/09/18/make-rubocop-part-of-your-tests.html
