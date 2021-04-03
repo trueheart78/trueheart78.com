@@ -9,7 +9,7 @@ update: 2021-04-03
 
 ## Donations
 
-1. [Meals on Wheels America][meals on wheels]
+1. [Meals on Wheels America][meals on wheels] 🍲
    * It made a difference for my mom and my dad-in-law when they were
      struggling late in life. I appreciate their work, so if you ever want to
      give me something but can’t think of what I'd like, this is a completely
