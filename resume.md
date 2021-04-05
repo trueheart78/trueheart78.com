@@ -2,7 +2,7 @@
 layout: page
 title: Resume
 permalink: /resume/
-update: 2021-03-26
+update: 2021-04-05
 ---
 
 # Hi, I'm Josh. :wave:
@@ -76,7 +76,7 @@ Originally written in Ruby, now written in Go.
 * Go Source: [GitHub][dropbox-gif-linker-source]
 * Ruby Source: [GitHub][gifs-gem-source]
 
-### Caring for Karen Sue :credit_card:
+### Caring for Karen Sue :golf:
 
 A charity-focused site, built in Ruby using Rails. Uses PayPal for payment processing. 
 
