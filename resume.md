@@ -78,7 +78,8 @@ Originally written in Ruby, now written in Go.
 
 ### Caring for Karen Sue :golf:
 
-A charity-focused site, built in Ruby using Rails. Uses PayPal for payment processing. 
+A charity-focused site that holds annual golf-based events, built in Ruby using Rails. Uses PayPal
+for payment processing. 
 
 * Site: [caringforkarensue.com][caringforkarensue]
 * Source: [GitHub][caringforkarensue-source]
