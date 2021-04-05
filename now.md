@@ -34,6 +34,11 @@ I'm currently living in Ohio, working remote for [CoverMyMeds][cmm] as a softwar
 * Saga
   + Reading book 5 of 9. :star: :star: :star: :star: :star:
 
+## :closed_book: Completed Comic-Related Books
+
+* [Success is 90% Spite: The Pigeon Gazette Webcomic Book](https://www.amazon.com/dp/1452181969/)
+  * Wonderful read. Go support [@PigeonComics](https://twitter.com/PigeonComics).
+
 ## :books: Learning
 
 * [Go](https://golang.org/)
