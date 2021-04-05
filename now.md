@@ -2,10 +2,10 @@
 layout: page
 title: Now
 permalink: /now/
-update: 2021-03-10
+update: 2021-04-05
 ---
 
-I'm currently living in Ohio, working remote for [CoverMyMeds](http://covermymeds.com) as a software developer.
+I'm currently living in Ohio, working remote for [CoverMyMeds][cmm] as a software developer.
 
 ## :video_game: Playing Until Credits
 
@@ -46,13 +46,25 @@ I'm currently living in Ohio, working remote for [CoverMyMeds](http://covermymed
 
 #### :soon: In The Works
 
-* Creating an Alexa-based skill as a virtual fridge / pantry tracker.
-* Upgrading [CaringForKarenSue.com](http://www.caringforkarensue.com) from Rails 5.2 to Rails 6.0.
-* Rewriting my [Ruby-based Book Notes Generator](https://github.com/trueheart78/book-notes-generator) in [Go](https://github.com/trueheart78/book-notes-go)
+* Creating a [Food Tracker][food tracker source] (in Ruby & Sinatra) as a virtual kitchen.
+* Upgrading [CaringForKarenSue.com][caring for karen sue] ([source][caring for karen sue - source])
+    from Rails 5.2 to Rails 6.0.
+* Rewriting my [Ruby-based Book Notes Generator][book notes generator - ruby source] in [Go][book notes generator - go source]
 
 #### :ballot_box_with_check: Completed
 
-* [Global Pandemic Goofs Site 🦠](https://pandemic.pls.lol)
-  * [Source - Ruby & Sinatra](https://github.com/trueheart78/global-pandemic-goofs)
-* [Carrot Chase 🥕 - Ruby Script](https://github.com/trueheart78/carrot-chase)
-* [Dropbox Gif Linker - Go Program](https://github.com/trueheart78/dropbox-gif-linker)
+* [Global Pandemic Goofs Site 🦠][pandemic site]
+  * [Source - Ruby & Sinatra][pandemic source]
+* [Carrot Chase 🥕 - Ruby Script][carrot chase source]
+* [Dropbox Gif Linker - Go Program][dropbox gif linker source]
+
+[cmm]: https://covermymeds.com
+[caring for karen sue]: https://www.caringforkarensue.com
+[caring for karen sue - source]: https://github.com/trueheart78/caring-for-karen-sue
+[food tracker source]: https://github.com/trueheart78/food-tracker
+[pandemic site]: https://pandemic.pls.lol
+[pandemic source]: https://github.com/trueheart78/global-pandemic-goofs
+[carrot chase source]: https://github.com/trueheart78/carrot-chase
+[dropbox gif linker source]: https://github.com/trueheart78/dropbox-gif-linker
+[book notes generator - ruby source]: https://github.com/trueheart78/book-notes-generator
+[book notes generator - go source]: https://github.com/trueheart78/book-notes-go
