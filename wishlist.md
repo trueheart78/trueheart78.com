@@ -28,7 +28,7 @@ update: 2021-04-06
 
 Josh is a software developer that loves programming in Ruby and listening to Taylor Swift. He also
 enjoys the odd comic (Squirrel Girl, Gwenpool, Captain Marvel, etc), especially anything illustrated
-by Gurihiru, Jen Bartel, and Skottie Young.
+by Gurihiru, Jen Bartel, or Skottie Young.
 
 He's not a big fan of art books, or books in general. His audio book list is around 100 titles, and
 probably 5% of that he's listened to, so those are out, as well.
