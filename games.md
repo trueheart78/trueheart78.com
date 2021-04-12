@@ -3,7 +3,7 @@ layout: page
 title: Games
 permalink: /games/
 customnav: games_nav.html
-update: 2021-03-19
+update: 2021-04-12
 ---
 
 <a name='currently-playing'></a>
@@ -15,10 +15,6 @@ update: 2021-03-19
 
 1. SUPERHOT (VR)
    * Great bit of light exercise for me.
-1. Phoenix Wright: Ace Attorney (NS) [17.5hr]
-   * Giving this a try since I can play it in handheld.
-   * First in the trilogy collection.
-1. TouHou Luna Nights (XB1) [5.0hr] :green_heart:
 
 #### :traffic_light: Started and Need to Finish
 
@@ -56,14 +52,10 @@ update: 2021-03-19
 1. DRAGON QUEST II: Luminaries of the Legendary Line (NS) [16.5hr]
 1. South Park: The Fractured But Whole (NS) [17.5hr]
 1. Ikenfell (XB1) [18.0hr] :green_heart:
-1. Phoenix Wright: Ace Attorney - Justice for All (NS) [18.0hr]
-   * Second in the trilogy collection.
 1. Yakuza Kiwami (XB1) [18.0hr] :green_heart:
 1. Yakuza Kiwami 2 (XB1) [18.5hr] :green_heart:
 1. ALTDEUS: Beyond Chronos (VR) [20.0hr]
 1. Control: Ultimate Edition (XSX) [20.0hr]
-1. Phoenix Wright: Ace Attorney - Trials and Tribulations (NS) [20.5hr]
-   * Third in the trilogy collection.
 1. Greedfall (XB1) [22.0hr] :green_heart:
 1. SpiritFarer (XB1) [23.0hr] :green_heart:
    * May delay playing this for quite some time as I lost a close family member last year.
@@ -157,6 +149,18 @@ of games I have to play is oh so long._
   * This has been on the pile so long, other things are way more likely to get played.
 1. God of War (2018) (PS4) [19.5hr]
   * It's been over 2 years: I'm not getting to this.
+1. TouHou Luna Nights (XB1) [5.0hr] :green_heart:
+  * Just not feeling it.
+1. Phoenix Wright: Ace Attorney (NS) [17.5hr]
+  * First in the trilogy collection.
+  * Ended up having to use walkthroughs to finish both act 2 and act 3.
+  * Couldn't tell if it was fun or entertaining.
+1. Phoenix Wright: Ace Attorney - Justice for All (NS) [18.0hr]
+  * Second in the trilogy collection.
+  * If I didn't enjoy the first, I certainly won't enjoy the second.
+1. Phoenix Wright: Ace Attorney - Trials and Tribulations (NS) [20.5hr]
+  * Third in the trilogy collection.
+  * If I didn't enjoy the first, I certainly won't enjoy the third.
 
 <!-- jettisoned:end -->
 <a name='planned-purchases'></a>

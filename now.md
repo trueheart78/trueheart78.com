@@ -2,7 +2,7 @@
 layout: page
 title: Now
 permalink: /now/
-update: 2021-04-05
+update: 2021-04-12
 ---
 
 I'm currently living in Ohio, working remote for [CoverMyMeds][cmm] as a software developer.
@@ -12,9 +12,6 @@ I'm currently living in Ohio, working remote for [CoverMyMeds][cmm] as a softwar
 * _SUPERHOT VR_ on Quest 2.
 * _Assassin's Creed: Valhalla_ on Xbox Series X.
 * _Ghost of Tsushima_ on PS4.
-* _Phoenix Wright: Ace Attorney_ on Switch.
-  * First in the trilogy collection.
-* _TouHou Luna Nights_ on Xbox Series X. :green_heart:
 
 #### :heart_eyes: Playing for Fun 
 
@@ -27,6 +24,21 @@ I'm currently living in Ohio, working remote for [CoverMyMeds][cmm] as a softwar
 * _Cyberpunk 2077_ on Xbox Series X.
   * Really enjoyed my time with it, bugs aside.
   * Got a satisfying ending with both my girls.
+
+#### :rocket: Recently Jettisoned
+
+* _TouHou Luna Nights_ on Xbox Series X. :green_heart:
+  * Just not feeling it.
+* _Phoenix Wright: Ace Attorney_ on Switch.
+  * First in the trilogy collection.
+  * Ended up having to use walkthroughs to finish both act 2 and act 3.
+  * Couldn't tell if it was fun or entertaining.
+* _Phoenix Wright: Ace Attorney - Justice for All_ on Switch.
+  * Second in the trilogy collection.
+  * If I didn't enjoy the first, I certainly won't enjoy the second.
+* _Phoenix Wright: Ace Attorney - Trials and Tribulations_ on Switch.
+  * Third in the trilogy collection.
+  * If I didn't enjoy the first, I certainly won't enjoy the third.
 
 ## :book: Comics
 
