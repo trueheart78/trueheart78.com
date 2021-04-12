@@ -25,6 +25,10 @@ update: 2021-03-26
 * [Naked Dagger Runs - Dark Souls 3][naked dagger]
 * [Open Source Contributions - Resume][resume opensource]
 
+## References :memo:
+
+* [Tone Indicators][tone indicators]
+
 ## Goofs :grin:
 
 * [Swears - The Good Place][swears]
@@ -62,4 +66,5 @@ update: 2021-03-26
 [ruby]: /ruby/
 [swears]: /swears/
 [taylor swift]: /taylor-swift/
+[tone indicators]: /tone-indicators
 [wishlist]: /wishlist/
