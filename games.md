@@ -3,7 +3,7 @@ layout: page
 title: Games
 permalink: /games/
 customnav: games_nav.html
-update: 2021-04-12
+update: 2021-04-14
 ---
 
 <a name='currently-playing'></a>
@@ -173,8 +173,9 @@ See the [New Releases Wiki][new-releases]. Sorted by release date.
 1. Hitman 3 (XSX) [1/20/21] [wait for sale]
 1. The Medium (XSX) [1/28/21] :green_heart: [skipped]
 1. Bravely Default II [2/26/21] [wait for sale]
-1. Far Cry 6 (XSX) [4/1/21] [wait for sale]
-1. Mass Effect: Legendary Edition [4/1/21] [wait for sale]
+1. Mass Effect: Legendary Edition [5/14/21] [wait for sale]
+1. Far Cry 6 (XSX) [5/25/21] [wait for sale]
+1. [Cris Tales](https://en.wikipedia.org/wiki/Cris_Tales) (XSX) [7/20/21] [wait and see]
 
 ## :moneybag: Planned Purchases (Hopefully in 2021)
 
