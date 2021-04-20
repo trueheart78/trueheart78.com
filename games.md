@@ -177,6 +177,7 @@ See the [New Releases Wiki][new-releases]. Sorted by release date.
 1. Mass Effect: Legendary Edition [5/14/21] [wait for sale]
 1. Far Cry 6 (XSX) [5/25/21] [wait for sale]
 1. [Cris Tales](https://en.wikipedia.org/wiki/Cris_Tales) (XSX) [7/20/21] [wait and see]
+1. [Astria Ascending](https://astria-ascending.com/) (XSX) [10/31/21] :green_heart:
 
 ## :moneybag: Planned Purchases (Hopefully in 2021)
 
