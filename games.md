@@ -3,7 +3,7 @@ layout: page
 title: Games
 permalink: /games/
 customnav: games_nav.html
-update: 2021-04-14
+update: 2021-04-20
 ---
 
 <a name='currently-playing'></a>
@@ -33,6 +33,7 @@ update: 2021-04-14
 1. Project TRIANGLE STRATEGY™ (working title) Debut Demo (NS) [4.0hr guess]
 1. GRIS (NS) [4.0hr]
 1. Moss (VR) [4.5hr]
+1. Transistor (NS) [6.0hr]
 1. Dirt 5 (XSX) [6.5hr] :green_heart:
 1. River City Girls (XB1) [7.0hr] :green_heart:
 1. Hellblade: Senua's Sacrifice (XB1) [7.5hr] :green_heart:
