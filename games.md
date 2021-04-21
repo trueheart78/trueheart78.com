@@ -200,7 +200,7 @@ See the [Games in Development Wiki][games-in-development]
 
 <!-- planned-purchases:end -->
 
-<a name='why'>
+<a name='why'></a>
 
 ## :thought_balloon: Why? [:top:][top]
 
@@ -209,7 +209,7 @@ looking for something else to play, instead of purchasing another title. That's
 really all this is for - to make sure you enjoy what you're playing and getting
 rid of stuff that you aren't."_ - Me
 
-<a name='notes-to-self'>
+<a name='notes-to-self'></a>
 
 ## :memo: Notes to Self [:top:][top]
 
@@ -221,7 +221,7 @@ rid of stuff that you aren't."_ - Me
   in the end I, I find myself playing more games and getting hooked on the ones that really click
   with me.
   
-<a name='legend'>
+<a name='legend'></a>
 
 ## :information_source: Legend [:top:][top]
 
@@ -230,4 +230,4 @@ rid of stuff that you aren't."_ - Me
 
 [new-releases]: https://en.wikipedia.org/wiki/2021_in_video_gaming#Game_releases
 [games-in-development]: https://en.wikipedia.org/wiki/List_of_video_games_in_development
-[top]: #links
+[top]: #sections
