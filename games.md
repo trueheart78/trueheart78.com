@@ -105,19 +105,14 @@ update: 2021-04-21
 
 <!-- awaiting-content:end -->
 
-<a name='undecided'>
-<!-- undecided:start -->
-
-<!-- undecided:end -->
-
-<a name='revisited'></a>
-<!-- revisited:start -->
+<a name='revisiting'></a>
+<!-- revisiting:start -->
 
 ## :repeat: Revisiting the Classics
 
 1. Mass Effect Series (XB1)
 
-<!-- revisited:end -->
+<!-- revisiting:end -->
 
 <a name='beaten'></a>
 <!-- beaten:start -->
@@ -235,14 +230,3 @@ rid of stuff that you aren't."_ - Me
 
 [new-releases]: https://en.wikipedia.org/wiki/2021_in_video_gaming#Game_releases
 [games-in-development]: https://en.wikipedia.org/wiki/List_of_video_games_in_development
-[notes-to-self]: #notes-to-self
-[currently-playing]: #currently-playing
-[awaiting-content]: #awaiting-content
-[undecided]: #undecided
-[unplayed]: #unplayed
-[beaten]: #beaten
-[jettisoned]: #jettisoned
-[why]: #why
-[for-fun]: #for-fun
-[planned-purchases]: #planned-purchases
-[legend]: #legend
