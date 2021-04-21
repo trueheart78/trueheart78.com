@@ -230,4 +230,4 @@ rid of stuff that you aren't."_ - Me
 
 [new-releases]: https://en.wikipedia.org/wiki/2021_in_video_gaming#Game_releases
 [games-in-development]: https://en.wikipedia.org/wiki/List_of_video_games_in_development
-[top]: #sections
+[top]: #page-top
