@@ -2,7 +2,7 @@
 layout: page
 title: Now
 permalink: /now/
-update: 2021-04-12
+update: 2021-04-21
 ---
 
 I'm currently living in Ohio, working remote for [CoverMyMeds][cmm] as a software developer.
@@ -10,8 +10,10 @@ I'm currently living in Ohio, working remote for [CoverMyMeds][cmm] as a softwar
 ## :video_game: Playing Until Credits
 
 * _SUPERHOT VR_ on Quest 2.
+* _Rain on Your Parade_ on Xbox Series X.
+* _Watch Dogs: Legion_ on Xbox Series X.
 * _Assassin's Creed: Valhalla_ on Xbox Series X.
-* _Ghost of Tsushima_ on PS4.
+* _Ghost of Tsushima_ on PlayStation 4.
 
 #### :heart_eyes: Playing for Fun 
 
@@ -58,6 +60,15 @@ I'm currently living in Ohio, working remote for [CoverMyMeds][cmm] as a softwar
    * [The Go programming Language](http://www.gopl.io/)
 * [Elm](http://elm-lang.org).
    * [Building Web Apps with Elm](https://github.com/trueheart78/book-notes/blob/master/building-web-apps-with-elm-course/README.md)
+
+## :globe_with_meridians: Recent Page Updates
+
+* Updated the [Games](/games) page.
+  * Better navigation via emojis vs black header links.
+  * New :top: navigation added.
+* Updated the [Resume](/resume) page.
+  * Relocated the emojis to the front of the headers.
+  * Updated the :top: navigation feature to be more current.
 
 ## :wrench: Side Projects
 
