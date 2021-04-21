@@ -46,7 +46,7 @@ update: 2021-04-21
 1. Gears of War 4 (XB1) [9.0hr] :green_heart:
 1. Wandersong (NS) [9.0hr]
 1. Haven (XSX) [9.5hr] :green_heart:
-1. Ratchet & Clank (PS4) [10hr]
+1. Ratchet & Clank (PS4) [10.0hr] :blue_heart:
 1. Gears 5 (XSX) [10.5hr] :green_heart:
 1. Eastshade (XB1) [11.5hr] :green_heart:
 1. West of Loathing (NS) [11.5hr]
@@ -71,6 +71,8 @@ update: 2021-04-21
 1. Tales of Berseria (PS4) [44.5hr]
 1. Yakuza: Like a Dragon (XSX) [45.0hr]
 1. OCTOPATH TRAVELER (XB1) [60.5hr] :green_heart:
+   * Attempted and jettisoned on Switch.
+   * Want to see it with a different main character.
 
 <!-- unplayed:end -->
 
@@ -89,6 +91,7 @@ update: 2021-04-21
 1. Beat Saber (VR)
    * Bought the BTS and Linkin Park packs.
    * Mainly play the "solo" mode, so there is no "completion".
+   * Love the 90° mode.
 1. Road Rash (PS1/GEN)
 
 <!-- for-fun:end -->
@@ -228,7 +231,7 @@ rid of stuff that you aren't."_ - Me
 ## Legend
 
 * :green_heart: = Xbox Game Pass
-* :blue_heart: = PSN+ Freebie
+* :blue_heart: = PlayStation Plus Freebie
 
 [new-releases]: https://en.wikipedia.org/wiki/2021_in_video_gaming#Game_releases
 [games-in-development]: https://en.wikipedia.org/wiki/List_of_video_games_in_development
