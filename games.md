@@ -9,7 +9,7 @@ update: 2021-04-21
 <a name='currently-playing'></a>
 <!-- playing:start -->
 
-## :video_game: Playing
+## :video_game: Playing [:top:][top]
 
 #### :eyes: Focused
 
@@ -29,7 +29,7 @@ update: 2021-04-21
 <a name='unplayed'></a>
 <!-- unplayed:start -->
 
-## :space_invader: Unplayed
+## :space_invader: Unplayed [:top:][top]
 
 1. Sayonara: Wild Hearts (NS) [1.5hr]
 1. Bravely Default II Demo (NS) [3.0hr]
@@ -79,7 +79,7 @@ update: 2021-04-21
 <a name='for-fun'></a>
 <!-- for-fun:start -->
 
-## :heart_eyes: For Funsies
+## :heart_eyes: For Funsies [:top:][top]
 
 1. Assassin's Creed: Odyssey (XB1/PS4)
    * Re-purchased it and re-playing it again on Xbox One.
@@ -98,7 +98,7 @@ update: 2021-04-21
 <a name='awaiting-content'></a>
 <!-- awaiting-content:start -->
 
-## :calendar: Awaiting Content
+## :calendar: Awaiting Content [:top:][top]
 
 1. _TBD_
 
@@ -107,7 +107,7 @@ update: 2021-04-21
 <a name='revisiting'></a>
 <!-- revisiting:start -->
 
-## :repeat: Revisiting
+## :repeat: Revisiting [:top:][top]
 
 1. Mass Effect Series (XB1)
 1. Road Rash (PS1/GEN)
@@ -117,7 +117,7 @@ update: 2021-04-21
 <a name='beaten'></a>
 <!-- beaten:start -->
 
-## :checkered_flag: Beaten
+## :checkered_flag: Beaten [:top:][top]
 
 1. Cyberpunk 2077 (XSX)
    * 90+ hours spent doing everything aside from buying all the vehicles.
@@ -131,7 +131,7 @@ update: 2021-04-21
 <a name='jettisoned'></a>
 <!-- jettisoned:start -->
 
-## :rocket: Jettisoned
+## :rocket: Jettisoned [:top:][top]
 
 _Games here aren't bad, they just didn't keep me until the credits, or were culled because the list
 of games I have to play is oh so long._
@@ -169,7 +169,7 @@ of games I have to play is oh so long._
 <a name='planned-purchases'></a>
 <!-- planned-purchases:start -->
 
-## :money_with_wings: Planned Purchases 
+## :money_with_wings: Planned Purchases [:top:][top]
 
 See the [New Releases Wiki][new-releases]. Sorted by release date.
 
@@ -202,7 +202,7 @@ See the [Games in Development Wiki][games-in-development]
 
 <a name='why'>
 
-## :thought_balloon: Why?
+## :thought_balloon: Why? [:top:][top]
 
 _"You should be playing games you enjoy. Just remember your pile when you start
 looking for something else to play, instead of purchasing another title. That's
@@ -211,7 +211,7 @@ rid of stuff that you aren't."_ - Me
 
 <a name='notes-to-self'>
 
-## :memo: Notes to Self
+## :memo: Notes to Self [:top:][top]
 
 + I should not buy DLC until I am ready to play it.
 + I stop playing open world games when I complete the main story.
@@ -223,10 +223,11 @@ rid of stuff that you aren't."_ - Me
   
 <a name='legend'>
 
-## :information_source: Legend
+## :information_source: Legend [:top:][top]
 
 * :green_heart: = Xbox Game Pass
 * :blue_heart: = PlayStation Plus Freebie
 
 [new-releases]: https://en.wikipedia.org/wiki/2021_in_video_gaming#Game_releases
 [games-in-development]: https://en.wikipedia.org/wiki/List_of_video_games_in_development
+[top]: #links
