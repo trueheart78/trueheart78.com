@@ -228,7 +228,7 @@ rid of stuff that you aren't."_ - Me
   
 <a name='legend'>
 
-## Legend
+## :information_source: Legend
 
 * :green_heart: = Xbox Game Pass
 * :blue_heart: = PlayStation Plus Freebie
