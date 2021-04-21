@@ -25,7 +25,7 @@ I'm currently living in Ohio, working remote for [CoverMyMeds][cmm] as a softwar
 
 * _Cyberpunk 2077_ on Xbox Series X.
   * Really enjoyed my time with it, bugs aside.
-  * Got a satisfying ending with both my girls.
+  * Got a satisfying ending with Judy and Panam.
 
 #### :rocket: Recently Jettisoned
 

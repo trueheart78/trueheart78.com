@@ -121,7 +121,7 @@ update: 2021-04-21
 
 1. Cyberpunk 2077 (XSX)
    * 90+ hours spent doing everything aside from buying all the vehicles.
-   * Got a satsifying ending with both my girls at my side.
+   * Got a satsifying ending with Judy and Panam.
    * May revisit after the next-gen upgrade, but not before.
    * Judy :sparkling_heart:
    * Panam :sparkling_heart:
