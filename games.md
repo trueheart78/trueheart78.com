@@ -92,7 +92,6 @@ update: 2021-04-21
    * Bought the BTS and Linkin Park packs.
    * Mainly play the "solo" mode, so there is no "completion".
    * Love the 90° mode.
-1. Road Rash (PS1/GEN)
 
 <!-- for-fun:end -->
 
@@ -108,9 +107,10 @@ update: 2021-04-21
 <a name='revisiting'></a>
 <!-- revisiting:start -->
 
-## :repeat: Revisiting the Classics
+## :repeat: Revisiting
 
 1. Mass Effect Series (XB1)
+1. Road Rash (PS1/GEN)
 
 <!-- revisiting:end -->
 
