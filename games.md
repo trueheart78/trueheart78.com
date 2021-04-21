@@ -3,7 +3,7 @@ layout: page
 title: Games
 permalink: /games/
 customnav: games_nav.html
-update: 2021-04-20
+update: 2021-04-21
 ---
 
 <a name='currently-playing'></a>
@@ -13,9 +13,13 @@ update: 2021-04-20
 
 #### :eyes: Focused
 
+1. Rain on Your Parade (XB1) [1.5hr] :green_heart:
 1. SUPERHOT (VR)
    * Great bit of light exercise for me.
-
+1. Watch Dogs: Legion (XSX) [17.5hr]
+   * Patched save file issue :ballot_box_with_check:
+   * Quick Resume support added :ballot_box_with_check:
+   
 #### :traffic_light: Started and Need to Finish
 
 1. Assassin's Creed: Valhalla (XSX) [53.0hr]
@@ -66,6 +70,7 @@ update: 2021-04-20
 1. Valkyria Chronicles 4 (PS4) [35.5hr]
 1. Tales of Berseria (PS4) [44.5hr]
 1. Yakuza: Like a Dragon (XSX) [45.0hr]
+1. OCTOPATH TRAVELER (XB1) [60.5hr] :green_heart:
 
 <!-- unplayed:end -->
 
@@ -93,8 +98,7 @@ update: 2021-04-20
 
 ## :calendar: Awaiting Content
 
-1. Watch Dogs: Legion (XSX) [17.5hr]
-   * Waiting for a firmware update to fix quick load issues.
+1. _TBD_
 
 <!-- awaiting-content:end -->
 
@@ -218,6 +222,13 @@ rid of stuff that you aren't."_ - Me
 + I am much more of a taste-tester than I ever was before. This leads to more jettisoned games, but
   in the end I, I find myself playing more games and getting hooked on the ones that really click
   with me.
+  
+<a name='legend'>
+
+## Legend
+
+* :green_heart: = Xbox Game Pass
+* :blue_heart: = PSN+ Freebie
 
 [new-releases]: https://en.wikipedia.org/wiki/2021_in_video_gaming#Game_releases
 [games-in-development]: https://en.wikipedia.org/wiki/List_of_video_games_in_development
@@ -231,3 +242,4 @@ rid of stuff that you aren't."_ - Me
 [why]: #why
 [for-fun]: #for-fun
 [planned-purchases]: #planned-purchases
+[legend]: #legend
