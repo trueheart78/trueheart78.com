@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Swears - The Good Place
+description: The list of censored words (and their replacements), in The Good Place television show.
 permalink: /swears/
 update: 2021-03-24
 ---
