@@ -178,8 +178,9 @@ See the [New Releases Wiki][new-releases]. Sorted by release date.
 1. Bravely Default II [2/26/21] [wait for sale]
 1. Mass Effect: Legendary Edition [5/14/21] [wait for sale]
 1. Far Cry 6 (XSX) [5/25/21] [wait for sale]
-1. [Cris Tales](https://en.wikipedia.org/wiki/Cris_Tales) (XSX) [7/20/21] [wait and see]
-1. [Astria Ascending](https://astria-ascending.com/) (XSX) [10/31/21] :green_heart:
+1. [Cris Tales][cris tales] (XSX) [7/20/21] [wait and see]
+1. [Tales of Arise][tales of arise] (XSX) [09/10/21] [wait for sale]
+1. [Astria Ascending][astria ascending] (XSX) [10/31/21] :green_heart:
 
 ## :moneybag: Planned Purchases (Hopefully in 2021)
 
@@ -231,3 +232,6 @@ rid of stuff that you aren't."_ - Me
 [new-releases]: https://en.wikipedia.org/wiki/2021_in_video_gaming#Game_releases
 [games-in-development]: https://en.wikipedia.org/wiki/List_of_video_games_in_development
 [top]: #page-top
+[astria ascending]: https://astria-ascending.com/
+[cris tales]: https://en.wikipedia.org/wiki/Cris_Tales
+[tales of arise]: https://en.bandainamcoent.eu/tales-of/tales-of-arise
