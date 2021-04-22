@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Know When Pushing to Main
+description: How to keep yourself from accidentally pushing to the main branch of your repository.
 date: 2021-01-27 14:50:00
 tags:
 - git
