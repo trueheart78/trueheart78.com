@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Games
+description: A management page for my ever evolving list of games.
 permalink: /games/
 customnav: games_nav.html
 update: 2021-04-21
