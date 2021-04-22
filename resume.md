@@ -1,6 +1,7 @@
 ---
 layout: page
-title: Resume
+title: My Resume
+description: My Living Resume
 permalink: /resume/
 update: 2021-04-21
 ---
@@ -286,7 +287,6 @@ Associate of Computer Science in Software Applications and Programming
 [contact-converter]: https://github.com/trueheart78/Contacts-To-PDF
 [twitch]: https://twitch.tv/
 [dexbonus]: https://twitch.tv/dexbonus
-[email-me]: mailto:iloveyourresume@nym.hush.com
 [taylor-hi]: /assets/images/resume/taylor-hi.gif
 [taylor-strong]: /assets/images/resume/taylor-strong.gif
 [taylor-whats-up]: /assets/images/resume/taylor-whats-up.gif
@@ -295,6 +295,4 @@ Associate of Computer Science in Software Applications and Programming
 [taylor-studying]: /assets/images/resume/taylor-studying.gif
 [taylor-mountain]: /assets/images/resume/taylor-mountain.gif
 [taylor-heart]: /assets/images/resume/taylor-heart.gif
-[taylor-work-it-jlo]: /assets/images/resume/taylor-work-it-jlo.gif
-[taylor-call-me]: /assets/images/resume/taylor-call-me.gif
 [top]: #page-top
