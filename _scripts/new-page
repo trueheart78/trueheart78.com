@@ -1,13 +1,15 @@
 #!/usr/bin/env ruby
+# frozen_string_literal: true
 
 require 'date'
 
-def front_matter(page_name, page_filename)
+def front_matter(page_name, page_description, page_filename)
   [
     '---',
     'layout: page',
     "title: #{page_name}",
-    "permalink: /#{page_filename.gsub('.md','')}/",
+    "decscription: #{page_description}",
+    "permalink: /#{page_filename.gsub('.md', '')}/",
     "update: #{DateTime.now.strftime('%Y-%m-%d')}",
     '---',
     ''
@@ -15,7 +17,7 @@ def front_matter(page_name, page_filename)
 end
 
 def filename(page_name)
-  "#{page_name.downcase.gsub(' ','-')}.md"
+  "#{page_name.downcase.gsub(' ', '-')}.md"
 end
 
 def generate_file(page_filename, header)
@@ -29,9 +31,12 @@ end
 
 print 'new page name? '
 page_name = gets.strip
+print 'new page description? '
+page_description = gets.strip
 page_filename = filename page_name
 puts "page name: #{page_filename}"
-header = front_matter page_name, page_filename
+puts "page description: #{page_description}"
+header = front_matter page_name, page_description, page_filename
 puts header
 generate_file page_filename, header
 puts "created #{page_filename}"

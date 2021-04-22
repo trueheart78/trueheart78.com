@@ -1,14 +1,16 @@
 #!/usr/bin/env ruby
+# frozen_string_literal: true
 
 require 'date'
 
-def front_matter(post_name, tags='ruby')
+def front_matter(post_name, post_description, tags = 'ruby')
   [
     '---',
     'layout: post',
     "title: #{post_name}",
+    "description: #{post_description}",
     "date: #{DateTime.now.strftime('%Y-%m-%d %H:%M:%S')}",
-    "tags:",
+    'tags:',
     tags.uniq.map { |c| "- #{c}" },
     '---',
     ''
@@ -19,7 +21,7 @@ def filename(post_name)
   [
     DateTime.now.strftime('%Y-%m-%d'),
     "#{post_name.downcase}.md"
-  ].join('-').gsub(' ','-') 
+  ].join('-').gsub(' ', '-')
 end
 
 def generate_file(post_filename, header)
@@ -33,10 +35,13 @@ end
 
 print 'new post name? '
 post_name = gets.strip
+print 'new post description? '
+post_description = gets.strip
 puts "post name: #{filename(post_name)}"
+puts "post description: #{post_description}"
 print 'post tags (comma-separated) '
-tags = gets.split(',').map { |s| s.strip }
-header = front_matter post_name, tags
+tags = gets.split(',').map(&:strip)
+header = front_matter post_name, post_description, tags
 puts header
 generate_file filename(post_name), header
 puts "created #{filename(post_name)}"
