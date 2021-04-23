@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Pages
-description: A listof public pages across the site.
+description: A list of public pages across the site.
 permalink: /pages/
 update: 2021-03-26
 ---
