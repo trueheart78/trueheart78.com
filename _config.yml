@@ -1,5 +1,5 @@
 # Site settings
-title: I ♥  Ruby
+title: I 💖 Ruby
 title_html:
   big: I <img src="/assets/images/site-heart.webp" height="26" width="26" /> Ruby	
   small: I <img src="/assets/images/site-heart.webp" height="16" width="16" /> Ruby	
@@ -10,7 +10,7 @@ email: josh@trueheart78.com
 emoji:
   src: "/assets/images"
 
-description: "The website of one trueheart78 💖"
+description: "The website of one trueheart78"
 
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "https://blog.trueheart78.com" # the base hostname & protocol for your site
