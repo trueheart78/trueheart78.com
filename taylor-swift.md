@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Taylor Swift - Jan 2021
+description: What I love so much about Taylor Swift.
 permalink: /taylor-swift/
 update: 2021-01-19
 ---
