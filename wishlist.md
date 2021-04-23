@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Wishlist
+description: My living wishlist.
 permalink: /wishlist/
 update: 2021-04-06
 ---

@@ -1,6 +1,7 @@
 ---
 layout: page
-title: About
+title: About Me
+description: About trueheart78
 permalink: /about/
 update: 2021-04-05
 ---

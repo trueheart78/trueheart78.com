@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Cult of Done Manifesto
+description: A favorite manifesto.
 permalink: /cult-of-done/
 update: 2021-04-03
 ---

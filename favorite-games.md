@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Favorite Games
+description: Games that have been influential throughout my life.
 permalink: /favorite-games/
 update: 2020-01-07
 ---

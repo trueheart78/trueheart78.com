@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Tone Indicators
+description: An overview of tone indicators and what they mean.
 permalink: /tone-indicators/
 update: 2021-04-12
 ---
