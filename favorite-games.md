@@ -14,13 +14,13 @@ update: 2020-01-07
 
 ### Of All Time
 
-<a name='ffvi'></a>
+<a id='ffvi'></a>
 
 ### 1. Final Fantasy VI (SNES)
 
 _To be written._
 
-<a name='persona-4'></a>
+<a id='persona-4'></a>
 
 ### 2. Persona 4 Golden (Vita)
 
@@ -66,7 +66,7 @@ Here's a taste of the goodness that is the intro video.
 
 <iframe width="680" height="408" src="https://www.youtube.com/embed/gBdlScU7N6M" frameborder="0" allowfullscreen></iframe>
 
-<a name='horizon-zero-dawn'></a>
+<a id='horizon-zero-dawn'></a>
 
 ### Horizon: Zero Dawn
 
@@ -108,7 +108,7 @@ My bullet points, until I get to writing up something more proper:
 
 See GotY 2019 :sparkling_heart:
 
-<a name='random-thoughts'></a>
+<a id='random-thoughts'></a>
 
 ### Random Thoughts for 2017 Games
 
@@ -125,7 +125,7 @@ See GotY 2019 :sparkling_heart:
 
 ### Game of the Year
 
-<a name='goty-2019'></a>
+<a id='goty-2019'></a>
 
 ### :scroll: 2019
 
@@ -157,7 +157,7 @@ to over 4 hours after the upgrade and I don't regret it one bit.
   * :trophy: **Best Star Wars Story** :trophy:
   * :trophy: **Favorite New Character: Nightsister Merrin** :trophy:
 
-<a name='goty-2018'></a>
+<a id='goty-2018'></a>
 
 ### :scroll: 2018
 
@@ -236,7 +236,7 @@ game once I've completed the main story, and that speaks volumes.
   * :trophy: **Best Combat** :trophy:
   * :trophy: **Tie: Best Protagonist in an Assassin's Creed Game (Kassandra)** :trophy:
 
-<a name='goty-2017'></a>
+<a id='goty-2017'></a>
 
 ### :scroll: 2017
 
@@ -270,7 +270,7 @@ Even after 240+ hours in Breath of the Wild, this is still my favorite game from
 
 ## Previous Years
 
-<a name='goty-2016'></a>
+<a id='goty-2016'></a>
 
 ### :scroll: 2016
 

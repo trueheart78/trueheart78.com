@@ -23,7 +23,7 @@ make others smile :smile:.
 I'm looking for a light-hearted, collaborative team, that could benefit from my strong back-end
 development skills.
 
-<a name='strengths'></a>
+<a id='strengths'></a>
 ## :muscle: Strengths [:top:][top]
 
 ![refresh if you don't see a 'taylor swift strong.gif'][taylor-strong]
@@ -36,7 +36,7 @@ development skills.
 * I desire to contribute to open source.
 * I was called "Gif Captain" by my manager.
 
-<a name='experience'></a>
+<a id='experience'></a>
 ## :scroll: Experience [:top:][top]
 
 ![refresh if you don't see a 'taylor swift whats up.gif'][taylor-whats-up]
@@ -48,7 +48,7 @@ development skills.
 * Thirteen years of PHP, MySQL, and JavaScript.
 * Eleven years of managing critical on-line systems.
 
-<a name='side-projects'></a>
+<a id='side-projects'></a>
 ## :wrench: Side Projects [:top:][top]
 
 ![refresh if you don't see a 'taylor award dance.gif'][taylor-award-dance]
@@ -176,7 +176,7 @@ YAML files to store data, so that it can be edited on-the-go (no database interf
 * Site: [food.pls.lol][food-tracker]
 * Source: [GitHub][food-tracker-source]
 
-<a name='open-source'></a>
+<a id='open-source'></a>
 ## :octocat: Open Source Contributions [:top:][top]
 
 ![refresh if you don't see 'taylor swift epic.gif'][taylor-epic]
@@ -207,7 +207,7 @@ project to make sure that at least the core framework would load without issue.
 * Redis Pull Request: [GitHub][stoplight-redis-pr]
 * Tests Pull Request: [GitHub][stoplight-tests-pr]
 
-<a name='work-history'></a>
+<a id='work-history'></a>
 ## :office: Work History [:top:][top]
 
 ![refresh if you don't see a 'taylor mountain.gif'][taylor-mountain]
@@ -238,7 +238,7 @@ project to make sure that at least the core framework would load without issue.
 * Worked with REALTOR-based listing services to create custom data imports for clients.
 * Created an integrated online support system for managing user-submitted tickets.
 
-<a name='education'></a>
+<a id='education'></a>
 ## :apple: Education [:top:][top]
 
 ![refresh if you don't see a 'taylor swift studying.gif'][taylor-studying]

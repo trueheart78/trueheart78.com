@@ -10,7 +10,7 @@ update: 2018-02-19
 * :bust_in_silhouette: Thief
   * Starting item: Life :ring:
 
-<a name="cemetary-of-ash">
+<a id="cemetary-of-ash">
 ## Cemetary of Ash
 
 * :exclamation: Remove all armor and extra equipment.
@@ -41,7 +41,7 @@ update: 2018-02-19
   * :moneybag: Sell everything you don't need, including embers
 * :muscle: +2 Vigor (18 at level 15)
 
-<a name="high-wall-of-lothric">
+<a id="high-wall-of-lothric">
 ## :airplane: High Wall of Lothric
 
 * :fire: High Wall of Lothric
@@ -125,7 +125,7 @@ update: 2018-02-19
   * :exclamation: Use _Quick Step_ to make this boss simple.
 * :fire: Vordt of the Boreal Valley
 
-<a name="undead-settlement">
+<a id="undead-settlement">
 ## :airplane: Undead Settlement
 
 **Note:** From here on in, lot's of fighting will happen. I will only call out when
@@ -227,7 +227,7 @@ it is notable due to item pickup and the like.
 * **RND** :interrobang:
 * :airplane: Road of Sacrifices
 
-<a name="legend">
+<a id="legend">
 ## Legend
 
 ### Actions

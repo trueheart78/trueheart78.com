@@ -18,7 +18,7 @@ update: 2017-07-31
 [Completed][completed] |
 [My Notes][book-notes]
 
-<a name='currently-reading'></a>
+<a id='currently-reading'></a>
 
 #### Currently Reading
 
@@ -26,14 +26,14 @@ update: 2017-07-31
 - The Minitest Cookbook
 - Vagrant Cookbook
 
-<a name='next-up'></a>
+<a id='next-up'></a>
 
 #### Next Up
 
 - 99 Bottles of OOP
 - Rails How She is Spoke
 
-<a name='want-to-read'></a>
+<a id='want-to-read'></a>
 
 #### Want to Read (Owned)
 
@@ -79,7 +79,7 @@ update: 2017-07-31
   - Practical Vim
   - tmux 2
 
-<a name='returning-to'></a>
+<a id='returning-to'></a>
 
 #### Returning To
 
@@ -94,14 +94,14 @@ update: 2017-07-31
 - Eloquent Ruby
 - Why's Poignant Guide to Ruby
 
-<a name='want-to-buy'></a>
+<a id='want-to-buy'></a>
 
 #### Want to Buy
 
 + ~~Rails As She Is Spoke ($55)~~ [purchased](http://railsoopbook.com/)
 + ~~99 Bottles of OOP ($49)~~ [purchased](http://www.sandimetz.com/99bottles)
 
-<a name='completed'></a>
+<a id='completed'></a>
 
 #### Completed
 

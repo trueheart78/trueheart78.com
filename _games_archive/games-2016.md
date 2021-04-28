@@ -21,20 +21,20 @@ rid of stuff that you aren't."_ - Me
 [Jettisoned][jettisoned] |
 [Planned Purchases][planned-purchases]
 
-<a name='notes-to-self'>
+<a id='notes-to-self'>
 
 #### Notes to Self
 
 + I should not buy DLC until I am ready to play it.
 + I stop playing open world games when I complete the main story.
 
-<a name='currently-playing'></a>
+<a id='currently-playing'></a>
 
 #### Playing
 
 _TBD_
 
-<a name='for-fun'></a>
+<a id='for-fun'></a>
 
 #### For Funsies 
 
@@ -44,11 +44,11 @@ _TBD_
 1. Hitman 2016: Season 1 (PS4)
 1. Stardew Valley (PS4) 
 
-<a name='awaiting-content'></a>
+<a id='awaiting-content'></a>
 
 <!-- _None_ -->
 
-<a name='undecided'>
+<a id='undecided'>
 
 #### Undecided
 
@@ -56,7 +56,7 @@ _TBD_
   - X-2 has gotten a lil boring, but still fun.
   - Strategy guide arrived. I'd like to see this through.
 
-<a name='unplayed'></a>
+<a id='unplayed'></a>
 
 #### Unplayed
 
@@ -82,7 +82,7 @@ _TBD_
 1. Uncharted 4 (PS4)
 1. Undertale (PC)
 
-<a name='beaten'></a>
+<a id='beaten'></a>
 
 #### Beaten
 
@@ -109,7 +109,7 @@ _TBD_
   + Fantastic game, even the open world was fun to explore.
   + Great characters.
 
-<a name='jettisoned'></a>
+<a id='jettisoned'></a>
 
 #### Jettisoned
 
@@ -133,7 +133,7 @@ _TBD_
 1. Darkest Dungeon (PC)
   - Got my fill from watching twitch streams.
 
-<a name='planned-purchases'></a>
+<a id='planned-purchases'></a>
 
 #### Planned Purchases 
 

@@ -9,7 +9,7 @@ customjs:
 update: 2018-12-19
 ---
 
-<a name='currently-playing'></a>
+<a id='currently-playing'></a>
 <!-- playing:start -->
 
 ## :video_game: Playing
@@ -33,7 +33,7 @@ update: 2018-12-19
    * Will likely spend a lot of time, but not as a completionist.
 
 <!-- playing:end -->
-<a name='unplayed'></a>
+<a id='unplayed'></a>
 <!-- unplayed:start -->
 
 ## :space_invader: Unplayed -- <a href="javascript: randomGame('unplayed')" id="unplayed-link">:dart:</a>
@@ -60,7 +60,7 @@ update: 2018-12-19
 
 <!-- unplayed:end -->
 
-<a name='unplayed-freebies'>
+<a id='unplayed-freebies'>
 <!-- unplayed-freebies:start -->
 
 ## :banana: Unplayed PS+ Freebies
@@ -75,7 +75,7 @@ update: 2018-12-19
 
 <!-- unplayed-freebies:end -->
 
-<a name='for-fun'></a>
+<a id='for-fun'></a>
 <!-- for-fun:start -->
 
 ## :heart_eyes: For Funsies
@@ -92,7 +92,7 @@ update: 2018-12-19
 
 <!-- for-fun:end -->
 
-<a name='awaiting-content'></a>
+<a id='awaiting-content'></a>
 <!-- awaiting-content:start -->
 
 ## :calendar: Awaiting Content
@@ -101,12 +101,12 @@ _TBD_
 
 <!-- awaiting-content:end -->
 
-<a name='undecided'>
+<a id='undecided'>
 <!-- undecided:start -->
 
 <!-- undecided:end -->
 
-<a name='revisited'></a>
+<a id='revisited'></a>
 <!-- revisited:start -->
 
 ## :repeat: Revisiting the SNES and NES Classics
@@ -124,7 +124,7 @@ _TBD_
 
 <!-- revisited:end -->
 
-<a name='beaten'></a>
+<a id='beaten'></a>
 <!-- beaten:start -->
 
 ## :checkered_flag: Beaten
@@ -245,7 +245,7 @@ _TBD_
    * Grade: A+
 
 <!-- beaten:end -->
-<a name='jettisoned'></a>
+<a id='jettisoned'></a>
 <!-- jettisoned:start -->
 
 ## :rocket: Jettisoned
@@ -282,7 +282,7 @@ _TBD_
    * Simply too much on my plate. I can watch playthroughs if I want to see the game.
  
 <!-- jettisoned:end -->
-<a name='planned-purchases'></a>
+<a id='planned-purchases'></a>
 <!-- planned-purchases:start -->
 
 ## :money_with_wings: Planned Purchases 
@@ -347,7 +347,7 @@ See the [Games in Development Wiki][games-in-development]
 
 <!-- planned-purchases:end -->
 
-<a name='why'>
+<a id='why'>
 
 ## :thought_balloon: Why?
 
@@ -356,7 +356,7 @@ looking for something else to play, instead of purchasing another title. That's
 really all this is for - to make sure you enjoy what you're playing and getting
 rid of stuff that you aren't."_ - Me
 
-<a name='notes-to-self'>
+<a id='notes-to-self'>
 
 ## :memo: Notes to Self
 

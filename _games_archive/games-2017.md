@@ -9,7 +9,7 @@ customjs:
 update: 2017-12-31
 ---
 
-<a name='currently-playing'></a>
+<a id='currently-playing'></a>
 <!-- playing:start -->
 
 ## :video_game: Playing
@@ -20,7 +20,7 @@ update: 2017-12-31
    - Over 20 years later and it still holds up.
 
 <!-- playing:end -->
-<a name='for-fun'></a>
+<a id='for-fun'></a>
 <!-- for-fun:start -->
 
 ## :heart_eyes: For Funsies
@@ -32,7 +32,7 @@ update: 2017-12-31
 1. Overwatch (PS4)
 
 <!-- for-fun:end -->
-<a name='awaiting-content'></a>
+<a id='awaiting-content'></a>
 <!-- awaiting-content:start -->
 
 ## :calendar: Awaiting Content
@@ -41,11 +41,11 @@ update: 2017-12-31
   - Waiting on Season 2
 
 <!-- awaiting-content:end -->
-<a name='undecided'>
+<a id='undecided'>
 <!-- undecided:start -->
 
 <!-- undecided:end -->
-<a name='unplayed'></a>
+<a id='unplayed'></a>
 <!-- unplayed:start -->
 
 ## :space_invader: Unplayed -- <a href="javascript: randomGame('unplayed')" id="unplayed-link">Randomly Pick One</a>
@@ -68,7 +68,7 @@ update: 2017-12-31
 
 <!-- unplayed:end -->
 
-<a name='revisited'></a>
+<a id='revisited'></a>
 <!-- revisited:start -->
 
 ## :repeat: Revisiting the SNES Classics
@@ -80,7 +80,7 @@ update: 2017-12-31
 
 <!-- revisited:end -->
 
-<a name='beaten'></a>
+<a id='beaten'></a>
 <!-- beaten:start -->
 
 ## :checkered_flag: Beaten
@@ -186,7 +186,7 @@ update: 2017-12-31
    - Solid B+.
 
 <!-- beaten:end -->
-<a name='jettisoned'></a>
+<a id='jettisoned'></a>
 <!-- jettisoned:start -->
 
 ## :rocket: Jettisoned
@@ -220,7 +220,7 @@ update: 2017-12-31
   - I honestly couldn't care less about the story.
   - 6 chapters and I've had my fill.
 
-<a name='birthday-purge'></a>
+<a id='birthday-purge'></a>
 
 ### :birthday: Birthday Purge
 
@@ -257,7 +257,7 @@ update: 2017-12-31
 1. The Last of Us: Left Behind (DLC) (PS4)
   
 <!-- jettisoned:end -->
-<a name='planned-purchases'></a>
+<a id='planned-purchases'></a>
 <!-- planned-purchases:start -->
 
 ## :money_with_wings: Planned Purchases 
@@ -288,7 +288,7 @@ See the [New Releases Wiki][new-releases]
 
 <!-- planned-purchases:end -->
 
-<a name='why'>
+<a id='why'>
 
 ## :thought_balloon: Why?
 
@@ -297,7 +297,7 @@ looking for something else to play, instead of purchasing another title. That's
 really all this is for - to make sure you enjoy what you're playing and getting
 rid of stuff that you aren't."_ - Me
 
-<a name='notes-to-self'>
+<a id='notes-to-self'>
 
 ## :memo: Notes to Self
 

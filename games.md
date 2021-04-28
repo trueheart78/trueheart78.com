@@ -7,7 +7,7 @@ customnav: games_nav.html
 update: 2021-04-21
 ---
 
-<a name='currently-playing'></a>
+<a id='currently-playing'></a>
 <!-- playing:start -->
 
 ## :video_game: Playing [:top:][top]
@@ -27,7 +27,7 @@ update: 2021-04-21
 1. Ghost of Tsushima (PS4) [24.5hr]
 
 <!-- playing:end -->
-<a name='unplayed'></a>
+<a id='unplayed'></a>
 <!-- unplayed:start -->
 
 ## :space_invader: Unplayed [:top:][top]
@@ -77,7 +77,7 @@ update: 2021-04-21
 
 <!-- unplayed:end -->
 
-<a name='for-fun'></a>
+<a id='for-fun'></a>
 <!-- for-fun:start -->
 
 ## :heart_eyes: For Funsies [:top:][top]
@@ -96,7 +96,7 @@ update: 2021-04-21
 
 <!-- for-fun:end -->
 
-<a name='awaiting-content'></a>
+<a id='awaiting-content'></a>
 <!-- awaiting-content:start -->
 
 ## :calendar: Awaiting Content [:top:][top]
@@ -105,7 +105,7 @@ update: 2021-04-21
 
 <!-- awaiting-content:end -->
 
-<a name='revisiting'></a>
+<a id='revisiting'></a>
 <!-- revisiting:start -->
 
 ## :repeat: Revisiting [:top:][top]
@@ -115,7 +115,7 @@ update: 2021-04-21
 
 <!-- revisiting:end -->
 
-<a name='beaten'></a>
+<a id='beaten'></a>
 <!-- beaten:start -->
 
 ## :checkered_flag: Beaten [:top:][top]
@@ -129,7 +129,7 @@ update: 2021-04-21
 
 <!-- beaten:end -->
 
-<a name='jettisoned'></a>
+<a id='jettisoned'></a>
 <!-- jettisoned:start -->
 
 ## :rocket: Jettisoned [:top:][top]
@@ -167,7 +167,7 @@ of games I have to play is oh so long._
   * If I didn't enjoy the first, I certainly won't enjoy the third.
 
 <!-- jettisoned:end -->
-<a name='planned-purchases'></a>
+<a id='planned-purchases'></a>
 <!-- planned-purchases:start -->
 
 ## :money_with_wings: Planned Purchases [:top:][top]
@@ -202,7 +202,7 @@ See the [Games in Development Wiki][games-in-development]
 
 <!-- planned-purchases:end -->
 
-<a name='why'></a>
+<a id='why'></a>
 
 ## :thought_balloon: Why? [:top:][top]
 
@@ -211,7 +211,7 @@ looking for something else to play, instead of purchasing another title. That's
 really all this is for - to make sure you enjoy what you're playing and getting
 rid of stuff that you aren't."_ - Me
 
-<a name='notes-to-self'></a>
+<a id='notes-to-self'></a>
 
 ## :memo: Notes to Self [:top:][top]
 
@@ -223,7 +223,7 @@ rid of stuff that you aren't."_ - Me
   in the end I, I find myself playing more games and getting hooked on the ones that really click
   with me.
   
-<a name='legend'></a>
+<a id='legend'></a>
 
 ## :information_source: Legend [:top:][top]
 
