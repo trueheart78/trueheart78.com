@@ -13,12 +13,12 @@ update: 2021-05-03
 * [Home][home]
 * [How Do I Love Thee, Ruby?][ruby]
 * [Now][now]
+* [Resume][resume]
 
 ## Secondary :dizzy:
 
 * [Cult of Done Manifesto][cult of done]
 * [Favorite Games][favorite games]
-* [Resume][resume]
 * [Personalysis Briefing][personalysis]
 
 ## Achievements :trophy:
