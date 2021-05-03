@@ -1,7 +1,7 @@
 ---
 layout: page
 title: You're The Best! Yes, You!
-decscription: I 💖 Ruby
+description: I 💖 Ruby
 permalink: /index.html
 ---
 
@@ -14,8 +14,17 @@ I love to love people, and I want the best for everyone. :sparkling_heart:
 If you can't tell, I enjoy [Ruby ![ruby][ruby-logo]][ruby-lang], [![go][go-logo]][go-lang],
 [Taylor Swift][taylor-swift] :notes:, [emojis][emoji] :heart_eyes:, and [gifs ![giphy][giphy-logo]][giphy].
 
-If you'd like to see what I've been up to, visit my [Now](/now) page. 
+## Blog
 
+If you're here for the blog, it has moved to it's [**own page**][blog].
+
+## Now
+
+To see what I've been up to recently, visit my [**Now**][now] page.
+
+## Resume
+
+For a real in-depth view of what I do, visit my [**Resume**][resume] page.
 
 [ruby-lang]: https://www.ruby-lang.org
 [go-lang]: https://golang.org/
@@ -26,3 +35,6 @@ If you'd like to see what I've been up to, visit my [Now](/now) page.
 [giphy-logo]: /assets/images/companies/giphy-20x20.png
 [taylor-love-gif]: /assets/images/taylor-swift/taylor-award-love.gif
 [giphy]: https://giphy.com/taylorswift
+[blog]: /blog
+[now]: /now
+[resume]: /resume
