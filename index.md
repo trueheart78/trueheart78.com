@@ -1,7 +1,7 @@
 ---
 layout: page
-title: You're The Best! Yes, You!
-description: I 💖 Ruby
+title: I 💖 Ruby
+description: You're The Best! Yes, You!
 permalink: /index.html
 ---
 
