@@ -6,8 +6,10 @@ permalink: /resume/
 update: 2021-05-03
 ---
 
+<a id='intro'></a>
 # :wave: Hi, I'm Josh.
 
+[Intro](#intro) |
 [Desires](#desires) |
 [Strengths](#strengths) |
 [Experience](#experience) |
@@ -31,12 +33,13 @@ I'm looking for a light-hearted, collaborative team, that I can learn from.
 ![taylor swift - desires][taylor-desires]
 
 There are a handful of things I want to focus on over my career. Primarily, I want to be a life-long
-software developer, and these desires focus on that. I also acknowledge that these goals may change
-over time, and that's fine.
+software developer, and these desires focus on that.
 
 1. Master the Ruby and Go programming languages.
 1. Master the Rails framework.
 1. Be a software developer advocate.
+
+I acknowledge that these goals may change over time, and that's fine.
 
 <a id='strengths'></a>
 ## :muscle: Strengths [:top:][top]
