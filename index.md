@@ -12,17 +12,17 @@ I love to love people, and I want the best for everyone. :sparkling_heart:
 If you can't tell, I enjoy [Ruby ![ruby][ruby-logo]][ruby-lang], [![go][go-logo]][go-lang],
 [Taylor Swift][taylor-swift] :notes:, [emojis][emoji] :heart_eyes:, and [gifs ![giphy][giphy-logo]][giphy].
 
-## Blog
+## :open_book: Blog
 
 If you're here for the blog, it has moved to it's [**own page**][blog].
 
-## Now
+## :calendar: Now
 
 To see what I've been up to recently, visit my [**Now page**][now].
 
-## Resume
+## :man_technologist: Resume
 
-For a real in-depth view of what I do, visit my [**Resume page**][resume].
+For a real in-depth view of what I do, visit my [**living Resume**][resume].
 
 [ruby-lang]: https://www.ruby-lang.org
 [go-lang]: https://golang.org/
