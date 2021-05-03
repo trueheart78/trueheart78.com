@@ -157,7 +157,7 @@ And Smoothie Bar?" It even has a simple, but effective, API.
 * Site: [pandemic.pls.lol][pandemic-goofs]
 * Source: [GitHub][pandemic-goofs-source]
 
-### :hamburger: Food Tracker
+### :watermelon: Food Tracker
 
 A personalized Ruby application with the Sinatra framework that displays what we have to eat. Uses
 YAML files to store data, so that it can be edited on-the-go (no database interface required).
