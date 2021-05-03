@@ -32,7 +32,7 @@ I'm looking for a light-hearted, collaborative team, that I can learn from.
 
 There are a handful of things I want to focus on over my career. Primarily, I want to be a life-long
 software developer, and these desires focus on that. I also acknowledge that these goals may change
-over time, and I am okay with that.
+over time, and that's fine.
 
 1. Master the Ruby and Go programming languages.
 1. Master the Rails framework.
