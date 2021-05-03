@@ -12,6 +12,6 @@ Jekyll-based blog for [I :sparkling_heart: Ruby][iheartruby]
 
 ## Ruby Version
 
-Currently setup to work with Ruby 2.6
+Currently setup to work with Ruby 2.7
 
 [iheartruby]: http://iheartruby.com
