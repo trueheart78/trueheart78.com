@@ -3,11 +3,12 @@ layout: page
 title: My Resume
 description: My Living Resume
 permalink: /resume/
-update: 2021-04-21
+update: 2021-05-03
 ---
 
 # :wave: Hi, I'm Josh.
 
+[Desires](#desires) |
 [Strengths](#strengths) |
 [Experience](#experience) |
 [Side Projects](#side-projects) |
@@ -15,50 +16,63 @@ update: 2021-04-21
 [Work History](#work-history) |
 [Education](#education)
 
-![refresh if you don't see a 'taylor waving.gif'][taylor-hi]
+![taylor waving][taylor-hi]
 
 I love writing Ruby & Go :sparkling_heart:, rocking out to Taylor Swift :notes:, and using gifs to
 make others smile :smile:.
 
-I'm looking for a light-hearted, collaborative team, that could benefit from my strong back-end
-development skills.
+I've been writing software professionally since 2004, focusing mainly on back-end development.
+
+I'm looking for a light-hearted, collaborative team, that I can learn from.
+
+<a id='desires'></a>
+## :raising_hand: Desires [:top:][top]
+
+![taylor swift - desires][taylor-desires]
+
+There are a handful of things I want to focus on over my career. Primarily, I want to be a life-long
+software developer, and these desires focus on that. I also acknowledge that these goals may change
+over time, and I am okay with that.
+
+1. Master the Ruby and Go programming languages.
+1. Master the Rails framework.
+1. Be a software developer advocate.
 
 <a id='strengths'></a>
 ## :muscle: Strengths [:top:][top]
 
-![refresh if you don't see a 'taylor swift strong.gif'][taylor-strong]
+![taylor swift - strong][taylor-strong]
 
 * I :heart: Ruby & Go. I love the communities, and the languages.
-* I aspire to be an excellent software craftsman.
-* I enjoy writing good documentation, as I find it highly valuable.
-* I think of myself as a very good mentor.
+* I aspire to be a master software craftsman.
+* I enjoy writing documentation, as I find it highly valuable.
+* I will always make time for my colleagues, regardless of their skill level.
 * I always consider future maintainers.
 * I desire to contribute to open source.
-* I was called "Gif Captain" by my manager.
+* I proudly wear the title of "Gif Captain" bestowed upon me by my manager.
 
 <a id='experience'></a>
 ## :scroll: Experience [:top:][top]
 
-![refresh if you don't see a 'taylor swift whats up.gif'][taylor-whats-up]
+![taylor swift - whats up][taylor-whats-up]
 
-* Eight years of Ruby.
-* Six years of Ruby on Rails.
-* Two years of Go.
-* Eight years of being a huge Taylor Swift fan.
-* Thirteen years of PHP, MySQL, and JavaScript.
-* Eleven years of managing critical on-line systems.
+* Eight years of Ruby. :heart:
+* Six years of Ruby on Rails. :steam_locomotive:
+* Two years of Go. :open_book:
+* Eight years of being a huge Taylor Swift fan. :sparkling_heart:
 
 <a id='side-projects'></a>
 ## :wrench: Side Projects [:top:][top]
 
-![refresh if you don't see a 'taylor award dance.gif'][taylor-award-dance]
+![taylor swift - award dance][taylor-award-dance]
 
-I’ve written some fun things over the past few years.
+<!-- TODO: Try to limit this to 10 or less. You can always find discarded entries in the git history. -->
 
-### :ledger: I :heart: Ruby
+### :globe_with_meridians: I :heart: Ruby
 
-My somewhat active blog. I post about development-related topics, from Ruby and Rails, to Heroku
-and command-line tools. Uses Jekyll so I only have to use markdown, and is hosted on GitHub pages.
+My personal website that also includes a [slightly active blog][blog]. Like any good personal site,
+it is host to many different [pages][pages]. Utilizes [Jekyll][jekyll] so I only have to use markdown,
+and is hosted on [GitHub pages][github-pages].
 
 * Site: [iheartruby.com][iheartruby]
 * Source: [GitHub][iheartruby-source]
@@ -91,20 +105,12 @@ a handy, searchable reference.
 
 ### :repeat: Book Notes Generator 
 
-Extracted from the early version of my Book Notes, it reads a YAML file (example link) and generates
-the core markdown files for the chapters and sections. It also places them directly into the above
-Book Notes project in a new folder, with a handy Readme link provided at the end. _I should really 
-change this into a gem or a binary_.
+Extracted from the early version of my Book Notes, it reads a YAML file and generates the core the
+core markdown files for the chapters and sections. It also places them directly into the above Book
+Notes project in a new folder, with a handy Readme link provided at the end. _I should really change
+this into a gem or a binary_.
 
 * Source: [GitHub][book-notes-generator-source]
-
-### :space_invader: Game Selector
-
-A Ruby application with the Sinatra framework that accesses the `/games` endpoint of my blog, and 
-uses Nokogiri to parse lists, caches it in Redis for five minutes, and returns a randomly selected
-title.
-
-* Source: [GitHub][game-selector-source]
 
 ### :skull: Dead To Us
 
@@ -126,17 +132,6 @@ it as a JavaScript-powered HTML page, and hosted it on AWS S3.
 * Site: [go.deathbon.us][deathbonus]
 * Source: [GitHub][deathbonus-source]
 
-### :clock7: TimeToTaylor
-
-This consists of an AWS Lambda that I wrote in Go, and a web page on AWS S3 that interacted with it
-using an AWS API Gateway endpoint. They don't talk to each other anymore now that the showtime has
-passed, but I'm keeping it around for the next one. :microphone:
-
-* Site: [timetotaylor.com][time-to-taylor]
-* API Endpoint: [time-to-taylor-endpoint][time-to-taylor-endpoint]
-* Site Source: [GitHub][time-to-taylor-html-source]
-* Lambda Source: [GitHub][time-to-taylor-go-source]
-
 ### :rotating_light: Go! Call Me (Maybe)!
 
 Originally a Sinatra-based Ruby application called _Alexa Alerter_, I converted this into a Go-based
@@ -147,15 +142,6 @@ enabling features like, "tell Josh I need him".
 * Go Source: [GitHub][go-call-me-maybe]
 * Ruby Source: [GitHub][alexa-alerter-source]
 
-### :pager: Go! Call Me Notifier
-
-Since I always have my watch or phone on vibrate when I'm working (and often charging at that time),
-I tend to miss an alert from the above *Alexa Alerter*. To fix that, I developed a Go program that
-subscribes to the remote Redis server, which then pings me on my MacOS desktop that my attention is
-needed. _Note: No longer maintained due to work-related VPN restrictions._
-
-* Source: [GitHub][go-call-me-notifier]
-
 ### 🦠 Global Pandemic Goofs
 
 This abomination of a website was created because of the absurdness of the global pandemic. At one
@@ -163,7 +149,7 @@ point, this pandemic will pass, and then this site will be useless, so we goof o
 is a Ruby application utilizing Sinatra and has weighted logic to select random elements that make
 up the phrases. It reads from text files to provide options to replace the phrase, "In this global
 pandemic?", with something like, "In this gleaming pop concert hall?", or "In this gothic Pulp Juice
-And Smoothie Bar?". It even has a simple, but effect, API.
+And Smoothie Bar?" It even has a simple, but effective, API.
 
 * Site: [pandemic.pls.lol][pandemic-goofs]
 * Source: [GitHub][pandemic-goofs-source]
@@ -179,7 +165,7 @@ YAML files to store data, so that it can be edited on-the-go (no database interf
 <a id='open-source'></a>
 ## :octocat: Open Source Contributions [:top:][top]
 
-![refresh if you don't see 'taylor swift epic.gif'][taylor-epic]
+![taylor swift - absolutely epic][taylor-epic]
 
 ### :cat: Kitty
 
@@ -210,7 +196,7 @@ project to make sure that at least the core framework would load without issue.
 <a id='work-history'></a>
 ## :office: Work History [:top:][top]
 
-![refresh if you don't see a 'taylor mountain.gif'][taylor-mountain]
+![taylor swift - reputation mountain][taylor-mountain]
 
 ### :pill: CoverMyMeds (2015 to present)
 
@@ -223,13 +209,13 @@ project to make sure that at least the core framework would load without issue.
 #### Senior Software Developer (2010 to 2015)
 
 * Migrated the marketing portal codebase to run on both Windows Server 2008 and CentOS.
-* Transitioned the codebase version control system from SVN to Git.
-* Became a Zend Certified Engineer for PHP 5.3 – [License ZEND022958][php-cert]
+* Managed the MySQL database back-end, tuning performance settings and optimizing queries.
+* Introduced full support for the MVC development pattern in a custom framework.
 
 #### Internet Application Developer (2007 to 2010)
 
 * Created a dynamic reporting system to offload work from support.
-* Migrated the marketing portal codebase to from Mac OS X Server to Windows Server 2008, in production.
+* Migrated the marketing portal codebase to from Mac OS X Server to Windows Server 2008.
 * Introduced the use of coding standards.
 
 ### :house: Self-Employed Contractor (2004 to 2007)
@@ -241,7 +227,7 @@ project to make sure that at least the core framework would load without issue.
 <a id='education'></a>
 ## :apple: Education [:top:][top]
 
-![refresh if you don't see a 'taylor swift studying.gif'][taylor-studying]
+![taylor swift - studying][taylor-studying]
 
 ### :mortar_board: ITT Technical Institute
 
@@ -249,8 +235,12 @@ Associate of Computer Science in Software Applications and Programming
 
 ## :sparkling_heart: Thanks for Reading! [:top:][top]
 
-![refresh if you don't see a 'taylor heart.gif'][taylor-heart]
+![taylor swift - heart hands][taylor-heart]
 
+[blog]: /blog
+[pages]: /pages
+[jekyll]: https://jekyllrb.com/
+[github-pages]: https://pages.github.com/
 [iheartruby]: http://iheartruby.com
 [iheartruby-source]: https://github.com/trueheart78/trueheart78.github.io
 [dropbox-gif-linker-source]: https://github.com/trueheart78/dropbox-gif-linker
@@ -259,18 +249,12 @@ Associate of Computer Science in Software Applications and Programming
 [caringforkarensue-source]: https://github.com/trueheart78/CaringForKarenSue-Rails
 [book-notes-source]: https://github.com/trueheart78/book-notes
 [book-notes-generator-source]: https://github.com/trueheart78/book-notes-generator
-[game-selector-source]: https://github.com/trueheart78/game-selector
 [dead-to-us]: https://www.deadtous.com/
 [dead-to-us-source]: https://github.com/trueheart78/dead-to-us-html
 [deathbonus]: https://go.deathbon.us/
 [deathbonus-source]: https://github.com/trueheart78/deathbonus-2.0
-[time-to-taylor]: http://timetotaylor.com
-[time-to-taylor-endpoint]: https://gvitovaif0.execute-api.us-east-2.amazonaws.com/development/showtime
-[time-to-taylor-html-source]: https://github.com/trueheart78/timeToTaylor.com
-[time-to-taylor-go-source]: https://github.com/trueheart78/timeToTaylor
 [alexa-alerter-source]: https://github.com/trueheart78/alexa-alerter
 [go-call-me-maybe]: https://github.com/trueheart78/go-call-me-maybe
-[go-call-me-notifier]: https://github.com/trueheart78/go-call-me-notifier
 [alexa-food-tracker-source]: https://github.com/trueheart78/alexa-food-tracker
 [pandemic-goofs]: https://pandemic.pls.lol
 [pandemic-goofs-source]: https://github.com/trueheart78/global-pandemic-goofs
@@ -288,7 +272,9 @@ Associate of Computer Science in Software Applications and Programming
 [twitch]: https://twitch.tv/
 [dexbonus]: https://twitch.tv/dexbonus
 [taylor-hi]: /assets/images/resume/taylor-hi.gif
+[taylor-desires]: /assets/images/resume/taylor-desires.gif
 [taylor-strong]: /assets/images/resume/taylor-strong.gif
+[taylor-experience]: /assets/images/resume/taylor-experience.gif
 [taylor-whats-up]: /assets/images/resume/taylor-whats-up.gif
 [taylor-award-dance]: /assets/images/resume/taylor-award-dance.gif
 [taylor-epic]: /assets/images/resume/taylor-epic.gif
