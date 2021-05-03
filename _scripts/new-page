@@ -8,7 +8,7 @@ def front_matter(page_name, page_description, page_filename)
     '---',
     'layout: page',
     "title: #{page_name}",
-    "decscription: #{page_description}",
+    "description: #{page_description}",
     "permalink: /#{page_filename.gsub('.md', '')}/",
     "update: #{DateTime.now.strftime('%Y-%m-%d')}",
     '---',
