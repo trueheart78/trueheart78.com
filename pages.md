@@ -8,7 +8,6 @@ update: 2021-05-03
 
 ## Primary :100:
 
-* [About][about]
 * [Blog][blog]
 * [Games][games]
 * [Home][home]
