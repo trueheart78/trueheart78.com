@@ -213,7 +213,7 @@ project to make sure that at least the core framework would load without issue.
 
 * Migrated the marketing portal codebase to run on both Windows Server 2008 and CentOS.
 * Managed the MySQL database back-end, tuning performance settings and optimizing queries.
-* Introduced full support for the MVC development pattern in a custom framework.
+* Introduced full support for the MVC development pattern in a custom PHP framework.
 
 #### Internet Application Developer (2007 to 2010)
 
