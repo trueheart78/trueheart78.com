@@ -18,25 +18,18 @@ I'm currently living in Ohio, working remote for [CoverMyMeds][cmm] as a softwar
 
 ## :video_game: Playing Until Credits
 
-* _SUPERHOT VR_ on Quest 2.
 * _Rain on Your Parade_ on Xbox Series X. :green_heart:
 * _Watch Dogs: Legion_ on Xbox Series X.
 * _Assassin's Creed: Valhalla_ on Xbox Series X.
 * _Ghost of Tsushima_ on PlayStation 4.
-
-#### :heart_eyes: Playing for Fun 
-
-* _Audica_ on Quest 2.
-* _Beat Saber_ on Quest 2.
-* _Assassin's Creed: Odyssey_ on Xbox Series X.
 
 ## :book: Comics
 
 * Harleen
   + Just finished book 1 of 3.
 <!-- * Jane Foster: Valkyrie -->
-<!-- * Saga
-  + Reading book 5 of 9. :star: :star: :star: :star: :star: -->
+<!-- * Saga -->
+<!--  + Reading book 5 of 9. :star: :star: :star: :star: :star: -->
 
 ## :closed_book: Completed Comic-Related Books
 
@@ -45,12 +38,9 @@ I'm currently living in Ohio, working remote for [CoverMyMeds][cmm] as a softwar
 
 ## :globe_with_meridians: Recent Page Updates
 
-* Updated the [Games](/games) page.
-  * Better navigation via emojis vs black header links.
-  * New :top: navigation added.
-* Updated the [Resume](/resume) page.
-  * Relocated the emojis to the front of the headers.
-  * Updated the :top: navigation feature to be more current.
+* Changed the About page into the [Index](/) page.
+* Moved the blog entries to the [Blog](/blog) page.
+* Added [Blog](/blog) and [Resume](/resume) to the page header.
 
 ## :wrench: Side Projects
 
@@ -58,7 +48,7 @@ I'm currently living in Ohio, working remote for [CoverMyMeds][cmm] as a softwar
 
 * Upgrading [CaringForKarenSue.com][caring for karen sue] ([source][caring for karen sue - source])
     from Rails 5.2 to Rails 6.0.
-* Rewriting my [Ruby-based Book Notes Generator][book notes generator - ruby source] in [Go][book notes generator - go source]
+<!-- * Rewriting my [Ruby-based Book Notes Generator][book notes generator - ruby source] in [Go][book notes generator - go source] -->
 
 #### :ballot_box_with_check: Completed
 
