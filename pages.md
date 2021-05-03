@@ -11,6 +11,7 @@ update: 2021-03-26
 * [About][about]
 * [Blog][blog]
 * [Games][games]
+* [Home][home]
 * [How Do I Love Thee, Ruby?][ruby]
 * [Now][now]
 
@@ -49,13 +50,14 @@ update: 2021-03-26
 
 [about]: /about/
 [audio books]: /audio-books/
-[blog]: /
+[blog]: /blog/
 [books]: /books/
 [character names]: /character-names/
 [cult of done]: /cult-of-done/
 [cyberpunk 2077]: /cyberpunk-2077/
 [favorite games]: /favorite-games/
 [games]: /games/
+[home]: /
 [naked dagger]: /naked-dagger/
 [naked dagger walkthrough]: /naked-dagger-walkthrough-dark-souls-3/
 [now]: /now/
