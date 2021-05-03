@@ -26,10 +26,6 @@
     <link rel="stylesheet" href="{{ "/css/main.css" | prepend: site.baseurl }}">
     <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
 
-    {% if page.skip_google_tracking %}
-    {% else %}
-    <script defer type="text/javascript" src="/assets/javascript/google_analytics.js"></script>
-    {% endif %}
     {% if page.customjs %}{% for js in page.customjs %}
     <script type="text/javascript" src="/assets/javascript/{{ js }}"></script>
     {% endfor %}{% endif %}
