@@ -14,6 +14,10 @@ description: "The website of one trueheart78"
 
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "https://www.trueheart78.com" # the base hostname & protocol for your site
+domain: "www.trueheart78.com"
+
+github_username: "trueheart78"
+twitter_username: "trueheart78"
 
 # Build settings
 markdown: kramdown
