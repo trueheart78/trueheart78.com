@@ -38,6 +38,7 @@ I'm currently living in Ohio, working remote for [CoverMyMeds][cmm] as a softwar
 
 ## :globe_with_meridians: Recent Page Updates
 
+* New favicon.
 * Changed the About page into the [Index](/) page.
 * Moved the blog entries to the [Blog](/blog) page.
 * Added [Blog](/blog) and [Resume](/resume) to the page header.
