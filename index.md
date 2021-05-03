@@ -3,7 +3,6 @@ layout: page
 description: You're The Best! Yes, You!
 permalink: /index.html
 ---
-
 ![Taylor Swift][taylor-love-gif]
 
 My name is Josh and I'm a full time software developer. :desktop_computer:
@@ -19,11 +18,11 @@ If you're here for the blog, it has moved to it's [**own page**][blog].
 
 ## Now
 
-To see what I've been up to recently, visit my [**Now**][now] page.
+To see what I've been up to recently, visit my [**Now page**][now].
 
 ## Resume
 
-For a real in-depth view of what I do, visit my [**Resume**][resume] page.
+For a real in-depth view of what I do, visit my [**Resume page**][resume].
 
 [ruby-lang]: https://www.ruby-lang.org
 [go-lang]: https://golang.org/
