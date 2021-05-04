@@ -53,7 +53,7 @@ I'm currently living in Ohio, working remote for [CoverMyMeds][cmm] as a softwar
 
 #### :ballot_box_with_check: Completed
 
-* [Food Tracker][food tracker source]
+* [Food Tracker 🍉][food tracker source]
 * [Global Pandemic Goofs Site 🦠][pandemic site]
   * [Source - Ruby & Sinatra][pandemic source]
 * [Carrot Chase 🥕 - Ruby Script][carrot chase source]
