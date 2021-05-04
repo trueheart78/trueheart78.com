@@ -3,7 +3,7 @@ layout: page
 title: Now
 description: What I've recently been up to.
 permalink: /now/
-update: 2021-05-03
+update: 2021-05-04
 ---
 
 I'm currently living in Ohio, working remote for [CoverMyMeds][cmm] as a software developer.
@@ -53,10 +53,10 @@ I'm currently living in Ohio, working remote for [CoverMyMeds][cmm] as a softwar
 
 #### :ballot_box_with_check: Completed
 
-* [Food Tracker 🍉][food tracker source]
+* [Food Tracker :watermelon:][food tracker source]
 * [Global Pandemic Goofs Site 🦠][pandemic site]
   * [Source - Ruby & Sinatra][pandemic source]
-* [Carrot Chase 🥕 - Ruby Script][carrot chase source]
+* [Carrot Chase :carrot: - Ruby Script][carrot chase source]
 * [Dropbox Gif Linker - Go Program][dropbox gif linker source]
 
 [cmm]: https://covermymeds.com
