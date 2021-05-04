@@ -5,7 +5,7 @@ permalink: /index.html
 ---
 ![Taylor Swift][taylor-love-gif]
 
-My name is Josh and I'm a full time software developer. :desktop_computer:
+Hi! I'm Josh and I'm a full time software developer. :desktop_computer:
 
 I love to love people, and I want the best for everyone. :sparkling_heart:
 
