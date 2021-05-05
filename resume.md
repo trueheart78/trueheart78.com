@@ -71,7 +71,7 @@ I acknowledge that these goals may change over time, and that's fine.
 
 <!-- TODO: Try to limit this to 10 or less. You can always find discarded entries in the git history. -->
 
-### :globe_with_meridians: I :heart: Ruby
+### :globe_with_meridians: I :sparkling_heart: Ruby
 
 My personal website that also includes a [slightly active blog][blog]. Like any good personal site,
 it is host to many different [pages][pages]. Utilizes [Jekyll][jekyll] so I only have to use markdown,
