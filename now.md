@@ -3,7 +3,7 @@ layout: page
 title: Now
 description: What I've recently been up to.
 permalink: /now/
-update: 2021-05-04
+update: 2021-05-05
 ---
 
 I'm currently living in Ohio, working remote for [CoverMyMeds][cmm] as a software developer.
