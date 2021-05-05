@@ -18,7 +18,7 @@ I'm currently living in Ohio, working remote for [CoverMyMeds][cmm] as a softwar
 
 ## :video_game: Playing Until Credits
 
-* _Rain on Your Parade_ on Xbox Series X. :green_heart:
+* _Rain on Your Parade_ on Xbox Series X. {{ site.icon.gamepass }}
 * _Watch Dogs: Legion_ on Xbox Series X.
 * _Assassin's Creed: Valhalla_ on Xbox Series X.
 * _Ghost of Tsushima_ on PlayStation 4.
