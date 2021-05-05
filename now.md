@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Now
+title: 📆 Now
 description: What I've recently been up to.
 permalink: /now/
 update: 2021-05-05
