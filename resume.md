@@ -1,6 +1,6 @@
 ---
 layout: page
-title: :male_technologist: My Resume
+title: 👨‍💻 My Resume
 description: My Living Resume
 permalink: /resume/
 update: 2021-05-05
