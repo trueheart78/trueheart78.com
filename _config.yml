@@ -14,10 +14,17 @@ description: "The website of one trueheart78"
 
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "https://www.trueheart78.com" # the base hostname & protocol for your site
-domain: "www.trueheart78.com"
+domain: "www.trueheart78.com" # the core domain
 
-github_username: "trueheart78"
-twitter_username: "trueheart78"
+# Image details for meta tags
+image:
+  url: "https://www.trueheart78.com/assets/images/taylor-swift/heart-hands.png"
+  alt: "Heart Hands"
+
+# Relevant usernames
+username: 
+  github: "trueheart78"
+  twitter: "trueheart78"
 
 # Build settings
 markdown: kramdown
