@@ -9,7 +9,7 @@
     <!-- open graph tags -->
     <meta property="og:type" content="website" />
     <meta property="og:url" content="{{ site.url }}" />
-    <meta property="og:title" content="{{ site.title }}" />
+    <meta property="og:title" content="{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}" />
     <meta property="og:description" content="{% if page.description %}{{ page.description }}{% else %}{{ site.description }}{% endif %}">
     <meta property="og:image" content="{{ site.url }}/assets/images/taylor-swift/heart-hands.png" />
     
@@ -18,7 +18,7 @@
     <meta property="twitter:site" content="@{{ site.twitter_username }}" />
     <meta property="twitter:creator" content="@{{ site.twitter_username }}" />
     <meta property="twitter:domain" content="{{ site.domain }}" />
-    <meta property="twitter:title" content="{{ site.title }}" />
+    <meta property="twitter:title" content="{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}" />
     <meta property="twitter:description" content="{% if page.description %}{{ page.description }}{% else %}{{ site.description }}{% endif %}">
     <meta property="twitter:image" content="{{ site.url }}/assets/images/taylor-swift/heart-hands.png" />
     <meta property="twitter:image:alt" content="Heart Hands" />
