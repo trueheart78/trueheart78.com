@@ -59,7 +59,7 @@ I acknowledge that these goals may change over time, and that's fine.
 
 ![taylor swift - whats up][taylor-whats-up]
 
-* Eight years of Ruby. :heart:
+* Eight years of Ruby. ![ruby][ruby-logo]
 * Six years of Ruby on Rails. :steam_locomotive:
 * Two years of Go. :open_book:
 * Eight years of being a huge Taylor Swift fan. :sparkling_heart:
@@ -274,6 +274,7 @@ Associate of Computer Science in Software Applications and Programming
 [contact-converter]: https://github.com/trueheart78/Contacts-To-PDF
 [twitch]: https://twitch.tv/
 [dexbonus]: https://twitch.tv/dexbonus
+[ruby-logo]: /assets/images/language-icons/ruby-20x20.png
 [taylor-hi]: /assets/images/resume/taylor-hi.gif
 [taylor-desires]: /assets/images/resume/taylor-desires.gif
 [taylor-strong]: /assets/images/resume/taylor-strong.gif
