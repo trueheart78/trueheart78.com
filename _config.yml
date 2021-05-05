@@ -6,15 +6,30 @@ title_html:
 site_heart:
   big: <img src="/assets/images/site-heart.webp" height="26" width="26" />
   small: <img src="/assets/images/site-heart.webp" height="16" width="16" />
-email: josh@trueheart78.com
+
+# Emoji source location
 emoji:
   src: "/assets/images"
+  
+# Game-related icons
+icon:
+  gamepass: <img src="/assets/images/emoji/unicode/1f49a.png" alt="Xbox Game Pass" title="Xbox Game Pass" style="cursor: help;" height="20" width="20" />
+  psn: <img src="/assets/images/emoji/unicode/1f499.png" alt="PlayStation Plus Freebie" title="PlayStation Plus Freebie" style="cursor: help;" height="20" width="20" />
 
+# Default description for the site
 description: "The website of one trueheart78"
 
-baseurl: "" # the subpath of your site, e.g. /blog/
-url: "https://www.trueheart78.com" # the base hostname & protocol for your site
-domain: "www.trueheart78.com" # the core domain
+# Subpath of your site, e.g. /blog/
+baseurl: "" 
+
+# Base hostname and protocol for the site
+url: "https://www.trueheart78.com"
+
+# Core domain
+domain: "www.trueheart78.com"
+
+# Email to display
+email: "josh@trueheart78.com"
 
 # Image details for meta tags
 image:
