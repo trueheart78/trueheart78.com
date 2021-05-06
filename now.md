@@ -1,9 +1,9 @@
 ---
 layout: page
-title: 📆 Now
+title: 📆 What I'm Up to Now
 description: What I've recently been up to.
 permalink: /now/
-update: 2021-05-05
+update: 2021-05-06
 ---
 
 I'm currently living in Ohio, working remote for [CoverMyMeds][cmm] as a software developer.
