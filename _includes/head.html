@@ -1,3 +1,4 @@
+{% assign current_page_url = page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url %}
 <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width initial-scale=1" />
@@ -8,7 +9,7 @@
 
     <!-- open graph tags -->
     <meta property="og:type" content="website" />
-    <meta property="og:url" content="{{ site.url }}" />
+    <meta property="og:url" content="{{ current_page_url }}" />
     <meta property="og:title" content="{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}" />
     <meta property="og:description" content="{% if page.description %}{{ page.description }}{% else %}{{ site.description }}{% endif %}">
     <meta property="og:image" content="{{ site.image.url }}" />
@@ -22,7 +23,7 @@
     <meta property="twitter:description" content="{% if page.description %}{{ page.description }}{% else %}{{ site.description }}{% endif %}">
     <meta property="twitter:image" content="{{ site.image.url }}" />
     <meta property="twitter:image:alt" content="{{ site.image.alt }}" />
-    <meta property="twitter:url" content="{{ site.url }}" />
+    <meta property="twitter:url" content="{{ current_page_url }}" />
 
     <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png?v=ts1">
     <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png?v=ts1">
@@ -34,7 +35,7 @@
     <meta name="theme-color" content="#ffffff">
 
     <link rel="stylesheet" href="{{ "/css/main.css" | prepend: site.baseurl }}">
-    <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
+    <link rel="canonical" href="{{ current_page_url }}">
 
     {% if page.customjs %}{% for js in page.customjs %}
     <script type="text/javascript" src="/assets/javascript/{{ js }}"></script>
