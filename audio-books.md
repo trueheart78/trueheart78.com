@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Audio Books
+title: 🎧 Audio Books
 permalink: /audio-books/
 update: 2016-10-14
 ---

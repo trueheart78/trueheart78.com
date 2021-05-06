@@ -36,15 +36,15 @@ update: 2021-05-06
 
 ## Less Maintained :zzz:
 
-* [Audio Books][audio books]
-* [Books][books]
-* [Character Names][character names]
-* [Cyberpunk 2077 - Early Thoughts][cyberpunk 2077]
-* [Naked Dagger Walkthrough - Dark Souls 3][naked dagger walkthrough]
-* [Picks][picks]
-* [Quotes][quotes]
-* [Taylor Swift - Jan 2021][taylor swift]
-* [Wishlist][wishlist]
+* [:headphones: Audio Books][audio books]
+* [:books: Books][books]
+* [:bust_in_silhouette: Character Names][character names]
+* [:thought_balloon: Cyberpunk 2077 - Early Thoughts][cyberpunk 2077]
+* [:card_index_dividers: Naked Dagger Walkthrough - Dark Souls 3][naked dagger walkthrough]
+* [:bookmark: Picks][picks]
+* [:speech_balloon: Quotes][quotes]
+* [:sparkling_heart: Taylor Swift - Jan 2021][taylor swift]
+* [:gift: Wishlist][wishlist]
 
 
 [about]: /about/

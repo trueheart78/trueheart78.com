@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Books
+title: 📚 Books
 permalink: /books/
 update: 2017-07-31
 ---

@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Naked Dagger Walkthrough - Dark Souls 3
+title: 🗂 Naked Dagger Walkthrough - Dark Souls 3
 permalink: /naked-dagger-walkthrough-dark-souls-3/
 update: 2018-02-19
 ---

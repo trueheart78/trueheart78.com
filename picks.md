@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Picks
+title: 🔖 Picks
 permalink: /picks/
 update: 2018-01-08
 ---

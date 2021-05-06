@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Character Names
+title: 👤 Character Names
 description: Favorite names across all type of media.
 permalink: /character-names/
 update: 2018-03-18
