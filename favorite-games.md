@@ -129,15 +129,18 @@ By the time I was done in Night City, I was 92 hours in. I once had over a milli
 allied with two of the best NPCs in the game. Was it cool having Keanu Reeves kicking about in my
 head? Definitely. However, when I look back on this game, and yearn to return to it when the
 next-gen patches are out, I don't think of Johnny Silverhand, or of Rogue. I think of Judy. I think
-of Panam. I think of Night City and how much I just want to go roam those streets and run jobs again.
+of Panam. I think of Night City and how much I just want to go roam those streets and run jobs
+again; And I haven't even mentioned Brain Dances... I'm still amazed it made it into the final game,
+and I am _**still**_ impressed with it.
 
 #### Awards
 
 * 2020
-  * :trophy: **Least Amount of Credits Rolled (zero)** :trophy:
-  * :trophy: **Most Games I've Ever Jettisoned in a Year (fourty)** :trophy:
+  * :trophy: **Least Amount of Credits Rolled: Zero** :trophy:
+  * :trophy: **Most Games I've Ever Jettisoned in a Year: Fourty** :trophy:
 * Cyberpunk 2077 (XSX)
-  * :trophy: **Best Backup (Aldecados)** :trophy:
+  * :trophy: **Blew My Mind: Brain Dances** :trophy: 
+  * :trophy: **Best Backup: Aldecados** :trophy:
   * :trophy: **Tie: Best Non-Love Interest (Panam)** :trophy:
 * Final Fantasy 7 Remake (PS4)
   * :trophy: **Tie: Best Non-Love Interest (Tifa)** :trophy:
