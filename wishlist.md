@@ -3,29 +3,29 @@ layout: page
 title: 🎁 Wishlist
 description: My living wishlist.
 permalink: /wishlist/
-update: 2021-04-06
+update: 2021-05-06
 ---
 
 **[My Amazon Wishlist][amazon-wishlist]** is a great place to check for recent updates.
 
-## Donations
+## :moneybag: Donations
 
 * [Meals on Wheels America][meals on wheels] 🍲
   * It made a difference for my mom and my dad-in-law when they were struggling late in life. I
     appreciate their work, so if you ever want to give me something but can’t think of what I'd
     like, this is a preferred option.
 
-## Gift Cards / If All Else Fails
+## :credit_card: Gift Cards / If All Else Fails
 
 1. Amazon Gift Cards :sparkling_heart:
 1. Xbox Gift Cards :green_heart:
 
-## Art & Prints
+## :paintbrush: Art & Prints
 
 1. [XKCD Signed Print for Comic #150 - $15.00][xkcd-print] [_Online Only_]
   - Please make sure to **select comic "#150 Grownups" from the drop-down list**.
 
-## What You Should Know About Josh
+## :information_source: What You Should Know About Josh
 
 Josh is a software developer that loves programming in Ruby and listening to Taylor Swift. He also
 enjoys the odd comic (Squirrel Girl, Gwenpool, Captain Marvel, etc), especially anything illustrated
@@ -36,7 +36,7 @@ probably 5% of that he's listened to, so those are out, as well.
 
 He's also not much for sports. He deals with depression and anxiety, and one of the few ways he
 enjoys himself is on his motorcycle, fully geared up and trying not to do stupid things on his
-Kawasaki Ninja 400 ABS (Persimmon Red). His need for anything motorcycle-related is non-existent,
+2019 Kawasaki Ninja 400 ABS (Persimmon Red). His need for anything motorcycle-related is non-existent,
 but the joy it brings him, well, that's worth noting.
 
 He does love video games. Right now, Xbox is his preferred platform (his beautiful, gorgeous,
