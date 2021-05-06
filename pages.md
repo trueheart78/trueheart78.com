@@ -1,38 +1,38 @@
 ---
 layout: page
-title: Pages
+title: 📑 Pages
 description: A list of public pages across the site.
 permalink: /pages/
-update: 2021-05-03
+update: 2021-05-06
 ---
 
 ## Primary :100:
 
-* [Blog][blog]
-* [Games][games]
-* [Home][home]
-* [How Do I Love Thee, Ruby?][ruby]
-* [Now][now]
-* [Resume][resume]
+* [:house: Home][home]
+* [:open_book: My Blog][blog]
+* [:sparkling_heart: How Do I Love Thee, Ruby?][ruby]
+* [:poop: Games][games]
+* [:calendar: Now][now]
+* [:man_technologist: My Resume][resume]
 
 ## Secondary :dizzy:
 
-* [Cult of Done Manifesto][cult of done]
-* [Favorite Games][favorite games]
-* [Personalysis Briefing][personalysis]
+* [:scroll: Cult of Done Manifesto][cult of done]
+* [:video_game: Favorite Games][favorite games]
+* [:bar_chart: Personalysis Briefing][personalysis]
 
 ## Achievements :trophy:
 
-* [Naked Dagger Runs - Dark Souls 3][naked dagger]
-* [Open Source Contributions - Resume][resume opensource]
+* [:dagger: Naked Dagger Runs - Dark Souls 3][naked dagger]
+* [:octocat: Open Source Contributions - My Resume][resume opensource]
 
 ## References :memo:
 
-* [Tone Indicators][tone indicators]
+* [:information_source: Tone Indicators][tone indicators]
 
 ## Goofs :grin:
 
-* [Swears - The Good Place][swears]
+* [🤬 Swears - The Good Place][swears]
 
 ## Less Maintained :zzz:
 
@@ -64,7 +64,7 @@ update: 2021-05-03
 [picks]: /picks/
 [quotes]: /quotes/
 [resume]: /resume/
-[resume opensource]: /resume/#open-source-contributions-octocat
+[resume opensource]: /resume/#open-source
 [ruby]: /ruby/
 [swears]: /swears/
 [taylor swift]: /taylor-swift/

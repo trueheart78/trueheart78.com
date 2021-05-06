@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Personalysis Briefing
+title: 📊 Personalysis Briefing
 permalink: /personalysis/
 update: 2017-11-08
 ---

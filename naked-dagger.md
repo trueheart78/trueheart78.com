@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Naked Dagger Runs - Dark Souls 3
+title: 🗡 Naked Dagger Runs - Dark Souls 3
 description: Some of my proudest gaming achievements of 2017.
 permalink: /naked-dagger/
 update: 2017-05-04
