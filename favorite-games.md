@@ -3,16 +3,22 @@ layout: page
 title: 🎮 Favorite Games
 description: Games that have been influential throughout my life.
 permalink: /favorite-games/
-update: 2020-01-07
+update: 2021-05-06
 ---
 
++ [Of All Time][all-time]
++ [Game of the Year 2020][goty-2020]
 + [Game of the Year 2019][goty-2019]
 + [Game of the Year 2018][goty-2018]
 + [Game of the Year 2017][goty-2017]
 + [Game of the Year 2016][goty-2016]
 + [Random Thoughts][random-thoughts]
 
-### Of All Time
+---
+
+<a id='all-time'></a>
+
+## Of All Time [:top:][page-top]
 
 <a id='ffvi'></a>
 
@@ -102,36 +108,53 @@ My bullet points, until I get to writing up something more proper:
 + Lance Reddick was a great addition.
 + Strong women throughout the game. 
 
-### Fire Emblem: Three Houses
+---
 
-![Fire Emblem - All Three Leaders][fe3h-all-3]
+<a id='goty-2020'></a>
 
-See GotY 2019 :sparkling_heart:
+## :scroll: Game of the Year - 2020 [:top:][page-top]
 
-<a id='random-thoughts'></a>
+### :trophy: Cyberpunk 2077 (XSX) :trophy: **Game of the Year** :trophy:
 
-### Random Thoughts for 2017 Games
+![Cyberpunk 2077 - Female V][cyberpunk-2077]
 
-+ Persona 5 was dang good.
-  + Persona 4 Golden still my favorite. See [favorite games #2][p4g].
-+ Horizon: Zero Dawn was amazeballs.
-+ Night in the Woods.
-  + Wowzers.
-+ Nioh
-  + Solid, but forgettable.
-+ Zelda: Breath of the Wild was so good.
-  + 225+ hours played.
-  + Master Mode completed.
+Yes, Cyberpunk 2077. The bug-ridden, frequently crashing, and "runs like trash on last gen
+consoles" game. That, but played on an Xbox Series X in glorious 4K, won me over. Let's be honest,
+though, short of playing it on a decent PC, I had the best system to run it on. The new console made
+this game enjoyable, as bugs became a nuisance and not an issue. I made the mistake of pre-ordering
+it, but waited until the second patch to start it up. I also avoided all the vitriol surrounding
+it's lackluster release.
 
-### Game of the Year
+By the time I was done in Night City, I was 92 hours in. I once had over a million eddies. I even
+allied with two of the best NPCs in the game. Was it cool having Keanu Reeves kicking about in my
+head? Definitely. However, when I look back on this game, and yearn to return to it when the
+next-gen patches are out, I don't think of Johnny Silverhand, or of Rogue. I think of Judy. I think
+of Panam. I think of Night City and how much I just want to go roam those streets and run jobs again.
+
+#### Awards
+
+* 2020
+  * :trophy: **Least Amount of Credits Rolled (zero)** :trophy:
+  * :trophy: **Most Games I've Ever Jettisoned in a Year (fourty)** :trophy:
+* Cyberpunk 2077 (XSX)
+  * :trophy: **Best Backup (Aldecados)** :trophy:
+  * :trophy: **Tie: Best Non-Love Interest (Panam)** :trophy:
+* Final Fantasy 7 Remake (PS4)
+  * :trophy: **Tie: Best Non-Love Interest (Tifa)** :trophy:
+  * :trophy: **Tie: Best Non-Love Interest (Jesse)** :trophy:
+* Untitled Goose Game (XB1)
+  * :trophy: **HONK!** :trophy: 
+
+---
 
 <a id='goty-2019'></a>
 
-### :scroll: 2019
+## :scroll: Game of the Year - 2019 [:top:][page-top]
 
 ### :trophy: Fire Emblem: Three Houses (NS) :trophy: **Game of the Year** :trophy:
 
-![Fire Emblem - Byleth Main][fe3h-all-3-fan]
+![Fire Emblem - All Three Leaders][fe3h-all-3]
+<!-- ![Fire Emblem - Byleth Main][fe3h-all-3-fan] -->
 
 Rarely does a game come out that I have zero anticipation for that captures my attention as quickly
 as Three Houses did. It came out, I knew little about it, but I was enticed enough to purchase
@@ -157,9 +180,11 @@ to over 4 hours after the upgrade and I don't regret it one bit.
   * :trophy: **Best Star Wars Story** :trophy:
   * :trophy: **Favorite New Character: Nightsister Merrin** :trophy:
 
+---
+
 <a id='goty-2018'></a>
 
-### :scroll: 2018
+## :scroll: Game of the Year - 2018 [:top:][page-top]
 
 Much like [last year][goty-2017], I'm going with a single standout title. I've also got some awards
 for many other games, except for those I considered personal disappointments.
@@ -236,9 +261,11 @@ game once I've completed the main story, and that speaks volumes.
   * :trophy: **Best Combat** :trophy:
   * :trophy: **Tie: Best Protagonist in an Assassin's Creed Game (Kassandra)** :trophy:
 
+---
+
 <a id='goty-2017'></a>
 
-### :scroll: 2017
+## :scroll: Game of the Year - 2017 [:top:][page-top]
 
 This year, there was a single game that stood out amongst the rest. Instead of going through a traditional "Top 10" list,
 I have decided instead to single out the Game of the Year and then present awards for different games, if I found them
@@ -268,11 +295,11 @@ Even after 240+ hours in Breath of the Wild, this is still my favorite game from
 * Steamworld Dig 2 (PS4/Vita/Switch) :trophy: **Best Formula Changeup** :trophy:
 * Super Mario Odyssey (Switch) :trophy: **Best Throwback** :trophy:
 
-## Previous Years
+---
 
 <a id='goty-2016'></a>
 
-### :scroll: 2016
+### :scroll: Game of the Year - 2016 [:top:][page-top]
 
 ### 1. Hitman (PS4)
 
@@ -364,15 +391,36 @@ I didn't like Geralt until I saw his interactions with Ciri. And then he made mo
 sense to me. The fact that this game is on my list comes down to two reasons:
 Yenefer and Ciri.
 
+---
+
+<a id='random-thoughts'></a>
+
+## Random Thoughts for 2017 Games [:top:][page-top]
+
++ Persona 5 was dang good.
+  + Persona 4 Golden still my favorite. See [favorite games #2][p4g].
++ Horizon: Zero Dawn was amazeballs.
++ Night in the Woods.
+  + Wowzers.
++ Nioh
+  + Solid, but forgettable.
++ Zelda: Breath of the Wild was so good.
+  + 225+ hours played.
+  + Master Mode completed.
+
+[all-time]: #all-time
 [ffvi]: #ffvi
 [persona-4]: #persona-4
 [goty-2016]: #goty-2016
 [goty-2017]: #goty-2017
 [goty-2018]: #goty-2018
 [goty-2019]: #goty-2019
+[goty-2020]: #goty-2020
 [random-thoughts]: #random-thoughts
 [ac-odyssey-kassandra]: /assets/images/favorites/ac-odyssey-kassandra.png
 [hzd-aloy-thunderjaw]: /assets/images/favorites/hzd-aloy-thunderjaw.png
 [hzd-aloy-scouting]: /assets/images/favorites/hzd-aloy-scouting.png
 [fe3h-all-3]: /assets/images/favorites/fe3h-all-3.jpg
 [fe3h-all-3-fan]: /assets/images/favorites/fe3h-all-3-fan.jpg
+[cyberpunk-2077]: /assets/images/favorites/cyberpunk-2077-female-v.jpg
+[page-top]: #page-top
