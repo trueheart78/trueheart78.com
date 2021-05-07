@@ -292,7 +292,7 @@ Even after 240+ hours in Breath of the Wild, this is still my favorite game from
   * :trophy: **Best Knife Fighting** :trophy:
   * :trophy: **Best Friendship Simulator** :trophy:
 * Persona 4 Golden (Vita)
-  * :trophy: **Best Non-2017 & Most Huggable** :trophy:
+  * :trophy: **Best Game I Waited Way Too Long to Play** :trophy:
   * :trophy: **The only game I have ever wanted to hug** :trophy:
 * Persona 5 (PS4)
   * :trophy: **Best Styyyyyle** :trophy:
