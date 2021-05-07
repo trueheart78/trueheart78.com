@@ -1,18 +1,19 @@
 {% assign current_page_url = page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url %}
 <head>
-    <meta charset="utf-8">
+    <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width initial-scale=1" />
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="robots" content="follow" />
 
     <title>{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}</title>
     <meta name="author" content="{{ site.author }}">
-    <meta name="description" content="{% if page.description %}{{ page.description }}{% else %}{{ site.description }}{% endif %}">
+    <meta name="description" content="{% if page.description %}{{ page.description }}{% else %}{{ site.description }}{% endif %}" />
 
     <!-- open graph tags -->
     <meta property="og:type" content="website" />
     <meta property="og:url" content="{{ current_page_url }}" />
     <meta property="og:title" content="{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}" />
-    <meta property="og:description" content="{% if page.description %}{{ page.description }}{% else %}{{ site.description }}{% endif %}">
+    <meta property="og:description" content="{% if page.description %}{{ page.description }}{% else %}{{ site.description }}{% endif %}" />
     <meta property="og:image" content="{{ site.image.url }}" />
     
     <!-- twitter card tags - additive with the open graph tags -->
@@ -21,7 +22,7 @@
     <meta property="twitter:creator" content="@{{ site.username.twitter }}" />
     <meta property="twitter:domain" content="{{ site.domain }}" />
     <meta property="twitter:title" content="{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}" />
-    <meta property="twitter:description" content="{% if page.description %}{{ page.description }}{% else %}{{ site.description }}{% endif %}">
+    <meta property="twitter:description" content="{% if page.description %}{{ page.description }}{% else %}{{ site.description }}{% endif %}" />
     <meta property="twitter:image" content="{{ site.image.url }}" />
     <meta property="twitter:image:alt" content="{{ site.image.alt }}" />
     <meta property="twitter:url" content="{{ current_page_url }}" />
@@ -32,8 +33,8 @@
     <link rel="manifest" href="/site.webmanifest?v=ts1">
     <link rel="mask-icon" href="/safari-pinned-tab.svg?v=ts1" color="#5bbad5">
     <link rel="shortcut icon" href="/favicon.ico?v=ts1">
-    <meta name="msapplication-TileColor" content="#f9da0a">
-    <meta name="theme-color" content="#ffffff">
+    <meta name="msapplication-TileColor" content="#f9da0a" />
+    <meta name="theme-color" content="#ffffff" />
 
     <link rel="stylesheet" href="{{ "/css/main.css" | prepend: site.baseurl }}">
     <link rel="canonical" href="{{ current_page_url }}">
