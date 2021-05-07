@@ -4,10 +4,12 @@ title: 💖 How Do I Love Thee, Ruby?
 description: Let Me Count The Ways...
 keywords: ruby, community, matz
 permalink: /ruby/
-update: 2017-07-31
+update: 2021-05-07
 ---
 
-## Let Me Count The Ways...
+## 🧛 Let Me Count The Ways...
+
+![Anna Kendrick - Love You Awesome Nerds][anna-kendrick-love-you-awesome-nerds]
 
 In no particular order. Seriously. These are still in the original "brain dump" order.
 
@@ -83,3 +85,4 @@ In no particular order. Seriously. These are still in the original "brain dump" 
 [array-first]: https://ruby-doc.org/core-2.4.1/Array.html#method-i-first
 [array-second]: http://guides.rubyonrails.org/active_support_core_extensions.html#extensions-to-array
 [array-forty-two]: http://guides.rubyonrails.org/active_support_core_extensions.html#extensions-to-array
+[anna-kendrick-love-you-awesome-nerds]: /assets/images/ruby/anna-kendrick-love-you-awesome-nerds.gif
