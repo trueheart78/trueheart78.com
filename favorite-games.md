@@ -9,107 +9,8 @@ update: 2021-05-07
 
 ![Ryan Davis - Gangster][ryan-davis-laughing]
 
-+ [Of All Time][all-time]
-+ [Game of the Year 2020][goty-2020]
-+ [Game of the Year 2019][goty-2019]
-+ [Game of the Year 2018][goty-2018]
-+ [Game of the Year 2017][goty-2017]
-+ [Game of the Year 2016][goty-2016]
-+ [Random Thoughts][random-thoughts]
 
----
-
-<a id='all-time'></a>
-
-## Of All Time [:top:][page-top]
-
-<a id='ffvi'></a>
-
-### 1. Final Fantasy VI (SNES)
-
-_To be written._
-
-<a id='persona-4'></a>
-
-### 2. Persona 4 Golden (Vita)
-
-**The only game I've ever wanted to hug.**
-
-One of my favorite things about playing Final Fantasy VI back in the day was that
-it didn't stray from adult topics. Persona 4 Golden is the first game since then
-that I can remember tackling some similar issues. Memory loss, the price of fame,
-identity troubles, unfulfilled crushes, and even cross-dressing, are all addressed
-with this small, wonderful package.
-
-I say small, but this game easily spans 60+ hours. And it has ample VO, to boot.
-It's refreshing to play a game like this.
-
-Combat-wise, it allows you to micro-manage your teammates to the level you desire.
-Want them to focus on support and healing, or damage, or just want to give them
-orders yourself? And the tactics you set actually make the characters feel more
-alive. I'd only take control when a party member absolutely needed to do something
-and I hadn't been convinced by the AI enough to trust them. And to be fair, I
-think that happened once in my entire playthrough.
-
-I should mention the story, too. It contains mystery behind mystery, and takes
-some turns I did not see coming _at all_. I've laughed out loud many times at it,
-as well. The characters all have such great personalities, and are very much their
-own individuals.
-
-I can say I was honestly surprised that a game originally released in 2008 that
-I never got to until 2017 would jump into second place on my favorite games of all
-time list, but here we are. And I think it deserves this spot, without question.
-
-### 3. Road Rash (PS1/Gen/Win)
-
-This is such wonderful game. It's been so long since I've played it. I remember spending
-so much time with this at my cousin's house when I was young. When I was in my 20's, I had
-it on PC and it was still great. Recently (late 2018), I bought the PS1 version to play on
-my PS3 and it has been a joy just getting back into it.
-
-This game does so many things right, and (save for the Genesis version) even has some
-great FMV. The intro made me tear up, and I say that with pride. I've always adored this
-game and am thrilled to put it on this list.
-
-Here's a taste of the goodness that is the intro video.
-
-<iframe width="680" height="408" src="https://www.youtube.com/embed/gBdlScU7N6M" frameborder="0" allowfullscreen></iframe>
-
-<a id='horizon-zero-dawn'></a>
-
-### Horizon: Zero Dawn
-
-![Horizon Zero Dawn - Aloy Scouting][hzd-aloy-scouting]
-
-Not quite sure where this game goes on my overall list of favorites ever. For a
-2017 game though, it's going to take a lot to challenge it for GotY. Oh yeah, and
-it's only March...
-
-My bullet points, until I get to writing up something more proper:
-
-+ Love the stealth / noise mechanic.
-+ The World is so great.
-  + Love the scope of the world.
-  + Barely used mounts because the world was just fun to explore.
-+ Love the machine variety.
-  + Really loved the snapmaws when I discovered them.
-  + Fighting machines rarely got old.
-  + It felt like fighting dinosaurs.
-+ Love when battles go crazy and you are just scrambling to win.
-+ Love the range of weapon features.
-  + upgrade paths unlock new elemental damage.
-+ Armor is interesting.
-  + Stealth armor is cool.
-  + Enjoy the selection and the designs.
-  + Would like an easier way to switch armors.
-+ Music is wonderful
-+ Story-wise:
-  + When I learned the backstory post-Deathbringer, I felt sick.
-  + The idea of "Zero Dawn" is pretty frickin’ awesome.
-  + The ending gave me the feels. It got dusty, for sure.
-+ Ashly Burch killed it as Aloy.
-+ Lance Reddick was a great addition.
-+ Strong women throughout the game. 
+**Game of the Year:** [2020][goty-2020] • [2019][goty-2019] • [2018][goty-2018] • [2017][goty-2017] • [2016][goty-2016] • [Of All Time][all-time]
 
 ---
 
@@ -415,12 +316,107 @@ Yenefer and Ciri.
 
 ---
 
+<a id='all-time'></a>
+
+## Of All Time [:top:][page-top]
+
+<a id='ffvi'></a>
+
+### 1. Final Fantasy VI (SNES)
+
+_To be written._
+
+<a id='persona-4'></a>
+
+### 2. Persona 4 Golden (Vita)
+
+**The only game I've ever wanted to hug.**
+
+One of my favorite things about playing Final Fantasy VI back in the day was that
+it didn't stray from adult topics. Persona 4 Golden is the first game since then
+that I can remember tackling some similar issues. Memory loss, the price of fame,
+identity troubles, unfulfilled crushes, and even cross-dressing, are all addressed
+with this small, wonderful package.
+
+I say small, but this game easily spans 60+ hours. And it has ample VO, to boot.
+It's refreshing to play a game like this.
+
+Combat-wise, it allows you to micro-manage your teammates to the level you desire.
+Want them to focus on support and healing, or damage, or just want to give them
+orders yourself? And the tactics you set actually make the characters feel more
+alive. I'd only take control when a party member absolutely needed to do something
+and I hadn't been convinced by the AI enough to trust them. And to be fair, I
+think that happened once in my entire playthrough.
+
+I should mention the story, too. It contains mystery behind mystery, and takes
+some turns I did not see coming _at all_. I've laughed out loud many times at it,
+as well. The characters all have such great personalities, and are very much their
+own individuals.
+
+I can say I was honestly surprised that a game originally released in 2008 that
+I never got to until 2017 would jump into second place on my favorite games of all
+time list, but here we are. And I think it deserves this spot, without question.
+
+### 3. Road Rash (PS1/Gen/Win)
+
+This is such wonderful game. It's been so long since I've played it. I remember spending
+so much time with this at my cousin's house when I was young. When I was in my 20's, I had
+it on PC and it was still great. Recently (late 2018), I bought the PS1 version to play on
+my PS3 and it has been a joy just getting back into it.
+
+This game does so many things right, and (save for the Genesis version) even has some
+great FMV. The intro made me tear up, and I say that with pride. I've always adored this
+game and am thrilled to put it on this list.
+
+Here's a taste of the goodness that is the intro video.
+
+<iframe width="680" height="408" src="https://www.youtube.com/embed/gBdlScU7N6M" frameborder="0" allowfullscreen></iframe>
+
+<a id='horizon-zero-dawn'></a>
+
+### Horizon: Zero Dawn
+
+![Horizon Zero Dawn - Aloy Scouting][hzd-aloy-scouting]
+
+Not quite sure where this game goes on my overall list of favorites ever. For a
+2017 game though, it's going to take a lot to challenge it for GotY. Oh yeah, and
+it's only March...
+
+My bullet points, until I get to writing up something more proper:
+
++ Love the stealth / noise mechanic.
++ The World is so great.
+  + Love the scope of the world.
+  + Barely used mounts because the world was just fun to explore.
++ Love the machine variety.
+  + Really loved the snapmaws when I discovered them.
+  + Fighting machines rarely got old.
+  + It felt like fighting dinosaurs.
++ Love when battles go crazy and you are just scrambling to win.
++ Love the range of weapon features.
+  + upgrade paths unlock new elemental damage.
++ Armor is interesting.
+  + Stealth armor is cool.
+  + Enjoy the selection and the designs.
+  + Would like an easier way to switch armors.
++ Music is wonderful
++ Story-wise:
+  + When I learned the backstory post-Deathbringer, I felt sick.
+  + The idea of "Zero Dawn" is pretty frickin’ awesome.
+  + The ending gave me the feels. It got dusty, for sure.
++ Ashly Burch killed it as Aloy.
++ Lance Reddick was a great addition.
++ Strong women throughout the game. 
+
+
+---
+
 <a id='random-thoughts'></a>
 
 ## Random Thoughts for 2017 Games [:top:][page-top]
 
 + Persona 5 was dang good.
-  + Persona 4 Golden still my favorite. See [favorite games #2][p4g].
+  + Persona 4 Golden still my favorite. See [favorite games #2][persona-4].
 + Horizon: Zero Dawn was amazeballs.
 + Night in the Woods.
   + Wowzers.
