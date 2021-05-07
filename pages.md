@@ -2,6 +2,7 @@
 layout: page
 title: 📑 Pages
 description: A list of public pages across the site.
+keywords: public pages, blog, ruby, games, now, resume, cult of done, favorite games, personalysis briefing, open source, tone indicators
 permalink: /pages/
 update: 2021-05-06
 ---

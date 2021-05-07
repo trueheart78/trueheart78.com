@@ -1,6 +1,8 @@
 ---
 layout: page
 title: 📊 Personalysis Briefing
+description: My Personalysis from 2017
+keywords: personalysis briefing, personalysis
 permalink: /personalysis/
 update: 2017-11-08
 ---

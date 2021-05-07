@@ -2,6 +2,7 @@
 layout: page
 title: 🎮 Favorite Games
 description: Games that have been influential throughout my life.
+keywords: favorites, games, favorite games, game of the year, cyberpunk 2077, fire emblem three houses, horizon zero dawn
 permalink: /favorite-games/
 update: 2021-05-06
 ---

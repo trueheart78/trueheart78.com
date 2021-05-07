@@ -1,6 +1,8 @@
 ---
 layout: page
 title: 🗂 Naked Dagger Walkthrough - Dark Souls 3
+description: The beginnings of the path of the Naked Dagger Walkthrough in Dark Souls 3.
+keywords: dark souls 3, challenge run, dagger, no armor, walkthrough
 permalink: /naked-dagger-walkthrough-dark-souls-3/
 update: 2018-02-19
 ---

@@ -1,6 +1,8 @@
 ---
 layout: page
 title: 🔖 Picks
+description: Hand selected, artisinally selected good things.
+keywords: picks, ruby rogues
 permalink: /picks/
 update: 2018-01-08
 ---

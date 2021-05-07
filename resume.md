@@ -2,6 +2,7 @@
 layout: page
 title: 👨‍💻 My Resume
 description: My Living Resume
+keywords: resume, ruby, golang, software developer, side projects, open source, rails, sinatrarb, aws, lambda, aws lambda, paypal
 permalink: /resume/
 update: 2021-05-06
 ---

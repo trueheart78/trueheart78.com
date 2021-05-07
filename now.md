@@ -2,6 +2,7 @@
 layout: page
 title: 📆 What I'm Up to Now
 description: What I've recently been up to.
+keywords: now, nownownow, studying, playing, reading, comics, books, side projects, games, ruby, rails, golang
 permalink: /now/
 update: 2021-05-06
 ---

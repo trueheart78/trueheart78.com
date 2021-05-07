@@ -1,6 +1,8 @@
 ---
 layout: page
 title: 📚 Books
+description: My pile of books.
+keywords: books, ruby, rails, golang, rspec, minitest
 permalink: /books/
 update: 2017-07-31
 ---

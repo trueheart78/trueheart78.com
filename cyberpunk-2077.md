@@ -1,6 +1,8 @@
 ---
 layout: page
 title: 💭 Cyberpunk 2077 - Early Thoughts
+description: My early thoughts on Cyberpunk 2077.
+keywords: cyberpunk 2077, early thoughts
 permalink: /cyberpunk-2077/
 update: 2020-12-17
 ---

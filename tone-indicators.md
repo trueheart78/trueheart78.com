@@ -2,6 +2,7 @@
 layout: page
 title: ℹ️ Tone Indicators
 description: An overview of tone indicators and what they mean.
+keywords: tone, indicators, tone indicators
 permalink: /tone-indicators/
 update: 2021-04-12
 ---

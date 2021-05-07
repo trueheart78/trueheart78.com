@@ -1,6 +1,8 @@
 ---
 layout: page
 title: 🎧 Audio Books
+description: My audio books.
+keywords: audio books
 permalink: /audio-books/
 update: 2016-10-14
 ---

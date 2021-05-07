@@ -2,6 +2,7 @@
 layout: page
 title: 💬 Quotes
 description: Some of my favorite quotes.
+keywords: aj mendez brooks, kent beck, taylor swift, quotes
 permalink: /quotes/
 update: 2017-11-27
 ---

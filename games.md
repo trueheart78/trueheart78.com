@@ -2,6 +2,7 @@
 layout: page
 title: 💩 Games
 description: A management page for my ever evolving list of games.
+keywords: games, xbox, playstation, nintendo, nintendo switch, switch, oculus quest, oculus, quest, virtual reality, vr
 permalink: /games/
 customnav: games_nav.html
 update: 2021-04-21
