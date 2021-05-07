@@ -142,10 +142,11 @@ and I am _**still**_ impressed with it.
 * Cyberpunk 2077 (XSX)
   * :trophy: **Blew My Mind: Brain Dances** :trophy: 
   * :trophy: **Best Backup: Aldecados** :trophy:
-  * :trophy: **Tie: Best Non-Love Interest (Panam)** :trophy:
+  * :trophy: **Tie: Best Side Character: Panam** :trophy:
+  * :trophy: **Tie: Best Side Character: Panam** :trophy:
 * Final Fantasy 7 Remake (PS4)
-  * :trophy: **Tie: Best Non-Love Interest (Tifa)** :trophy:
-  * :trophy: **Tie: Best Non-Love Interest (Jesse)** :trophy:
+  * :trophy: **Tie: Best Side Character: Tifa** :trophy:
+  * :trophy: **Tie: Best Side Character: Jesse** :trophy:
 * Untitled Goose Game (XB1)
   * :trophy: **HONK!** :trophy: 
 
@@ -285,19 +286,34 @@ Even after 240+ hours in Breath of the Wild, this is still my favorite game from
 
 #### Awards
 
-* Final Fantasy XII: The Zodiac Age (PS4) :trophy: **Best Star Wars Game** :trophy:
-* Night in the Woods (PS4) :trophy: **Best Knife Fighting & Best Friendship Simulator** :trophy:
-* Persona 4 Golden (Vita) :trophy: **Best Non-2017 & Most Huggable** :trophy:
-  * The only game I have ever wanted to hug.
-* Persona 5 (PS4) :trophy: **Best Styyyyyle & Best Music & Best Waifu (Makoto)** :trophy:
-* Undertale (P4/Vita) :trophy: **Sweetest Story** :trophy:
-* What Remains of Edith Finch (PS4) :trophy: **Best Storytelling** :trophy:
-* Zelda: Breath of the Wild (Switch) :trophy: **Best Openworld & Most Time Spent** :trophy:
-  * 240+ hours played.
-  * Master Mode completed.
-* Nier: Automata (PS4) :trophy: **Best End Credits & Most Endings** :trophy:
-* Steamworld Dig 2 (PS4/Vita/Switch) :trophy: **Best Formula Changeup** :trophy:
-* Super Mario Odyssey (Switch) :trophy: **Best Throwback** :trophy:
+* Final Fantasy XII: The Zodiac Age (PS4)
+  * :trophy: **Best Star Wars Game** :trophy:
+* Night in the Woods (PS4)
+  * :trophy: **Best Knife Fighting** :trophy:
+  * :trophy: **Best Friendship Simulator** :trophy:
+* Persona 4 Golden (Vita)
+  * :trophy: **Best Non-2017 & Most Huggable** :trophy:
+  * :trophy: **The only game I have ever wanted to hug** :trophy:
+* Persona 5 (PS4)
+  * :trophy: **Best Styyyyyle** :trophy:
+  * :trophy: **Best Music** :trophy:
+  * :trophy: **Best Waifu: Makoto** :trophy:
+* Undertale (P4/Vita)
+  * :trophy: **Sweetest Story** :trophy:
+* What Remains of Edith Finch (PS4)
+  * :trophy: **Best Storytelling** :trophy:
+* Zelda: Breath of the Wild (Switch)
+  * :trophy: **Best Openworld & Most Time Spent** :trophy:
+  * :trophy: **Most Time Spent: 245 hours** :trophy:
+  * :trophy: **So Good I Had to Play It Again** :trophy:
+  * :trophy: **Most Enjoyable Second Playthrough: Master Mode** :trophy:
+* Nier: Automata (PS4)
+  * :trophy: **Best End Credits** :trophy:
+  * :trophy: **Most Endings** :trophy:
+* Steamworld Dig 2 (PS4/Vita/Switch)
+  * :trophy: **Best Formula Changeup** :trophy:
+* Super Mario Odyssey (Switch)
+  * :trophy: **Best Throwback** :trophy:
 
 ---
 
