@@ -7,6 +7,8 @@ permalink: /favorite-games/
 update: 2021-05-07
 ---
 
+![Ryan Davis - Gangster][ryan-davis-laughing]
+
 + [Of All Time][all-time]
 + [Game of the Year 2020][goty-2020]
 + [Game of the Year 2019][goty-2019]
@@ -437,6 +439,7 @@ Yenefer and Ciri.
 [goty-2019]: #goty-2019
 [goty-2020]: #goty-2020
 [random-thoughts]: #random-thoughts
+[ryan-davis-laughing]: /assets/images/favorites/ryan-davis-laughing.gif
 [ac-odyssey-kassandra]: /assets/images/favorites/ac-odyssey-kassandra.png
 [hzd-aloy-thunderjaw]: /assets/images/favorites/hzd-aloy-thunderjaw.png
 [hzd-aloy-scouting]: /assets/images/favorites/hzd-aloy-scouting.png
