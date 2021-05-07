@@ -4,15 +4,17 @@ title: 📆 What I'm Up to Now
 description: What I've recently been up to.
 keywords: now, nownownow, studying, playing, reading, comics, books, side projects, games, ruby, rails, golang
 permalink: /now/
-update: 2021-05-06
+update: 2021-05-07
 ---
+
+![Agent Smith - Crazy][agent smith - crazy laughing]
 
 I'm currently living in Ohio, working remote for [CoverMyMeds][cmm] as a software developer.
 
 ## :books: Studying
 
-* Ruby version changes (2.7 & 3.0).
-* Rails version changes (6.0 & 6.1).
+* Ruby and recent version changes (2.7 & 3.0).
+* Rails and recent version changes (6.0 & 6.1).
 * [Go](https://golang.org/)
    * [Concurrency in Go](https://www.oreilly.com/library/view/concurrency-in-go/9781491941294/)
    * [The Go programming Language](http://www.gopl.io/)
@@ -27,7 +29,7 @@ I'm currently living in Ohio, working remote for [CoverMyMeds][cmm] as a softwar
 ## :book: Comics
 
 * Harleen
-  + Just finished book 1 of 3.
+  + Just started book 2 of 3.
 <!-- * Jane Foster: Valkyrie -->
 <!-- * Saga -->
 <!--  + Reading book 5 of 9. :star: :star: :star: :star: :star: -->
@@ -70,3 +72,4 @@ I'm currently living in Ohio, working remote for [CoverMyMeds][cmm] as a softwar
 [dropbox gif linker source]: https://github.com/trueheart78/dropbox-gif-linker
 [book notes generator - ruby source]: https://github.com/trueheart78/book-notes-generator
 [book notes generator - go source]: https://github.com/trueheart78/book-notes-go
+[agent smith - crazy laughing]: /assets/images/now/agent-smith-crazy-laughing.gif
