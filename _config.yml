@@ -11,6 +11,9 @@ site_heart:
 emoji:
   src: "/assets/images"
 
+# Default keywords for the site
+keywords: "software development, ruby, rails, golang, taylor swift, gifs, emoji"
+
 # Default description for the site
 description: "The website of one trueheart78"
 
