@@ -4,22 +4,22 @@ title: 👨‍💻 My Resume
 description: I love writing Ruby & Go, rocking out to Taylor Swift, and using gifs to make others smile. I’ve been writing software professionally since 2004.
 keywords: resume, ruby, golang, software developer, side projects, open source, rails, sinatrarb, aws, lambda, aws lambda, paypal
 permalink: /resume/
-update: 2021-05-06
+update: 2021-05-07
 ---
 
 <a id='intro'></a>
-# :wave: Hi, I'm Josh.
+# :wave: Hi, I'm Josh Mills!
 
 [Intro](#intro) |
-[Desires](#desires) |
 [Strengths](#strengths) |
+[What I Want](#what-i-want) |
 [Experience](#experience) |
 [Side Projects](#side-projects) |
 [Open Source](#open-source) |
 [Work History](#work-history) |
 [Education](#education)
 
-![taylor waving][taylor-hi]
+![Taylor Swift - Hello][taylor-hi]
 
 I love writing Ruby & Go :sparkling_heart:, rocking out to Taylor Swift :notes:, and using gifs to
 make others smile :smile:.
@@ -28,47 +28,46 @@ I've been writing software professionally since 2004, focusing mainly on back-en
 
 I enjoy light-hearted, collaborative teams, that I can learn from.
 
-<a id='desires'></a>
-## :raising_hand: Desires [:top:][top]
-
-![taylor swift - desires][taylor-desires]
-
-There are a handful of things I want to focus on over my career. Primarily, I want to be a life-long
-software developer, and these desires focus on that.
-
-1. Master the Ruby and Go programming languages.
-1. Master the Rails framework.
-1. Be a software developer advocate.
-
-I acknowledge that these goals may change over time, and that's fine.
-
 <a id='strengths'></a>
 ## :muscle: Strengths [:top:][top]
 
-![taylor swift - strong][taylor-strong]
+![Taylor Swift - strong][taylor-strong]
 
 * I :heart: Ruby & Go. I love the communities, and the languages.
-* I aspire to be a master software craftsman.
 * I enjoy writing documentation, as I find it highly valuable.
 * I will always make time for my colleagues, regardless of their skill level.
 * I always consider future maintainers.
 * I desire to contribute to open source.
 * I proudly wear the title of "Gif Captain" bestowed upon me by my manager.
 
+<a id='what-i-want'></a>
+## :raising_hand: What I Want [:top:][top]
+
+![Taylor Swift - What I Want][taylor-what-i-want]
+
+I aspire to be a master software craftsman.
+
+My long-term goals are:
+
+1. Master [**Ruby**][ruby-lang].
+1. Master [**Rails**][ruby-on-rails].
+1. Master [**Go**][go-lang].
+<!-- 1. Be a software developer advocate. -->
+
 <a id='experience'></a>
 ## :scroll: Experience [:top:][top]
 
-![taylor swift - whats up][taylor-whats-up]
+![Taylor Swift - What's Up?][taylor-whats-up]
 
 * Eight years of Ruby. ![ruby][ruby-logo]
 * Six years of Ruby on Rails. :steam_locomotive:
 * Two years of Go. :open_book:
-* Eight years of being a huge Taylor Swift fan. :sparkling_heart:
+* Eight years of being a huge Taylor Swift fan. :notes:
 
 <a id='side-projects'></a>
 ## :wrench: Side Projects [:top:][top]
 
-![taylor swift - award dance][taylor-award-dance]
+![Taylor Swift - Award Dance][taylor-award-dance]
 
 <!-- TODO: Try to limit this to 10 or less. You can always find discarded entries in the git history. -->
 
@@ -169,7 +168,7 @@ YAML files to store data, so that it can be edited on-the-go (no database interf
 <a id='open-source'></a>
 ## :octocat: Open Source Contributions [:top:][top]
 
-![taylor swift - absolutely epic][taylor-epic]
+![Taylor Swift - Absolutely Epic][taylor-epic]
 
 ### :cat: Kitty
 
@@ -200,13 +199,12 @@ project to make sure that at least the core framework would load without issue.
 <a id='work-history'></a>
 ## :office: Work History [:top:][top]
 
-![taylor swift - reputation mountain][taylor-mountain]
+![Taylor Swift - Reputation Mountain][taylor-mountain]
 
 ### :pill: CoverMyMeds (2015 to present)
 
-* Mentored multiple software apprentices.
-* Ushered in a gif revolution.
 * Handled the upgrade process for multiple applications through different Rails and Ruby versions.
+* Worked closely with both devs and ops to standardize interactions with our Docker-based apps.
 
 ### :envelope: Vya (2007 to 2015)
 
@@ -231,7 +229,7 @@ project to make sure that at least the core framework would load without issue.
 <a id='education'></a>
 ## :apple: Education [:top:][top]
 
-![taylor swift - studying][taylor-studying]
+![Taylor Swift - Studying][taylor-studying]
 
 ### :mortar_board: ITT Technical Institute
 
@@ -239,7 +237,7 @@ Associate of Computer Science in Software Applications and Programming
 
 ## :sparkling_heart: Thanks for Reading! [:top:][top]
 
-![taylor swift - heart hands][taylor-heart]
+![Taylor Swift - Heart Hands][taylor-heart]
 
 [blog]: /blog
 [pages]: /pages
@@ -275,10 +273,13 @@ Associate of Computer Science in Software Applications and Programming
 [contact-converter]: https://github.com/trueheart78/Contacts-To-PDF
 [twitch]: https://twitch.tv/
 [dexbonus]: https://twitch.tv/dexbonus
+[ruby-lang]: https://www.ruby-lang.org/en/
+[go-lang]: https://golang.org/
+[ruby-on-rails]: https://rubyonrails.org/
 [ruby-logo]: /assets/images/language-icons/ruby-20x20.png
 [taylor-hi]: /assets/images/resume/taylor-hi.gif
-[taylor-desires]: /assets/images/resume/taylor-desires.gif
 [taylor-strong]: /assets/images/resume/taylor-strong.gif
+[taylor-what-i-want]: /assets/images/resume/taylor-what-i-want.gif
 [taylor-experience]: /assets/images/resume/taylor-experience.gif
 [taylor-whats-up]: /assets/images/resume/taylor-whats-up.gif
 [taylor-award-dance]: /assets/images/resume/taylor-award-dance.gif
