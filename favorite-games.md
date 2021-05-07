@@ -4,7 +4,7 @@ title: 🎮 Favorite Games
 description: Games that have been influential throughout my life.
 keywords: favorites, games, favorite games, game of the year, cyberpunk 2077, fire emblem three houses, horizon zero dawn
 permalink: /favorite-games/
-update: 2021-05-06
+update: 2021-05-07
 ---
 
 + [Of All Time][all-time]
@@ -142,7 +142,7 @@ and I am _**still**_ impressed with it.
 * Cyberpunk 2077 (XSX)
   * :trophy: **Blew My Mind: Brain Dances** :trophy: 
   * :trophy: **Best Backup: Aldecados** :trophy:
-  * :trophy: **Tie: Best Side Character: Panam** :trophy:
+  * :trophy: **Best Relationship: Judy** :trophy:
   * :trophy: **Tie: Best Side Character: Panam** :trophy:
 * Final Fantasy 7 Remake (PS4)
   * :trophy: **Tie: Best Side Character: Tifa** :trophy:
