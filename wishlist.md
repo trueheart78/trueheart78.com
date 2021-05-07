@@ -4,14 +4,14 @@ title: 🎁 Wishlist
 description: My living wishlist.
 keywords: wishlist, donations, gifts, 
 permalink: /wishlist/
-update: 2021-05-06
+update: 2021-05-07
 ---
 
-**[My Amazon Wishlist][amazon-wishlist]** is a great place to check for recent updates.
+[**My Amazon Wishlist**][amazon-wishlist] is a great place to check for recent updates.
 
 ## :moneybag: Donations
 
-* **[Meals on Wheels America][meals on wheels]** 🍲
+* [**Meals on Wheels America**][meals-on-wheels] 🍲
   * It made a difference for my mom and my dad-in-law when they were struggling late in life. I
     appreciate their work, so if you ever want to give me something but can’t think of what I'd
     like, this is a preferred option.
@@ -25,6 +25,7 @@ update: 2021-05-06
 
 1. [XKCD Signed Print for Comic #150 - $15.00][xkcd-print] [_Online Only_]
   - Please make sure to **select comic "#150 Grownups" from the drop-down list**.
+  - ![XKCD # 150 - Grownups][xkcd-150-grownups]
 
 ## :information_source: What You Should Know About Josh
 
@@ -56,6 +57,11 @@ need. They are literal wants, not needs.
 
 Use the given information wisely.
 
-[meals on wheels]: https://ams.mealsonwheelsamerica.org/eweb/DynamicPage.aspx?WebCode=globaldonate&site=mowa&CampCode=AnnualCampaign&AplCode=AnnCampWeb
+![Taylor Swift - Dropping Hints][taylor-swift-dropping-hints]
+
+[meals-on-wheels]: https://ams.mealsonwheelsamerica.org/eweb/DynamicPage.aspx?WebCode=globaldonate&site=mowa&CampCode=AnnualCampaign&AplCode=AnnCampWeb
 [xkcd-print]: https://store.xkcd.com/products/signed-prints
 [amazon-wishlist]: https://www.amazon.com/hz/wishlist/ls/1HYNRZIICEIHW?type=wishlist&filter=unpurchased&sort=priority
+[xkcd-150-grownups]: /assets/images/wishlist/surprise-parks-n-rec.gif
+[xkcd-150-grownups]: /assets/images/wishlist/xkcd-150-grownups.png
+[taylor-swift-dropping-hints]: /assets/images/wishlist/taylor-swift-dropping-hints.gif
