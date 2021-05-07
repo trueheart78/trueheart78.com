@@ -38,7 +38,7 @@ I enjoy light-hearted, collaborative teams, that I can learn from.
 * I will always make time for my colleagues, regardless of their skill level.
 * I always consider future maintainers.
 * I desire to contribute to open source.
-* I proudly wear the title of "Gif Captain" bestowed upon me by my manager.
+* I proudly wear the title of "Gif Captain", bestowed upon me by my manager.
 
 <a id='what-i-want'></a>
 ## :raising_hand: What I Want [:top:][top]
