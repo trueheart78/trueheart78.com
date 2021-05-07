@@ -3,7 +3,7 @@ layout: page
 title: 👨‍💻 My Resume
 description: My Living Resume
 permalink: /resume/
-update: 2021-05-05
+update: 2021-05-06
 ---
 
 <a id='intro'></a>
@@ -25,7 +25,7 @@ make others smile :smile:.
 
 I've been writing software professionally since 2004, focusing mainly on back-end development.
 
-I'm looking for a light-hearted, collaborative team, that I can learn from.
+I enjoy light-hearted, collaborative teams, that I can learn from.
 
 <a id='desires'></a>
 ## :raising_hand: Desires [:top:][top]
