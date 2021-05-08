@@ -12,7 +12,7 @@ update: 2021-05-06
 * [:house: Home][home]
 * [:open_book: My Blog][blog]
 * [:sparkling_heart: How Do I Love Thee, Ruby?][ruby]
-* [:poop: Games][games]
+* [:crystal_ball: My Games][games]
 * [:calendar: Now][now]
 * [:man_technologist: My Resume][resume]
 
