@@ -31,7 +31,7 @@ I enjoy light-hearted, collaborative teams, that I can learn from.
 <a id='strengths'></a>
 ## :muscle: Strengths [:top:][top]
 
-![Taylor Swift - strong][taylor-strong]
+![Taylor Swift - Strong][taylor-strong]
 
 * I :heart: Ruby & Go. I love the communities, and the languages.
 * I enjoy writing documentation, as I find it highly valuable.
