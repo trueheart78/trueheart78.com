@@ -47,7 +47,7 @@ I enjoy light-hearted, collaborative teams, that I can learn from.
 
 I aspire to be a master software craftsman.
 
-My long-term goals are:
+My long term goals are:
 
 1. Master [**Ruby**][ruby-lang].
 1. Master [**Rails**][ruby-on-rails].
