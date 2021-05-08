@@ -9,8 +9,7 @@ update: 2021-05-07
 
 ![Ryan Davis - Gangster][ryan-davis-laughing]
 
-
-**Game of the Year:** [2020][goty-2020] • [2019][goty-2019] • [2018][goty-2018] • [2017][goty-2017] • [2016][goty-2016] • [Of All Time][all-time]
+**Game of the Year:** [**2020**][goty-2020] • [**2019**][goty-2019] • [**2018**][goty-2018] • [**2017**][goty-2017] • [**2016**][goty-2016] • [**Of All Time**][all-time]
 
 ---
 
@@ -62,7 +61,6 @@ and I am _**still**_ impressed with it.
 ### :trophy: Fire Emblem: Three Houses (NS) :trophy: **Game of the Year** :trophy:
 
 ![Fire Emblem - All Three Leaders][fe3h-all-3]
-<!-- ![Fire Emblem - Byleth Main][fe3h-all-3-fan] -->
 
 Rarely does a game come out that I have zero anticipation for that captures my attention as quickly
 as Three Houses did. It came out, I knew little about it, but I was enticed enough to purchase
@@ -142,7 +140,7 @@ game once I've completed the main story, and that speaks volumes.
   * :trophy: **Best Improvements to a Series** :trophy:
 * Donut County (PS4/iOS)
   * :trophy: **Best New Mechanic** :trophy:
-  * :trophy: **Best New Character (BK)** :trophy:
+  * :trophy: **Best New Character: BK** :trophy:
 * Yoku's Island Express (Switch) 
   * :trophy: **Biggest Surprise** :trophy:
 * Uncharted: The Lost Legacy (PS4)
@@ -153,21 +151,21 @@ game once I've completed the main story, and that speaks volumes.
   * :trophy: **Best Story** :trophy:
   * :trophy: **Best Post-Credits Scene** :trophy:
 * Detroit: Become Human (PS4)
-  * :trophy: **Best Ship (Connor :cupid: Hank)** :trophy:
+  * :trophy: **Best Ship: Connor :cupid: Hank** :trophy:
   * :trophy: **Best Tracking of Unlocked Options** :trophy:
   * :trophy: **Most Unpredictable Outcomes from Dialogue Choices** :trophy:
 * Shadow of the Tomb Raider (PS4)
   * :trophy: **Best Callbacks to Games in the Series** :trophy:
 * Assassin's Creed: Origins (PS4)
   * :trophy: **Best Story in an Assassin's Creed Game** :trophy:
-  * :trophy: **Best Character I Wish I Could Have Played (Aya)** :trophy:
-  * :trophy: **Tie: Best Protagonist in an Assassin's Creed Game (Bayak)** :trophy:
+  * :trophy: **Best Character I Wish I Could Have Played: Aya** :trophy:
+  * :trophy: **Tie: Best Protagonist in an Assassin's Creed Game: Bayak** :trophy:
 * Assassin's Creed Odyssey (PS4)
   * :trophy: **Most Fun in an Assassin's Creed Game** :trophy:
-  * :trophy: **Most Time Spent in an Assassin's Creed Game (85 Hours)** :trophy:
+  * :trophy: **Most Time Spent in an Assassin's Creed Game: 85 Hours** :trophy:
   * :trophy: **Best Locations** :trophy:
   * :trophy: **Best Combat** :trophy:
-  * :trophy: **Tie: Best Protagonist in an Assassin's Creed Game (Kassandra)** :trophy:
+  * :trophy: **Tie: Best Protagonist in an Assassin's Creed Game: Kassandra** :trophy:
 
 ---
 
@@ -206,7 +204,7 @@ Even after 240+ hours in Breath of the Wild, this is still my favorite game from
 * What Remains of Edith Finch (PS4)
   * :trophy: **Best Storytelling** :trophy:
 * Zelda: Breath of the Wild (Switch)
-  * :trophy: **Best Openworld & Most Time Spent** :trophy:
+  * :trophy: **Best Openworld** :trophy:
   * :trophy: **Most Time Spent: 245 hours** :trophy:
   * :trophy: **So Good I Had to Play It Again** :trophy:
   * :trophy: **Most Enjoyable Second Playthrough: Master Mode** :trophy:
@@ -440,6 +438,5 @@ My bullet points, until I get to writing up something more proper:
 [hzd-aloy-thunderjaw]: /assets/images/favorites/hzd-aloy-thunderjaw.png
 [hzd-aloy-scouting]: /assets/images/favorites/hzd-aloy-scouting.png
 [fe3h-all-3]: /assets/images/favorites/fe3h-all-3.jpg
-[fe3h-all-3-fan]: /assets/images/favorites/fe3h-all-3-fan.jpg
 [cyberpunk-2077]: /assets/images/favorites/cyberpunk-2077-female-v.jpg
 [page-top]: #page-top
