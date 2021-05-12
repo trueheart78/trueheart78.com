@@ -4,8 +4,10 @@ title: 👨‍💻 My Resume
 description: I love writing Ruby & Go, rocking out to Taylor Swift, and using gifs to make others smile. I’ve been writing software professionally since 2004.
 keywords: resume, ruby, golang, software developer, side projects, open source, rails, sinatrarb, aws, lambda, aws lambda, paypal
 permalink: /resume/
-update: 2021-05-07
+update: 2021-05-12
 ---
+
+![Taylor Swift - Ready For It][taylor-ready-for-it]
 
 <a id='intro'></a>
 # :wave: Hi, I'm Josh Mills!
@@ -277,6 +279,7 @@ Associate of Computer Science in Software Applications and Programming
 [go-lang]: https://golang.org/
 [ruby-on-rails]: https://rubyonrails.org/
 [ruby-logo]: /assets/images/language-icons/ruby-20x20.png
+[taylor-ready-for-it]: /assets/images/resume/taylor-ready-for-it.gif
 [taylor-hi]: /assets/images/resume/taylor-hi.gif
 [taylor-strong]: /assets/images/resume/taylor-strong.gif
 [taylor-what-i-want]: /assets/images/resume/taylor-what-i-want.gif
