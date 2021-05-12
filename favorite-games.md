@@ -4,10 +4,10 @@ title: 🎮 Favorite Games
 description: Games that have been influential throughout my life.
 keywords: favorites, games, favorite games, game of the year, cyberpunk 2077, fire emblem three houses, horizon zero dawn
 permalink: /favorite-games/
-update: 2021-05-07
+update: 2021-05-12
 ---
 
-![Ryan Davis - Gangster][ryan-davis-laughing]
+![Taylor Swift - Chef's Kiss][taylor-swift-chefs-kiss]
 
 **Game of the Year:** [**2020**][goty-2020] • [**2019**][goty-2019] • [**2018**][goty-2018] • [**2017**][goty-2017] • [**2016**][goty-2016] • [**Of All Time**][all-time]
 
@@ -433,7 +433,7 @@ My bullet points, until I get to writing up something more proper:
 [goty-2019]: #goty-2019
 [goty-2020]: #goty-2020
 [random-thoughts]: #random-thoughts
-[ryan-davis-laughing]: /assets/images/favorites/ryan-davis-laughing.gif
+[taylor-swift-chefs-kiss]: /assets/images/favorites/taylor-swift-chefs-kiss.gif
 [ac-odyssey-kassandra]: /assets/images/favorites/ac-odyssey-kassandra.png
 [hzd-aloy-thunderjaw]: /assets/images/favorites/hzd-aloy-thunderjaw.png
 [hzd-aloy-scouting]: /assets/images/favorites/hzd-aloy-scouting.png
