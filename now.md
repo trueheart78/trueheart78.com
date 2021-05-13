@@ -29,7 +29,7 @@ I'm currently living in Ohio, working remote for [CoverMyMeds][cmm] as a softwar
 ## :book: Comics
 
 * Harleen
-  + Just started book 2 of 3.
+  + Just finished book 2 of 3.
 <!-- * Jane Foster: Valkyrie -->
 <!-- * Saga -->
 <!--  + Reading book 5 of 9. :star: :star: :star: :star: :star: -->

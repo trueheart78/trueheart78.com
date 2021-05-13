@@ -5,7 +5,7 @@ description: A management page for my ever evolving list of games.
 keywords: games, xbox, playstation, nintendo, nintendo switch, switch, oculus quest, oculus, quest, virtual reality, vr
 permalink: /games/
 customnav: games_nav.html
-update: 2021-04-21
+update: 2021-05-13
 ---
 
 <a id='currently-playing'></a>
@@ -178,11 +178,11 @@ See the [New Releases Wiki][new-releases]. Sorted by release date.
 1. Hitman 3 (XSX) [1/20/21] [wait for sale]
 1. The Medium (XSX) [1/28/21] :green_heart: [skipped]
 1. Bravely Default II [2/26/21] [wait for sale]
-1. Mass Effect: Legendary Edition [5/14/21] [wait for sale]
+1. Mass Effect: Legendary Edition [5/14/21] [wait for sale or game pass]
 1. Far Cry 6 (XSX) [5/25/21] [wait for sale]
 1. [Cris Tales][cris tales] (XSX) [7/20/21] [wait and see]
 1. [Tales of Arise][tales of arise] (XSX) [09/10/21] [wait for sale]
-1. [Astria Ascending][astria ascending] (XSX) [10/31/21] :green_heart:
+1. [Astria Ascending][astria ascending] (XSX) [10/31/21] [coming to game pass] :green_heart:
 
 ## :moneybag: Planned Purchases (Hopefully in 2021)
 
