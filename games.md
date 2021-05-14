@@ -210,10 +210,11 @@ See the [Games in Development Wiki][games-in-development]
 
 ## :thought_balloon: Why? [:top:][top]
 
-_"You should be playing games you enjoy. Just remember your pile when you start
-looking for something else to play, instead of purchasing another title. That's
-really all this is for - to make sure you enjoy what you're playing and getting
-rid of stuff that you aren't."_ - Me
+> You should be playing games you enjoy. Just remember your pile when you start
+> looking for something else to play, instead of purchasing another title.
+>
+> That's really all this is for - to make sure you enjoy what you're playing and getting rid of
+> stuff that you aren't. - [Me, 2013][2013 - 12 month pile thread GWJ]
 
 <a id='notes-to-self'></a>
 
@@ -236,6 +237,7 @@ rid of stuff that you aren't."_ - Me
 
 [new-releases]: https://en.wikipedia.org/wiki/2021_in_video_gaming#Game_releases
 [games-in-development]: https://en.wikipedia.org/wiki/List_of_video_games_in_development
+[2013 - 12 month pile thread GWJ]: https://www.gamerswithjobs.com/node/1283851?page=6#comment-12179406
 [top]: #page-top
 [astria ascending]: https://astria-ascending.com/
 [cris tales]: https://en.wikipedia.org/wiki/Cris_Tales
