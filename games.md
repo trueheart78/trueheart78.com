@@ -176,21 +176,21 @@ of games I have to play is oh so long._
 See the [New Releases Wiki][new-releases]. Sorted by release date.
 
 1. Hitman 3 (XSX) [1/20/21] [wait for sale]
-1. The Medium (XSX) [1/28/21] :green_heart: [skipped]
+1. ~~The Medium (XSX) [1/28/21] [skipped]~~ :green_heart:
 1. Bravely Default II [2/26/21] [wait for sale]
 1. Mass Effect: Legendary Edition [5/14/21] [wait for sale or game pass]
 1. Far Cry 6 (XSX) [5/25/21] [wait for sale]
-1. [Dungeons & Dragons: Dark Alliance][dark alliance] [6/22/21] [coming to game pass] :green_heart:
+1. [Dungeons & Dragons: Dark Alliance][dark alliance] [6/22/21] [game pass] :green_heart:
 1. [Cris Tales][cris tales] (XSX) [7/20/21] [wait and see]
+1. [Disco Elysium - The Final Cut][disco elysium] (XSX) [8/31/21] [wait for sale]
 1. [Tales of Arise][tales of arise] (XSX) [09/10/21] [wait for sale]
-1. [Astria Ascending][astria ascending] (XSX) [10/31/21] [coming to game pass] :green_heart:
+1. [Astria Ascending][astria ascending] (XSX) [10/31/21] [game pass] :green_heart:
 
 ## :moneybag: Planned Purchases (Hopefully in 2021)
 
 See the [Games in Development Wiki][games-in-development]
 
 1. Beyond Good and Evil 2 (XB1)
-1. Disco Elysium (XSX)
 1. Metroid Prime 4 (NS)
 1. Project Triangle Strategy (working title) (NS)
 1. System Shock (XB1)
@@ -241,5 +241,6 @@ See the [Games in Development Wiki][games-in-development]
 [top]: #page-top
 [astria ascending]: https://astria-ascending.com/
 [cris tales]: https://en.wikipedia.org/wiki/Cris_Tales
+[disco elysium]: https://en.wikipedia.org/wiki/Disco_Elysium#The_Final_Cut
 [tales of arise]: https://en.bandainamcoent.eu/tales-of/tales-of-arise
 [dark alliance]: https://en.wikipedia.org/wiki/Dungeons_%26_Dragons:_Dark_Alliance
