@@ -15,7 +15,7 @@ update: 2021-05-14
 
 #### :eyes: Focused
 
-1. Rain on Your Parade (XB1) [1.5hr] :green_heart:
+1. Rain on Your Parade (XB1) [4.0hr] :green_heart:
 1. SUPERHOT (VR)
    * Great bit of light exercise for me.
 1. Watch Dogs: Legion (XSX) [17.5hr]
