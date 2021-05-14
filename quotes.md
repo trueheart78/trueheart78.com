@@ -13,7 +13,7 @@ update: 2021-05-14
 
 ### [Kent Beck][kent beck]
 
-> You're creating a vocabulary, not writing a program. Be a poet for a moment
+> You're creating a vocabulary, not writing a program. Be a poet for a moment.
 
 ### Ashe from FFXII
 
