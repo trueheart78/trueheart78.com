@@ -5,7 +5,7 @@ description: A management page for my ever evolving list of games.
 keywords: games, xbox, playstation, nintendo, nintendo switch, switch, oculus quest, oculus, quest, virtual reality, vr
 permalink: /games/
 customnav: games_nav.html
-update: 2021-05-13
+update: 2021-05-14
 ---
 
 <a id='currently-playing'></a>
@@ -200,7 +200,9 @@ See the [Games in Development Wiki][games-in-development]
 
 ## :dollar: Planned Purchases (Previously Released)
 
-1. Immortals Fenyx Rising [wait for sale]
+1. Darkside Detective: A Fumble in the Dark (XB1) [7.5hr] [wait for sale]
+1. Final Fantasy XV Royal Edition (XB1) [35.0hr] [wait for sale or game pass] :green_heart:
+1. Immortals Fenyx Rising (XSX) [30.0hr] [wait for sale]
 
 <!-- planned-purchases:end -->
 
