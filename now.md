@@ -4,7 +4,7 @@ title: 📆 What I'm Up to Now
 description: What I've recently been up to.
 keywords: now, nownownow, studying, playing, reading, comics, books, side projects, games, ruby, rails, golang
 permalink: /now/
-update: 2021-05-07
+update: 2021-05-14
 ---
 
 ![Agent Smith - Crazy][agent smith - crazy laughing]
@@ -26,16 +26,17 @@ I'm currently living in Ohio, working remote for [CoverMyMeds][cmm] as a softwar
 * _Assassin's Creed: Valhalla_ on Xbox Series X.
 * _Ghost of Tsushima_ on PlayStation 4.
 
-## :book: Comics
+<!-- ## :book: Comics -->
 
-* Harleen
-  + Just finished book 2 of 3.
 <!-- * Jane Foster: Valkyrie -->
 <!-- * Saga -->
 <!--  + Reading book 5 of 9. :star: :star: :star: :star: :star: -->
 
 ## :closed_book: Completed Comic-Related Books
 
+* [Harleen](Harleen https://www.amazon.com/dp/1779501110/)
+  * What a wonderful origin story and great read.
+  * [Stjepan Šejić](https://mobile.twitter.com/stjepansejic) is a brilliant writer, storyteller, and artist.
 * [Success is 90% Spite: The Pigeon Gazette Webcomic Book](https://www.amazon.com/dp/1452181969/)
   * Wonderful read. Go support [@PigeonComics](https://twitter.com/PigeonComics).
 
