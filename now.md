@@ -4,7 +4,7 @@ title: 📆 What I'm Up to Now
 description: What I've recently been up to.
 keywords: now, nownownow, studying, playing, reading, comics, books, side projects, games, ruby, rails, golang
 permalink: /now/
-update: 2021-05-14
+update: 2021-05-16
 ---
 
 ![Agent Smith - Crazy][agent smith - crazy laughing]
@@ -26,7 +26,10 @@ I'm currently living in Ohio, working remote for [CoverMyMeds][cmm] as a softwar
 * _Assassin's Creed: Valhalla_ on Xbox Series X.
 * _Ghost of Tsushima_ on PlayStation 4.
 
-<!-- ## :book: Comics -->
+## :book: Comics
+
+* [Harley Quinn and Poison Ivy (5/19/20)](https://www.amazon.com/dp/1779500998/)
+  * Just picked this up in hardcover.
 
 <!-- * Jane Foster: Valkyrie -->
 <!-- * Saga -->
