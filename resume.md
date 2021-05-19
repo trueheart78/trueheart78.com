@@ -4,7 +4,7 @@ title: 👨‍💻 My Resume
 description: I love writing Ruby & Go, rocking out to Taylor Swift, and using gifs to make others smile. I’ve been writing software professionally since 2004.
 keywords: resume, ruby, golang, software developer, side projects, open source, rails, sinatrarb, aws, lambda, aws lambda, paypal
 permalink: /resume/
-update: 2021-05-07
+update: 2021-05-19
 ---
 
 <a id='intro'></a>
@@ -77,7 +77,7 @@ My personal website that also includes a [slightly active blog][blog]. Like any 
 it is host to many different [pages][pages]. Utilizes [Jekyll][jekyll] so I only have to use markdown,
 and is hosted on [GitHub pages][github-pages].
 
-* Site: [iheartruby.com][iheartruby]
+* Site: [trueheart78.com][trueheart78-site] aka [iheartruby.com][iheartruby]
 * Source: [GitHub][iheartruby-source]
 
 ### :link: Dropbox Gif Linker
@@ -243,6 +243,7 @@ Associate of Computer Science in Software Applications and Programming
 [pages]: /pages
 [jekyll]: https://jekyllrb.com/
 [github-pages]: https://pages.github.com/
+[trueheart78-site]: https://www.trueheart78.com
 [iheartruby]: http://iheartruby.com
 [iheartruby-source]: https://github.com/trueheart78/trueheart78.github.io
 [dropbox-gif-linker-source]: https://github.com/trueheart78/dropbox-gif-linker
