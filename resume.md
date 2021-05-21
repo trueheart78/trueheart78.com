@@ -203,6 +203,8 @@ project to make sure that at least the core framework would load without issue.
 
 ### :pill: CoverMyMeds (2015 to present)
 
+#### Software Developer
+
 * Handled the upgrade process for multiple applications through different Rails and Ruby versions.
 * Worked closely with both devs and ops to standardize interactions with our Docker-based apps.
 
