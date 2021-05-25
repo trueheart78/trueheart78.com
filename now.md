@@ -4,7 +4,7 @@ title: 📆 What I'm Up to Now
 description: What I've recently been up to.
 keywords: now, nownownow, studying, playing, reading, comics, books, side projects, games, ruby, rails, golang
 permalink: /now/
-update: 2021-05-16
+update: 2021-05-25
 ---
 
 ![Agent Smith - Crazy][agent smith - crazy laughing]
@@ -30,10 +30,19 @@ I'm currently living in Ohio, working remote for [CoverMyMeds][cmm] as a softwar
 
 * [Harley Quinn and Poison Ivy (5/19/20)](https://www.amazon.com/dp/1779500998/)
   * Just picked this up in hardcover.
+  * Just finished comic 2 of 6.
 
 <!-- * Jane Foster: Valkyrie -->
 <!-- * Saga -->
 <!--  + Reading book 5 of 9. :star: :star: :star: :star: :star: -->
+
+## :tv: Completed Shows and Movies
+
+* [WandaVision](https://disneyplusoriginals.disney.com/show/wandavision)
+  * Wonderfully done. Love the new characters, and the growth of Wanda. :sparkling_heart:
+* [Solos](https://www.amazon.com/Solos-Season-1/dp/B0945CR5MM)
+  * Finished episode 1, _Leah_, with Anne Hathaway. **Immaculately done.**
+    * When I saw it was directed by [Zach Braff](https://twitter.com/zachbraff) it made even more sense.
 
 ## :closed_book: Completed Comic-Related Books
 
