@@ -4,7 +4,7 @@ title: 📑 Pages
 description: A list of public pages across the site.
 keywords: public pages, blog, ruby, games, now, resume, cult of done, favorite games, personalysis briefing, open source, tone indicators
 permalink: /pages/
-update: 2021-05-06
+update: 2021-05-26
 ---
 
 ## Primary :100:
@@ -41,6 +41,7 @@ update: 2021-05-06
 * [:books: Books][books]
 * [:bust_in_silhouette: Character Names][character names]
 * [:thought_balloon: Cyberpunk 2077 - Early Thoughts][cyberpunk 2077]
+* [:sparkles: I Can Do What I Want][i can do what i want]
 * [:card_index_dividers: Naked Dagger Walkthrough - Dark Souls 3][naked dagger walkthrough]
 * [:bookmark: Picks][picks]
 * [:speech_balloon: Quotes][quotes]
@@ -58,6 +59,7 @@ update: 2021-05-06
 [favorite games]: /favorite-games/
 [games]: /games/
 [home]: /
+[i can do what i want]: /i-can-do-what-i-want/
 [naked dagger]: /naked-dagger/
 [naked dagger walkthrough]: /naked-dagger-walkthrough-dark-souls-3/
 [now]: /now/
