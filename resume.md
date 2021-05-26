@@ -108,8 +108,8 @@ a handy, searchable reference.
 
 ### :repeat: Book Notes Generator 
 
-Extracted from the early version of my Book Notes, it reads a YAML file and generates the core the
-core markdown files for the chapters and sections. It also places them directly into the above Book
+Extracted from the early version of my Book Notes, it reads a YAML file and generates the core
+markdown files for the chapters and sections. It also places them directly into the above Book
 Notes project in a new folder, with a handy Readme link provided at the end. _I should really change
 this into a gem or a binary_.
 
