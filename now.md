@@ -4,7 +4,7 @@ title: 📆 What I'm Up to Now
 description: What I've recently been up to.
 keywords: now, nownownow, studying, playing, reading, comics, books, side projects, games, ruby, rails, golang
 permalink: /now/
-update: 2021-05-25
+update: 2021-05-26
 ---
 
 ![Agent Smith - Crazy][agent smith - crazy laughing]
@@ -41,8 +41,9 @@ I'm currently living in Ohio, working remote for [CoverMyMeds][cmm] as a softwar
 * [WandaVision](https://disneyplusoriginals.disney.com/show/wandavision)
   * Wonderfully done. Love the new characters, and the growth of Wanda. :sparkling_heart:
 * [Solos](https://www.amazon.com/Solos-Season-1/dp/B0945CR5MM)
-  * Finished episode 1, _Leah_, with Anne Hathaway. **Immaculately done.**
+  * Episode 1, _Leah_, with Anne Hathaway. **Immaculately done.**
     * When I saw it was directed by [Zach Braff](https://twitter.com/zachbraff) it made even more sense.
+  * Episode 2, _Tom_, with Anthony Mackie was wonderful.
 
 ## :closed_book: Completed Comic-Related Books
 
@@ -52,12 +53,16 @@ I'm currently living in Ohio, working remote for [CoverMyMeds][cmm] as a softwar
 * [Success is 90% Spite: The Pigeon Gazette Webcomic Book](https://www.amazon.com/dp/1452181969/)
   * Wonderful read. Go support [@PigeonComics](https://twitter.com/PigeonComics).
 
-## :globe_with_meridians: Recent Page Updates
+## :globe_with_meridians: Recent Site Updates
 
-* New favicon.
-* Changed the About page into the [Index](/) page.
-* Moved the blog entries to the [Blog](/blog) page.
-* Added [Blog](/blog) and [Resume](/resume) to the page header.
+* New [:sparkles: I Can Do What I Want](/i-can-do-what-i-want) page.
+* Updated [:scroll: Cult of Done Manifesto](/cult-of-done) page with emojis.
+* Updated [:speech_balloon: Quotes](/quotes) page.
+* Open Graph and Twitter metadata support added.
+* New favicon: Taylor Swift doing heart hands.
+* Changed the About page into the [:sparkling_heart: Index](/) page.
+* Moved the blog entries to the [:open_book: Blog](/blog) page.
+* Added [:open_book: Blog](/blog) and [:man_technologist: Resume](/resume) to the page header.
 
 ## :wrench: Side Projects
 
