@@ -251,7 +251,7 @@ Associate of Computer Science in Software Applications and Programming
 [dropbox-gif-linker-source]: https://github.com/trueheart78/dropbox-gif-linker
 [gifs-gem-source]: https://github.com/trueheart78/gifs
 [caringforkarensue]: https://caringforkarensue.com
-[caringforkarensue-source]: https://github.com/trueheart78/CaringForKarenSue-Rails
+[caringforkarensue-source]: https://github.com/trueheart78/caring-for-karen-sue
 [book-notes-source]: https://github.com/trueheart78/book-notes
 [book-notes-generator-source]: https://github.com/trueheart78/book-notes-generator
 [dead-to-us]: https://www.deadtous.com/
