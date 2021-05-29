@@ -4,7 +4,7 @@ title: 👨‍💻 My Resume
 description: I love writing Ruby & Go, rocking out to Taylor Swift, and using gifs to make others smile. I’ve been writing software professionally since 2004.
 keywords: resume, ruby, golang, software developer, side projects, open source, rails, sinatrarb, aws, lambda, aws lambda, paypal
 permalink: /resume/
-update: 2021-05-19
+update: 2021-05-29
 ---
 
 <a id='intro'></a>
@@ -82,9 +82,9 @@ and is hosted on [GitHub pages][github-pages].
 
 ### :link: Dropbox Gif Linker
 
-I have a lot of gifs in my Dropbox, so I wanted a simpler way to get a publicly viewable URL. It
-connects to Dropbox’s api and creates a public share, caches that in a key-value store (in said
-Dropbox), and provides an embeddable URL. Great for markdown and BBCode support.
+I have a lot of gifs in my [Dropbox][dropbox], so I wanted a simpler way to get a publicly viewable
+URL. It connects to Dropbox’s API and creates a public share, caches that in a key-value store (in
+said Dropbox), and provides an embeddable URL. Great for markdown and BBCode support.
 
 Originally written in Ruby, now written in Go.
 
@@ -108,10 +108,9 @@ a handy, searchable reference.
 
 ### :repeat: Book Notes Generator 
 
-Extracted from the early version of my Book Notes, it reads a YAML file and generates the core
-markdown files for the chapters and sections. It also places them directly into the above Book
-Notes project in a new folder, with a handy Readme link provided at the end. _I should really change
-this into a gem or a binary_.
+Extracted from the early version of my [Book Notes][book-notes-source], it reads a YAML file and
+generates the core markdown files for the chapters and sections. It also places them directly into
+the above Book Notes project in a new folder, with a handy Readme link provided at the end. 
 
 * Source: [GitHub][book-notes-generator-source]
 
@@ -137,10 +136,11 @@ it as a JavaScript-powered HTML page, and hosted it on AWS S3.
 
 ### :rotating_light: Go! Call Me (Maybe)!
 
-Originally a Sinatra-based Ruby application called _Alexa Alerter_, I converted this into a Go-based
-binary that works with Twilio and can be uploaded to the AWS Lambda service, with environment
-variables controlling some of the features. It then can have an Alexa-based skill pointed towards it,
-enabling features like, "tell Josh I need him".
+Created to send emergency phone calls and text messages. Originally a Sinatra-based Ruby application
+called _Alexa Alerter_, I converted this into a Go-based binary that works with [Twilio][twilio] and
+can be uploaded to the [AWS Lambda][aws-lambda] service, with environment variables controlling some
+of the features. It then can have an [Alexa-based][amazon-echo] skill pointed towards it, enabling
+features like, "tell Josh I need him".
 
 * Go Source: [GitHub][go-call-me-maybe]
 * Ruby Source: [GitHub][alexa-alerter-source]
@@ -180,12 +180,6 @@ with a reference included.
 * Pull Request: [GitHub][kitty-pr]
 * Commit: [GitHub][kitty-commit]
 
-### :zap: Turbolinks
-
-Discovered an IE8-related bug in Turbolinks and submitted a PR to the project. It was merged later that same day.
-
-* Pull request: [GitHub][turbolinks-pr]
-
 ### :traffic_light: Stoplight Admin
 
 Found two bugs in the project related to a previous user's PR. One related to support for the Redis
@@ -196,6 +190,13 @@ project to make sure that at least the core framework would load without issue.
 * Redis Pull Request: [GitHub][stoplight-redis-pr]
 * Tests Pull Request: [GitHub][stoplight-tests-pr]
 
+### :zap: Turbolinks
+
+Discovered an IE8-related bug in Turbolinks and submitted a PR to the project. It was merged later
+that same day.
+
+* Pull request: [GitHub][turbolinks-pr]
+
 <a id='work-history'></a>
 ## :office: Work History [:top:][top]
 
@@ -205,6 +206,7 @@ project to make sure that at least the core framework would load without issue.
 
 #### Software Developer
 
+* Helped introduce a JSON Web Token authorization process for client-side users of the app.
 * Handled the upgrade process for multiple applications through different Rails and Ruby versions.
 * Worked closely with both devs and ops to standardize interactions with our Docker-based apps.
 
@@ -248,6 +250,7 @@ Associate of Computer Science in Software Applications and Programming
 [trueheart78-site]: https://www.trueheart78.com
 [iheartruby]: http://iheartruby.com
 [iheartruby-source]: https://github.com/trueheart78/trueheart78.github.io
+[dropbox]: https://www.dropbox.com/
 [dropbox-gif-linker-source]: https://github.com/trueheart78/dropbox-gif-linker
 [gifs-gem-source]: https://github.com/trueheart78/gifs
 [caringforkarensue]: https://caringforkarensue.com
@@ -260,6 +263,9 @@ Associate of Computer Science in Software Applications and Programming
 [deathbonus-source]: https://github.com/trueheart78/deathbonus-2.0
 [alexa-alerter-source]: https://github.com/trueheart78/alexa-alerter
 [go-call-me-maybe]: https://github.com/trueheart78/go-call-me-maybe
+[twilio]: https://www.twilio.com/
+[aws-lambda]: https://aws.amazon.com/lambda/
+[amazon-echo]: https://en.wikipedia.org/wiki/Amazon_Echo
 [alexa-food-tracker-source]: https://github.com/trueheart78/alexa-food-tracker
 [pandemic-goofs]: https://pandemic.pls.lol
 [pandemic-goofs-source]: https://github.com/trueheart78/global-pandemic-goofs
