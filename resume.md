@@ -12,7 +12,7 @@ update: 2021-05-29
 
 [Intro](#intro) |
 [Strengths](#strengths) |
-[What I Want](#what-i-want) |
+[Aspirations](#aspirations) |
 [Experience](#experience) |
 [Side Projects](#side-projects) |
 [Open Source](#open-source) |
@@ -40,19 +40,18 @@ I enjoy light-hearted, collaborative teams, that I can learn from.
 * I desire to contribute to open source.
 * I proudly wear the title of "Gif Captain", bestowed upon me by my manager.
 
-<a id='what-i-want'></a>
-## :raising_hand: What I Want [:top:][top]
+<a id='aspirations'></a>
+## :raising_hand: Aspirations [:top:][top]
 
 ![Taylor Swift - What I Want][taylor-what-i-want]
 
-I aspire to be a master software craftsman.
+I want to be a master software craftsman.
 
 My long term goals are:
 
 1. Master [**Ruby**][ruby-lang].
 1. Master [**Rails**][ruby-on-rails].
 1. Master [**Go**][go-lang].
-<!-- 1. Be a software developer advocate. -->
 
 <a id='experience'></a>
 ## :scroll: Experience [:top:][top]
