@@ -128,6 +128,7 @@ update: 2021-05-30
    * No main character made the game less engaging.
    * Story beats were solid.
    * Really chuffed it lost 6 hours of progress due to an autosave issue.
+   * I did enjoy the hacking and bits, but for me, even with all the crashes and bugs, Cyberpunk 2077 ate its lunch and dinner and kept me overnight and took me out to breakfast. 
    * Bagley :sparkling_heart:
    
 <!-- beaten:end -->
