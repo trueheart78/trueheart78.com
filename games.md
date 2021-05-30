@@ -30,7 +30,6 @@ update: 2021-05-30
 
 ## :space_invader: Unplayed [:top:][top]
 
-1. Sayonara: Wild Hearts (NS) [1.5hr]
 1. Pixel Ripped 1995 (VR) [3.0hr]
 1. Project TRIANGLE STRATEGY™ (working title) Debut Demo (NS) [4.0hr guess]
 1. GRIS (NS) [4.0hr]
@@ -130,7 +129,11 @@ update: 2021-05-30
    * Really chuffed it lost 6 hours of progress due to an autosave issue.
    * I did enjoy the hacking and bits, but for me, even with all the crashes and bugs, Cyberpunk 2077 ate its lunch and dinner and kept me overnight and took me out to breakfast. 
    * Bagley :sparkling_heart:
-   
+1. Sayonara Wild Hearts (NS)
+   * Chose this as a palette cleanser and it delivered in spades.
+   * The entire experience was simply wonderful.
+   * Best ended level I have played in a long time. :kiss:
+
 <!-- beaten:end -->
 
 <a id='jettisoned'></a>

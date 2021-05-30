@@ -27,6 +27,7 @@ I'm currently living in Ohio, working remote for [CoverMyMeds][cmm] as a softwar
 
 ### :checkered_flag: Recently Beaten
 
+* _Sayonara Wild Hearts_ on Nintendo Switch. :kiss:
 * _Watch Dogs: Legion_ on Xbox Series X.
 
 ## :book: Comics
