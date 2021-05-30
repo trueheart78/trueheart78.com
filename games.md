@@ -5,7 +5,7 @@ description: A management page for my ever evolving list of games.
 keywords: games, xbox, playstation, nintendo, nintendo switch, switch, oculus quest, oculus, quest, virtual reality, vr
 permalink: /games/
 customnav: games_nav.html
-update: 2021-05-14
+update: 2021-05-30
 ---
 
 <a id='currently-playing'></a>
@@ -18,9 +18,6 @@ update: 2021-05-14
 1. Rain on Your Parade (XB1) [4.0hr] :green_heart:
 1. SUPERHOT (VR)
    * Great bit of light exercise for me.
-1. Watch Dogs: Legion (XSX) [17.5hr]
-   * Patched save file issue :ballot_box_with_check:
-   * Quick Resume support added :ballot_box_with_check:
    
 #### :traffic_light: Started and Need to Finish
 
@@ -34,7 +31,6 @@ update: 2021-05-14
 ## :space_invader: Unplayed [:top:][top]
 
 1. Sayonara: Wild Hearts (NS) [1.5hr]
-1. Bravely Default II Demo (NS) [3.0hr]
 1. Pixel Ripped 1995 (VR) [3.0hr]
 1. Project TRIANGLE STRATEGY™ (working title) Debut Demo (NS) [4.0hr guess]
 1. GRIS (NS) [4.0hr]
@@ -127,7 +123,13 @@ update: 2021-05-14
    * May revisit after the next-gen upgrade, but not before.
    * Judy :sparkling_heart:
    * Panam :sparkling_heart:
-
+1. Watch Dogs: Legion (XSX)
+   * On a scale of 1 to 10, I give it a 6.5 (Decent).
+   * No main character made the game less engaging.
+   * Story beats were solid.
+   * Really chuffed it lost 6 hours of progress due to an autosave issue.
+   * Bagley :sparkling_heart:
+   
 <!-- beaten:end -->
 
 <a id='jettisoned'></a>
