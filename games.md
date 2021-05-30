@@ -132,7 +132,8 @@ update: 2021-05-30
 1. Sayonara Wild Hearts (NS)
    * Chose this as a palette cleanser and it delivered in spades.
    * The entire experience was simply wonderful.
-   * Best ended level I have played in a long time. :kiss:
+   * I don't think I could recommend this game highly enough.
+   * Best end level I have played in a long time. :kiss:
 
 <!-- beaten:end -->
 
