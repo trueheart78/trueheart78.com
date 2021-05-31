@@ -31,7 +31,6 @@ update: 2021-05-30
 ## :space_invader: Unplayed [:top:][top]
 
 1. Pixel Ripped 1995 (VR) [3.0hr]
-1. Project TRIANGLE STRATEGY™ (working title) Debut Demo (NS) [4.0hr guess]
 1. GRIS (NS) [4.0hr]
 1. Moss (VR) [4.5hr]
 1. Transistor (NS) [6.0hr]
@@ -135,7 +134,12 @@ update: 2021-05-30
    * I don't think I could recommend this game highly enough.
    * I had a tear running down my cheek by the end of the game.
    * Best end level I have played in a long time. :kiss:
-
+1. Project TRIANGLE STRATEGY™ (working title) Debut Demo (NS)
+   * Played enough of the demo to know I like it.
+   * Reminds me of Fire Emblem: Three Houses, strategy-wise.
+   * Looks like OCTOPATH TRAVELER
+   * Will defintely consider this on-sale, post-release.
+   
 <!-- beaten:end -->
 
 <a id='jettisoned'></a>
