@@ -4,7 +4,7 @@ title: 👨‍💻 My Resume
 description: I love writing Ruby & Go, rocking out to Taylor Swift, and using gifs to make others smile. I’ve been writing software professionally since 2004.
 keywords: resume, ruby, golang, software developer, side projects, open source, rails, sinatrarb, aws, lambda, aws lambda, paypal
 permalink: /resume/
-update: 2021-05-29
+update: 2021-06-01
 ---
 
 <a id='intro'></a>
@@ -183,16 +183,15 @@ with a reference included.
 
 Found two bugs in the project related to a previous user's PR. One related to support for the Redis
 version dependency being increased when it made no sense, the other related to missing library
-support for `sinatra/json`. Not only were both the bugs fixed, but I also introduced tests into the
-project to make sure that at least the core framework would load without issue.
+support for `sinatra/json`. I fixed both the bugs, as well as introduced tests into the project to
+make sure that the core framework would load.
 
 * Redis Pull Request: [GitHub][stoplight-redis-pr]
 * Tests Pull Request: [GitHub][stoplight-tests-pr]
 
 ### :zap: Turbolinks
 
-Discovered an IE8-related bug in Turbolinks and submitted a PR to the project. It was merged later
-that same day.
+Discovered an IE8-related bug in Turbolinks and submitted a PR to the project to fix it.
 
 * Pull request: [GitHub][turbolinks-pr]
 
@@ -205,17 +204,22 @@ that same day.
 
 #### Software Developer
 
-* Helped introduce a JSON Web Token authorization process for client-side users of the app.
-* Handled the upgrade process for multiple applications through different Rails and Ruby versions.
-* Worked closely with both devs and ops to standardize interactions with our Docker-based apps.
+* Handled the upgrade process for multiple applications through many Ruby and Rails versions.
+* Worked with developers and operations to standardize interactions in our migration to
+  recently dockerized applications.
+* Helped introduce a JSON Web Token (JWT) authorization process for our users.
+* Built and maintained microservice-based, RESTful APIs.
 
 ### :envelope: Vya (2007 to 2015)
 
 #### Senior Software Developer (2010 to 2015)
 
-* Migrated the marketing portal codebase to run on both Windows Server 2008 and CentOS.
+* Coached external teams in building modules to incorporate into the marketing portal.
+* Worked with clients to create single sign-on processes for users originating in their systems.
+* Wrote, instituted and tested a comprehensive web application disaster recovery plan.
 * Managed the MySQL database back-end, tuning performance settings and optimizing queries.
 * Introduced full support for the MVC development pattern in a custom PHP framework.
+* Migrated the marketing portal codebase to run on both Windows Server 2008 and CentOS.
 
 #### Internet Application Developer (2007 to 2010)
 
