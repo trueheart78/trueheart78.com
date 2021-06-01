@@ -4,7 +4,7 @@ title: 📆 What I'm Up to Now
 description: What I've recently been up to.
 keywords: now, nownownow, studying, playing, reading, comics, books, side projects, games, ruby, rails, golang
 permalink: /now/
-update: 2021-05-26
+update: 2021-05-30
 ---
 
 ![Agent Smith - Crazy][agent smith - crazy laughing]
@@ -22,9 +22,13 @@ I'm currently living in Ohio, working remote for [CoverMyMeds][cmm] as a softwar
 ## :video_game: Playing Until Credits
 
 * _Rain on Your Parade_ on Xbox Series X. :green_heart:
-* _Watch Dogs: Legion_ on Xbox Series X.
 * _Assassin's Creed: Valhalla_ on Xbox Series X.
 * _Ghost of Tsushima_ on PlayStation 4.
+
+### :checkered_flag: Recently Beaten
+
+* _Sayonara Wild Hearts_ on Nintendo Switch. :kiss:
+* _Watch Dogs: Legion_ on Xbox Series X.
 
 ## :book: Comics
 
