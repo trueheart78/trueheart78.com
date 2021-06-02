@@ -5,7 +5,7 @@ description: A management page for my ever evolving list of games.
 keywords: games, xbox, playstation, nintendo, nintendo switch, switch, oculus quest, oculus, quest, virtual reality, vr
 permalink: /games/
 customnav: games_nav.html
-update: 2021-05-30
+update: 2021-06-02
 ---
 
 <a id='currently-playing'></a>
@@ -30,6 +30,7 @@ update: 2021-05-30
 
 ## :space_invader: Unplayed [:top:][top]
 
+1. Down The Rabbit Hole (VR) [3.0hr]
 1. Pixel Ripped 1995 (VR) [3.0hr]
 1. GRIS (NS) [4.0hr]
 1. Moss (VR) [4.5hr]
