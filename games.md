@@ -15,7 +15,6 @@ update: 2021-06-02
 
 #### :eyes: Focused
 
-1. Rain on Your Parade (XB1) [4.0hr] :green_heart:
 1. SUPERHOT (VR)
    * Great bit of light exercise for me.
    
@@ -140,6 +139,11 @@ update: 2021-06-02
    * Reminds me of Fire Emblem: Three Houses, strategy-wise.
    * Looks like OCTOPATH TRAVELER
    * Will defintely consider this on-sale, post-release.
+1. Rain on Your Parade (XB1) :green_heart:
+   * Wonderful game that didn't overstay it's welcome.
+   * Continually changed up the formula.
+   * Literally laughed out loud at a late game achievement. 
+   * Cloudy :sparkling_heart:
    
 <!-- beaten:end -->
 
