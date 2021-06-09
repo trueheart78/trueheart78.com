@@ -4,7 +4,7 @@ title: 📆 What I'm Up to Now
 description: What I've recently been up to.
 keywords: now, nownownow, studying, playing, reading, comics, books, side projects, games, ruby, rails, golang
 permalink: /now/
-update: 2021-06-02
+update: 2021-06-09
 ---
 
 ![Agent Smith - Crazy][agent smith - crazy laughing]
@@ -51,6 +51,9 @@ I'm currently living in Ohio, working remote for [CoverMyMeds][cmm] as a softwar
 
 ## :closed_book: Completed Comic-Related Books
 
+* [Hell Yeah or No](https://sive.rs/n)
+  * Great read / listen.
+  * [Derek Sivers](https://sive.rs/now) is a wonderful narrator.
 * [Harleen](Harleen https://www.amazon.com/dp/1779501110/)
   * What a wonderful origin story and great read.
   * [Stjepan Šejić](https://mobile.twitter.com/stjepansejic) is a brilliant writer, storyteller, and artist.
