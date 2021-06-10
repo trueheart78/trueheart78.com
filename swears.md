@@ -14,5 +14,5 @@ update: 2021-06-10
 * **B!tch**: bench (and therefore, "son of a bench")
 * **@ss**: ash (and therefore, ash-hole)
 * **C0ck**: cork (however, to make it rhyme, it's corkblork for c0ckblock)
-* **D!ck**: deck (and therefore, deckhead, also uses of ‘cork’ And ‘corkblork’ occasionally)
+* **D!ck**: deck (and therefore, deckhead, also uses of 'cork' and 'corkblork' occasionally)
 * **H€ll**: here (and therefore, "what the here?")
