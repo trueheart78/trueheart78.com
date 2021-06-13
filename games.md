@@ -217,8 +217,9 @@ See the [New Releases Wiki][new-releases]. Sorted by release date.
 1. [Astria Ascending][astria ascending] (XSX) [10/31/21] [game pass] :green_heart:
 1. Forza Horizon 5 (XSX) [11/9/21] [game pass] :green_heart:
 1. Starfield (XSX) [11/11/22] [game pass] :green_heart:
-1. [Tunic][tunic] (XSX) [_TBD_] [game pass] :green_heart:
 1. Replaced (XSX) [_TBD_] [game pass] :green_heart:
+1. [Tunic][tunic] (XSX) [_TBD_] [game pass] :green_heart:
+1. Vampire: The Masquerade - Swansong (XSX) [_TBD_]
 
 <!-- planned-purchases:new-releases:end -->
 
@@ -227,6 +228,7 @@ See the [New Releases Wiki][new-releases]. Sorted by release date.
 See the [Games in Development Wiki][games-in-development]
 
 1. Beyond Good and Evil 2 (XSX)
+1. Death Trash (XSX)
 1. Eiyuden Chronicle: Hundred Heroes (XSX) [2022]
 1. Metroid Prime 4 (NS)
 1. Project Triangle Strategy (working title) (NS)
