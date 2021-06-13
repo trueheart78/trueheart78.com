@@ -197,42 +197,49 @@ of games I have to play is oh so long._
 
 ## :money_with_wings: Planned Purchases [:top:][top]
 
+<!-- planned-purchases:new-releases:start -->
 See the [New Releases Wiki][new-releases]. Sorted by release date.
 
-1. Hitman 3 (XSX) [1/20/21] [wait for sale]
+1. ~~Hitman 3 (XSX) [1/20/21] [skipped]~~
 1. ~~The Medium (XSX) [1/28/21] [skipped]~~ :green_heart:
-1. Bravely Default II [2/26/21] [wait for sale]
-1. Mass Effect: Legendary Edition [5/14/21] [wait for sale or game pass]
-1. Far Cry 6 (XSX) [5/25/21] [wait for sale]
+1. ~~Bravely Default II (NS) [2/26/21] [skipped]~~
+1. Mass Effect: Legendary Edition [5/14/21] [wait for $30 sale or game pass]
 1. [Dungeons & Dragons: Dark Alliance][dark alliance] [6/22/21] [game pass] :green_heart:
-1. [Cris Tales][cris tales] (XSX) [7/20/21] [wait and see]
+1. [Cris Tales][cris tales] (XSX) [7/20/21] [game pass] :green_heart:
 1. Hades (XSX) [8/13/21] [game pass] :green_heart:
 1. Twelve Minutes (XSX) [8/19/21] [game pass] :green_heart:
 1. Psychonauts 2 (XSX) [8/25/21] [game pass] :green_heart:
-1. [Disco Elysium - The Final Cut][disco elysium] (XSX) [8/31/21] [wait for sale]
-1. [Tales of Arise][tales of arise] (XSX) [09/10/21] [wait for sale]
+1. [Disco Elysium - The Final Cut][disco elysium] (XSX) [8/31/21] [wait for $30 sale or game pass]
+1. Life is Strange: True Colors (XSX) [9/10/21] [wait for sale or game pass]
+1. [Tales of Arise][tales of arise] (XSX) [09/10/21] [game pass] :green_heart:
 1. Diablo II: Resurrected (XSX) [9/23/21] [wait for sale]
+1. Far Cry 6 (XSX) [10/7/21] [wait for sale]
 1. [Astria Ascending][astria ascending] (XSX) [10/31/21] [game pass] :green_heart:
 1. Forza Horizon 5 (XSX) [11/9/21] [game pass] :green_heart:
+1. Starfield (XSX) [11/11/22] [game pass] :green_heart:
 1. [Tunic][tunic] (XSX) [_TBD_] [game pass] :green_heart:
+1. Replaced (XSX) [_TBD_] [game pass] :green_heart:
+
+<!-- planned-purchases:new-releases:end -->
 
 ## :moneybag: Planned Purchases (Hopefully in 2021)
 
 See the [Games in Development Wiki][games-in-development]
 
-1. Beyond Good and Evil 2 (XB1)
+1. Beyond Good and Evil 2 (XSX)
+1. Eiyuden Chronicle: Hundred Heroes (XSX) [2022]
 1. Metroid Prime 4 (NS)
 1. Project Triangle Strategy (working title) (NS)
-1. System Shock (XB1)
-1. Untitled RWBY Game (XB1)
-1. Vampire: The Masquerade – Bloodlines 2 (XB1)
-1. Vampire: The Masquerade – Coteries of New York (XB1/NS)
+1. System Shock (XSX)
+1. Untitled RWBY Game (XSX)
+1. Vampire: The Masquerade – Bloodlines 2 (XSX)
+1. Vampire: The Masquerade – Coteries of New York (XSX/NS)
 
 ## :dollar: Planned Purchases (Previously Released)
 
-1. Darkside Detective: A Fumble in the Dark (XB1) [7.5hr] [wait for sale]
-1. Final Fantasy XV Royal Edition (XB1) [35.0hr] [wait for sale or game pass] :green_heart:
-1. Immortals Fenyx Rising (XSX) [30.0hr] [wait for sale]
+1. Darkside Detective: A Fumble in the Dark (XSX) [7.5hr] [wait for sale]
+1. Final Fantasy XV Royal Edition (XSX) [35.0hr] [wait for $20 sale or game pass] :green_heart:
+1. Immortals Fenyx Rising (XSX) [30.0hr] [wait for $20 sale]
 
 <!-- planned-purchases:end -->
 
