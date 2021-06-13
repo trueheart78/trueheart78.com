@@ -5,7 +5,7 @@ description: A management page for my ever evolving list of games.
 keywords: games, xbox, playstation, nintendo, nintendo switch, switch, oculus quest, oculus, quest, virtual reality, vr
 permalink: /games/
 customnav: games_nav.html
-update: 2021-06-12
+update: 2021-06-13
 ---
 
 <a id='currently-playing'></a>
@@ -43,6 +43,7 @@ update: 2021-06-12
 1. Wandersong (NS) [9.0hr]
 1. Haven (XSX) [9.5hr] :green_heart:
 1. Ratchet & Clank (PS4) [10.0hr] :blue_heart:
+1. The Falconeer (XSX) [10.5hr] :green_heart:
 1. Gears 5 (XSX) [10.5hr] :green_heart:
 1. Eastshade (XB1) [11.5hr] :green_heart:
 1. West of Loathing (NS) [11.5hr]
@@ -50,7 +51,9 @@ update: 2021-06-12
 1. Need For Speed Heat (XB1) [12.5hr] :green_heart:
    * Compared to Underground 1 & 2. :sparkling_heart:
 1. DOOM Eternal (XB1) [13.5hr] :green_heart:
+   * Next-gen update on 6/29/21.
 1. Child of Light - Ultimate Edition (NS) [15.0hr]
+1. Psychonauts (XB1) [15.5hr] :green_heart:
 1. DRAGON QUEST II: Luminaries of the Legendary Line (NS) [16.5hr]
 1. South Park: The Fractured But Whole (NS) [17.5hr]
 1. Ikenfell (XB1) [18.0hr] :green_heart:
@@ -203,9 +206,14 @@ See the [New Releases Wiki][new-releases]. Sorted by release date.
 1. Far Cry 6 (XSX) [5/25/21] [wait for sale]
 1. [Dungeons & Dragons: Dark Alliance][dark alliance] [6/22/21] [game pass] :green_heart:
 1. [Cris Tales][cris tales] (XSX) [7/20/21] [wait and see]
+1. Hades (XSX) [8/13/21] [game pass] :green_heart:
+1. Twelve Minutes (XSX) [8/19/21] [game pass] :green_heart:
+1. Psychonauts 2 (XSX) [8/25/21] [game pass] :green_heart:
 1. [Disco Elysium - The Final Cut][disco elysium] (XSX) [8/31/21] [wait for sale]
 1. [Tales of Arise][tales of arise] (XSX) [09/10/21] [wait for sale]
+1. Diablo II: Resurrected (XSX) [9/23/21] [wait for sale]
 1. [Astria Ascending][astria ascending] (XSX) [10/31/21] [game pass] :green_heart:
+1. Forza Horizon 5 (XSX) [11/9/21] [game pass] :green_heart:
 1. [Tunic][tunic] (XSX) [_TBD_] [game pass] :green_heart:
 
 ## :moneybag: Planned Purchases (Hopefully in 2021)
