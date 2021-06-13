@@ -5,7 +5,7 @@ description: A management page for my ever evolving list of games.
 keywords: games, xbox, playstation, nintendo, nintendo switch, switch, oculus quest, oculus, quest, virtual reality, vr
 permalink: /games/
 customnav: games_nav.html
-update: 2021-06-02
+update: 2021-06-12
 ---
 
 <a id='currently-playing'></a>
@@ -15,13 +15,12 @@ update: 2021-06-02
 
 #### :eyes: Focused
 
-1. SUPERHOT (VR)
-   * Great bit of light exercise for me.
+1. _TBD_ :crystal_ball:
    
 #### :traffic_light: Started and Need to Finish
 
-1. Assassin's Creed: Valhalla (XSX) [53.0hr]
-1. Ghost of Tsushima (PS4) [24.5hr]
+1. SUPERHOT (VR)
+   * Great bit of light exercise for me.
 
 <!-- playing:end -->
 <a id='unplayed'></a>
@@ -33,6 +32,7 @@ update: 2021-06-02
 1. Pixel Ripped 1995 (VR) [3.0hr]
 1. GRIS (NS) [4.0hr]
 1. Moss (VR) [4.5hr]
+1. The Solitaire Conspiracy (NS) [5.0hr]
 1. Transistor (NS) [6.0hr]
 1. Dirt 5 (XSX) [6.5hr] :green_heart:
 1. River City Girls (XB1) [7.0hr] :green_heart:
@@ -50,16 +50,18 @@ update: 2021-06-02
 1. Need For Speed Heat (XB1) [12.5hr] :green_heart:
    * Compared to Underground 1 & 2. :sparkling_heart:
 1. DOOM Eternal (XB1) [13.5hr] :green_heart:
+1. Child of Light - Ultimate Edition (NS) [15.0hr]
 1. DRAGON QUEST II: Luminaries of the Legendary Line (NS) [16.5hr]
 1. South Park: The Fractured But Whole (NS) [17.5hr]
 1. Ikenfell (XB1) [18.0hr] :green_heart:
 1. Yakuza Kiwami (XB1) [18.0hr] :green_heart:
 1. Yakuza Kiwami 2 (XB1) [18.5hr] :green_heart:
-1. ALTDEUS: Beyond Chronos (VR) [20.0hr]
 1. Control: Ultimate Edition (XSX) [20.0hr]
 1. Greedfall (XB1) [22.0hr] :green_heart:
 1. SpiritFarer (XB1) [23.0hr] :green_heart:
    * May delay playing this for quite some time as I lost a close family member last year.
+1. Ghost of Tsushima (PS4) [24.5hr]
+1. ALTDEUS: Beyond Chronos + Episode Yamato DLC (VR) [25.0hr]
 1. Valkyria Chronicles Remastered (PS4) [27.5hr]
 1. Knights of the Old Republic 2 (XB1) [31.0hr]
 1. Cross Code (XSX) [31.5hr] :green_heart:
@@ -96,7 +98,9 @@ update: 2021-06-02
 
 ## :calendar: Awaiting Content [:top:][top]
 
-1. _TBD_
+1. Assassin's Creed: Valhalla (XSX) [53.0hr]
+   * Upcoming Quality of Life changes: one-handed swords!
+   * Haven't spent much time with this yet but deciding to wait on more DLC.
 
 <!-- awaiting-content:end -->
 
@@ -202,6 +206,7 @@ See the [New Releases Wiki][new-releases]. Sorted by release date.
 1. [Disco Elysium - The Final Cut][disco elysium] (XSX) [8/31/21] [wait for sale]
 1. [Tales of Arise][tales of arise] (XSX) [09/10/21] [wait for sale]
 1. [Astria Ascending][astria ascending] (XSX) [10/31/21] [game pass] :green_heart:
+1. [Tunic][tunic] (XSX) [_TBD_] [game pass] :green_heart:
 
 ## :moneybag: Planned Purchases (Hopefully in 2021)
 
@@ -261,3 +266,4 @@ See the [Games in Development Wiki][games-in-development]
 [disco elysium]: https://en.wikipedia.org/wiki/Disco_Elysium#The_Final_Cut
 [tales of arise]: https://en.bandainamcoent.eu/tales-of/tales-of-arise
 [dark alliance]: https://en.wikipedia.org/wiki/Dungeons_%26_Dragons:_Dark_Alliance
+[tunic]: https://twitter.com/tunicgame
