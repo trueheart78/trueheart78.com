@@ -218,7 +218,7 @@ See the [New Releases Wiki][new-releases]. Sorted by release date.
 1. Far Cry 6 (XSX) [10/7/21] [wait for sale]
 1. [Astria Ascending][astria ascending] (XSX) [10/31/21] [game pass] :green_heart:
 1. Forza Horizon 5 (XSX) [11/9/21] [game pass] :green_heart:
-1. Starfield (XSX) [11/11/22] [game pass] :green_heart:
+1. [Starfield][starfield] (XSX) [11/11/22] [game pass] :green_heart:
 1. [Replaced][replaced] (XSX) [_TBD_] [game pass] :green_heart:
 1. [Severed Steel][severed steel] (XSX) [_TBD_]
 1. [Tunic][tunic] (XSX) [_TBD_] [game pass] :green_heart:
@@ -236,6 +236,8 @@ See the [Games in Development Wiki][games-in-development]
 1. [Eiyuden Chronicle: Rising][rising] (XSX) [2022] [game pass] :green_heart:
 1. Metroid Prime 4 (NS)
 1. Project Triangle Strategy (working title) (NS)
+1. [SacriFire (via KickStarter)][sacri fire ks] (XSX) [backed]
+1. [Stranger of Paradise - Final Fantasy Orogin][stranger of paradise] (XSX) [2022]
 1. System Shock (XSX)
 1. Untitled RWBY Game (XSX)
 1. Vampire: The Masquerade – Bloodlines 2 (XSX)
@@ -292,8 +294,11 @@ See the [Games in Development Wiki][games-in-development]
 [lake]: https://twitter.com/lake_the_game
 [swansong]: https://vampire-swansong.com
 [severed steel]: https://twitter.com/SeveredSteel
+[starfield]: https://bethesda.net/en/game/starfield
 [replaced]: https://twitter.com/Replacedgame
 [death trash]: https://twitter.com/DeathTrash
 [rising]: https://store.steampowered.com/app/1658290/Eiyuden_Chronicle_Rising/
 [hundred heroes]: https://store.steampowered.com/app/1658280/Eiyuden_Chronicle_Hundred_Heroes/
 [true colors]: https://en.wikipedia.org/wiki/Life_Is_Strange:_True_Colors
+[sacri fire ks]: https://www.kickstarter.com/projects/sacrifire/sacrifire
+[stranger of paradise]: https://press.na.square-enix.com/STRANGER-OF-PARADISE-FINAL-FANTASY-ORIGIN
