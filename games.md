@@ -249,6 +249,7 @@ See the [Games in Development Wiki][games-in-development]
 1. Darkside Detective: A Fumble in the Dark (XSX) [7.5hr] [wait for sale]
 1. Final Fantasy XV Royal Edition (XSX) [35.0hr] [wait for $20 sale or game pass] :green_heart:
 1. Immortals Fenyx Rising (XSX) [30.0hr] [wait for $20 sale]
+1. Regalia: Of Men and Monarchs - Royal Edition (NS) [40.5hr] [wait for sale]
 
 <!-- planned-purchases:end -->
 
