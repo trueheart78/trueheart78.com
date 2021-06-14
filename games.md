@@ -230,6 +230,7 @@ See the [New Releases Wiki][new-releases]. Sorted by release date.
 
 See the [Games in Development Wiki][games-in-development]
 
+1. [Atomic Heart][atomic heart] (XSX) [game pass] :green_heart:
 1. Beyond Good and Evil 2 (XSX)
 1. [Death Trash][death trash] (XSX)
 1. [Eiyuden Chronicle: Hundred Heroes][hundred heroes] (XSX) [2023] :green_heart:
@@ -302,3 +303,4 @@ See the [Games in Development Wiki][games-in-development]
 [true colors]: https://en.wikipedia.org/wiki/Life_Is_Strange:_True_Colors
 [sacri fire ks]: https://www.kickstarter.com/projects/sacrifire/sacrifire
 [stranger of paradise]: https://press.na.square-enix.com/STRANGER-OF-PARADISE-FINAL-FANTASY-ORIGIN
+[atomic heart]: https://mundfish.com
