@@ -207,19 +207,22 @@ See the [New Releases Wiki][new-releases]. Sorted by release date.
 1. [Dungeons & Dragons: Dark Alliance][dark alliance] [6/22/21] [game pass] :green_heart:
 1. [Cris Tales][cris tales] (XSX) [7/20/21] [game pass] :green_heart:
 1. Hades (XSX) [8/13/21] [game pass] :green_heart:
+1. [Greak: Memories of Azur][greak] (XSX) [8/17/21] [wait and see]
 1. Twelve Minutes (XSX) [8/19/21] [game pass] :green_heart:
 1. Psychonauts 2 (XSX) [8/25/21] [game pass] :green_heart:
 1. [Disco Elysium - The Final Cut][disco elysium] (XSX) [8/31/21] [wait for $30 sale or game pass]
-1. Life is Strange: True Colors (XSX) [9/10/21] [wait for sale or game pass]
+1. [Lake][lake] (XSX) [9/1/21] [wait and see]
+1. [Life is Strange: True Colors][true colors] (XSX) [9/10/21] [wait for sale or game pass]
 1. [Tales of Arise][tales of arise] (XSX) [09/10/21] [game pass] :green_heart:
 1. Diablo II: Resurrected (XSX) [9/23/21] [wait for sale]
 1. Far Cry 6 (XSX) [10/7/21] [wait for sale]
 1. [Astria Ascending][astria ascending] (XSX) [10/31/21] [game pass] :green_heart:
 1. Forza Horizon 5 (XSX) [11/9/21] [game pass] :green_heart:
 1. Starfield (XSX) [11/11/22] [game pass] :green_heart:
-1. Replaced (XSX) [_TBD_] [game pass] :green_heart:
+1. [Replaced][replaced] (XSX) [_TBD_] [game pass] :green_heart:
+1. [Severed Steel][severed steel] (XSX) [_TBD_]
 1. [Tunic][tunic] (XSX) [_TBD_] [game pass] :green_heart:
-1. Vampire: The Masquerade - Swansong (XSX) [_TBD_]
+1. [Vampire: The Masquerade - Swansong][swansong] (XSX) [_TBD_]
 
 <!-- planned-purchases:new-releases:end -->
 
@@ -228,8 +231,9 @@ See the [New Releases Wiki][new-releases]. Sorted by release date.
 See the [Games in Development Wiki][games-in-development]
 
 1. Beyond Good and Evil 2 (XSX)
-1. Death Trash (XSX)
-1. Eiyuden Chronicle: Hundred Heroes (XSX) [2022]
+1. [Death Trash][death trash] (XSX)
+1. [Eiyuden Chronicle: Hundred Heroes][hundred heroes] (XSX) [2023] :green_heart:
+1. [Eiyuden Chronicle: Rising][rising] (XSX) [2022] [game pass] :green_heart:
 1. Metroid Prime 4 (NS)
 1. Project Triangle Strategy (working title) (NS)
 1. System Shock (XSX)
@@ -284,3 +288,12 @@ See the [Games in Development Wiki][games-in-development]
 [tales of arise]: https://en.bandainamcoent.eu/tales-of/tales-of-arise
 [dark alliance]: https://en.wikipedia.org/wiki/Dungeons_%26_Dragons:_Dark_Alliance
 [tunic]: https://twitter.com/tunicgame
+[greak]: https://store.steampowered.com/app/1311070/Greak_Memories_of_Azur/
+[lake]: https://twitter.com/lake_the_game
+[swansong]: https://vampire-swansong.com
+[severed steel]: https://twitter.com/SeveredSteel
+[replaced]: https://twitter.com/Replacedgame
+[death trash]: https://twitter.com/DeathTrash
+[rising]: https://store.steampowered.com/app/1658290/Eiyuden_Chronicle_Rising/
+[hundred heroes]: https://store.steampowered.com/app/1658280/Eiyuden_Chronicle_Hundred_Heroes/
+[true colors]: https://en.wikipedia.org/wiki/Life_Is_Strange:_True_Colors
