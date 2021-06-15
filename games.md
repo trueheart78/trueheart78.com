@@ -151,6 +151,9 @@ update: 2021-06-13
    * Continually changed up the formula.
    * Literally laughed out loud at a late game achievement. 
    * Cloudy :sparkling_heart:
+1. Tunic Demo (XSX)
+   * Fun and charming.
+   * Impeccable music.
    
 <!-- beaten:end -->
 
