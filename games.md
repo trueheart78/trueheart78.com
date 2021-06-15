@@ -16,7 +16,7 @@ update: 2021-06-15
 #### :eyes: Focused
 
 1. Haven (XSX) [9.5hr] :green_heart:
-   * It had me at, _"Hello" (the _New Game_ screen).
+   * It had me at, _"Hello"_ (the _New Game_ screen).
    
 #### :traffic_light: Started and Need to Finish
 
