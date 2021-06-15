@@ -5,7 +5,7 @@ description: A management page for my ever evolving list of games.
 keywords: games, xbox, playstation, nintendo, nintendo switch, switch, oculus quest, oculus, quest, virtual reality, vr
 permalink: /games/
 customnav: games_nav.html
-update: 2021-06-13
+update: 2021-06-15
 ---
 
 <a id='currently-playing'></a>
@@ -15,7 +15,8 @@ update: 2021-06-13
 
 #### :eyes: Focused
 
-1. _TBD_ :crystal_ball:
+1. Haven (XSX) [9.5hr] :green_heart:
+   * It had me at, _"Hello" (the _New Game_ screen).
    
 #### :traffic_light: Started and Need to Finish
 
@@ -41,7 +42,6 @@ update: 2021-06-13
    * Highly rated. Would love to just taste test it. 
 1. Gears of War 4 (XB1) [9.0hr] :green_heart:
 1. Wandersong (NS) [9.0hr]
-1. Haven (XSX) [9.5hr] :green_heart:
 1. Ratchet & Clank (PS4) [10.0hr] :blue_heart:
 1. The Falconeer (XSX) [10.5hr] :green_heart:
 1. Gears 5 (XSX) [10.5hr] :green_heart:

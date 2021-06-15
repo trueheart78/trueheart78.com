@@ -4,7 +4,7 @@ title: 📆 What I'm Up to Now
 description: What I've recently been up to.
 keywords: now, nownownow, studying, playing, reading, comics, books, side projects, games, ruby, rails, golang
 permalink: /now/
-update: 2021-06-09
+update: 2021-06-15
 ---
 
 ![Agent Smith - Crazy][agent smith - crazy laughing]
@@ -21,8 +21,7 @@ I'm currently living in Ohio, working remote for [CoverMyMeds][cmm] as a softwar
 
 ## :video_game: Playing Until Credits
 
-* _Assassin's Creed: Valhalla_ on Xbox Series X.
-* _Ghost of Tsushima_ on PlayStation 4.
+* _Haven_ on Xbox Series X.
 
 ### :checkered_flag: Recently Beaten
 
@@ -34,7 +33,7 @@ I'm currently living in Ohio, working remote for [CoverMyMeds][cmm] as a softwar
 
 * [Harley Quinn and Poison Ivy (5/19/20)](https://www.amazon.com/dp/1779500998/)
   * Just picked this up in hardcover.
-  * Just finished comic 2 of 6.
+  * Just finished comic 4 of 6.
 
 <!-- * Jane Foster: Valkyrie -->
 <!-- * Saga -->
@@ -53,7 +52,7 @@ I'm currently living in Ohio, working remote for [CoverMyMeds][cmm] as a softwar
 
 * [Hell Yeah or No](https://sive.rs/n)
   * Great read / listen.
-  * [Derek Sivers](https://sive.rs/now) is a wonderful narrator.
+  * [Derek Sivers](https://sive.rs) is a wonderful narrator.
 * [Harleen](Harleen https://www.amazon.com/dp/1779501110/)
   * What a wonderful origin story and great read.
   * [Stjepan Šejić](https://mobile.twitter.com/stjepansejic) is a brilliant writer, storyteller, and artist.
