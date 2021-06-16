@@ -50,6 +50,7 @@ update: 2021-06-16
 1. Steamworld Heist (NS) [12.0hr]
 1. Need For Speed Heat (XB1) [12.5hr] :green_heart:
    * Compared to Underground 1 & 2. :sparkling_heart:
+1. Chicory: A Colorful Tale (PS4) [13.0hr] :arrow_left:
 1. DOOM Eternal (XB1) [13.5hr] :green_heart:
    * Next-gen update on 6/29/21.
 1. Child of Light - Ultimate Edition (NS) [15.0hr]
@@ -207,7 +208,7 @@ See the [New Releases Wiki][new-releases]. Sorted by release date.
 1. ~~The Medium (XSX) [1/28/21] [skipped]~~ :green_heart:
 1. ~~Bravely Default II (NS) [2/26/21] [skipped]~~
 1. Mass Effect: Legendary Edition [5/14/21] [wait for $30 sale or game pass]
-1. [Chicory: A Colorful Tale][chicory] (PS4) [6/10/21] [wait for sale]
+1. ~~[Chicory: A Colorful Tale][chicory] (PS4) [6/10/21]~~ [purchased]
 1. [Dungeons & Dragons: Dark Alliance][dark alliance] [6/22/21] [game pass] :green_heart:
 1. [Cris Tales][cris tales] (XSX) [7/20/21] [game pass] :green_heart:
 1. Hades (XSX) [8/13/21] [game pass] :green_heart:
@@ -285,6 +286,7 @@ See the [Games in Development Wiki][games-in-development]
 
 * :green_heart: = Xbox Game Pass
 * :blue_heart: = PlayStation Plus Freebie
+* :arrow_left: = Next on my radar to play
 
 [new-releases]: https://en.wikipedia.org/wiki/2021_in_video_gaming#Game_releases
 [games-in-development]: https://en.wikipedia.org/wiki/List_of_video_games_in_development
