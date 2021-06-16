@@ -16,7 +16,10 @@ update: 2021-06-16
 #### :eyes: Focused
 
 1. Haven (XSX) [9.5hr] :green_heart:
-   * It had me at, _"Hello"_ (the _New Game_ screen).
+   * It had me at, _"Hello"_ (the _New Game_ screen). :cupid:
+   * "This is wonderful", I said aloud, in the nest for the first time. :blush:
+   * Just caught myself smiling at the interactions between Kay & Yu. :revolving_hearts:
+   * I love this. I didn’t know a game like this existed. :heartpulse:
    
 #### :traffic_light: Started and Need to Finish
 
