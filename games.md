@@ -5,7 +5,7 @@ description: A management page for my ever evolving list of games.
 keywords: games, xbox, playstation, nintendo, nintendo switch, switch, oculus quest, oculus, quest, virtual reality, vr
 permalink: /games/
 customnav: games_nav.html
-update: 2021-06-15
+update: 2021-06-16
 ---
 
 <a id='currently-playing'></a>
@@ -207,6 +207,7 @@ See the [New Releases Wiki][new-releases]. Sorted by release date.
 1. ~~The Medium (XSX) [1/28/21] [skipped]~~ :green_heart:
 1. ~~Bravely Default II (NS) [2/26/21] [skipped]~~
 1. Mass Effect: Legendary Edition [5/14/21] [wait for $30 sale or game pass]
+1. [Chicory: A Colorful Tale][chicory] (PS4) [6/10/21] [wait for sale]
 1. [Dungeons & Dragons: Dark Alliance][dark alliance] [6/22/21] [game pass] :green_heart:
 1. [Cris Tales][cris tales] (XSX) [7/20/21] [game pass] :green_heart:
 1. Hades (XSX) [8/13/21] [game pass] :green_heart:
@@ -308,3 +309,4 @@ See the [Games in Development Wiki][games-in-development]
 [sacri fire ks]: https://www.kickstarter.com/projects/sacrifire/sacrifire
 [stranger of paradise]: https://press.na.square-enix.com/STRANGER-OF-PARADISE-FINAL-FANTASY-ORIGIN
 [atomic heart]: https://mundfish.com
+[chicory]: https://store.playstation.com/en-us/concept/10002468
