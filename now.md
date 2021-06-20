@@ -4,7 +4,7 @@ title: 📆 What I'm Up to Now
 description: What I've recently been up to.
 keywords: now, nownownow, studying, playing, reading, comics, books, side projects, games, ruby, rails, golang
 permalink: /now/
-update: 2021-06-15
+update: 2021-06-20
 ---
 
 ![Agent Smith - Crazy][agent smith - crazy laughing]
@@ -33,7 +33,7 @@ I'm currently living in Ohio, working remote for [CoverMyMeds][cmm] as a softwar
 
 * [Harley Quinn and Poison Ivy (5/19/20)](https://www.amazon.com/dp/1779500998/)
   * Just picked this up in hardcover.
-  * Just finished comic 4 of 6.
+  * Just finished comic 5 of 6.
 
 <!-- * Jane Foster: Valkyrie -->
 <!-- * Saga -->
