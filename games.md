@@ -5,7 +5,7 @@ description: A management page for my ever evolving list of games.
 keywords: games, xbox, playstation, nintendo, nintendo switch, switch, oculus quest, oculus, quest, virtual reality, vr
 permalink: /games/
 customnav: games_nav.html
-update: 2021-06-16
+update: 2021-06-18
 ---
 
 <a id='currently-playing'></a>
@@ -55,14 +55,12 @@ update: 2021-06-16
    * Compared to Underground 1 & 2. :sparkling_heart:
 1. Chicory: A Colorful Tale (PS4) [13.0hr] :arrow_left:
 1. DOOM Eternal (XB1) [13.5hr] :green_heart:
-   * Next-gen update on 6/29/21.
+   * Next-gen update on 6/29/21. :godmode:
 1. Child of Light - Ultimate Edition (NS) [15.0hr]
 1. Psychonauts (XB1) [15.5hr] :green_heart:
 1. DRAGON QUEST II: Luminaries of the Legendary Line (NS) [16.5hr]
 1. South Park: The Fractured But Whole (NS) [17.5hr]
 1. Ikenfell (XB1) [18.0hr] :green_heart:
-1. Yakuza Kiwami (XB1) [18.0hr] :green_heart:
-1. Yakuza Kiwami 2 (XB1) [18.5hr] :green_heart:
 1. Control: Ultimate Edition (XSX) [20.0hr]
 1. Greedfall (XB1) [22.0hr] :green_heart:
 1. SpiritFarer (XB1) [23.0hr] :green_heart:
@@ -158,7 +156,10 @@ update: 2021-06-16
 1. Tunic Demo (XSX)
    * Fun and charming.
    * Impeccable music.
-   
+1. Yakuza Kiwami (XB1) [18.0hr] :green_heart:
+   * Other games interest me more.
+1. Yakuza Kiwami 2 (XB1) [18.5hr] :green_heart:
+   * Other games interest me more.
 <!-- beaten:end -->
 
 <a id='jettisoned'></a>
