@@ -22,6 +22,7 @@ I'm currently living in Ohio, working remote for [CoverMyMeds][cmm] as a softwar
 ## :video_game: Playing Until Credits
 
 * _Haven_ on Xbox Series X.
+  * I am enamored. I honestly didn't know a game like this existed. :blush:
 
 ### :checkered_flag: Recently Beaten
 
@@ -29,26 +30,13 @@ I'm currently living in Ohio, working remote for [CoverMyMeds][cmm] as a softwar
 * _Sayonara Wild Hearts_ on Nintendo Switch. :kiss:
 * _Watch Dogs: Legion_ on Xbox Series X.
 
-## :book: Comics
+## :book: Books and Comics
 
 * [Harley Quinn and Poison Ivy (5/19/20)](https://www.amazon.com/dp/1779500998/)
-  * Just picked this up in hardcover.
+  * Picked this up in hardcover.
   * Just finished comic 5 of 6.
-
-<!-- * Jane Foster: Valkyrie -->
-<!-- * Saga -->
-<!--  + Reading book 5 of 9. :star: :star: :star: :star: :star: -->
-
-## :tv: Completed Shows and Movies
-
-* [WandaVision](https://disneyplusoriginals.disney.com/show/wandavision)
-  * Wonderfully done. Love the new characters, and the growth of Wanda. :sparkling_heart:
-* [Solos](https://www.amazon.com/Solos-Season-1/dp/B0945CR5MM)
-  * Episode 1, _Leah_, with Anne Hathaway. **Immaculately done.**
-    * When I saw it was directed by [Zach Braff](https://twitter.com/zachbraff) it made even more sense.
-  * Episode 2, _Tom_, with Anthony Mackie was wonderful.
-
-## :closed_book: Completed Comic-Related Books
+  
+### :closed_book: Recently Completed
 
 * [Hell Yeah or No](https://sive.rs/n)
   * Great read / listen.
@@ -58,6 +46,30 @@ I'm currently living in Ohio, working remote for [CoverMyMeds][cmm] as a softwar
   * [Stjepan Šejić](https://mobile.twitter.com/stjepansejic) is a brilliant writer, storyteller, and artist.
 * [Success is 90% Spite: The Pigeon Gazette Webcomic Book](https://www.amazon.com/dp/1452181969/)
   * Wonderful read. Go support [@PigeonComics](https://twitter.com/PigeonComics).
+
+<!-- * Jane Foster: Valkyrie -->
+<!-- * Saga -->
+<!--  + Reading book 5 of 9. :star: :star: :star: :star: :star: -->
+
+## :tv: Shows and Movies
+
+* [Harley Quinn (TV Series)](https://en.wikipedia.org/wiki/Harley_Quinn_(TV_series))
+  * Starting season two.
+* [Solos](https://www.amazon.com/Solos-Season-1/dp/B0945CR5MM)
+  * Two episodes in.
+* [Twin Peaks](https://en.wikipedia.org/wiki/Twin_Peaks)
+  * Nearing the end of season one.
+  
+### :film_strip: Recently Watched
+
+* [Harley Quinn (TV Series)](https://en.wikipedia.org/wiki/Harley_Quinn_(TV_series))
+  * Finished season one. :heart: :black_heart:
+* [Solos](https://www.amazon.com/Solos-Season-1/dp/B0945CR5MM)
+  * Episode 1, _Leah_, with Anne Hathaway. **Immaculately done.**
+    * When I saw it was directed by [Zach Braff](https://twitter.com/zachbraff) it made even more sense.
+  * Episode 2, _Tom_, with Anthony Mackie was wonderful.
+* [WandaVision](https://disneyplusoriginals.disney.com/show/wandavision)
+  * Wonderfully done. Love the new characters, and the growth of Wanda. :sparkling_heart:
 
 ## :globe_with_meridians: Recent Site Updates
 
@@ -70,7 +82,12 @@ I'm currently living in Ohio, working remote for [CoverMyMeds][cmm] as a softwar
 * Moved the blog entries to the [:open_book: Blog](/blog) page.
 * Added [:open_book: Blog](/blog) and [:man_technologist: Resume](/resume) to the page header.
 
-## :wrench: Side Projects
+## :hammer_and_wrench: Side Projects
+
+### :hammer: Current
+
+* Crafting [Gem Lookup][gem lookup]
+  * Was intended to be a simple script, slowly turning into a Ruby Gem. :gem:
 
 #### :soon: In The Works
 
@@ -87,6 +104,7 @@ I'm currently living in Ohio, working remote for [CoverMyMeds][cmm] as a softwar
 * [Dropbox Gif Linker - Go Program][dropbox gif linker source]
 
 [cmm]: https://covermymeds.com
+[gem lookup]: https://github.com/trueheart78/gem-lookup
 [caring for karen sue]: https://www.caringforkarensue.com
 [caring for karen sue - source]: https://github.com/trueheart78/caring-for-karen-sue
 [food tracker source]: https://github.com/trueheart78/food-tracker
