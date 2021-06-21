@@ -1,10 +1,20 @@
 ---
 layout: post
-title:  "Make RuboCop Part of Your Tests"
-date:   2016-09-18 05:00:00
-categories: ruby
+title: Make RuboCop Part of Your Tests (Updated)
+description: RuboCop shouldn't be last picked at kickball. Make it part of your tests so you don't have to remember to run it separately.
+date: 2021-06-21 14:14:22
+tags:
+- ruby
+- rubocop
+- tests
+- specs
+- rspec
+- minitest
+- ci
+- continuous integration
 ---
-**Update:** See [Make RuboCop Part of Your Tests (Updated)][update] for a more up-to-date solution.
+
+**Note:** This is an update to the previous [Make RuboCop Part of Your Tests][original post] post.
 
 [RuboCop][rubocop] is a static code analyzer, and can be a
 wonderful tool to help you keep your style consistent either across multiple
@@ -36,7 +46,7 @@ require 'test_helper'
 
 class RuboCopTest < Minitest::Test
   def subject
-    `rubocop`
+    `rubocop --config .rubocop.yml`
   end
 
   def test_no_offenses_found
@@ -56,7 +66,7 @@ In `spec/linters/rubocop_spec.rb`:
 require 'spec_helper'
 
 RSpec.describe 'rubocop analysis' do
-  subject(:report) { `rubocop` }
+  subject(:report) { `rubocop --config .rubocop.yml` }
 
   it 'has no offenses' do
     expect(report).to match(/no\ offenses\ detected/)
@@ -69,6 +79,20 @@ end
 Now, you'll likely notice that RuboCop can be a bit of a style... cop. To
 override any of the default settings, you'll need to make sure to create a
 `.rubocop.yml` file, at the root of your project.
+
+### Continuous Integration
+
+CI itself may cause issues when using RuboCop, as the `vendor/` directory is
+generally not committed, but that doesn't mean that it won't be scanned unless
+told otherwise.
+
+This will help with that.
+
+```yaml
+AllCops:
+  Exclude:
+    - 'vendor/**/*'
+```
 
 ### Minitest
 
@@ -129,4 +153,4 @@ Metrics/BlockLength:
 ```
 
 [rubocop]: https://www.rubocop.org/
-[update]: /2021/06/21/make-rubocop-part-of-your-tests-updated.html
+[original post]: /ruby/2016/09/18/make-rubocop-part-of-your-tests.html
