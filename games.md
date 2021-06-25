@@ -5,7 +5,7 @@ description: A management page for my ever evolving list of games.
 keywords: games, xbox, playstation, nintendo, nintendo switch, switch, oculus quest, oculus, quest, virtual reality, vr
 permalink: /games/
 customnav: games_nav.html
-update: 2021-06-18
+update: 2021-06-26
 ---
 
 <a id='currently-playing'></a>
@@ -214,6 +214,7 @@ See the [New Releases Wiki][new-releases]. Sorted by release date.
 1. Mass Effect: Legendary Edition [5/14/21] [wait for $30 sale or game pass]
 1. ~~[Chicory: A Colorful Tale][chicory] (PS4) [6/10/21]~~ [purchased]
 1. [Dungeons & Dragons: Dark Alliance][dark alliance] [6/22/21] [game pass] :green_heart:
+1. [Going Under][going under] (XSX) [6/29/21] :green_heart:
 1. [Cris Tales][cris tales] (XSX) [7/20/21] [game pass] :green_heart:
 1. Hades (XSX) [8/13/21] [game pass] :green_heart:
 1. [Greak: Memories of Azur][greak] (XSX) [8/17/21] [wait and see]
@@ -228,6 +229,7 @@ See the [New Releases Wiki][new-releases]. Sorted by release date.
 1. [Astria Ascending][astria ascending] (XSX) [10/31/21] [game pass] :green_heart:
 1. Forza Horizon 5 (XSX) [11/9/21] [game pass] :green_heart:
 1. [Starfield][starfield] (XSX) [11/11/22] [game pass] :green_heart:
+1. [Bear & Breakfast][b and b] (NS) [_TBD_] [wait and see]
 1. [Replaced][replaced] (XSX) [_TBD_] [game pass] :green_heart:
 1. [Severed Steel][severed steel] (XSX) [_TBD_]
 1. [Tunic][tunic] (XSX) [_TBD_] [game pass] :green_heart:
@@ -301,12 +303,14 @@ See the [Games in Development Wiki][games-in-development]
 [disco elysium]: https://en.wikipedia.org/wiki/Disco_Elysium#The_Final_Cut
 [tales of arise]: https://en.bandainamcoent.eu/tales-of/tales-of-arise
 [dark alliance]: https://en.wikipedia.org/wiki/Dungeons_%26_Dragons:_Dark_Alliance
+[going under]: https://aggrocrab.com/going-under
 [tunic]: https://twitter.com/tunicgame
 [greak]: https://store.steampowered.com/app/1311070/Greak_Memories_of_Azur/
 [lake]: https://twitter.com/lake_the_game
 [swansong]: https://vampire-swansong.com
 [severed steel]: https://twitter.com/SeveredSteel
 [starfield]: https://bethesda.net/en/game/starfield
+[b and b]: https://www.bear.game
 [replaced]: https://twitter.com/Replacedgame
 [death trash]: https://twitter.com/DeathTrash
 [rising]: https://store.steampowered.com/app/1658290/Eiyuden_Chronicle_Rising/
