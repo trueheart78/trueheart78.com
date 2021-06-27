@@ -73,6 +73,9 @@ I'm currently living in Ohio, working remote for [CoverMyMeds][cmm] as a softwar
 
 ## :globe_with_meridians: Recent Site Updates
 
+* Added two sections to the [:crystal_ball: My Games](/games) page:
+  * [:clapper: VR Experiences](/games#vr-experiences).
+  * [:sweat_smile: VR Workouts](/games#vr-workouts).
 * New [:sparkles: I Can Do What I Want](/i-can-do-what-i-want) page.
 * Updated [:scroll: Cult of Done Manifesto](/cult-of-done) page with emojis.
 * Updated [:speech_balloon: Quotes](/quotes) page.

@@ -43,6 +43,7 @@ update: 2021-06-26
 1. Hellblade: Senua's Sacrifice (XB1) [7.5hr] :green_heart:
 1. SSX (2012) (XB1) [8.0hr] :green_heart:
    * Highly rated. Would love to just taste test it. 
+1. Trover Saves the Universe (VR) [8.0hr]
 1. Gears of War 4 (XB1) [9.0hr] :green_heart:
 1. Wandersong (NS) [9.0hr]
 1. Ratchet & Clank (PS4) [10.0hr] :blue_heart:
@@ -87,6 +88,28 @@ update: 2021-06-26
 1. Assassin's Creed: Odyssey (XB1/PS4)
    * Re-purchased it and re-playing it again on Xbox One.
    * Have fully explored the world. Now, I just need to do the quests.
+
+<!-- for-fun:end -->
+
+<!-- vr-experiences:start -->
+
+<a id='vr-experiences'></a>
+
+## :clapper: VR Experiences [:top:][top]
+
+1. Alcove: Into Space - 1st Step (VR) [14m]
+1. Alcove: Into Space - 2nd Step (VR) [11m]
+1. Nature Treks VR (VR)
+1. Space Explorers: The ISS Experience - Adapt (VR) [29m]
+
+<!-- vr-experiences:end -->
+
+<!-- vr-workouts:start -->
+
+<a id='vr-workouts'></a>
+
+## :sweat_smile: VR Workouts [:top:][top]
+
 1. Audica (VR)
    * This is my jam.
    * Made by Harmonix.
@@ -95,8 +118,10 @@ update: 2021-06-26
    * Bought the BTS and Linkin Park packs.
    * Mainly play the "solo" mode, so there is no "completion".
    * Love the 90° mode.
+1. OhShape (VR)
+   * Contortionist mode: go!
 
-<!-- for-fun:end -->
+<!-- vr-workouts:end -->
 
 <a id='awaiting-content'></a>
 <!-- awaiting-content:start -->
