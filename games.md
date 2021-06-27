@@ -95,6 +95,7 @@ update: 2021-06-27
 1. Assassin's Creed: Odyssey (XB1/PS4)
    * Re-purchased it and re-playing it again on Xbox One.
    * Have fully explored the world. Now, I just need to do the quests.
+1. Dungeons & Dragons: Dark Alliance (XSX) :green_heart:
 
 <!-- for-fun:end -->
 
@@ -126,7 +127,7 @@ update: 2021-06-27
    * Mainly play the "solo" mode, so there is no "completion".
    * Love the 90° mode.
 1. OhShape (VR) :new:
-   * Contortionist mode: go!
+   * Contortionist: Go!
 
 <!-- vr-workouts:end -->
 
@@ -253,7 +254,7 @@ See the [New Releases Wiki][new-releases]. Sorted by release date.
 1. ~~Bravely Default II (NS) [2/26/21] [skipped]~~
 1. Mass Effect: Legendary Edition [5/14/21] [wait for $30 sale or game pass]
 1. ~~[Chicory: A Colorful Tale][chicory] (PS4) [6/10/21]~~ [purchased]
-1. [Dungeons & Dragons: Dark Alliance][dark alliance] (XSX) [6/22/21] [game pass] :green_heart:
+1. ~[Dungeons & Dragons: Dark Alliance][dark alliance] (XSX) [6/22/21] [game pass]~ :green_heart:
 1. [SCARLET NEXUS][scarlet nexus] (XSX) [6/25/21] [wait for sale]
 1. [Going Under][going under] (XSX) [6/29/21] :green_heart:
 1. [Cris Tales][cris tales] (XSX) [7/20/21] [game pass] :green_heart:
