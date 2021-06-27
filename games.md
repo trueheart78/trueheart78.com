@@ -5,7 +5,7 @@ description: A management page for my ever evolving list of games.
 keywords: games, xbox, playstation, nintendo, nintendo switch, switch, oculus quest, oculus, quest, virtual reality, vr
 permalink: /games/
 customnav: games_nav.html
-update: 2021-06-26
+update: 2021-06-27
 ---
 
 <a id='currently-playing'></a>
@@ -25,6 +25,7 @@ update: 2021-06-26
 
 1. SUPERHOT (VR)
    * Great bit of light exercise for me.
+   * Now supports 120hz.
 
 <!-- playing:end -->
 <a id='unplayed'></a>
@@ -33,6 +34,7 @@ update: 2021-06-26
 ## :space_invader: Unplayed [:top:][top]
 
 1. Down The Rabbit Hole (VR) [3.0hr]
+   * 120hz mode supported.
 1. Pixel Ripped 1995 (VR) [3.0hr]
 1. GRIS (NS) [4.0hr]
 1. Moss (VR) [4.5hr]
@@ -40,6 +42,7 @@ update: 2021-06-26
 1. Transistor (NS) [6.0hr]
 1. Dirt 5 (XSX) [6.5hr] :green_heart:
 1. River City Girls (XB1) [7.0hr] :green_heart:
+1. Far Cry 3: Blood Dragon (360) [7.0hr]
 1. Hellblade: Senua's Sacrifice (XB1) [7.5hr] :green_heart:
 1. SSX (2012) (XB1) [8.0hr] :green_heart:
    * Highly rated. Would love to just taste test it. 
@@ -181,10 +184,7 @@ update: 2021-06-26
 1. Tunic Demo (XSX)
    * Fun and charming.
    * Impeccable music.
-1. Yakuza Kiwami (XB1) [18.0hr] :green_heart:
-   * Other games interest me more.
-1. Yakuza Kiwami 2 (XB1) [18.5hr] :green_heart:
-   * Other games interest me more.
+
 <!-- beaten:end -->
 
 <a id='jettisoned'></a>
@@ -198,32 +198,36 @@ of games I have to play is oh so long._
 1. The Touryst (XSX) [5.0hr] :green_heart:
    * Cute, reminds me of Fez crossed with Crossy Road.
 1. In Death: Unchained (VR)
-  * Causes shoulder pain that I haven't had to deal with in years.
+   * Causes shoulder pain that I haven't had to deal with in years.
 1. Planescape: Torment (NS) [33.0hr]
-  * Let's be honest: I'm not getting to this.
+   * Let's be honest: I'm not getting to this.
 1. Shadow of the Colossus (PS4) [9.0hr]
-  * Another game I'm never going to get to.
+   * Another game I'm never going to get to.
 1. Indivisible (XB1) [18.0hr] :green_heart:
-  * Left Game Pass before I could get to it.
+   * Left Game Pass before I could get to it.
 1. Pistol Whip (VR)
-  * I just wasn't enjoying it.
+   * I just wasn't enjoying it.
 1. Recore (XB1) [12.0hr] :green_heart:
-  * This has been on the pile so long, other things are way more likely to get played.
+   * This has been on the pile so long, other things are way more likely to get played.
 1. God of War (2018) (PS4) [19.5hr]
-  * It's been over 2 years: I'm not getting to this.
+   * It's been over 2 years: I'm not getting to this.
 1. TouHou Luna Nights (XB1) [5.0hr] :green_heart:
-  * Just not feeling it.
+   * Just not feeling it.
 1. Phoenix Wright: Ace Attorney (NS) [17.5hr]
-  * First in the trilogy collection.
-  * Ended up having to use walkthroughs to finish both act 2 and act 3.
-  * Couldn't tell if it was fun or entertaining.
+   * First in the trilogy collection.
+   * Ended up having to use walkthroughs to finish both act 2 and act 3.
+   * Couldn't tell if it was fun or entertaining.
 1. Phoenix Wright: Ace Attorney - Justice for All (NS) [18.0hr]
-  * Second in the trilogy collection.
-  * If I didn't enjoy the first, I certainly won't enjoy the second.
+   * Second in the trilogy collection.
+   * If I didn't enjoy the first, I certainly won't enjoy the second.
 1. Phoenix Wright: Ace Attorney - Trials and Tribulations (NS) [20.5hr]
-  * Third in the trilogy collection.
-  * If I didn't enjoy the first, I certainly won't enjoy the third.
-
+   * Third in the trilogy collection.
+   * If I didn't enjoy the first, I certainly won't enjoy the third.
+1. Yakuza Kiwami (XB1) [18.0hr] :green_heart:
+   * Other games interest me more.
+1. Yakuza Kiwami 2 (XB1) [18.5hr] :green_heart:
+   * Other games interest me more.
+   
 <!-- jettisoned:end -->
 <a id='planned-purchases'></a>
 <!-- planned-purchases:start -->
@@ -238,7 +242,8 @@ See the [New Releases Wiki][new-releases]. Sorted by release date.
 1. ~~Bravely Default II (NS) [2/26/21] [skipped]~~
 1. Mass Effect: Legendary Edition [5/14/21] [wait for $30 sale or game pass]
 1. ~~[Chicory: A Colorful Tale][chicory] (PS4) [6/10/21]~~ [purchased]
-1. [Dungeons & Dragons: Dark Alliance][dark alliance] [6/22/21] [game pass] :green_heart:
+1. [Dungeons & Dragons: Dark Alliance][dark alliance] (XSX) [6/22/21] [game pass] :green_heart:
+1. [SCARLET NEXUS][scarlet nexus] (XSX) [6/25/21] [wait for sale]
 1. [Going Under][going under] (XSX) [6/29/21] :green_heart:
 1. [Cris Tales][cris tales] (XSX) [7/20/21] [game pass] :green_heart:
 1. Hades (XSX) [8/13/21] [game pass] :green_heart:
@@ -328,6 +333,7 @@ See the [Games in Development Wiki][games-in-development]
 [disco elysium]: https://en.wikipedia.org/wiki/Disco_Elysium#The_Final_Cut
 [tales of arise]: https://en.bandainamcoent.eu/tales-of/tales-of-arise
 [dark alliance]: https://en.wikipedia.org/wiki/Dungeons_%26_Dragons:_Dark_Alliance
+[scarlet nexus]: https://www.bandainamcoent.com/games/scarlet-nexus
 [going under]: https://aggrocrab.com/going-under
 [tunic]: https://twitter.com/tunicgame
 [greak]: https://store.steampowered.com/app/1311070/Greak_Memories_of_Azur/
