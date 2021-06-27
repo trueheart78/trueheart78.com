@@ -9,6 +9,7 @@ update: 2021-06-27
 ---
 
 <a id='playing'></a>
+
 <!-- playing:start -->
 
 ## :video_game: Playing [:top:][top]
@@ -28,7 +29,9 @@ update: 2021-06-27
    * Now supports 120hz.
 
 <!-- playing:end -->
+
 <a id='unplayed'></a>
+
 <!-- unplayed:start -->
 
 ## :space_invader: Unplayed [:top:][top]
@@ -44,7 +47,7 @@ update: 2021-06-27
 1. River City Girls (XB1) [7.0hr] :green_heart:
 1. Far Cry 3: Blood Dragon (360) [7.0hr]
 1. Hellblade: Senua's Sacrifice (XB1) [7.5hr] :green_heart:
-1. SSX (2012) (XB1) [8.0hr] :green_heart:
+1. SSX (2012) (360) [8.0hr] :green_heart:
    * Highly rated. Would love to just taste test it. 
 1. Trover Saves the Universe (VR) [8.0hr]
 1. Gears of War 4 (XB1) [9.0hr] :green_heart:
@@ -61,7 +64,7 @@ update: 2021-06-27
 1. DOOM Eternal (XB1) [13.5hr] :green_heart:
    * Next-gen update on 6/29/21. :godmode:
 1. Child of Light - Ultimate Edition (NS) [15.0hr]
-1. Psychonauts (XB1) [15.5hr] :green_heart:
+1. Psychonauts (XBX) [15.5hr] :green_heart:
 1. DRAGON QUEST II: Luminaries of the Legendary Line (NS) [16.5hr]
 1. South Park: The Fractured But Whole (NS) [17.5hr]
 1. Ikenfell (XB1) [18.0hr] :green_heart:
@@ -72,7 +75,7 @@ update: 2021-06-27
 1. Ghost of Tsushima (PS4) [24.5hr]
 1. ALTDEUS: Beyond Chronos + Episode Yamato DLC (VR) [25.0hr]
 1. Valkyria Chronicles Remastered (PS4) [27.5hr]
-1. Knights of the Old Republic 2 (XB1) [31.0hr]
+1. Knights of the Old Republic 2 (XBX) [31.0hr]
 1. Cross Code (XSX) [31.5hr] :green_heart:
 1. Valkyria Chronicles 4 (PS4) [35.5hr]
 1. Tales of Berseria (PS4) [44.5hr]
@@ -84,6 +87,7 @@ update: 2021-06-27
 <!-- unplayed:end -->
 
 <a id='for-fun'></a>
+
 <!-- for-fun:start -->
 
 ## :heart_eyes: For Funsies [:top:][top]
@@ -95,7 +99,8 @@ update: 2021-06-27
 <!-- for-fun:end -->
 
 <a id='vr-experiences'></a>
-<!— vr-experiences:start —>
+
+<!-- vr-experiences:start -->
 
 ## :clapper: VR Experiences [:top:][top]
 
@@ -107,7 +112,8 @@ update: 2021-06-27
 <!-- vr-experiences:end -->
 
 <a id='vr-workouts'></a>
-<!— vr-workouts:start —>
+
+<!-- vr-workouts:start -->
 
 ## :sweat_smile: VR Workouts [:top:][top]
 
@@ -125,6 +131,7 @@ update: 2021-06-27
 <!-- vr-workouts:end -->
 
 <a id='awaiting-content'></a>
+
 <!-- awaiting-content:start -->
 
 ## :calendar: Awaiting Content [:top:][top]
@@ -136,16 +143,18 @@ update: 2021-06-27
 <!-- awaiting-content:end -->
 
 <a id='revisiting'></a>
+
 <!-- revisiting:start -->
 
 ## :repeat: Revisiting [:top:][top]
 
-1. Mass Effect Series (XB1)
+1. Mass Effect Series (360/XSX)
 1. Road Rash (PS1/GEN)
 
 <!-- revisiting:end -->
 
 <a id='beaten'></a>
+
 <!-- beaten:start -->
 
 ## :checkered_flag: Beaten [:top:][top]
@@ -186,6 +195,7 @@ update: 2021-06-27
 <!-- beaten:end -->
 
 <a id='jettisoned'></a>
+
 <!-- jettisoned:start -->
 
 ## :rocket: Jettisoned [:top:][top]
@@ -227,12 +237,15 @@ of games I have to play is oh so long._
    * Other games interest me more.
    
 <!-- jettisoned:end -->
+
 <a id='planned-purchases'></a>
+
 <!-- planned-purchases:start -->
 
 ## :money_with_wings: Planned Purchases [:top:][top]
 
 <!-- planned-purchases:new-releases:start -->
+
 See the [New Releases Wiki][new-releases]. Sorted by release date.
 
 1. ~~Hitman 3 (XSX) [1/20/21] [skipped]~~
