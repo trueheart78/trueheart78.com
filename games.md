@@ -41,15 +41,15 @@ update: 2021-06-27
 1. Pixel Ripped 1995 (VR) [3.0hr]
 1. GRIS (NS) [4.0hr]
 1. Moss (VR) [4.5hr]
-1. The Solitaire Conspiracy (NS) [5.0hr]
+1. The Solitaire Conspiracy (NS) [5.0hr] :new:
 1. Transistor (NS) [6.0hr]
 1. Dirt 5 (XSX) [6.5hr] :green_heart:
 1. River City Girls (XB1) [7.0hr] :green_heart:
-1. Far Cry 3: Blood Dragon (360) [7.0hr]
+1. Far Cry 3: Blood Dragon (360) [7.0hr] :new:
 1. Hellblade: Senua's Sacrifice (XB1) [7.5hr] :green_heart:
 1. SSX (2012) (360) [8.0hr] :green_heart:
    * Highly rated. Would love to just taste test it. 
-1. Trover Saves the Universe (VR) [8.0hr]
+1. Trover Saves the Universe (VR) [8.0hr] :new:
 1. Gears of War 4 (XB1) [9.0hr] :green_heart:
 1. Wandersong (NS) [9.0hr]
 1. Ratchet & Clank (PS4) [10.0hr] :blue_heart:
@@ -60,11 +60,11 @@ update: 2021-06-27
 1. Steamworld Heist (NS) [12.0hr]
 1. Need For Speed Heat (XB1) [12.5hr] :green_heart:
    * Compared to Underground 1 & 2. :sparkling_heart:
-1. Chicory: A Colorful Tale (PS4) [13.0hr] :arrow_left:
+1. Chicory: A Colorful Tale (PS4) [13.0hr] :new: :arrow_left:
 1. DOOM Eternal (XB1) [13.5hr] :green_heart:
    * Next-gen update on 6/29/21. :godmode:
-1. Child of Light - Ultimate Edition (NS) [15.0hr]
-1. Psychonauts (XBX) [15.5hr] :green_heart:
+1. Child of Light - Ultimate Edition (NS) [15.0hr] :new:
+1. Psychonauts (XBX) [15.5hr] :green_heart: :new:
 1. DRAGON QUEST II: Luminaries of the Legendary Line (NS) [16.5hr]
 1. South Park: The Fractured But Whole (NS) [17.5hr]
 1. Ikenfell (XB1) [18.0hr] :green_heart:
@@ -125,7 +125,7 @@ update: 2021-06-27
    * Bought the BTS and Linkin Park packs.
    * Mainly play the "solo" mode, so there is no "completion".
    * Love the 90° mode.
-1. OhShape (VR)
+1. OhShape (VR) :new:
    * Contortionist mode: go!
 
 <!-- vr-workouts:end -->
@@ -334,6 +334,7 @@ See the [Games in Development Wiki][games-in-development]
 * :green_heart: = Xbox Game Pass
 * :blue_heart: = PlayStation Plus Freebie
 * :arrow_left: = Next on my radar to play
+* :new: = Added this month
 
 [new-releases]: https://en.wikipedia.org/wiki/2021_in_video_gaming#Game_releases
 [games-in-development]: https://en.wikipedia.org/wiki/List_of_video_games_in_development
