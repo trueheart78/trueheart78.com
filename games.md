@@ -8,7 +8,7 @@ customnav: games_nav.html
 update: 2021-06-27
 ---
 
-<a id='currently-playing'></a>
+<a id='playing'></a>
 <!-- playing:start -->
 
 ## :video_game: Playing [:top:][top]
@@ -94,9 +94,8 @@ update: 2021-06-27
 
 <!-- for-fun:end -->
 
-<!-- vr-experiences:start -->
-
 <a id='vr-experiences'></a>
+<!— vr-experiences:start —>
 
 ## :clapper: VR Experiences [:top:][top]
 
@@ -107,9 +106,8 @@ update: 2021-06-27
 
 <!-- vr-experiences:end -->
 
-<!-- vr-workouts:start -->
-
 <a id='vr-workouts'></a>
+<!— vr-workouts:start —>
 
 ## :sweat_smile: VR Workouts [:top:][top]
 
