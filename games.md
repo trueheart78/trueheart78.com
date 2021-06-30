@@ -5,7 +5,7 @@ description: A management page for my ever evolving list of games.
 keywords: games, xbox, playstation, nintendo, nintendo switch, switch, oculus quest, oculus, quest, virtual reality, vr
 permalink: /games/
 customnav: games_nav.html
-update: 2021-06-27
+update: 2021-06-30
 ---
 
 <a id='playing'></a>
@@ -61,8 +61,7 @@ update: 2021-06-27
 1. Need For Speed Heat (XB1) [12.5hr] :green_heart:
    * Compared to Underground 1 & 2. :sparkling_heart:
 1. Chicory: A Colorful Tale (PS4) [13.0hr] :new: :arrow_left:
-1. DOOM Eternal (XB1) [13.5hr] :green_heart:
-   * Next-gen update on 6/29/21. :godmode:
+1. DOOM Eternal (XSX) [13.5hr] :green_heart:
 1. Child of Light - Ultimate Edition (NS) [15.0hr] :new:
 1. Psychonauts (XBX) [15.5hr] :green_heart: :new:
 1. DRAGON QUEST II: Luminaries of the Legendary Line (NS) [16.5hr]
@@ -92,8 +91,8 @@ update: 2021-06-27
 
 ## :heart_eyes: For Funsies [:top:][top]
 
-1. Assassin's Creed: Odyssey (XB1/PS4)
-   * Re-purchased it and re-playing it again on Xbox One.
+1. Assassin's Creed: Odyssey (XB1)
+   * Re-purchased it and re-playing it again on Xbox.
    * Have fully explored the world. Now, I just need to do the quests.
 1. Dungeons & Dragons: Dark Alliance (XSX) :green_heart:
 
@@ -254,9 +253,9 @@ See the [New Releases Wiki][new-releases]. Sorted by release date.
 1. ~~Bravely Default II (NS) [2/26/21] [skipped]~~
 1. Mass Effect: Legendary Edition [5/14/21] [wait for $30 sale or game pass]
 1. ~~[Chicory: A Colorful Tale][chicory] (PS4) [6/10/21]~~ [purchased]
-1. ~[Dungeons & Dragons: Dark Alliance][dark alliance] (XSX) [6/22/21] [game pass]~ :green_heart:
-1. [SCARLET NEXUS][scarlet nexus] (XSX) [6/25/21] [wait for sale]
-1. [Going Under][going under] (XSX) [6/29/21] :green_heart:
+1. ~~[Dungeons & Dragons: Dark Alliance][dark alliance] (XSX) [6/22/21] [game pass]~~ :green_heart:
+1. [SCARLET NEXUS][scarlet nexus] (XSX) [6/25/21] [wait for $20 sale]
+1. ~~[Going Under][going under] (XSX) [6/29/21]~~ :green_heart:
 1. [Cris Tales][cris tales] (XSX) [7/20/21] [game pass] :green_heart:
 1. Hades (XSX) [8/13/21] [game pass] :green_heart:
 1. [Greak: Memories of Azur][greak] (XSX) [8/17/21] [wait and see]

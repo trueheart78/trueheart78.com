@@ -4,7 +4,7 @@ title: 📆 What I'm Up to Now
 description: What I've recently been up to.
 keywords: now, nownownow, studying, playing, reading, comics, books, side projects, games, ruby, rails, golang
 permalink: /now/
-update: 2021-06-26
+update: 2021-06-30
 ---
 
 ![Agent Smith - Crazy][agent smith - crazy laughing]
@@ -58,7 +58,7 @@ I'm currently living in Ohio, working remote for [CoverMyMeds][cmm] as a softwar
 * [Solos](https://www.amazon.com/Solos-Season-1/dp/B0945CR5MM)
   * Two episodes in.
 * [Twin Peaks](https://en.wikipedia.org/wiki/Twin_Peaks)
-  * Nearing the end of season one.
+  * In the middle of season two.
   
 ### :film_strip: Recently Watched
 
@@ -106,6 +106,10 @@ I'm currently living in Ohio, working remote for [CoverMyMeds][cmm] as a softwar
 * [Carrot Chase :carrot: - Ruby Script][carrot chase source]
 * [Dropbox Gif Linker - Go Program][dropbox gif linker source]
 
+### :raising_hand: What is a Now Page?
+
+Head over to the [About Page of NowNowNow.com][now - about] for more details and how to create your own.
+
 [cmm]: https://covermymeds.com
 [gem lookup]: https://github.com/trueheart78/gem-lookup
 [caring for karen sue]: https://www.caringforkarensue.com
@@ -118,3 +122,4 @@ I'm currently living in Ohio, working remote for [CoverMyMeds][cmm] as a softwar
 [book notes generator - ruby source]: https://github.com/trueheart78/book-notes-generator
 [book notes generator - go source]: https://github.com/trueheart78/book-notes-go
 [agent smith - crazy laughing]: /assets/images/now/agent-smith-crazy-laughing.gif
+[now - about]: https://nownownow.com/about 
