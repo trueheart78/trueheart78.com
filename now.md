@@ -108,7 +108,7 @@ I'm currently living in Ohio, working remote for [CoverMyMeds][cmm] as a softwar
 
 ### :raising_hand: What is a Now Page?
 
-Head over to the [About Page of NowNowNow.com][now - about] for more details and how to create your own.
+Head over to the [About Page][now - about] of [NowNowNow.com][now - home] for more details and how to create your own.
 
 [cmm]: https://covermymeds.com
 [gem lookup]: https://github.com/trueheart78/gem-lookup
@@ -123,3 +123,4 @@ Head over to the [About Page of NowNowNow.com][now - about] for more details and
 [book notes generator - go source]: https://github.com/trueheart78/book-notes-go
 [agent smith - crazy laughing]: /assets/images/now/agent-smith-crazy-laughing.gif
 [now - about]: https://nownownow.com/about 
+[now - home]: https://nownownow.com
