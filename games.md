@@ -255,7 +255,7 @@ See the [New Releases Wiki][new-releases]. Sorted by release date.
 1. ~~[Chicory: A Colorful Tale][chicory] (PS4) [6/10/21]~~ [purchased]
 1. ~~[Dungeons & Dragons: Dark Alliance][dark alliance] (XSX) [6/22/21] [game pass]~~ :green_heart:
 1. [SCARLET NEXUS][scarlet nexus] (XSX) [6/25/21] [wait for $20 sale]
-1. ~~[Going Under][going under] (XSX) [6/29/21]~~ :green_heart:
+1. ~~[Going Under][going under] (XSX) [6/29/21] [game pass]~~ :green_heart:
 1. [Cris Tales][cris tales] (XSX) [7/20/21] [game pass] :green_heart:
 1. Hades (XSX) [8/13/21] [game pass] :green_heart:
 1. [Greak: Memories of Azur][greak] (XSX) [8/17/21] [wait and see]
