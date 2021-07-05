@@ -4,7 +4,7 @@ title: 📆 What I'm Up to Now
 description: What I've recently been up to.
 keywords: now, nownownow, studying, playing, reading, comics, books, side projects, games, ruby, rails, golang
 permalink: /now/
-update: 2021-06-30
+update: 2021-07-04
 ---
 
 ![Agent Smith - Crazy][agent smith - crazy laughing]
@@ -21,11 +21,12 @@ I'm currently living in Ohio, working remote for [CoverMyMeds][cmm] as a softwar
 
 ## :video_game: Playing Until Credits
 
-* _Haven_ on Xbox Series X.
-  * I am enamored. I honestly didn't know a game like this existed. :blush:
+1. _Chicory: A Colorful Tale_ on PS4
 
 ### :checkered_flag: Recently Beaten
 
+* _Haven_ on Xbox Series X. :green_heart:
+  * I am enamored. I honestly didn't know a game like this existed. :blush:
 * _Rain on Your Parade_ on Xbox Series X. :green_heart:
 * _Sayonara Wild Hearts_ on Nintendo Switch. :kiss:
 * _Watch Dogs: Legion_ on Xbox Series X.
