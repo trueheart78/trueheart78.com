@@ -32,17 +32,19 @@ update: 2021-07-04
 
 ## :space_invader: Unplayed [:top:][top]
 
+1. Subsurface Circular (NS) [2.5hr] :new: <!-- July -->
 1. Down The Rabbit Hole (VR) [3.0hr]
    * 120hz mode supported.
 1. Pixel Ripped 1995 (VR) [3.0hr]
 1. GRIS (NS) [4.0hr]
 1. Moss (VR) [4.5hr]
+1. Evoland (NS) [5.0hr] :new: <!-- July -->
 1. The Solitaire Conspiracy (NS) [5.0hr] <!-- June -->
 1. Transistor (NS) [6.0hr]
 1. Dirt 5 (XSX) [6.5hr] :green_heart:
 1. River City Girls (XB1) [7.0hr] :green_heart:
 1. Far Cry 3: Blood Dragon (360) [7.0hr] <!-- June -->
-1. Hellblade: Senua's Sacrifice (XB1) [7.5hr] :green_heart:
+1. Hellblade: Senua's Sacrifice (XB1) [7.5hr] :green_heart: <!-- 2020 -->
 1. SSX (2012) (360) [8.0hr] :green_heart:
    * Highly rated. Would love to just taste test it. 
 1. Trover Saves the Universe (VR) [8.0hr] <!-- June -->
@@ -60,20 +62,21 @@ update: 2021-07-04
 1. Child of Light - Ultimate Edition (NS) [15.0hr] <!-- June -->
 1. Psychonauts (XBX) [15.5hr] :green_heart: <!-- June -->
 1. DRAGON QUEST II: Luminaries of the Legendary Line (NS) [16.5hr]
-1. South Park: The Fractured But Whole (NS) [17.5hr]
+1. South Park: The Fractured But Whole (NS) [17.5hr] <!-- 2020 -->
 1. Ikenfell (XB1) [18.0hr] :green_heart:
-1. Control: Ultimate Edition (XSX) [20.0hr]
+1. Control: Ultimate Edition (XSX) [20.0hr] <!-- Feb -->
+1. Evoland 2 (NS) [20.0hr] :new: <!-- July -->
 1. Greedfall (XB1) [22.0hr] :green_heart:
 1. SpiritFarer (XB1) [23.0hr] :green_heart:
    * May delay playing this for quite some time as I lost a close family member last year.
-1. Ghost of Tsushima (PS4) [24.5hr]
+1. Ghost of Tsushima (PS4) [24.5hr] <!-- 2020 -->
 1. ALTDEUS: Beyond Chronos + Episode Yamato DLC (VR) [25.0hr]
 1. Valkyria Chronicles Remastered (PS4) [27.5hr]
-1. Knights of the Old Republic 2 (XBX) [31.0hr]
+1. Knights of the Old Republic 2 (XBX) [31.0hr] <!-- 2020 -->
 1. Cross Code (XSX) [31.5hr] :green_heart:
 1. Valkyria Chronicles 4 (PS4) [35.5hr]
 1. Tales of Berseria (PS4) [44.5hr]
-1. Yakuza: Like a Dragon (XSX) [45.0hr]
+1. Yakuza: Like a Dragon (XSX) [45.0hr] <!-- 2020 -->
 1. OCTOPATH TRAVELER (XB1) [60.5hr] :green_heart:
    * Attempted and jettisoned on Switch.
    * Want to see it with a different main character.
@@ -86,7 +89,7 @@ update: 2021-07-04
 
 ## :heart_eyes: For Funsies [:top:][top]
 
-1. Assassin's Creed: Odyssey (XB1)
+1. Assassin's Creed: Odyssey (XB1) <!-- 2020 -->
    * Re-purchased it and re-playing it again on Xbox.
    * Have fully explored the world. Now, I just need to do the quests.
 1. Dungeons & Dragons: Dark Alliance (XSX) :green_heart: <!-- June -->
@@ -131,7 +134,7 @@ update: 2021-07-04
 
 ## :calendar: Awaiting Content [:top:][top]
 
-1. Assassin's Creed: Valhalla (XSX) [53.0hr]
+1. Assassin's Creed: Valhalla (XSX) [53.0hr] <!-- 2020 -->
    * Upcoming Quality of Life changes: one-handed swords!
    * Haven't spent much time with this yet but deciding to wait on more DLC.
 
@@ -154,20 +157,20 @@ update: 2021-07-04
 
 ## :checkered_flag: Beaten [:top:][top]
 
-1. Cyberpunk 2077 (XSX)
+1. Cyberpunk 2077 (XSX) <!-- 2020 -->
    * 90+ hours spent doing everything aside from buying all the vehicles.
    * Got a satsifying ending with Judy and Panam.
    * May revisit after the next-gen upgrade, but not before.
    * Judy :sparkling_heart:
    * Panam :sparkling_heart:
-1. Watch Dogs: Legion (XSX)
+1. Watch Dogs: Legion (XSX) <!-- 2020 -->
    * On a scale of 1 to 10, I give it a 6.5 (Decent).
    * No main character made the game less engaging.
    * Story beats were solid.
    * Really chuffed it lost 6 hours of progress due to an autosave issue.
    * I did enjoy the hacking and bits, but for me, even with all the crashes and bugs, Cyberpunk 2077 ate its lunch and dinner and kept me overnight and took me out to breakfast. 
    * Bagley :sparkling_heart:
-1. Sayonara Wild Hearts (NS)
+1. Sayonara Wild Hearts (NS) <!-- 2020 -->
    * Chose this as a palette cleanser and it delivered in spades.
    * The entire experience was simply wonderful.
    * I don't think I could recommend this game highly enough.
@@ -178,12 +181,12 @@ update: 2021-07-04
    * Reminds me of Fire Emblem: Three Houses, strategy-wise.
    * Looks like OCTOPATH TRAVELER
    * Will defintely consider this on-sale, post-release.
-1. Rain on Your Parade (XB1) :green_heart:
+1. Rain on Your Parade (XB1) :green_heart: <!-- May -->
    * Wonderful game that didn't overstay it's welcome.
    * Continually changed up the formula.
    * Literally laughed out loud at a late game achievement. 
    * Cloudy :sparkling_heart:
-1. Tunic Demo (XSX)
+1. Tunic Demo (XSX) <!-- June -->
    * Fun and charming.
    * Impeccable music.
 1. Haven (XSX) [9.5hr] :green_heart:
