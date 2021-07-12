@@ -5,7 +5,7 @@ description: A management page for my ever evolving list of games.
 keywords: games, xbox, playstation, nintendo, nintendo switch, switch, oculus quest, oculus, quest, virtual reality, vr
 permalink: /games/
 customnav: games_nav.html
-update: 2021-07-04
+update: 2021-07-12
 ---
 
 <a id='playing'></a>
@@ -16,7 +16,7 @@ update: 2021-07-04
 
 #### :eyes: Focused
 
-1. Chicory: A Colorful Tale (PS4) [13.0hr] <!-- June -->
+1. _TBD_
    
 #### :traffic_light: Started and Need to Finish
 
@@ -189,12 +189,18 @@ update: 2021-07-04
 1. Tunic Demo (XSX) <!-- June -->
    * Fun and charming.
    * Impeccable music.
-1. Haven (XSX) [9.5hr] :green_heart:
+1. Haven (XSX) :green_heart:
    * It had me at, _"Hello"_ [(the _New Game_ screen)][haven - new game]. :cupid:
    * "This is wonderful", I said aloud, in the nest for the first time. :heartpulse:
    * Just caught myself smiling at [the interactions][haven - butt] between [Kay & Yu][haven - criminal lovers]. :revolving_hearts:
    * [I love this][haven - selfie]. I didn’t know a game [like this][haven - embrace] existed. :blush:
-
+1. Chicory: A Colorful Tale (PS4) <!-- June -->
+   * Completely worth the price of admission.
+   * Very enjoyable gameplay.
+   * Godmode and Boss Skip options should be standards.
+   * Very solid story covering emotions and friendship.
+   * Chicory :sparkling_heart:
+   
 <!-- beaten:end -->
 
 <a id='jettisoned'></a>

@@ -4,7 +4,7 @@ title: 📆 What I'm Up to Now
 description: What I've recently been up to.
 keywords: now, nownownow, studying, playing, reading, comics, books, side projects, games, ruby, rails, golang
 permalink: /now/
-update: 2021-07-04
+update: 2021-07-12
 ---
 
 ![Agent Smith - Crazy][agent smith - crazy laughing]
@@ -21,10 +21,12 @@ I'm currently living in Ohio, working remote for [CoverMyMeds][cmm] as a softwar
 
 ## :video_game: Playing Until Credits
 
-1. _Chicory: A Colorful Tale_ on PS4
+1. _TBD_
 
 ### :checkered_flag: Recently Beaten
 
+* _Chicory: A Colorful Tale_ on PS4.
+  * Such a wonderful game about the power of emotions and friendship.
 * _Haven_ on Xbox Series X. :green_heart:
   * I am enamored. I honestly didn't know a game like this existed. :blush:
 * _Rain on Your Parade_ on Xbox Series X. :green_heart:
@@ -33,7 +35,10 @@ I'm currently living in Ohio, working remote for [CoverMyMeds][cmm] as a softwar
 
 ## :book: Books and Comics
 
-* _TBD_
+* [Harley Quinn: Black + White + Red (2021)](https://www.amazon.com/Harley-Quinn-Black-White-Red/dp/1779509952) [[Overview]](https://www.dccomics.com/blog/2020/06/26/dc-proudly-presents-harley-quinn-black-white-red)
+  * Read 1 of 19 stories.
+* [Marvel Rising (2018)](https://www.amazon.com/Marvel-Rising-Devin-Grayson/dp/1302912615)
+  * Reading comic 4 of 4.
   
 ### :closed_book: Recently Completed
 
