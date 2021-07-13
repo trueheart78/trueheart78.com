@@ -50,12 +50,11 @@ update: 2021-07-12
 1. Trover Saves the Universe (VR) [8.0hr] <!-- June -->
 1. Gears of War 4 (XB1) [9.0hr] :green_heart:
 1. Wandersong (NS) [9.0hr]
-1. Ratchet & Clank (PS4) [10.0hr] :blue_heart:
 1. The Falconeer (XSX) [10.5hr] :green_heart:
 1. Gears 5 (XSX) [10.5hr] :green_heart:
-1. SUPERHOT: MIND CONTROL DELETE (XB1) [11.0hr] <!-- Nov 2020 -->
+1. SUPERHOT: MIND CONTROL DELETE (XSX) [11.0hr] <!-- Nov 2020 -->
 1. Eastshade (XB1) [11.5hr] :green_heart:
-1. West of Loathing (NS) [11.5hr]
+1. West of Loathing (NS) [11.5hr] <!-- Mar 2018 -->
 1. Steamworld Heist (NS) [12.0hr] <!-- Jul 2019 -->
 1. Need For Speed Heat (XB1) [12.5hr] :green_heart:
    * Compared to Underground 1 & 2. :sparkling_heart:
@@ -68,13 +67,10 @@ update: 2021-07-12
 1. Control: Ultimate Edition (XSX) [20.0hr] <!-- Feb -->
 1. Evoland 2 (NS) [20.0hr] :new: <!-- July -->
 1. Greedfall (XSX) [22.0hr] :green_heart:
-1. SpiritFarer (XB1) [23.0hr] :green_heart:
-   * May delay playing this for quite some time as I lost a close family member last year.
 1. Ghost of Tsushima (PS4) [24.5hr] <!-- Oct 2020 -->
 1. ALTDEUS: Beyond Chronos + Episode Yamato DLC (VR) [25.0hr] <!-- Mar + June -->
 1. Valkyria Chronicles Remastered (PS4) [27.5hr] <!-- Oct 2020 -->
 1. Knights of the Old Republic 2 (XBX) [31.0hr] <!-- Oct 2020 -->
-1. Cross Code (XSX) [31.5hr] :green_heart:
 1. Valkyria Chronicles 4 (PS4) [35.5hr] <!-- Oct 2020 -->
 1. Tales of Berseria (PS4) [44.5hr] <!-- Oct 2020 -->
 1. Yakuza: Like a Dragon (XSX) [45.0hr] <!-- Nov 2020 -->
@@ -136,7 +132,9 @@ update: 2021-07-12
 1. Assassin's Creed: Valhalla (XSX) [53.0hr] <!-- Nov 2020 -->
    * Upcoming Quality of Life changes: one-handed swords!
    * Haven't spent much time with this yet but deciding to wait on more DLC.
-
+1. SpiritFarer (XB1) [23.0hr] :green_heart:
+   * Waiting to play as I've lost close family recently.
+   
 <!-- awaiting-content:end -->
 
 <a id='revisiting'></a>
@@ -169,7 +167,7 @@ update: 2021-07-12
    * Really chuffed it lost 6 hours of progress due to an autosave issue.
    * I did enjoy the hacking and bits, but for me, even with all the crashes and bugs, Cyberpunk 2077 ate its lunch and dinner and kept me overnight and took me out to breakfast. 
    * Bagley :sparkling_heart:
-1. Sayonara Wild Hearts (NS) <!-- 2020 -->
+1. Sayonara Wild Hearts (NS) <!-- Oct 2019 -->
    * Chose this as a palette cleanser and it delivered in spades.
    * The entire experience was simply wonderful.
    * I don't think I could recommend this game highly enough.
@@ -243,6 +241,11 @@ of games I have to play is oh so long._
    * Other games interest me more.
 1. Yakuza Kiwami 2 (XB1) [18.5hr] :green_heart:
    * Other games interest me more.
+1. Cross Code (XSX) [31.5hr] :green_heart:
+   * Left Game Pass before I could get to it.
+1. Ratchet & Clank (PS4) [10.0hr] :blue_heart:
+   * I have no desire to play this.
+   * This is a series I have zero experience with.
    
 <!-- jettisoned:end -->
 
