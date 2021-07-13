@@ -86,6 +86,28 @@ I'm currently living in Ohio, working remote for [CoverMyMeds][cmm] as a softwar
 * [WandaVision](https://disneyplusoriginals.disney.com/show/wandavision)
   * Wonderfully done. Love the new characters, and the growth of Wanda. :sparkling_heart:
 
+## :hammer_and_wrench: Side Projects
+
+### :hammer: Current
+
+* Crafting [Gem Lookup][gem lookup]
+  * Was intended to be a simple script, slowly turning into a Ruby Gem. :gem:
+  * Planning a Go-based version, as to remove any Ruby version restrictions.
+
+### :soon: In The Works
+
+* Upgrading [CaringForKarenSue.com][caring for karen sue] ([source][caring for karen sue - source])
+    from Rails 5.2 to Rails 6.0.
+<!-- * Rewriting my [Ruby-based Book Notes Generator][book notes generator - ruby source] in [Go][book notes generator - go source] -->
+
+### :ballot_box_with_check: Completed
+
+* [Food Tracker :watermelon:][food tracker source]
+* [Global Pandemic Goofs Site 🦠][pandemic site]
+  * [Source - Ruby & Sinatra][pandemic source]
+* [Carrot Chase :carrot: - Ruby Script][carrot chase source]
+* [Dropbox Gif Linker - Go Program][dropbox gif linker source]
+
 ## :globe_with_meridians: Recent Site Updates
 
 * Added two sections to the [:crystal_ball: My Games](/games) page:
@@ -100,29 +122,7 @@ I'm currently living in Ohio, working remote for [CoverMyMeds][cmm] as a softwar
 * Moved the blog entries to the [:open_book: Blog](/blog) page.
 * Added [:open_book: Blog](/blog) and [:man_technologist: Resume](/resume) to the page header.
 
-## :hammer_and_wrench: Side Projects
-
-### :hammer: Current
-
-* Crafting [Gem Lookup][gem lookup]
-  * Was intended to be a simple script, slowly turning into a Ruby Gem. :gem:
-  * Planning a Go-based version, as to remove any Ruby version restrictions.
-
-#### :soon: In The Works
-
-* Upgrading [CaringForKarenSue.com][caring for karen sue] ([source][caring for karen sue - source])
-    from Rails 5.2 to Rails 6.0.
-<!-- * Rewriting my [Ruby-based Book Notes Generator][book notes generator - ruby source] in [Go][book notes generator - go source] -->
-
-#### :ballot_box_with_check: Completed
-
-* [Food Tracker :watermelon:][food tracker source]
-* [Global Pandemic Goofs Site 🦠][pandemic site]
-  * [Source - Ruby & Sinatra][pandemic source]
-* [Carrot Chase :carrot: - Ruby Script][carrot chase source]
-* [Dropbox Gif Linker - Go Program][dropbox gif linker source]
-
-### :raising_hand: What is a Now Page?
+## :raising_hand: What is a Now Page?
 
 Head over to the [About Page][now - about] of [NowNowNow.com][now - home] for more details and how to create your own.
 
