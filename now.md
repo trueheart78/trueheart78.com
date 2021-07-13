@@ -11,14 +11,19 @@ update: 2021-07-13
 
 I'm currently living in Ohio, working remote for [CoverMyMeds][cmm] as a software developer.
 
-## :books: Studying
+## :books: Software Development Studies
 
-* [Ruby](https://rubyapi.org) and recent version changes (2.7 & 3.0).
-  * Changes to the stdlib, extracted gems, and new features (like Ractors).
-* Rails and recent version changes (6.0 & 6.1).
+* [Ruby][ruby] and recent version changes ([2.7][ruby 2.7] & [3.0][ruby 3.0]).
+  * Changes to the stdlib, extracted gems, and new features (like [Ractors][ractors]).
+* [Rails][rails] and recent version changes ([6.0][rails 6.0] & [6.1][rails 6.1]).
 * [Go](https://golang.org/)
    * [Concurrency in Go](https://www.oreilly.com/library/view/concurrency-in-go/9781491941294/)
-   * [The Go programming Language](http://www.gopl.io/)
+   * [The Go Programming Language](http://www.gopl.io/)
+   * [Network Programming with Go](https://nostarch.com/networkprogrammingwithgo)
+   * [Black Hat Go](https://nostarch.com/blackhatgo)
+* [If Hemingway Wrote JavaScript](https://nostarch.com/hemingway)
+* [Web Security for Developers](https://nostarch.com/websecurity)
+* [Wicked Cool Shell Scripts, Second Edition](https://nostarch.com/wcss2)
 
 ## :video_game: Playing Until Credits
 
@@ -36,7 +41,7 @@ I'm currently living in Ohio, working remote for [CoverMyMeds][cmm] as a softwar
 
 ## :book: Books and Comics
 
-* [Harley Quinn: Black + White + Red (2021)](https://www.amazon.com/Harley-Quinn-Black-White-Red/dp/1779509952) [[Overview]](https://www.dccomics.com/blog/2020/06/26/dc-proudly-presents-harley-quinn-black-white-red) :black_heart: :white_heart: :heart:
+* [Harley Quinn: Black + White + Red (2021)](https://www.amazon.com/Harley-Quinn-Black-White-Red/dp/1779509952) [[Overview]](https://www.dccomics.com/blog/2020/06/26/dc-proudly-presents-harley-quinn-black-white-red) :black_heart: :heart:
   * Read 1 of 19 stories.
 * [Marvel Rising (2018)](https://www.amazon.com/Marvel-Rising-Devin-Grayson/dp/1302912615)
   * Reading comic 4 of 4.
@@ -122,6 +127,13 @@ I'm currently living in Ohio, working remote for [CoverMyMeds][cmm] as a softwar
 Head over to the [About Page][now - about] of [NowNowNow.com][now - home] for more details and how to create your own.
 
 [cmm]: https://covermymeds.com
+[ruby]: https://www.ruby-lang.org/en/
+[ruby 2.7]: https://rubyreferences.github.io/rubychanges/2.7.html
+[ruby 3.0]: https://rubyreferences.github.io/rubychanges/3.0.html
+[ractors]: https://rubyreferences.github.io/rubychanges/3.0.html#ractors
+[rails]: https://rubyonrails.org/
+[rails 6.0]: https://edgeguides.rubyonrails.org/6_0_release_notes.html
+[rails 6.1]: https://edgeguides.rubyonrails.org/6_1_release_notes.html
 [gem lookup]: https://github.com/trueheart78/gem-lookup
 [caring for karen sue]: https://www.caringforkarensue.com
 [caring for karen sue - source]: https://github.com/trueheart78/caring-for-karen-sue
