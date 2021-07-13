@@ -43,11 +43,13 @@ I'm currently living in Ohio, working remote for [CoverMyMeds][cmm] as a softwar
 
 * [Harley Quinn: Black + White + Red (2021)](https://www.amazon.com/Harley-Quinn-Black-White-Red/dp/1779509952) [[Overview]](https://www.dccomics.com/blog/2020/06/26/dc-proudly-presents-harley-quinn-black-white-red) :black_heart: :heart:
   * Read 1 of 19 stories.
-* [Marvel Rising (2018)](https://www.amazon.com/Marvel-Rising-Devin-Grayson/dp/1302912615)
-  * Reading comic 4 of 4.
   
 ### :closed_book: Recently Completed
 
+* [Marvel Rising (2018)](https://www.amazon.com/Marvel-Rising-Devin-Grayson/dp/1302912615)
+  * I love GuriHiru's art so much. :sparkling_heart:
+  * Squirrel Girl? Yes, please! :heart: :chipmunk:
+  * An encouraging story about how much feeling like an outsider can affect someone.
 * [Harley Quinn and Poison Ivy (5/19/20)](https://www.amazon.com/dp/1779500998/) :black_heart: :heart: :green_heart: :heart:
   * The more I read about Harley and Ivy, the more I adore them.
 * [Hell Yeah or No](https://sive.rs/n)
