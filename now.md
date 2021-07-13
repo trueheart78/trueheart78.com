@@ -4,7 +4,7 @@ title: 📆 What I'm Up to Now
 description: What I've recently been up to.
 keywords: now, nownownow, studying, playing, reading, comics, books, side projects, games, ruby, rails, golang
 permalink: /now/
-update: 2021-07-12
+update: 2021-07-13
 ---
 
 ![Agent Smith - Crazy][agent smith - crazy laughing]
@@ -13,7 +13,8 @@ I'm currently living in Ohio, working remote for [CoverMyMeds][cmm] as a softwar
 
 ## :books: Studying
 
-* Ruby and recent version changes (2.7 & 3.0).
+* [Ruby](https://rubyapi.org) and recent version changes (2.7 & 3.0).
+  * Changes to the stdlib, extracted gems, and new features (like Ractors).
 * Rails and recent version changes (6.0 & 6.1).
 * [Go](https://golang.org/)
    * [Concurrency in Go](https://www.oreilly.com/library/view/concurrency-in-go/9781491941294/)
@@ -35,14 +36,14 @@ I'm currently living in Ohio, working remote for [CoverMyMeds][cmm] as a softwar
 
 ## :book: Books and Comics
 
-* [Harley Quinn: Black + White + Red (2021)](https://www.amazon.com/Harley-Quinn-Black-White-Red/dp/1779509952) [[Overview]](https://www.dccomics.com/blog/2020/06/26/dc-proudly-presents-harley-quinn-black-white-red)
+* [Harley Quinn: Black + White + Red (2021)](https://www.amazon.com/Harley-Quinn-Black-White-Red/dp/1779509952) [[Overview]](https://www.dccomics.com/blog/2020/06/26/dc-proudly-presents-harley-quinn-black-white-red) :black_heart: :white_heart: :heart:
   * Read 1 of 19 stories.
 * [Marvel Rising (2018)](https://www.amazon.com/Marvel-Rising-Devin-Grayson/dp/1302912615)
   * Reading comic 4 of 4.
   
 ### :closed_book: Recently Completed
 
-* [Harley Quinn and Poison Ivy (5/19/20)](https://www.amazon.com/dp/1779500998/)
+* [Harley Quinn and Poison Ivy (5/19/20)](https://www.amazon.com/dp/1779500998/) :black_heart: :heart: :green_heart: :heart:
   * The more I read about Harley and Ivy, the more I adore them.
 * [Hell Yeah or No](https://sive.rs/n)
   * Great read / listen.
@@ -59,17 +60,20 @@ I'm currently living in Ohio, working remote for [CoverMyMeds][cmm] as a softwar
 
 ## :tv: Shows and Movies
 
-* [Harley Quinn (TV Series)](https://en.wikipedia.org/wiki/Harley_Quinn_(TV_series))
+* [Harley Quinn (TV Series)](https://en.wikipedia.org/wiki/Harley_Quinn_(TV_series)) :black_heart: :heart:
   * Starting season two.
 * [Solos](https://www.amazon.com/Solos-Season-1/dp/B0945CR5MM)
   * Two episodes in.
-* [Twin Peaks](https://en.wikipedia.org/wiki/Twin_Peaks)
-  * In the middle of season two.
   
 ### :film_strip: Recently Watched
 
+* [Twin Peaks](https://en.wikipedia.org/wiki/Twin_Peaks)
+  * Watched most of season two and wasn't enjoying it anymore.
+  * Spoilered myself on the series two ending.
+  * Spoilered myself on season three.
+  * Very glad I stopped.
 * [Harley Quinn (TV Series)](https://en.wikipedia.org/wiki/Harley_Quinn_(TV_series))
-  * Finished season one. :heart: :black_heart:
+  * Finished season one. :black_heart: :heart:
 * [Solos](https://www.amazon.com/Solos-Season-1/dp/B0945CR5MM)
   * Episode 1, _Leah_, with Anne Hathaway. **Immaculately done.**
     * When I saw it was directed by [Zach Braff](https://twitter.com/zachbraff) it made even more sense.
@@ -97,6 +101,7 @@ I'm currently living in Ohio, working remote for [CoverMyMeds][cmm] as a softwar
 
 * Crafting [Gem Lookup][gem lookup]
   * Was intended to be a simple script, slowly turning into a Ruby Gem. :gem:
+  * Planning a Go-based version, as to remove any Ruby version restrictions.
 
 #### :soon: In The Works
 
