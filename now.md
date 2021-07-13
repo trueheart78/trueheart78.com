@@ -47,7 +47,7 @@ I'm currently living in Ohio, working remote for [CoverMyMeds][cmm] as a softwar
 ### :closed_book: Recently Completed
 
 * [Marvel Rising (2018)](https://www.amazon.com/Marvel-Rising-Devin-Grayson/dp/1302912615)
-  * I love GuriHiru's art so much. :sparkling_heart:
+  * I love [Gurihiru](https://twitter.com/gurihiru)'s art so much. :sparkling_heart:
   * Squirrel Girl? Yes, please! :heart: :chipmunk:
   * An encouraging story about how much feeling like an outsider can affect someone.
 * [Harley Quinn and Poison Ivy (5/19/20)](https://www.amazon.com/dp/1779500998/) :black_heart: :heart: :green_heart: :heart:
