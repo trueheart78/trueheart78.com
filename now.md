@@ -4,7 +4,7 @@ title: 📆 What I'm Up to Now
 description: What I've recently been up to.
 keywords: now, nownownow, studying, playing, reading, comics, books, side projects, games, ruby, rails, golang
 permalink: /now/
-update: 2021-07-13
+update: 2021-07-19
 ---
 
 ![Agent Smith - Crazy][agent smith - crazy laughing]
@@ -112,6 +112,7 @@ I'm currently living in Ohio, working remote for [CoverMyMeds][cmm] as a softwar
 
 ## :globe_with_meridians: Recent Site Updates
 
+* Added [🥳 The Weekend - Daniel Craig](/assets/images/gifs/the-weekend.gif) gif.
 * Added two sections to the [:crystal_ball: My Games](/games) page:
   * [:clapper: VR Experiences](/games#vr-experiences).
   * [:sweat_smile: VR Workouts](/games#vr-workouts).

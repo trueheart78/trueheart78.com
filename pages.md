@@ -35,6 +35,10 @@ update: 2021-05-26
 
 * [🤬 Swears - The Good Place][swears]
 
+## Gifs :film_strip:
+
+* [🥳 The Weekend - Daniel Craig][the weekend]
+
 ## Less Maintained :zzz:
 
 * [:headphones: Audio Books][audio books]
@@ -71,5 +75,6 @@ update: 2021-05-26
 [ruby]: /ruby/
 [swears]: /swears/
 [taylor swift]: /taylor-swift/
+[the weekend]: /assets/images/gifs/the-weekend.gif
 [tone indicators]: /tone-indicators
 [wishlist]: /wishlist/
