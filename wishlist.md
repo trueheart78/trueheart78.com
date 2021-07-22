@@ -4,7 +4,7 @@ title: 🎁 Wishlist
 description: My living wishlist.
 keywords: wishlist, donations, gifts, 
 permalink: /wishlist/
-update: 2021-05-07
+update: 2021-07-22
 ---
 
 * [**My Amazon Wishlist**][amazon-wishlist] is a great place to check for recent updates.
@@ -16,7 +16,7 @@ update: 2021-05-07
     appreciate their work, so if you ever want to give me something but can’t think of what I'd
     like, this is a preferred option.
 
-## :credit_card: Gift Cards / If All Else Fails
+## :credit_card: Gift Cards (aka If All Else Fails)
 
 1. Amazon Gift Cards :sparkling_heart:
 1. Xbox Gift Cards :green_heart:
