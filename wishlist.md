@@ -7,7 +7,7 @@ permalink: /wishlist/
 update: 2021-05-07
 ---
 
-[**My Amazon Wishlist**][amazon-wishlist] is a great place to check for recent updates.
+* [**My Amazon Wishlist**][amazon-wishlist] is a great place to check for recent updates.
 
 ## :moneybag: Donations
 
