@@ -29,7 +29,7 @@ update: 2021-07-22
   - Please make sure to **select comic "#150 Grownups" from the drop-down list**.
   - ![XKCD # 150 - Grownups][xkcd-150-grownups]
 
-## :information_source: What You Should Know About Josh
+## :scroll: What You Should Know About Josh
 
 Josh is a software developer that loves programming in Ruby and listening to Taylor Swift. He also
 enjoys the odd comic (Squirrel Girl, Gwenpool, Captain Marvel, etc), especially anything illustrated
