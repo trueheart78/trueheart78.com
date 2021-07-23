@@ -5,7 +5,7 @@ description: A management page for my ever evolving list of games.
 keywords: games, xbox, playstation, nintendo, nintendo switch, switch, oculus quest, oculus, quest, virtual reality, vr
 permalink: /games/
 customnav: games_nav.html
-update: 2021-07-12
+update: 2021-07-23
 ---
 
 <a id='playing'></a>
@@ -40,8 +40,10 @@ update: 2021-07-12
 1. Moss (VR) [4.5hr] <!-- Feb -->
 1. Evoland (NS) [5.0hr] :new: <!-- July -->
 1. The Solitaire Conspiracy (NS) [5.0hr] <!-- June -->
+1. Raji: An Ancient Epic (XB1) [5.5hr] :green_heart: <!-- July -->
 1. Transistor (NS) [6.0hr] <!-- Mar -->
 1. Dirt 5 (XSX) [6.5hr] :green_heart:
+1. Last Stop (XSX) [6.5hr] :green_heart:
 1. River City Girls (XB1) [7.0hr] :green_heart:
 1. Far Cry 3: Blood Dragon (360) [7.0hr] <!-- June -->
 1. Hellblade: Senua's Sacrifice (XB1) [7.5hr] :green_heart: <!-- 2020 -->
@@ -52,6 +54,7 @@ update: 2021-07-12
 1. Wandersong (NS) [9.0hr]
 1. The Falconeer (XSX) [10.5hr] :green_heart:
 1. Gears 5 (XSX) [10.5hr] :green_heart:
+1. Star Wars: The Force Unleashed (360) [Enhanced Ed] [11.0hr] <!-- July -->
 1. SUPERHOT: MIND CONTROL DELETE (XSX) [11.0hr] <!-- Nov 2020 -->
 1. Eastshade (XB1) [11.5hr] :green_heart:
 1. West of Loathing (NS) [11.5hr] <!-- Mar 2018 -->
@@ -64,16 +67,20 @@ update: 2021-07-12
 1. DRAGON QUEST II: Luminaries of the Legendary Line (NS) [16.5hr] <!-- Dec 2019 -->
 1. South Park: The Fractured But Whole (NS) [17.5hr] <!-- 2020 -->
 1. Ikenfell (XB1) [18.0hr] :green_heart:
+1. Darksiders 3 (XB1) [18.5hr] <!-- July -->
 1. Control: Ultimate Edition (XSX) [20.0hr] <!-- Feb -->
+1. Darksiders: Warmaster Edition (XB1) [20.0hr] <!-- July -->
 1. Evoland 2 (NS) [20.0hr] :new: <!-- July -->
 1. Greedfall (XSX) [22.0hr] :green_heart:
 1. Ghost of Tsushima (PS4) [24.5hr] <!-- Oct 2020 -->
 1. ALTDEUS: Beyond Chronos + Episode Yamato DLC (VR) [25.0hr] <!-- Mar + June -->
 1. Valkyria Chronicles Remastered (PS4) [27.5hr] <!-- Oct 2020 -->
+1. Darksiders II Deathinitive Edition (XB1) [29.5hr] <!-- July -->
 1. Knights of the Old Republic 2 (XBX) [31.0hr] <!-- Oct 2020 -->
 1. Valkyria Chronicles 4 (PS4) [35.5hr] <!-- Oct 2020 -->
 1. Tales of Berseria (PS4) [44.5hr] <!-- Oct 2020 -->
 1. Yakuza: Like a Dragon (XSX) [45.0hr] <!-- Nov 2020 -->
+1. Tales of Vesperia - Definitive Edition (XB1) [70.0hr] :green_heart: <!-- July -->
 
 <!-- unplayed:end -->
 
@@ -86,6 +93,9 @@ update: 2021-07-12
 1. Assassin's Creed: Odyssey (XB1) <!-- Feb 2020 -->
    * Re-purchased it and re-playing it again on Xbox.
    * Have fully explored the world. Now, I just need to do the quests.
+1. Dark Souls 3 (XSX) <!-- July -->
+   * 60 FPS thanks to FPS Boost. :heart:
+   * Will be fun to revisit.
 1. Dungeons & Dragons: Dark Alliance (XSX) :green_heart: <!-- June -->
 1. Tilt Brush (VR) <!-- Oct 2020 -->
 
