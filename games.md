@@ -5,7 +5,7 @@ description: A management page for my ever evolving list of games.
 keywords: games, xbox, playstation, nintendo, nintendo switch, switch, oculus quest, oculus, quest, virtual reality, vr
 permalink: /games/
 customnav: games_nav.html
-update: 2021-07-23
+update: 2021-07-25
 ---
 
 <a id='playing'></a>
@@ -32,7 +32,6 @@ update: 2021-07-23
 
 ## :space_invader: Unplayed [:top:][top]
 
-1. Subsurface Circular (NS) [2.5hr] :new: <!-- July -->
 1. Down The Rabbit Hole (VR) [3.0hr] <!-- May -->
    * 120hz mode supported.
 1. Pixel Ripped 1995 (VR) [3.0hr] <!-- Oct 2020 -->
@@ -207,6 +206,9 @@ update: 2021-07-23
    * Godmode and Boss Skip options should be standards.
    * Very solid story covering emotions and friendship.
    * Chicory :sparkling_heart:
+1. Subsurface Circular (NS) [2.5hr] <!-- July -->
+   * Mixed feelings. 
+   * Did like the lore nod to Thomas Was Alone. :heart:
    
 <!-- beaten:end -->
 

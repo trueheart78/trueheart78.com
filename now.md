@@ -4,7 +4,7 @@ title: 📆 What I'm Up to Now
 description: What I've recently been up to.
 keywords: now, nownownow, studying, playing, reading, comics, books, side projects, games, ruby, rails, golang
 permalink: /now/
-update: 2021-07-19
+update: 2021-07-25
 ---
 
 ![Agent Smith - Crazy][agent smith - crazy laughing]
@@ -31,6 +31,7 @@ I'm currently living in Ohio, working remote for [CoverMyMeds][cmm] as a softwar
 
 ### :checkered_flag: Recently Beaten
 
+* _Subsurface Circular_ on Nintendo Switch.
 * _Chicory: A Colorful Tale_ on PS4.
   * Such a wonderful game about the power of emotions and friendship.
 * _Haven_ on Xbox Series X. :green_heart:
