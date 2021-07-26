@@ -5,7 +5,7 @@ description: A management page for my ever evolving list of games.
 keywords: games, xbox, playstation, nintendo, nintendo switch, switch, oculus quest, oculus, quest, virtual reality, vr
 permalink: /games/
 customnav: games_nav.html
-update: 2021-07-25
+update: 2021-07-26
 ---
 
 <a id='playing'></a>
@@ -287,6 +287,7 @@ See the [New Releases Wiki][new-releases]. Sorted by release date.
 1. [Disco Elysium - The Final Cut][disco elysium] (XSX) [8/31/21] [wait for $30 sale or game pass]
 1. [Lake][lake] (XSX) [9/1/21] [wait and see]
 1. [Life is Strange: True Colors][true colors] (XSX) [9/10/21] [wait for sale or game pass]
+1. [Lost in Random][ lost in random] (XB1) [9/10/21]
 1. [Tales of Arise][tales of arise] (XSX) [09/10/21] [game pass] :green_heart:
 1. Diablo II: Resurrected (XSX) [9/23/21] [wait for sale]
 1. Far Cry 6 (XSX) [10/7/21] [wait for sale]
@@ -366,6 +367,7 @@ See the [Games in Development Wiki][games-in-development]
 [astria ascending]: https://astria-ascending.com/
 [cris tales]: https://en.wikipedia.org/wiki/Cris_Tales
 [disco elysium]: https://en.wikipedia.org/wiki/Disco_Elysium#The_Final_Cut
+[lost in random]: https://www.microsoft.com/en-us/p/lost-in-random/9NVRJS95FLM9
 [tales of arise]: https://en.bandainamcoent.eu/tales-of/tales-of-arise
 [dark alliance]: https://en.wikipedia.org/wiki/Dungeons_%26_Dragons:_Dark_Alliance
 [scarlet nexus]: https://www.bandainamcoent.com/games/scarlet-nexus
