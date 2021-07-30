@@ -5,7 +5,7 @@ description: A management page for my ever evolving list of games.
 keywords: games, xbox, playstation, nintendo, nintendo switch, switch, oculus quest, oculus, quest, virtual reality, vr
 permalink: /games/
 customnav: games_nav.html
-update: 2021-07-26
+update: 2021-07-30
 ---
 
 <a id='playing'></a>
@@ -286,6 +286,7 @@ See the [New Releases Wiki][new-releases]. Sorted by release date.
 1. Psychonauts 2 (XSX) [8/25/21] [game pass] :green_heart:
 1. [Disco Elysium - The Final Cut][disco elysium] (XSX) [8/31/21] [wait for $30 sale or game pass]
 1. [Lake][lake] (XSX) [9/1/21] [wait and see]
+1. [The Artful Escape][artful escape] (XB1) [9/9/21] [game pass] :green_heart:
 1. [Life is Strange: True Colors][true colors] (XSX) [9/10/21] [wait for sale or game pass]
 1. [Lost in Random][ lost in random] (XB1) [9/10/21] [wait for sale]
    * Ryan North wrote all the dialogue :chipmunk: :sparkling_heart:
@@ -316,6 +317,7 @@ See the [Games in Development Wiki][games-in-development]
 1. Project Triangle Strategy (working title) (NS)
 1. [SacriFire (via KickStarter)][sacri fire ks] (XSX) [backed]
 1. [Stranger of Paradise - Final Fantasy Orogin][stranger of paradise] (XSX) [2022]
+1. Stray (PS4) [2022]
 1. System Shock (XSX)
 1. Untitled RWBY Game (XSX)
 1. Vampire: The Masquerade – Bloodlines 2 (XSX)
@@ -384,6 +386,7 @@ See the [Games in Development Wiki][games-in-development]
 [death trash]: https://twitter.com/DeathTrash
 [rising]: https://store.steampowered.com/app/1658290/Eiyuden_Chronicle_Rising/
 [hundred heroes]: https://store.steampowered.com/app/1658280/Eiyuden_Chronicle_Hundred_Heroes/
+[artful escape]: https://theartfulescape.com/
 [true colors]: https://en.wikipedia.org/wiki/Life_Is_Strange:_True_Colors
 [sacri fire ks]: https://www.kickstarter.com/projects/sacrifire/sacrifire
 [stranger of paradise]: https://press.na.square-enix.com/STRANGER-OF-PARADISE-FINAL-FANTASY-ORIGIN
