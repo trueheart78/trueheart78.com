@@ -5,7 +5,7 @@ description: A management page for my ever evolving list of games.
 keywords: games, xbox, playstation, nintendo, nintendo switch, switch, oculus quest, oculus, quest, virtual reality, vr
 permalink: /games/
 customnav: games_nav.html
-update: 2021-07-30
+update: 2021-08-14
 ---
 
 <a id='playing'></a>
@@ -32,12 +32,13 @@ update: 2021-07-30
 
 ## :space_invader: Unplayed [:top:][top]
 
+1. Vader Immortal: Episode I (VR) [1.0hr] <!-- August -->
 1. Down The Rabbit Hole (VR) [3.0hr] <!-- May -->
    * 120hz mode supported.
 1. Pixel Ripped 1995 (VR) [3.0hr] <!-- Oct 2020 -->
 1. GRIS (NS) [4.0hr] <!-- Nov 2019 -->
 1. Moss (VR) [4.5hr] <!-- Feb -->
-1. Evoland (NS) [5.0hr] :new: <!-- July -->
+1. Evoland (NS) [5.0hr] <!-- July -->
 1. The Solitaire Conspiracy (NS) [5.0hr] <!-- June -->
 1. Raji: An Ancient Epic (XB1) [5.5hr] :green_heart: <!-- July -->
 1. Transistor (NS) [6.0hr] <!-- Mar -->
@@ -69,14 +70,16 @@ update: 2021-07-30
 1. Darksiders 3 (XB1) [18.5hr] <!-- July -->
 1. Control: Ultimate Edition (XSX) [20.0hr] <!-- Feb -->
 1. Darksiders: Warmaster Edition (XB1) [20.0hr] <!-- July -->
-1. Evoland 2 (NS) [20.0hr] :new: <!-- July -->
+1. Evoland 2 (NS) [20.0hr] <!-- July -->
 1. Greedfall (XSX) [22.0hr] :green_heart:
 1. Ghost of Tsushima (PS4) [24.5hr] <!-- Oct 2020 -->
 1. ALTDEUS: Beyond Chronos + Episode Yamato DLC (VR) [25.0hr] <!-- Mar + June -->
 1. Valkyria Chronicles Remastered (PS4) [27.5hr] <!-- Oct 2020 -->
+1. Cris Tales (XB1) [28.0hr] :green_heart: <!-- July -->
 1. Darksiders II Deathinitive Edition (XB1) [29.5hr] <!-- July -->
 1. Knights of the Old Republic 2 (XBX) [31.0hr] <!-- Oct 2020 -->
 1. Valkyria Chronicles 4 (PS4) [35.5hr] <!-- Oct 2020 -->
+1. Hades (XSX) [43.5hr] :green_heart: <!-- August -->
 1. Tales of Berseria (PS4) [44.5hr] <!-- Oct 2020 -->
 1. Yakuza: Like a Dragon (XSX) [45.0hr] <!-- Nov 2020 -->
 1. Tales of Vesperia - Definitive Edition (XB1) [70.0hr] :green_heart: <!-- July -->
@@ -124,7 +127,7 @@ update: 2021-07-30
    * Made by Harmonix.
    * Has _Bad Guy_ and _Juice_.
 1. Beat Saber (VR) <!-- Oct 2020 -->
-   * Bought the BTS and Linkin Park packs.
+   * Bought the BTS, Green Day, Interplay, Linkin Park, and Panic! at the Disco packs.
    * Mainly play the "solo" mode, so there is no "completion".
    * Love the 90° mode.
 1. OhShape (VR) <!-- June -->
@@ -279,8 +282,8 @@ See the [New Releases Wiki][new-releases]. Sorted by release date.
 1. ~~[Dungeons & Dragons: Dark Alliance][dark alliance] (XSX) [6/22/21] [game pass]~~ :green_heart:
 1. [SCARLET NEXUS][scarlet nexus] (XSX) [6/25/21] [wait for $20 sale]
 1. ~~[Going Under][going under] (XSX) [6/29/21] [game pass]~~ :green_heart:
-1. [Cris Tales][cris tales] (XSX) [7/20/21] [game pass] :green_heart:
-1. Hades (XSX) [8/13/21] [game pass] :green_heart:
+1. ~~[Cris Tales][cris tales] (XB1) [7/20/21] [game pass]~~ :green_heart:
+1. ~~Hades (XSX) [8/13/21] [game pass]~~ :green_heart:
 1. [Greak: Memories of Azur][greak] (XSX) [8/17/21] [wait and see]
 1. Twelve Minutes (XSX) [8/19/21] [game pass] :green_heart:
 1. Psychonauts 2 (XSX) [8/25/21] [game pass] :green_heart:

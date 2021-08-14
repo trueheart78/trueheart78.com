@@ -2,9 +2,9 @@
 layout: page
 title: 📆 What I'm Up to Now
 description: What I've recently been up to.
-keywords: now, nownownow, studying, playing, reading, comics, books, side projects, games, ruby, rails, golang
+keywords: now, nownownow, studying, playing, reading, comics, books, side projects, games, ruby, rails, golang, tv shows, movies
 permalink: /now/
-update: 2021-07-25
+update: 2021-08-14
 ---
 
 ![Agent Smith - Crazy][agent smith - crazy laughing]
@@ -68,6 +68,10 @@ I'm currently living in Ohio, working remote for [CoverMyMeds][cmm] as a softwar
 
 ## :tv: Shows and Movies
 
+* [What If...? (TV series)](https://en.wikipedia.org/wiki/What_If...%3F_(TV_series))
+  * One episode in.
+* [Loudermilk (TV Series)](https://en.wikipedia.org/wiki/Loudermilk_(TV_series))
+  * Starting season three.
 * [Harley Quinn (TV Series)](https://en.wikipedia.org/wiki/Harley_Quinn_(TV_series)) :black_heart: :heart:
   * Starting season two.
 * [Solos](https://www.amazon.com/Solos-Season-1/dp/B0945CR5MM)
@@ -75,6 +79,18 @@ I'm currently living in Ohio, working remote for [CoverMyMeds][cmm] as a softwar
   
 ### :film_strip: Recently Watched
 
+* [What If...? (TV series)](https://en.wikipedia.org/wiki/What_If...%3F_(TV_series))
+  * Episode 1 literally had me _squeeing_ all the through.
+    * Those first 15 minutes were AMAZING! :heart_eyes:
+* [The Suicide Squad (film)](https://en.wikipedia.org/wiki/The_Suicide_Squad_(film))
+  * O. M. G. :black_heart: :heart:
+  * :shark: :heartpulse:
+* [Loudermilk (TV Series)](https://en.wikipedia.org/wiki/Loudermilk_(TV_series))
+  * Almost stopped near the end of season on but I'm so glad I kept watching.
+  * Ron Livingston is a delight to watch.
+* [Black Widow (2021 film)](https://en.wikipedia.org/wiki/Black_Widow_(2021_film))
+  * It was so wonderful to a Marvel movie in the cinema again.
+  * I have been patiently waiting since it was announced and I was _not_ disappointed.
 * [Twin Peaks](https://en.wikipedia.org/wiki/Twin_Peaks)
   * Watched most of season two and wasn't enjoying it anymore.
   * Spoilered myself on the series two ending.
