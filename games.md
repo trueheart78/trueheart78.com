@@ -291,7 +291,7 @@ See the [New Releases Wiki][new-releases]. Sorted by release date.
 1. [Lake][lake] (XSX) [9/1/21] [wait and see]
 1. [The Artful Escape][artful escape] (XB1) [9/9/21] [game pass] :green_heart:
 1. [Life is Strange: True Colors][true colors] (XSX) [9/10/21] [wait for sale or game pass]
-1. [Lost in Random][ lost in random] (XB1) [9/10/21] [wait for sale]
+1. [Lost in Random][lost in random] (XB1) [9/10/21] [wait for sale]
    * Ryan North wrote all the dialogue :chipmunk: :sparkling_heart:
 1. [Tales of Arise][tales of arise] (XSX) [09/10/21] [game pass] :green_heart:
 1. Diablo II: Resurrected (XSX) [9/23/21] [wait for sale]
