@@ -5,7 +5,7 @@ description: A management page for my ever evolving list of games.
 keywords: games, xbox, playstation, nintendo, nintendo switch, switch, oculus quest, oculus, quest, virtual reality, vr
 permalink: /games/
 customnav: games_nav.html
-update: 2021-08-14
+update: 2021-08-28
 ---
 
 <a id='playing'></a>
@@ -32,7 +32,7 @@ update: 2021-08-14
 
 ## :space_invader: Unplayed [:top:][top]
 
-1. Vader Immortal: Episode I (VR) [1.0hr] <!-- August -->
+1. Vader Immortal: Episode I (VR) [1.0hr] :new: <!-- August -->
 1. Down The Rabbit Hole (VR) [3.0hr] <!-- May -->
    * 120hz mode supported.
 1. Pixel Ripped 1995 (VR) [3.0hr] <!-- Oct 2020 -->
@@ -52,6 +52,7 @@ update: 2021-08-14
 1. Trover Saves the Universe (VR) [8.0hr] <!-- June -->
 1. Gears of War 4 (XB1) [9.0hr] :green_heart:
 1. Wandersong (NS) [9.0hr]
+1. Deadpool (XB1) [10.0hr] :cd: :new: <!-- August -->
 1. The Falconeer (XSX) [10.5hr] :green_heart:
 1. Gears 5 (XSX) [10.5hr] :green_heart:
 1. Star Wars: The Force Unleashed (360) [Enhanced Ed] [11.0hr] <!-- July -->
@@ -68,6 +69,7 @@ update: 2021-08-14
 1. South Park: The Fractured But Whole (NS) [17.5hr] <!-- 2020 -->
 1. Ikenfell (XB1) [18.0hr] :green_heart:
 1. Darksiders 3 (XB1) [18.5hr] <!-- July -->
+1. Psychonauts 2 (XSX) [19.0hr] :green_heart: :new: <!-- August -->
 1. Control: Ultimate Edition (XSX) [20.0hr] <!-- Feb -->
 1. Darksiders: Warmaster Edition (XB1) [20.0hr] <!-- July -->
 1. Evoland 2 (NS) [20.0hr] <!-- July -->
@@ -79,7 +81,7 @@ update: 2021-08-14
 1. Darksiders II Deathinitive Edition (XB1) [29.5hr] <!-- July -->
 1. Knights of the Old Republic 2 (XBX) [31.0hr] <!-- Oct 2020 -->
 1. Valkyria Chronicles 4 (PS4) [35.5hr] <!-- Oct 2020 -->
-1. Hades (XSX) [43.5hr] :green_heart: <!-- August -->
+1. Hades (XSX) [43.5hr] :green_heart: :new: <!-- August -->
 1. Tales of Berseria (PS4) [44.5hr] <!-- Oct 2020 -->
 1. Yakuza: Like a Dragon (XSX) [45.0hr] <!-- Nov 2020 -->
 1. Tales of Vesperia - Definitive Edition (XB1) [70.0hr] :green_heart: <!-- July -->
@@ -99,6 +101,7 @@ update: 2021-08-14
    * 60 FPS thanks to FPS Boost. :heart:
    * Will be fun to revisit.
 1. Dungeons & Dragons: Dark Alliance (XSX) :green_heart: <!-- June -->
+1. Valentino Rossi: The Game (XB1) :cd: :new: <!-- August -->
 1. Tilt Brush (VR) <!-- Oct 2020 -->
 
 <!-- for-fun:end -->
@@ -156,7 +159,9 @@ update: 2021-08-14
 ## :repeat: Revisiting [:top:][top]
 
 1. Mass Effect Series (360/XSX)
-1. Road Rash (PS1/GEN)
+   * 360 version :green_heart:
+   * XSX is the Legendary Edition
+1. Road Rash (PS1/GEN) :cd:
 
 <!-- revisiting:end -->
 
@@ -285,23 +290,25 @@ See the [New Releases Wiki][new-releases]. Sorted by release date.
 1. ~~[Cris Tales][cris tales] (XB1) [7/20/21] [game pass]~~ :green_heart:
 1. ~~Hades (XSX) [8/13/21] [game pass]~~ :green_heart:
 1. [Greak: Memories of Azur][greak] (XSX) [8/17/21] [wait and see]
-1. Twelve Minutes (XSX) [8/19/21] [game pass] :green_heart:
-1. Psychonauts 2 (XSX) [8/25/21] [game pass] :green_heart:
+1. ~~Twelve Minutes (XSX) [8/19/21] [game pass]~~ :green_heart: [skipped]
+1. ~~Psychonauts 2 (XSX) [8/25/21] [game pass]~~ :green_heart:
 1. [Disco Elysium - The Final Cut][disco elysium] (XSX) [8/31/21] [wait for $30 sale or game pass]
-1. [Lake][lake] (XSX) [9/1/21] [wait and see]
+1. [Lake][lake] (XSX) [9/1/21] [pre-ordered]
 1. [The Artful Escape][artful escape] (XB1) [9/9/21] [game pass] :green_heart:
 1. [Life is Strange: True Colors][true colors] (XSX) [9/10/21] [wait for sale or game pass]
 1. [Lost in Random][lost in random] (XB1) [9/10/21] [wait for sale]
    * Ryan North wrote all the dialogue :chipmunk: :sparkling_heart:
 1. [Tales of Arise][tales of arise] (XSX) [09/10/21] [game pass] :green_heart:
+1. [Severed Steel][severed steel] (XSX) [9/17/21] [wait for sale]
 1. Diablo II: Resurrected (XSX) [9/23/21] [wait for sale]
 1. Far Cry 6 (XSX) [10/7/21] [wait for sale]
+   * It's Ubisoft, it'll be on heavy discount by the time I get to it.
 1. [Astria Ascending][astria ascending] (XSX) [10/31/21] [game pass] :green_heart:
 1. Forza Horizon 5 (XSX) [11/9/21] [game pass] :green_heart:
+   * Ordered the [Limited Edition controller][forza controller]. :yellow_heart: :sparkling_heart: :blue_heart:
 1. [Starfield][starfield] (XSX) [11/11/22] [game pass] :green_heart:
 1. [Bear & Breakfast][b and b] (NS) [_TBD_] [wait and see]
 1. [Replaced][replaced] (XSX) [_TBD_] [game pass] :green_heart:
-1. [Severed Steel][severed steel] (XSX) [_TBD_]
 1. [Tunic][tunic] (XSX) [_TBD_] [game pass] :green_heart:
 1. [Vampire: The Masquerade - Swansong][swansong] (XSX) [_TBD_]
 
@@ -365,6 +372,7 @@ See the [Games in Development Wiki][games-in-development]
 * :blue_heart: = PlayStation Plus Freebie
 * :arrow_left: = Next on my radar to play
 * :new: = Added this month
+* :cd: = Physical disc
 
 [new-releases]: https://en.wikipedia.org/wiki/2021_in_video_gaming#Game_releases
 [games-in-development]: https://en.wikipedia.org/wiki/List_of_video_games_in_development
@@ -400,3 +408,4 @@ See the [Games in Development Wiki][games-in-development]
 [haven - criminal lovers]: https://i.imgur.com/1Okd5vV.png
 [haven - butt]: https://i.imgur.com/vHNTEdu.png
 [haven - selfie]: https://i.imgur.com/MauLWyb.png
+[forza controller]: https://www.xbox.com/en-US/accessories/controllers/forza-horizon-5-limited-edition
