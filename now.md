@@ -4,7 +4,7 @@ title: 📆 What I'm Up to Now
 description: What I've recently been up to.
 keywords: now, nownownow, studying, playing, reading, comics, books, side projects, games, ruby, rails, golang, tv shows, movies
 permalink: /now/
-update: 2021-08-14
+update: 2021-09-01
 ---
 
 ![Agent Smith - Crazy][agent smith - crazy laughing]
@@ -31,6 +31,7 @@ I'm currently living in Ohio, working remote for [CoverMyMeds][cmm] as a softwar
 
 ### :checkered_flag: Recently Beaten
 
+* _Lake_ on Xbox Series X.
 * _Subsurface Circular_ on Nintendo Switch.
 * _Chicory: A Colorful Tale_ on PS4.
   * Such a wonderful game about the power of emotions and friendship.
@@ -43,7 +44,7 @@ I'm currently living in Ohio, working remote for [CoverMyMeds][cmm] as a softwar
 ## :book: Books and Comics
 
 * [Harley Quinn: Black + White + Red (2021)](https://www.amazon.com/Harley-Quinn-Black-White-Red/dp/1779509952) [[Overview]](https://www.dccomics.com/blog/2020/06/26/dc-proudly-presents-harley-quinn-black-white-red) :black_heart: :heart:
-  * Read 1 of 19 stories.
+  * Read 10 of 19 stories.
   
 ### :closed_book: Recently Completed
 
@@ -110,7 +111,7 @@ I'm currently living in Ohio, working remote for [CoverMyMeds][cmm] as a softwar
 ### :hammer: Current
 
 * Crafting [Gem Lookup][gem lookup]
-  * Was intended to be a simple script, slowly turning into a Ruby Gem. :gem:
+  * Was intended to be a simple script, slowly turned into a Ruby Gem. :gem:
   * Planning a Go-based version, as to remove any Ruby version restrictions.
 
 ### :soon: In The Works

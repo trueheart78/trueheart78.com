@@ -5,7 +5,7 @@ description: A management page for my ever evolving list of games.
 keywords: games, xbox, playstation, nintendo, nintendo switch, switch, oculus quest, oculus, quest, virtual reality, vr
 permalink: /games/
 customnav: games_nav.html
-update: 2021-08-28
+update: 2021-09-01
 ---
 
 <a id='playing'></a>
@@ -50,11 +50,8 @@ update: 2021-08-28
 1. SSX (2012) (360) [8.0hr] :green_heart:
    * Highly rated. Would love to just taste test it. 
 1. Trover Saves the Universe (VR) [8.0hr] <!-- June -->
-1. Gears of War 4 (XB1) [9.0hr] :green_heart:
 1. Wandersong (NS) [9.0hr]
 1. Deadpool (XB1) [10.0hr] :cd: :new: <!-- August -->
-1. The Falconeer (XSX) [10.5hr] :green_heart:
-1. Gears 5 (XSX) [10.5hr] :green_heart:
 1. Star Wars: The Force Unleashed (360) [Enhanced Ed] [11.0hr] <!-- July -->
 1. SUPERHOT: MIND CONTROL DELETE (XSX) [11.0hr] <!-- Nov 2020 -->
 1. Eastshade (XB1) [11.5hr] :green_heart:
@@ -73,7 +70,6 @@ update: 2021-08-28
 1. Control: Ultimate Edition (XSX) [20.0hr] <!-- Feb -->
 1. Darksiders: Warmaster Edition (XB1) [20.0hr] <!-- July -->
 1. Evoland 2 (NS) [20.0hr] <!-- July -->
-1. Greedfall (XSX) [22.0hr] :green_heart:
 1. Ghost of Tsushima (PS4) [24.5hr] <!-- Oct 2020 -->
 1. ALTDEUS: Beyond Chronos + Episode Yamato DLC (VR) [25.0hr] <!-- Mar + June -->
 1. Valkyria Chronicles Remastered (PS4) [27.5hr] <!-- Oct 2020 -->
@@ -81,7 +77,6 @@ update: 2021-08-28
 1. Darksiders II Deathinitive Edition (XB1) [29.5hr] <!-- July -->
 1. Knights of the Old Republic 2 (XBX) [31.0hr] <!-- Oct 2020 -->
 1. Valkyria Chronicles 4 (PS4) [35.5hr] <!-- Oct 2020 -->
-1. Hades (XSX) [43.5hr] :green_heart: :new: <!-- August -->
 1. Tales of Berseria (PS4) [44.5hr] <!-- Oct 2020 -->
 1. Yakuza: Like a Dragon (XSX) [45.0hr] <!-- Nov 2020 -->
 1. Tales of Vesperia - Definitive Edition (XB1) [70.0hr] :green_heart: <!-- July -->
@@ -100,7 +95,6 @@ update: 2021-08-28
 1. Dark Souls 3 (XSX) <!-- July -->
    * 60 FPS thanks to FPS Boost. :heart:
    * Will be fun to revisit.
-1. Dungeons & Dragons: Dark Alliance (XSX) :green_heart: <!-- June -->
 1. Valentino Rossi: The Game (XB1) :cd: :new: <!-- August -->
 1. Tilt Brush (VR) <!-- Oct 2020 -->
 
@@ -214,9 +208,20 @@ update: 2021-08-28
    * Godmode and Boss Skip options should be standards.
    * Very solid story covering emotions and friendship.
    * Chicory :sparkling_heart:
-1. Subsurface Circular (NS) [2.5hr] <!-- July -->
+1. Subsurface Circular (NS) <!-- July -->
    * Mixed feelings. 
    * Did like the lore nod to Thomas Was Alone. :heart:
+1. Lake (XSX) <!-- Sept -->
+   * Pre-ordered after positive reviews.
+   * Felt underwhelmed and disappointed by the end. :disappointed:
+   * Lot's of day one technical issues (soft crashes, little to no autosaves, glitches that started my day in conversations with other characters).
+   * Soundtrack on the in-game radio was very lacking.
+   * Writing and gameplay loop didn't allow me to spend extra time with potential romance interests.
+      * I was genuinely expected to choose someone I had only met, helped once or twice, and
+        potentially had dinner with in a two-week span, without giving me any freedom to
+        explore those potenially budding relationships at my leisure.
+   * More characters bothered me with their personalities than I enjoyed.
+   * Plagued by technical issues, at the end, I chose to go back home.
    
 <!-- beaten:end -->
 
@@ -266,7 +271,20 @@ of games I have to play is oh so long._
 1. Ratchet & Clank (PS4) [10.0hr] :blue_heart:
    * I have no desire to play this.
    * This is a series I have zero experience with.
+1. The Falconeer (XSX) [10.5hr] :green_heart:
+   * No desire to play this nor keep it installed.
+1. Greedfall (XSX) [22.0hr] :green_heart:
+   * No desire to play this nor keep it installed.
+1. Gears of War 4 (XB1) [9.0hr] :green_heart:
+   * I can always get this via game pass if I have the desire to play it.
+1. Gears 5 (XSX) [10.5hr] :green_heart:
+   * I can always get this via game pass if I have the desire to play it.
+1. Dungeons & Dragons: Dark Alliance (XSX) :green_heart: <!-- June -->
+   * Have zero desire to play this, especially since I don't do multiplayer.
+1. Hades (XSX) [43.5hr] :green_heart: :new: <!-- August -->
+   * Just not for me right now.
    
+
 <!-- jettisoned:end -->
 
 <a id='planned-purchases'></a>
