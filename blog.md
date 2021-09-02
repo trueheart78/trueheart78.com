@@ -4,7 +4,7 @@ permalink: /blog/
 ---
 <div class="home">
   <header class="post-header">
-    <h1 class="post-title"><img class="emoji" title=":open_book:" alt=":open_book:" src="/assets/images/emoji/unicode/1f4d6.png" width="32" height="32"> My Blog</h1>
+    <h1 class="post-title"><img class="emoji" title=":open_book:" alt=":open_book:" src="/assets/images/emoji/unicode/1f4d6.png" width="32" height="32">My Blog</h1>
   </header>
   <ul class="post-list">
     {% for post in site.posts %}
