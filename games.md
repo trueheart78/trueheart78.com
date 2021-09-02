@@ -311,7 +311,7 @@ See the [New Releases Wiki][new-releases]. Sorted by release date.
 1. ~~Twelve Minutes (XSX) [8/19/21] [game pass]~~ :green_heart: [skipped]
 1. ~~Psychonauts 2 (XSX) [8/25/21] [game pass]~~ :green_heart:
 1. [Disco Elysium - The Final Cut][disco elysium] (XSX) [8/31/21] [wait for $30 sale or game pass]
-1. [Lake][lake] (XSX) [9/1/21] [pre-ordered]
+1. ~~[Lake][lake] (XSX) [9/1/21] [pre-ordered]~~
 1. [The Artful Escape][artful escape] (XB1) [9/9/21] [game pass] :green_heart:
 1. [Life is Strange: True Colors][true colors] (XSX) [9/10/21] [wait for sale or game pass]
 1. [Lost in Random][lost in random] (XB1) [9/10/21] [wait for sale]
