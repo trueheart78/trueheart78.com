@@ -7,6 +7,12 @@ permalink: /naked-dagger-walkthrough-dark-souls-3/
 update: 2018-02-19
 ---
 
+- [ ] sample 1
+
+- [ ] sample 2
+
+* [ ] sample 3
+
 ## Getting Started
 
 * :bust_in_silhouette: Thief
