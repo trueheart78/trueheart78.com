@@ -5,7 +5,7 @@ description: A management page for my ever evolving list of games.
 keywords: games, xbox, playstation, nintendo, nintendo switch, switch, oculus quest, oculus, quest, virtual reality, vr
 permalink: /games/
 customnav: games_nav.html
-update: 2021-09-01
+update: 2021-09-08
 ---
 
 <a id='playing'></a>
@@ -316,7 +316,7 @@ See the [New Releases Wiki][new-releases]. Sorted by release date.
 1. [Life is Strange: True Colors][true colors] (XSX) [9/10/21] [wait for sale or game pass]
 1. [Lost in Random][lost in random] (XB1) [9/10/21] [wait for sale]
    * Ryan North wrote all the dialogue :chipmunk: :sparkling_heart:
-1. [Tales of Arise][tales of arise] (XSX) [09/10/21] [game pass] :green_heart:
+1. [Tales of Arise][tales of arise] (XSX) [09/10/21] [wait for sale]
 1. [Severed Steel][severed steel] (XSX) [9/17/21] [wait for sale]
 1. Diablo II: Resurrected (XSX) [9/23/21] [wait for sale]
 1. Far Cry 6 (XSX) [10/7/21] [wait for sale]
