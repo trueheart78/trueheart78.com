@@ -5,7 +5,7 @@ description: A management page for my ever evolving list of games.
 keywords: games, xbox, playstation, nintendo, nintendo switch, switch, oculus quest, oculus, quest, virtual reality, vr
 permalink: /games/
 customnav: games_nav.html
-update: 2021-09-08
+update: 2021-09-25
 ---
 
 <a id='playing'></a>
@@ -64,7 +64,6 @@ update: 2021-09-08
 1. Psychonauts (XBX) [15.5hr] :green_heart: <!-- June -->
 1. DRAGON QUEST II: Luminaries of the Legendary Line (NS) [16.5hr] <!-- Dec 2019 -->
 1. South Park: The Fractured But Whole (NS) [17.5hr] <!-- 2020 -->
-1. Ikenfell (XB1) [18.0hr] :green_heart:
 1. Darksiders 3 (XB1) [18.5hr] <!-- July -->
 1. Psychonauts 2 (XSX) [19.0hr] :green_heart: :new: <!-- August -->
 1. Control: Ultimate Edition (XSX) [20.0hr] <!-- Feb -->
@@ -77,6 +76,7 @@ update: 2021-09-08
 1. Darksiders II Deathinitive Edition (XB1) [29.5hr] <!-- July -->
 1. Knights of the Old Republic 2 (XBX) [31.0hr] <!-- Oct 2020 -->
 1. Valkyria Chronicles 4 (PS4) [35.5hr] <!-- Oct 2020 -->
+1. Hades (XSX) [43.5hr] :green_heart: <!-- August -->
 1. Tales of Berseria (PS4) [44.5hr] <!-- Oct 2020 -->
 1. Yakuza: Like a Dragon (XSX) [45.0hr] <!-- Nov 2020 -->
 1. Tales of Vesperia - Definitive Edition (XB1) [70.0hr] :green_heart: <!-- July -->
@@ -143,6 +143,8 @@ update: 2021-09-08
    * Haven't spent much time with this yet but deciding to wait on more DLC.
 1. SpiritFarer (XB1) [23.0hr] :green_heart:
    * Waiting to play as I've lost close family recently.
+1. Sable (XSX) :green_heart: <!-- Sept -->
+   * Waiting for patch to fix the hitches.
    
 <!-- awaiting-content:end -->
 
@@ -281,9 +283,8 @@ of games I have to play is oh so long._
    * I can always get this via game pass if I have the desire to play it.
 1. Dungeons & Dragons: Dark Alliance (XSX) :green_heart: <!-- June -->
    * Have zero desire to play this, especially since I don't do multiplayer.
-1. Hades (XSX) [43.5hr] :green_heart: :new: <!-- August -->
-   * Just not for me right now.
-   
+1. Ikenfell (XB1) [18.0hr] :green_heart:
+   * Left Game Pass before I got to it.
 
 <!-- jettisoned:end -->
 
