@@ -4,7 +4,7 @@ title: 📆 What I'm Up to Now
 description: What I've recently been up to.
 keywords: now, nownownow, studying, playing, reading, comics, books, side projects, games, ruby, rails, golang, tv shows, movies
 permalink: /now/
-update: 2021-09-01
+update: 2021-09-26
 ---
 
 ![Agent Smith - Crazy][agent smith - crazy laughing]
@@ -27,7 +27,7 @@ I'm currently living in Ohio, working remote for [CoverMyMeds][cmm] as a softwar
 
 ## :video_game: Playing Until Credits
 
-1. _TBD_
+1. _Ghost of Tsushima_ on PS4.
 
 ### :checkered_flag: Recently Beaten
 
@@ -43,11 +43,15 @@ I'm currently living in Ohio, working remote for [CoverMyMeds][cmm] as a softwar
 
 ## :book: Books and Comics
 
-* [Harley Quinn: Black + White + Red (2021)](https://www.amazon.com/Harley-Quinn-Black-White-Red/dp/1779509952) [[Overview]](https://www.dccomics.com/blog/2020/06/26/dc-proudly-presents-harley-quinn-black-white-red) :black_heart: :heart:
-  * Read 10 of 19 stories.
+* _TBD_
   
 ### :closed_book: Recently Completed
 
+* [Batman: White Knight Presents: Harley Quinn (2021)](https://www.amazon.com/Batman-White-Knight-Presents-Harley/dp/1779510144) :black_heart: :heart:
+  * Harley's "Noir" suit is awesome, and easily one of my favorites!
+  * I teared up at the end.
+* [Harley Quinn: Black + White + Red (2021)](https://www.amazon.com/Harley-Quinn-Black-White-Red/dp/1779509952) [[Overview]](https://www.dccomics.com/blog/2020/06/26/dc-proudly-presents-harley-quinn-black-white-red) :black_heart: :heart:
+  * What a great set of stories. 
 * [Marvel Rising (2018)](https://www.amazon.com/Marvel-Rising-Devin-Grayson/dp/1302912615)
   * I love [Gurihiru](https://twitter.com/gurihiru)'s art so much. :sparkling_heart:
   * Squirrel Girl? Yes, please! :heart: :chipmunk:
@@ -70,9 +74,8 @@ I'm currently living in Ohio, working remote for [CoverMyMeds][cmm] as a softwar
 ## :tv: Shows and Movies
 
 * [What If...? (TV series)](https://en.wikipedia.org/wiki/What_If...%3F_(TV_series))
-  * One episode in.
-* [Loudermilk (TV Series)](https://en.wikipedia.org/wiki/Loudermilk_(TV_series))
-  * Starting season three.
+  * Three episode in.
+  * Captain Carter is so good!
 * [Harley Quinn (TV Series)](https://en.wikipedia.org/wiki/Harley_Quinn_(TV_series)) :black_heart: :heart:
   * Starting season two.
 * [Solos](https://www.amazon.com/Solos-Season-1/dp/B0945CR5MM)
@@ -80,6 +83,8 @@ I'm currently living in Ohio, working remote for [CoverMyMeds][cmm] as a softwar
   
 ### :film_strip: Recently Watched
 
+* [Loudermilk (TV Series)](https://en.wikipedia.org/wiki/Loudermilk_(TV_series))
+  * I really hope that some place picks up the rest of the series.
 * [What If...? (TV series)](https://en.wikipedia.org/wiki/What_If...%3F_(TV_series))
   * Episode 1 literally had me _squeeing_ all the through.
     * Those first 15 minutes were AMAZING! :heart_eyes:
@@ -116,12 +121,13 @@ I'm currently living in Ohio, working remote for [CoverMyMeds][cmm] as a softwar
 
 ### :soon: In The Works
 
-* Upgrading [CaringForKarenSue.com][caring for karen sue] ([source][caring for karen sue - source])
-    from Rails 5.2 to Rails 6.0.
+* _TBD_
+
 <!-- * Rewriting my [Ruby-based Book Notes Generator][book notes generator - ruby source] in [Go][book notes generator - go source] -->
 
 ### :ballot_box_with_check: Completed
 
+* [CaringForKarenSue.com][caring for karen sue] ([source][caring for karen sue - source]) upgrade to Rails 6.
 * [Food Tracker :watermelon:][food tracker source]
 * [Global Pandemic Goofs Site 🦠][pandemic site]
   * [Source - Ruby & Sinatra][pandemic source]

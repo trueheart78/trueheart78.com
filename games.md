@@ -5,7 +5,7 @@ description: A management page for my ever evolving list of games.
 keywords: games, xbox, playstation, nintendo, nintendo switch, switch, oculus quest, oculus, quest, virtual reality, vr
 permalink: /games/
 customnav: games_nav.html
-update: 2021-09-25
+update: 2021-09-26
 ---
 
 <a id='playing'></a>
@@ -16,8 +16,8 @@ update: 2021-09-25
 
 #### :eyes: Focused
 
-1. _TBD_
-   
+1. Ghost of Tsushima (PS4) [24.5hr] <!-- Oct 2020 -->
+
 #### :traffic_light: Started and Need to Finish
 
 1. SUPERHOT (VR) <!-- Nov 2020 -->
@@ -69,7 +69,6 @@ update: 2021-09-25
 1. Control: Ultimate Edition (XSX) [20.0hr] <!-- Feb -->
 1. Darksiders: Warmaster Edition (XB1) [20.0hr] <!-- July -->
 1. Evoland 2 (NS) [20.0hr] <!-- July -->
-1. Ghost of Tsushima (PS4) [24.5hr] <!-- Oct 2020 -->
 1. ALTDEUS: Beyond Chronos + Episode Yamato DLC (VR) [25.0hr] <!-- Mar + June -->
 1. Valkyria Chronicles Remastered (PS4) [27.5hr] <!-- Oct 2020 -->
 1. Cris Tales (XB1) [28.0hr] :green_heart: <!-- July -->
