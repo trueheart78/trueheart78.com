@@ -5,7 +5,7 @@ description: A management page for my ever evolving list of games.
 keywords: games, xbox, playstation, nintendo, nintendo switch, switch, oculus quest, oculus, quest, virtual reality, vr
 permalink: /games/
 customnav: games_nav.html
-update: 2021-09-26
+update: 2021-09-27
 ---
 
 <a id='playing'></a>
@@ -16,7 +16,7 @@ update: 2021-09-26
 
 #### :eyes: Focused
 
-1. Ghost of Tsushima (PS4) [24.5hr] <!-- Oct 2020 -->
+1. [The Artful Escape][artful escape] (XB1) [4.5hr] :green_heart: :new: <!-- Sept -->
 
 #### :traffic_light: Started and Need to Finish
 
@@ -65,8 +65,7 @@ update: 2021-09-26
 1. DRAGON QUEST II: Luminaries of the Legendary Line (NS) [16.5hr] <!-- Dec 2019 -->
 1. South Park: The Fractured But Whole (NS) [17.5hr] <!-- 2020 -->
 1. Darksiders 3 (XB1) [18.5hr] <!-- July -->
-1. Psychonauts 2 (XSX) [19.0hr] :green_heart: :new: <!-- August -->
-1. Control: Ultimate Edition (XSX) [20.0hr] <!-- Feb -->
+1. Psychonauts 2 (XSX) [19.0hr] :green_heart: <!-- August -->
 1. Darksiders: Warmaster Edition (XB1) [20.0hr] <!-- July -->
 1. Evoland 2 (NS) [20.0hr] <!-- July -->
 1. ALTDEUS: Beyond Chronos + Episode Yamato DLC (VR) [25.0hr] <!-- Mar + June -->
@@ -142,7 +141,7 @@ update: 2021-09-26
    * Haven't spent much time with this yet but deciding to wait on more DLC.
 1. SpiritFarer (XB1) [23.0hr] :green_heart:
    * Waiting to play as I've lost close family recently.
-1. Sable (XSX) :green_heart: <!-- Sept -->
+1. Sable (XSX) :green_heart: :new: <!-- Sept -->
    * Waiting for patch to fix the hitches.
    
 <!-- awaiting-content:end -->
@@ -284,6 +283,13 @@ of games I have to play is oh so long._
    * Have zero desire to play this, especially since I don't do multiplayer.
 1. Ikenfell (XB1) [18.0hr] :green_heart:
    * Left Game Pass before I got to it.
+1. Ghost of Tsushima (PS4) [24.5hr] <!-- Oct 2020 -->
+   * Spent a day playing it.
+   * Felt absolutely no desire to go back to it.
+   * Checks every box of a game I should like, except the one labeled "fun".
+1. Control: Ultimate Edition (XSX) [20.0hr] <!-- Feb -->
+   * Ghost of Tsushima reminded me why I didn't find this as enjoyable as I had hoped.
+   * Checks all the boxes except the one labeled "fun".
 
 <!-- jettisoned:end -->
 
@@ -310,21 +316,25 @@ See the [New Releases Wiki][new-releases]. Sorted by release date.
 1. [Greak: Memories of Azur][greak] (XSX) [8/17/21] [wait and see]
 1. ~~Twelve Minutes (XSX) [8/19/21] [game pass]~~ :green_heart: [skipped]
 1. ~~Psychonauts 2 (XSX) [8/25/21] [game pass]~~ :green_heart:
-1. [Disco Elysium - The Final Cut][disco elysium] (XSX) [8/31/21] [wait for $30 sale or game pass]
 1. ~~[Lake][lake] (XSX) [9/1/21] [pre-ordered]~~
-1. [The Artful Escape][artful escape] (XB1) [9/9/21] [game pass] :green_heart:
+1. ~~[The Artful Escape][artful escape] (XB1) [9/9/21] [game pass]~~ :green_heart:
 1. [Life is Strange: True Colors][true colors] (XSX) [9/10/21] [wait for sale or game pass]
+   * It's Ubisoft, it'll be on heavy discount by the time I get to it.
 1. [Lost in Random][lost in random] (XB1) [9/10/21] [wait for sale]
    * Ryan North wrote all the dialogue :chipmunk: :sparkling_heart:
 1. [Tales of Arise][tales of arise] (XSX) [09/10/21] [wait for sale]
-1. [Severed Steel][severed steel] (XSX) [9/17/21] [wait for sale]
-1. Diablo II: Resurrected (XSX) [9/23/21] [wait for sale]
+1. [Tails of Iron][tails of iron] (XSX) [8.0hr] [9/17/21] [wait for sale]
+1. ~~Diablo II: Resurrected (XSX) [9/23/21]~~ [skipped]
+1. [Astria Ascending][astria ascending] (XSX) [9/30/21] [game pass] :green_heart:
 1. Far Cry 6 (XSX) [10/7/21] [wait for sale]
    * It's Ubisoft, it'll be on heavy discount by the time I get to it.
-1. [Astria Ascending][astria ascending] (XSX) [10/31/21] [game pass] :green_heart:
+1. [Disco Elysium - The Final Cut][disco elysium] (XSX) [10/12/21] [wait for $30 sale or game pass]
 1. Forza Horizon 5 (XSX) [11/9/21] [game pass] :green_heart:
    * Ordered the [Limited Edition controller][forza controller]. :yellow_heart: :sparkling_heart: :blue_heart:
+1. Triangle Strategy (NS) [3/4/22] [wait for sale]
+   * Adored the demo.
 1. [Starfield][starfield] (XSX) [11/11/22] [game pass] :green_heart:
+1. [Severed Steel][severed steel] (XSX) [_TBD_] [wait for sale]
 1. [Bear & Breakfast][b and b] (NS) [_TBD_] [wait and see]
 1. [Replaced][replaced] (XSX) [_TBD_] [game pass] :green_heart:
 1. [Tunic][tunic] (XSX) [_TBD_] [game pass] :green_heart:
@@ -342,7 +352,6 @@ See the [Games in Development Wiki][games-in-development]
 1. [Eiyuden Chronicle: Hundred Heroes][hundred heroes] (XSX) [2023] :green_heart:
 1. [Eiyuden Chronicle: Rising][rising] (XSX) [2022] [game pass] :green_heart:
 1. Metroid Prime 4 (NS)
-1. Project Triangle Strategy (working title) (NS)
 1. [SacriFire (via KickStarter)][sacri fire ks] (XSX) [backed]
 1. [Stranger of Paradise - Final Fantasy Orogin][stranger of paradise] (XSX) [2022]
 1. Stray (PS4) [2022]
@@ -381,6 +390,10 @@ See the [Games in Development Wiki][games-in-development]
 + I am much more of a taste-tester than I ever was before. This leads to more jettisoned games, but
   in the end I, I find myself playing more games and getting hooked on the ones that really click
   with me.
++ If a game isn't living rent free in my mind, or at least making me want to get to back to it, then
+  I should consider moving on. I value enjoyment the most, so if the fun factor isn't there, even
+  for AAA GOTY titles, it's ok. :rocket:
+  - See _Control_ and _Ghost of Tsushima_.
   
 <a id='legend'></a>
 
@@ -401,6 +414,7 @@ See the [Games in Development Wiki][games-in-development]
 [disco elysium]: https://en.wikipedia.org/wiki/Disco_Elysium#The_Final_Cut
 [lost in random]: https://www.microsoft.com/en-us/p/lost-in-random/9NVRJS95FLM9
 [tales of arise]: https://en.bandainamcoent.eu/tales-of/tales-of-arise
+[tails of iron]: https://www.unitedlabelgames.com/tails-of-iron/
 [dark alliance]: https://en.wikipedia.org/wiki/Dungeons_%26_Dragons:_Dark_Alliance
 [scarlet nexus]: https://www.bandainamcoent.com/games/scarlet-nexus
 [going under]: https://aggrocrab.com/going-under

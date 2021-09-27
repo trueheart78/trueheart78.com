@@ -27,7 +27,7 @@ I'm currently living in Ohio, working remote for [CoverMyMeds][cmm] as a softwar
 
 ## :video_game: Playing Until Credits
 
-1. _Ghost of Tsushima_ on PS4.
+1. _The Artful Escape_ on Xbox Series X.
 
 ### :checkered_flag: Recently Beaten
 
