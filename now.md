@@ -67,10 +67,6 @@ I'm currently living in Ohio, working remote for [CoverMyMeds][cmm] as a softwar
 * [Success is 90% Spite: The Pigeon Gazette Webcomic Book](https://www.amazon.com/dp/1452181969/)
   * Wonderful read. Go support [@PigeonComics](https://twitter.com/PigeonComics).
 
-<!-- * Jane Foster: Valkyrie -->
-<!-- * Saga -->
-<!--  + Reading book 5 of 9. :star: :star: :star: :star: :star: -->
-
 ## :tv: Shows and Movies
 
 * [What If...? (TV series)](https://en.wikipedia.org/wiki/What_If...%3F_(TV_series))
@@ -84,6 +80,7 @@ I'm currently living in Ohio, working remote for [CoverMyMeds][cmm] as a softwar
 ### :film_strip: Recently Watched
 
 * [Loudermilk (TV Series)](https://en.wikipedia.org/wiki/Loudermilk_(TV_series))
+  * Ron Livingston is a delight to watch.
   * I really hope that some place picks up the rest of the series.
 * [What If...? (TV series)](https://en.wikipedia.org/wiki/What_If...%3F_(TV_series))
   * Episode 1 literally had me _squeeing_ all the through.
@@ -91,11 +88,8 @@ I'm currently living in Ohio, working remote for [CoverMyMeds][cmm] as a softwar
 * [The Suicide Squad (film)](https://en.wikipedia.org/wiki/The_Suicide_Squad_(film))
   * O. M. G. :black_heart: :heart:
   * :shark: :heartpulse:
-* [Loudermilk (TV Series)](https://en.wikipedia.org/wiki/Loudermilk_(TV_series))
-  * Almost stopped near the end of season on but I'm so glad I kept watching.
-  * Ron Livingston is a delight to watch.
 * [Black Widow (2021 film)](https://en.wikipedia.org/wiki/Black_Widow_(2021_film))
-  * It was so wonderful to a Marvel movie in the cinema again.
+  * It was so wonderful to see a Marvel movie in the cinema again.
   * I have been patiently waiting since it was announced and I was _not_ disappointed.
 * [Twin Peaks](https://en.wikipedia.org/wiki/Twin_Peaks)
   * Watched most of season two and wasn't enjoying it anymore.
