@@ -4,7 +4,7 @@ title: 📆 What I'm Up to Now
 description: What I've recently been up to.
 keywords: now, nownownow, studying, playing, reading, comics, books, side projects, games, ruby, rails, golang, tv shows, movies
 permalink: /now/
-update: 2021-09-26
+update: 2021-09-27
 ---
 
 ![Agent Smith - Crazy][agent smith - crazy laughing]
@@ -127,7 +127,7 @@ I'm currently living in Ohio, working remote for [CoverMyMeds][cmm] as a softwar
 
 ### :ballot_box_with_check: Completed
 
-* [CaringForKarenSue.com][caring for karen sue] ([source][caring for karen sue - source]) upgrade to Rails 6.
+* [CaringForKarenSue.com][caring for karen sue] ([source][caring for karen sue - source]) upgraded to Rails 6.1.
 * [Food Tracker :watermelon:][food tracker source]
 * [Global Pandemic Goofs Site 🦠][pandemic site]
   * [Source - Ruby & Sinatra][pandemic source]
