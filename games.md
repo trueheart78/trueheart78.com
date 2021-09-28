@@ -5,7 +5,7 @@ description: A management page for my ever evolving list of games.
 keywords: games, xbox, playstation, nintendo, nintendo switch, switch, oculus quest, oculus, quest, virtual reality, vr
 permalink: /games/
 customnav: games_nav.html
-update: 2021-09-27
+update: 2021-09-28
 ---
 
 <a id='playing'></a>
@@ -64,6 +64,7 @@ update: 2021-09-27
 1. Psychonauts (XBX) [15.5hr] :green_heart: <!-- June -->
 1. DRAGON QUEST II: Luminaries of the Legendary Line (NS) [16.5hr] <!-- Dec 2019 -->
 1. South Park: The Fractured But Whole (NS) [17.5hr] <!-- 2020 -->
+1. Children of Morta (XB1) [18.5hr] :green_heart: :new: <!-- Sept -->
 1. Darksiders 3 (XB1) [18.5hr] <!-- July -->
 1. Psychonauts 2 (XSX) [19.0hr] :green_heart: <!-- August -->
 1. Darksiders: Warmaster Edition (XB1) [20.0hr] <!-- July -->
@@ -77,6 +78,7 @@ update: 2021-09-27
 1. Hades (XSX) [43.5hr] :green_heart: <!-- August -->
 1. Tales of Berseria (PS4) [44.5hr] <!-- Oct 2020 -->
 1. Yakuza: Like a Dragon (XSX) [45.0hr] <!-- Nov 2020 -->
+1. Assassin's Creed: Valhalla (XSX) [53.0hr] <!-- Nov 2020 -->
 1. Tales of Vesperia - Definitive Edition (XB1) [70.0hr] :green_heart: <!-- July -->
 
 <!-- unplayed:end -->
@@ -93,7 +95,7 @@ update: 2021-09-27
 1. Dark Souls 3 (XSX) <!-- July -->
    * 60 FPS thanks to FPS Boost. :heart:
    * Will be fun to revisit.
-1. Valentino Rossi: The Game (XB1) :cd: :new: <!-- August -->
+1. Valentino Rossi: The Game (XB1) :cd: <!-- August -->
 1. Tilt Brush (VR) <!-- Oct 2020 -->
 
 <!-- for-fun:end -->
@@ -122,7 +124,7 @@ update: 2021-09-27
    * Made by Harmonix.
    * Has _Bad Guy_ and _Juice_.
 1. Beat Saber (VR) <!-- Oct 2020 -->
-   * Bought the BTS, Green Day, Interplay, Linkin Park, and Panic! at the Disco packs.
+   * Bought the Billie Eilish, BTS, Green Day, Interplay, Linkin Park, and Panic! at the Disco packs.
    * Mainly play the "solo" mode, so there is no "completion".
    * Love the 90° mode.
 1. OhShape (VR) <!-- June -->
@@ -136,11 +138,6 @@ update: 2021-09-27
 
 ## :calendar: Awaiting Content [:top:][top]
 
-1. Assassin's Creed: Valhalla (XSX) [53.0hr] <!-- Nov 2020 -->
-   * Upcoming Quality of Life changes: one-handed swords!
-   * Haven't spent much time with this yet but deciding to wait on more DLC.
-1. SpiritFarer (XB1) [23.0hr] :green_heart:
-   * Waiting to play as I've lost close family recently.
 1. Sable (XSX) :green_heart: :new: <!-- Sept -->
    * Waiting for patch to fix the hitches.
    
@@ -290,6 +287,8 @@ of games I have to play is oh so long._
 1. Control: Ultimate Edition (XSX) [20.0hr] <!-- Feb -->
    * Ghost of Tsushima reminded me why I didn't find this as enjoyable as I had hoped.
    * Checks all the boxes except the one labeled "fun".
+1. SpiritFarer (XB1) [23.0hr] :green_heart:
+   * Will consider playing this in a few years when I can emotionally cope with it.
 
 <!-- jettisoned:end -->
 
@@ -321,10 +320,11 @@ See the [New Releases Wiki][new-releases]. Sorted by release date.
 1. [Life is Strange: True Colors][true colors] (XSX) [9/10/21] [wait for sale or game pass]
    * It's Ubisoft, it'll be on heavy discount by the time I get to it.
 1. [Lost in Random][lost in random] (XB1) [9/10/21] [wait for sale]
-   * Ryan North wrote all the dialogue :chipmunk: :sparkling_heart:
+   * Ryan North (of Squirrel Girl and Dinosaur Comics fame) wrote all the dialogue :chipmunk: :t-rex: :sparkling_heart:
 1. [Tales of Arise][tales of arise] (XSX) [09/10/21] [wait for sale]
 1. [Tails of Iron][tails of iron] (XSX) [8.0hr] [9/17/21] [wait for sale]
 1. ~~Diablo II: Resurrected (XSX) [9/23/21]~~ [skipped]
+   * The UI hurts to look at.
 1. [Astria Ascending][astria ascending] (XSX) [9/30/21] [game pass] :green_heart:
 1. Far Cry 6 (XSX) [10/7/21] [wait for sale]
    * It's Ubisoft, it'll be on heavy discount by the time I get to it.
@@ -332,12 +332,13 @@ See the [New Releases Wiki][new-releases]. Sorted by release date.
 1. Forza Horizon 5 (XSX) [11/9/21] [game pass] :green_heart:
    * Ordered the [Limited Edition controller][forza controller]. :yellow_heart: :sparkling_heart: :blue_heart:
 1. Triangle Strategy (NS) [3/4/22] [wait for sale]
-   * Adored the demo.
+   * The demo was right up my tactics-loving alley.
 1. [Starfield][starfield] (XSX) [11/11/22] [game pass] :green_heart:
 1. [Severed Steel][severed steel] (XSX) [_TBD_] [wait for sale]
 1. [Bear & Breakfast][b and b] (NS) [_TBD_] [wait and see]
 1. [Replaced][replaced] (XSX) [_TBD_] [game pass] :green_heart:
 1. [Tunic][tunic] (XSX) [_TBD_] [game pass] :green_heart:
+   * I really enjoyed the demo.
 1. [Vampire: The Masquerade - Swansong][swansong] (XSX) [_TBD_]
 
 <!-- planned-purchases:new-releases:end -->
@@ -347,8 +348,6 @@ See the [New Releases Wiki][new-releases]. Sorted by release date.
 See the [Games in Development Wiki][games-in-development]
 
 1. [Atomic Heart][atomic heart] (XSX) [game pass] :green_heart:
-1. Beyond Good and Evil 2 (XSX)
-1. [Death Trash][death trash] (XSX)
 1. [Eiyuden Chronicle: Hundred Heroes][hundred heroes] (XSX) [2023] :green_heart:
 1. [Eiyuden Chronicle: Rising][rising] (XSX) [2022] [game pass] :green_heart:
 1. Metroid Prime 4 (NS)
@@ -362,10 +361,10 @@ See the [Games in Development Wiki][games-in-development]
 
 ## :dollar: Planned Purchases (Previously Released)
 
-1. Darkside Detective: A Fumble in the Dark (XSX) [7.5hr] [wait for sale]
-1. Final Fantasy XV Royal Edition (XSX) [35.0hr] [wait for $20 sale or game pass] :green_heart:
+1. Darkside Detective: A Fumble in the Dark (XSX/NS) [7.5hr] [wait for sale]
+1. ~~Final Fantasy XV Royal Edition (XSX) [35.0hr]~~ [skipped]
 1. Immortals Fenyx Rising (XSX) [30.0hr] [wait for $20 sale]
-1. Regalia: Of Men and Monarchs - Royal Edition (NS) [40.5hr] [wait for sale]
+1. ~~Regalia: Of Men and Monarchs - Royal Edition (NS) [40.5hr]~~ [skipped]
 
 <!-- planned-purchases:end -->
 
@@ -426,7 +425,6 @@ See the [Games in Development Wiki][games-in-development]
 [starfield]: https://bethesda.net/en/game/starfield
 [b and b]: https://www.bear.game
 [replaced]: https://twitter.com/Replacedgame
-[death trash]: https://twitter.com/DeathTrash
 [rising]: https://store.steampowered.com/app/1658290/Eiyuden_Chronicle_Rising/
 [hundred heroes]: https://store.steampowered.com/app/1658280/Eiyuden_Chronicle_Hundred_Heroes/
 [artful escape]: https://theartfulescape.com/
