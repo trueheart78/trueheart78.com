@@ -16,7 +16,7 @@ update: 2021-09-28
 
 #### :eyes: Focused
 
-1. [The Artful Escape][artful escape] (XB1) [4.5hr] :green_heart: :new: <!-- Sept -->
+1. [The Artful Escape][artful escape] (XSX) [4.5hr] :green_heart: :new: <!-- Sept -->
 
 #### :traffic_light: Started and Need to Finish
 
