@@ -47,28 +47,23 @@ update: 2021-09-28
 1. River City Girls (XB1) [7.0hr] :green_heart:
 1. Far Cry 3: Blood Dragon (360) [7.0hr] <!-- June -->
 1. Hellblade: Senua's Sacrifice (XB1) [7.5hr] :green_heart: <!-- 2020 -->
-1. SSX (2012) (360) [8.0hr] :green_heart:
-   * Highly rated. Would love to just taste test it. 
 1. Trover Saves the Universe (VR) [8.0hr] <!-- June -->
 1. Wandersong (NS) [9.0hr]
 1. Deadpool (XB1) [10.0hr] :cd: :new: <!-- August -->
 1. Star Wars: The Force Unleashed (360) [Enhanced Ed] [11.0hr] <!-- July -->
 1. SUPERHOT: MIND CONTROL DELETE (XSX) [11.0hr] <!-- Nov 2020 -->
-1. Eastshade (XB1) [11.5hr] :green_heart:
 1. West of Loathing (NS) [11.5hr] <!-- Mar 2018 -->
 1. Steamworld Heist (NS) [12.0hr] <!-- Jul 2019 -->
 1. Need For Speed Heat (XB1) [12.5hr] :green_heart:
    * Compared to Underground 1 & 2. :sparkling_heart:
-1. DOOM Eternal (XSX) [13.5hr] :green_heart: <!-- Oct 2020 -->
 1. Child of Light - Ultimate Edition (NS) [15.0hr] <!-- June -->
-1. Psychonauts (XBX) [15.5hr] :green_heart: <!-- June -->
 1. DRAGON QUEST II: Luminaries of the Legendary Line (NS) [16.5hr] <!-- Dec 2019 -->
 1. South Park: The Fractured But Whole (NS) [17.5hr] <!-- 2020 -->
 1. Children of Morta (XB1) [18.5hr] :green_heart: :new: <!-- Sept -->
 1. Darksiders 3 (XB1) [18.5hr] <!-- July -->
-1. Psychonauts 2 (XSX) [19.0hr] :green_heart: <!-- August -->
 1. Darksiders: Warmaster Edition (XB1) [20.0hr] <!-- July -->
 1. Evoland 2 (NS) [20.0hr] <!-- July -->
+1. Art of Rally (XSX) [20.5hr] :green_heart: :new: <!-- Sept -->
 1. ALTDEUS: Beyond Chronos + Episode Yamato DLC (VR) [25.0hr] <!-- Mar + June -->
 1. Valkyria Chronicles Remastered (PS4) [27.5hr] <!-- Oct 2020 -->
 1. Cris Tales (XB1) [28.0hr] :green_heart: <!-- July -->
@@ -289,7 +284,18 @@ of games I have to play is oh so long._
    * Checks all the boxes except the one labeled "fun".
 1. SpiritFarer (XB1) [23.0hr] :green_heart:
    * Will consider playing this in a few years when I can emotionally cope with it.
-
+1. DOOM Eternal (XSX) [13.5hr] :green_heart: <!-- Oct 2020 -->
+   * Just some fall cleaning of games I won't get to.
+1. Psychonauts (XBX) [15.5hr] :green_heart: <!-- June -->
+   * Just some fall cleaning of games I won't get to.
+1. Psychonauts 2 (XSX) [19.0hr] :green_heart: <!-- August -->
+   * Just some fall cleaning of games I won't get to.
+1. Eastshade (XB1) [11.5hr] :green_heart:
+   * Just some fall cleaning of games I won't get to.
+1. SSX (2012) (360) [8.0hr] :green_heart:
+   * Highly rated. Would love to just taste test it. 
+   * Taste tested. Not for me.
+   
 <!-- jettisoned:end -->
 
 <a id='planned-purchases'></a>
