@@ -320,7 +320,7 @@ See the [New Releases Wiki][new-releases]. Sorted by release date.
 1. [Life is Strange: True Colors][true colors] (XSX) [9/10/21] [wait for sale or game pass]
    * It's Ubisoft, it'll be on heavy discount by the time I get to it.
 1. [Lost in Random][lost in random] (XB1) [9/10/21] [wait for sale]
-   * Ryan North (of Squirrel Girl and Dinosaur Comics fame) wrote all the dialogue :chipmunk: :t-rex: :sparkling_heart:
+   * Ryan North (of Squirrel Girl and Dinosaur Comics fame) wrote all the dialogue :chipmunk: :t_rex: :sparkling_heart:
 1. [Tales of Arise][tales of arise] (XSX) [09/10/21] [wait for sale]
 1. [Tails of Iron][tails of iron] (XSX) [8.0hr] [9/17/21] [wait for sale]
 1. ~~Diablo II: Resurrected (XSX) [9/23/21]~~ [skipped]
