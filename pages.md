@@ -41,7 +41,7 @@ update: 2021-09-30
 
 ## Comics :framed_picture:
 
-* [:space_invader: Too Many Reviews by Mayoking][too many reviews]
+* [:space_invader: Too Many Reviews by Brian King][too many reviews]
 * [:man: Adulthood is Ad-Libbed by Bill Watterson][adulthood is ad-libbed]
 
 ## Less Maintained :zzz:
@@ -81,7 +81,7 @@ update: 2021-09-30
 [swears]: /swears/
 [taylor swift]: /taylor-swift/
 [the weekend]: /assets/images/gifs/the-weekend.gif
-[too many reviews]: /assets/images/comics/too-many-reviews-by-mayoking.jpg
+[too many reviews]: /assets/images/comics/too-many-reviews-by-brian-king.jpg
 [adulthood is ad-libbed]: /assets/images/comics/adulthood-is-ad-libbed-by-bill-watterson.jpg
 [tone indicators]: /tone-indicators
 [wishlist]: /wishlist/
