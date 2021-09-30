@@ -5,7 +5,7 @@ description: A management page for my ever evolving list of games.
 keywords: games, xbox, playstation, nintendo, nintendo switch, switch, oculus quest, oculus, quest, virtual reality, vr
 permalink: /games/
 customnav: games_nav.html
-update: 2021-09-28
+update: 2021-09-30
 ---
 
 <a id='playing'></a>
@@ -70,6 +70,7 @@ update: 2021-09-28
 1. Darksiders II Deathinitive Edition (XB1) [29.5hr] <!-- July -->
 1. Knights of the Old Republic 2 (XBX) [31.0hr] <!-- Oct 2020 -->
 1. Valkyria Chronicles 4 (PS4) [35.5hr] <!-- Oct 2020 -->
+1. SCARLET NEXUS (XSX) [36.0hr] :green_heart: :new: <!-- Sept -->
 1. Hades (XSX) [43.5hr] :green_heart: <!-- August -->
 1. Tales of Berseria (PS4) [44.5hr] <!-- Oct 2020 -->
 1. Yakuza: Like a Dragon (XSX) [45.0hr] <!-- Nov 2020 -->
@@ -314,7 +315,7 @@ See the [New Releases Wiki][new-releases]. Sorted by release date.
 1. Mass Effect: Legendary Edition [5/14/21] [wait for $30 sale or game pass]
 1. ~~[Chicory: A Colorful Tale][chicory] (PS4) [6/10/21]~~ [purchased]
 1. ~~[Dungeons & Dragons: Dark Alliance][dark alliance] (XSX) [6/22/21] [game pass]~~ :green_heart:
-1. [SCARLET NEXUS][scarlet nexus] (XSX) [6/25/21] [wait for $20 sale]
+1. ~~[SCARLET NEXUS][scarlet nexus] (XSX) [6/25/21] [game pass]~~ :green_heart:
 1. ~~[Going Under][going under] (XSX) [6/29/21] [game pass]~~ :green_heart:
 1. ~~[Cris Tales][cris tales] (XB1) [7/20/21] [game pass]~~ :green_heart:
 1. ~~Hades (XSX) [8/13/21] [game pass]~~ :green_heart:
