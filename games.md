@@ -77,6 +77,7 @@ update: 2021-09-30
 1. Assassin's Creed: Valhalla (XSX) [53.0hr] <!-- Nov 2020 -->
 1. Tales of Vesperia - Definitive Edition (XB1) [70.0hr] :green_heart: <!-- July -->
 1. Astria Ascending (XSX) [?.?hr] :green_heart: :new: <!-- Sept -->
+1. AI: THE SOMNIUM FILES - nirvanA Initiative (XSX) [?.?hr] :green_heart: :new: <!-- Sept -->
 
 <!-- unplayed:end -->
 
