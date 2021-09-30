@@ -76,6 +76,7 @@ update: 2021-09-30
 1. Yakuza: Like a Dragon (XSX) [45.0hr] <!-- Nov 2020 -->
 1. Assassin's Creed: Valhalla (XSX) [53.0hr] <!-- Nov 2020 -->
 1. Tales of Vesperia - Definitive Edition (XB1) [70.0hr] :green_heart: <!-- July -->
+1. Astria Ascending (XSX) [?.?hr] :green_heart: :new: <!-- Sept -->
 
 <!-- unplayed:end -->
 
@@ -332,7 +333,7 @@ See the [New Releases Wiki][new-releases]. Sorted by release date.
 1. [Tails of Iron][tails of iron] (XSX) [8.0hr] [9/17/21] [wait for sale]
 1. ~~Diablo II: Resurrected (XSX) [9/23/21]~~ [skipped]
    * The UI hurts to look at.
-1. [Astria Ascending][astria ascending] (XSX) [9/30/21] [game pass] :green_heart:
+1. ~~[Astria Ascending][astria ascending] (XSX) [9/30/21] [game pass]~~ :green_heart:
 1. Far Cry 6 (XSX) [10/7/21] [wait for sale]
    * It's Ubisoft, it'll be on heavy discount by the time I get to it.
 1. [Disco Elysium - The Final Cut][disco elysium] (XSX) [10/12/21] [wait for $30 sale or game pass]
