@@ -4,7 +4,7 @@ title: 📑 Pages
 description: A list of public pages across the site.
 keywords: public pages, blog, ruby, games, now, resume, cult of done, favorite games, personalysis briefing, open source, tone indicators
 permalink: /pages/
-update: 2021-05-26
+update: 2021-09-30
 ---
 
 ## Primary :100:
@@ -38,6 +38,11 @@ update: 2021-05-26
 ## Gifs :film_strip:
 
 * [🥳 The Weekend - Daniel Craig][the weekend]
+
+## Comics :framed_picture:
+
+* [:space_invader: Too Many Reviews by Mayoking][too many reviews]
+* [:man: Adulthood is Ad-Libbed by Bill Watterson][adulthood is ad-libbed]
 
 ## Less Maintained :zzz:
 
@@ -76,5 +81,7 @@ update: 2021-05-26
 [swears]: /swears/
 [taylor swift]: /taylor-swift/
 [the weekend]: /assets/images/gifs/the-weekend.gif
+[too many reviews]: /assets/images/comics/too-many-reviews-by-mayoking.jpg
+[adulthood is ad-libbed]: /assets/images/comics/adulthood-is-ad-libbed-by-bill-watterson.jpg
 [tone indicators]: /tone-indicators
 [wishlist]: /wishlist/
