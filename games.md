@@ -17,6 +17,7 @@ update: 2021-09-30
 #### :eyes: Focused
 
 1. [The Artful Escape][artful escape] (XSX) [4.5hr] :green_heart: :new: <!-- Sept -->
+1. Wandersong (NS) [9.0hr]
 
 #### :traffic_light: Started and Need to Finish
 
@@ -48,7 +49,6 @@ update: 2021-09-30
 1. Far Cry 3: Blood Dragon (360) [7.0hr] <!-- June -->
 1. Hellblade: Senua's Sacrifice (XB1) [7.5hr] :green_heart: <!-- 2020 -->
 1. Trover Saves the Universe (VR) [8.0hr] <!-- June -->
-1. Wandersong (NS) [9.0hr]
 1. Deadpool (XB1) [10.0hr] :cd: :new: <!-- August -->
 1. Star Wars: The Force Unleashed (360) [Enhanced Ed] [11.0hr] <!-- July -->
 1. SUPERHOT: MIND CONTROL DELETE (XSX) [11.0hr] <!-- Nov 2020 -->
