@@ -5,7 +5,7 @@ description: A management page for my ever evolving list of games.
 keywords: games, xbox, playstation, nintendo, nintendo switch, switch, oculus quest, oculus, quest, virtual reality, vr
 permalink: /games/
 customnav: games_nav.html
-update: 2021-09-30
+update: 2021-10-02
 ---
 
 <a id='playing'></a>
@@ -16,7 +16,6 @@ update: 2021-09-30
 
 #### :eyes: Focused
 
-1. [The Artful Escape][artful escape] (XSX) [4.5hr] :green_heart: :new: <!-- Sept -->
 1. Wandersong (NS) [9.0hr]
 
 #### :traffic_light: Started and Need to Finish
@@ -217,7 +216,15 @@ update: 2021-09-30
         explore those potenially budding relationships at my leisure.
    * More characters bothered me with their personalities than I enjoyed.
    * Plagued by technical issues, at the end, I chose to go back home.
-   
+1. [The Artful Escape][artful escape] (XSX) [4.5hr] :green_heart: <!-- Sept -->
+   * What a game!
+   * Stunning visuals.
+   * Wonderful, shredding music. :guitar: :sparkles: :sparkles:
+   * Solid Bill & Ted vibes (on a journey and not sure how to take on a big show.)
+   * The player choices were cosmically delightful.
+   * Absolutely sticks the landing.
+   * Couldn’t recommend it high enough. :star: :star: :star: :star: :star:
+
 <!-- beaten:end -->
 
 <a id='jettisoned'></a>
