@@ -4,7 +4,7 @@ title: 👨‍💻 My Resume
 description: I love writing Ruby & Go, rocking out to Taylor Swift, and using gifs to make others smile. I’ve been writing software professionally since 2004.
 keywords: resume, ruby, golang, software developer, side projects, open source, rails, sinatrarb, aws, lambda, aws lambda, paypal
 permalink: /resume/
-update: 2021-06-01
+update: 2021-10-03
 ---
 
 <a id='intro'></a>
@@ -153,7 +153,7 @@ up the phrases. It reads from text files to provide options to replace the phras
 pandemic?", with something like, "In this gleaming pop concert hall?", or "In this gothic Pulp Juice
 And Smoothie Bar?" It even has a simple, but effective, API.
 
-* Site: [pandemic.pls.lol][pandemic-goofs]
+* Site: [pandemic-goofs.herokuapp.com][pandemic-goofs]
 * Source: [GitHub][pandemic-goofs-source]
 
 ### :watermelon: Food Tracker
@@ -270,7 +270,7 @@ Associate of Computer Science in Software Applications and Programming
 [aws-lambda]: https://aws.amazon.com/lambda/
 [amazon-echo]: https://en.wikipedia.org/wiki/Amazon_Echo
 [alexa-food-tracker-source]: https://github.com/trueheart78/alexa-food-tracker
-[pandemic-goofs]: https://pandemic.pls.lol
+[pandemic-goofs]: https://pandemic-goofs.herokuapp.com/
 [pandemic-goofs-source]: https://github.com/trueheart78/global-pandemic-goofs
 [food-tracker]: https://food.pls.lol
 [food-tracker-source]: https://github.com/trueheart78/food-tracker
