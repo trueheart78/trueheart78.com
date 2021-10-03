@@ -216,7 +216,7 @@ update: 2021-10-03
         explore those potenially budding relationships at my leisure.
    * More characters bothered me with their personalities than I enjoyed.
    * Plagued by technical issues, at the end, I chose to go back home.
-1. [The Artful Escape][artful escape] (XSX) [4.5hr] :green_heart: <!-- Sept -->
+1. [The Artful Escape][artful escape] (XSX) :green_heart: <!-- Sept -->
    * What a game!
    * Stunning visuals.
    * Wonderful, shredding music. :guitar: :sparkles: :sparkles:
