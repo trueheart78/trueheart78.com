@@ -5,7 +5,7 @@ description: A management page for my ever evolving list of games.
 keywords: games, xbox, playstation, nintendo, nintendo switch, switch, oculus quest, oculus, quest, virtual reality, vr
 permalink: /games/
 customnav: games_nav.html
-update: 2021-10-02
+update: 2021-10-03
 ---
 
 <a id='playing'></a>
@@ -65,6 +65,7 @@ update: 2021-10-02
 1. Art of Rally (XSX) [20.5hr] :green_heart: :new: <!-- Sept -->
 1. ALTDEUS: Beyond Chronos + Episode Yamato DLC (VR) [25.0hr] <!-- Mar + June -->
 1. Valkyria Chronicles Remastered (PS4) [27.5hr] <!-- Oct 2020 -->
+1. AI: THE SOMNIUM FILES (XSX) [28.0hr] :green_heart: :new: <!-- Sept -->
 1. Cris Tales (XB1) [28.0hr] :green_heart: <!-- July -->
 1. Darksiders II Deathinitive Edition (XB1) [29.5hr] <!-- July -->
 1. Knights of the Old Republic 2 (XBX) [31.0hr] <!-- Oct 2020 -->
@@ -76,7 +77,6 @@ update: 2021-10-02
 1. Assassin's Creed: Valhalla (XSX) [53.0hr] <!-- Nov 2020 -->
 1. Tales of Vesperia - Definitive Edition (XB1) [70.0hr] :green_heart: <!-- July -->
 1. Astria Ascending (XSX) [?.?hr] :green_heart: :new: <!-- Sept -->
-1. AI: THE SOMNIUM FILES - nirvanA Initiative (XSX) [?.?hr] :green_heart: :new: <!-- Sept -->
 
 <!-- unplayed:end -->
 
