@@ -5,7 +5,7 @@ description: A management page for my ever evolving list of games.
 keywords: games, xbox, playstation, nintendo, nintendo switch, switch, oculus quest, oculus, quest, virtual reality, vr
 permalink: /games/
 customnav: games_nav.html
-update: 2021-10-03
+update: 2021-10-05
 ---
 
 <a id='playing'></a>
@@ -303,8 +303,9 @@ of games I have to play is oh so long._
 1. Eastshade (XB1) [11.5hr] :green_heart:
    * Just some fall cleaning of games I won't get to.
 1. SSX (2012) (360) [8.0hr] :green_heart:
-   * Highly rated. Would love to just taste test it. 
-   * Taste tested. Not for me.
+   * Highly rated. 
+   * Taste tested.
+   * Not for me.
    
 <!-- jettisoned:end -->
 
@@ -345,6 +346,8 @@ See the [New Releases Wiki][new-releases]. Sorted by release date.
 1. Far Cry 6 (XSX) [10/7/21] [wait for sale]
    * It's Ubisoft, it'll be on heavy discount by the time I get to it.
 1. [Disco Elysium - The Final Cut][disco elysium] (XSX) [10/12/21] [wait for $30 sale or game pass]
+1. [The Rift Breaker][rift breaker] (XSX) [10/14/21] [game pass] :green_heart:
+1. [The Good Life][good life] (XSX) [10/15/21] [game pass] :green_heart:
 1. Forza Horizon 5 (XSX) [11/9/21] [game pass] :green_heart:
    * Ordered the [Limited Edition controller][forza controller]. :yellow_heart: :sparkling_heart: :blue_heart:
 1. Triangle Strategy (NS) [3/4/22] [wait for sale]
@@ -427,6 +430,8 @@ See the [Games in Development Wiki][games-in-development]
 [astria ascending]: https://astria-ascending.com/
 [cris tales]: https://en.wikipedia.org/wiki/Cris_Tales
 [disco elysium]: https://en.wikipedia.org/wiki/Disco_Elysium#The_Final_Cut
+[good life]: https://www.kickstarter.com/projects/476090608/the-good-life/
+[rift breaker]: https://www.riftbreaker.com/
 [lost in random]: https://www.microsoft.com/en-us/p/lost-in-random/9NVRJS95FLM9
 [tales of arise]: https://en.bandainamcoent.eu/tales-of/tales-of-arise
 [tails of iron]: https://www.unitedlabelgames.com/tails-of-iron/

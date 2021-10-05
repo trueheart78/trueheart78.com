@@ -4,7 +4,7 @@ title: 📆 What I'm Up to Now
 description: What I've recently been up to.
 keywords: now, nownownow, studying, playing, reading, comics, books, side projects, games, ruby, rails, golang, tv shows, movies
 permalink: /now/
-update: 2021-09-27
+update: 2021-10-05
 ---
 
 ![Agent Smith - Crazy][agent smith - crazy laughing]
@@ -27,10 +27,11 @@ I'm currently living in Ohio, working remote for [CoverMyMeds][cmm] as a softwar
 
 ## :video_game: Playing Until Credits
 
-1. _The Artful Escape_ on Xbox Series X.
+* _Wandersong_ on Nintendo Switch.
 
 ### :checkered_flag: Recently Beaten
 
+* _The Artful Escape_ on Xbox Series X.
 * _Lake_ on Xbox Series X.
 * _Subsurface Circular_ on Nintendo Switch.
 * _Chicory: A Colorful Tale_ on PS4.
