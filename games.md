@@ -5,7 +5,7 @@ description: A management page for my ever evolving list of games.
 keywords: games, xbox, playstation, nintendo, nintendo switch, switch, oculus quest, oculus, quest, virtual reality, vr
 permalink: /games/
 customnav: games_nav.html
-update: 2021-10-05
+update: 2021-10-06
 ---
 
 <a id='playing'></a>
@@ -328,6 +328,8 @@ See the [New Releases Wiki][new-releases]. Sorted by release date.
 1. ~~[SCARLET NEXUS][scarlet nexus] (XSX) [6/25/21] [game pass]~~ :green_heart:
 1. ~~[Going Under][going under] (XSX) [6/29/21] [game pass]~~ :green_heart:
 1. ~~[Cris Tales][cris tales] (XB1) [7/20/21] [game pass]~~ :green_heart:
+1. [Death's Door][death's door] (XSX) [7/20/21] [wait for sale]
+   * Many Zelda comparisons make this $20 title interesting.
 1. ~~Hades (XSX) [8/13/21] [game pass]~~ :green_heart:
 1. [Greak: Memories of Azur][greak] (XSX) [8/17/21] [wait and see]
 1. ~~Twelve Minutes (XSX) [8/19/21] [game pass]~~ :green_heart: [skipped]
@@ -359,6 +361,8 @@ See the [New Releases Wiki][new-releases]. Sorted by release date.
 1. [Tunic][tunic] (XSX) [_TBD_] [game pass] :green_heart:
    * I really enjoyed the demo.
 1. [Vampire: The Masquerade - Swansong][swansong] (XSX) [_TBD_]
+1. [Wildermyth][wildermyth] (XSX/NS) [_TBD_]
+   * Not sure if coming to console but definitely interested.
 
 <!-- planned-purchases:new-releases:end -->
 
@@ -429,6 +433,7 @@ See the [Games in Development Wiki][games-in-development]
 [top]: #page-top
 [astria ascending]: https://astria-ascending.com/
 [cris tales]: https://en.wikipedia.org/wiki/Cris_Tales
+[death's door]: https://devolverdigital.com/games/deaths-door
 [disco elysium]: https://en.wikipedia.org/wiki/Disco_Elysium#The_Final_Cut
 [good life]: https://www.kickstarter.com/projects/476090608/the-good-life/
 [rift breaker]: https://www.riftbreaker.com/
@@ -454,6 +459,7 @@ See the [Games in Development Wiki][games-in-development]
 [stranger of paradise]: https://press.na.square-enix.com/STRANGER-OF-PARADISE-FINAL-FANTASY-ORIGIN
 [atomic heart]: https://mundfish.com
 [chicory]: https://store.playstation.com/en-us/concept/10002468
+[wildermyth]: https://wildermyth.com/
 [haven - new game]: https://i.imgur.com/ykrAUxm.jpg
 [haven - embrace]: https://i.imgur.com/zorJ5K6.jpg
 [haven - criminal lovers]: https://i.imgur.com/1Okd5vV.png
