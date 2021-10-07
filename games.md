@@ -5,7 +5,7 @@ description: A management page for my ever evolving list of games.
 keywords: games, xbox, playstation, nintendo, nintendo switch, switch, oculus quest, oculus, quest, virtual reality, vr
 permalink: /games/
 customnav: games_nav.html
-update: 2021-10-06
+update: 2021-10-07
 ---
 
 <a id='playing'></a>
@@ -16,6 +16,9 @@ update: 2021-10-06
 
 #### :eyes: Focused
 
+1. Hellblade: Senua's Sacrifice (XSX) [7.5hr] :green_heart: <!-- 2020 -->
+   * Looks beautiful with some RTX.
+   * Headphones make the audio quite good.
 1. Wandersong (NS) [9.0hr]
 
 #### :traffic_light: Started and Need to Finish
@@ -46,7 +49,6 @@ update: 2021-10-06
 1. Last Stop (XSX) [6.5hr] :green_heart:
 1. River City Girls (XB1) [7.0hr] :green_heart:
 1. Far Cry 3: Blood Dragon (360) [7.0hr] <!-- June -->
-1. Hellblade: Senua's Sacrifice (XB1) [7.5hr] :green_heart: <!-- 2020 -->
 1. Trover Saves the Universe (VR) [8.0hr] <!-- June -->
 1. Deadpool (XB1) [10.0hr] :cd: :new: <!-- August -->
 1. Star Wars: The Force Unleashed (360) [Enhanced Ed] [11.0hr] <!-- July -->
@@ -347,6 +349,8 @@ See the [New Releases Wiki][new-releases]. Sorted by release date.
 1. ~~[Astria Ascending][astria ascending] (XSX) [9/30/21] [game pass]~~ :green_heart:
 1. Far Cry 6 (XSX) [10/7/21] [wait for sale]
    * It's Ubisoft, it'll be on heavy discount by the time I get to it.
+1. [Metroid Dread][metroid dread] (NS) [10/8/21] [pre-ordered] :floppy_disk:
+   * Originally disinterested but reviews really sold me on it.
 1. [Disco Elysium - The Final Cut][disco elysium] (XSX) [10/12/21] [wait for $30 sale or game pass]
 1. [The Rift Breaker][rift breaker] (XSX) [10/14/21] [game pass] :green_heart:
 1. [The Good Life][good life] (XSX) [10/15/21] [game pass] :green_heart:
@@ -425,7 +429,8 @@ See the [Games in Development Wiki][games-in-development]
 * :blue_heart: = PlayStation Plus Freebie
 * :arrow_left: = Next on my radar to play
 * :new: = Added this month
-* :cd: = Physical disc
+* :cd: = Disc-based version
+* :floppy_disk: = Cartridge-based version
 
 [new-releases]: https://en.wikipedia.org/wiki/2021_in_video_gaming#Game_releases
 [games-in-development]: https://en.wikipedia.org/wiki/List_of_video_games_in_development
@@ -434,6 +439,7 @@ See the [Games in Development Wiki][games-in-development]
 [astria ascending]: https://astria-ascending.com/
 [cris tales]: https://en.wikipedia.org/wiki/Cris_Tales
 [death's door]: https://devolverdigital.com/games/deaths-door
+[metroid dread]: https://en.wikipedia.org/wiki/Metroid_Dread
 [disco elysium]: https://en.wikipedia.org/wiki/Disco_Elysium#The_Final_Cut
 [good life]: https://www.kickstarter.com/projects/476090608/the-good-life/
 [rift breaker]: https://www.riftbreaker.com/
