@@ -37,10 +37,12 @@ update: 2021-10-08
 1. Down The Rabbit Hole (VR) [3.0hr] <!-- May -->
    * 120hz mode supported.
 1. Pixel Ripped 1995 (VR) [3.0hr] <!-- Oct 2020 -->
+1. Deltarune: Chapter 1 (NS) [3.5hr] :new: <!-- Oct -->
 1. GRIS (NS) [4.0hr] <!-- Nov 2019 -->
 1. Moss (VR) [4.5hr] <!-- Feb -->
 1. Evoland (NS) [5.0hr] <!-- July -->
 1. The Solitaire Conspiracy (NS) [5.0hr] <!-- June -->
+1. Deltarune: Chapter 2 (NS) [5.5hr] :new: <!-- Oct -->
 1. Raji: An Ancient Epic (XB1) [5.5hr] :green_heart: <!-- July -->
 1. Transistor (NS) [6.0hr] <!-- Mar -->
 1. Dirt 5 (XSX) [6.5hr] :green_heart:
