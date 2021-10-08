@@ -16,7 +16,7 @@ update: 2021-10-08
 
 #### :eyes: Focused
 
-[Metroid Dread][metroid dread] (NS) [13.0hr] :new: <!-- Oct -->
+1. [Metroid Dread][metroid dread] (NS) [13.0hr] :new: <!-- Oct -->
 1. Wandersong (NS) [9.0hr]
 
 #### :traffic_light: Started and Need to Finish
