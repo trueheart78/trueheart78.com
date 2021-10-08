@@ -5,7 +5,7 @@ description: A management page for my ever evolving list of games.
 keywords: games, xbox, playstation, nintendo, nintendo switch, switch, oculus quest, oculus, quest, virtual reality, vr
 permalink: /games/
 customnav: games_nav.html
-update: 2021-10-07
+update: 2021-10-08
 ---
 
 <a id='playing'></a>
@@ -16,9 +16,7 @@ update: 2021-10-07
 
 #### :eyes: Focused
 
-1. Hellblade: Senua's Sacrifice (XSX) [7.5hr] :green_heart: <!-- 2020 -->
-   * Looks beautiful with some RTX.
-   * Headphones make the audio quite good.
+[Metroid Dread][metroid dread] (NS) [13.0hr] :new: <!-- Oct -->
 1. Wandersong (NS) [9.0hr]
 
 #### :traffic_light: Started and Need to Finish
@@ -226,6 +224,13 @@ update: 2021-10-07
    * The player choices were cosmically delightful.
    * Absolutely sticks the landing.
    * Couldn’t recommend it high enough. :star: :star: :star: :star: :star:
+1. Hellblade: Senua's Sacrifice (XSX) :green_heart: <!-- 2020 -->
+   * Looked so beautiful with RTX on.
+   * Headphones make the audio experience amazing.
+   * Just such a good game that doesn't overstay it's welcome.
+   * Sticks the landing.
+   * Makes me think about my mom's mental health differently.
+   * The [Mental Health Feature](https://youtu.be/31PbCTS4Sq4) opens up as a menu item post-game & is 25 minutes well spent.
 
 <!-- beaten:end -->
 
@@ -349,7 +354,7 @@ See the [New Releases Wiki][new-releases]. Sorted by release date.
 1. ~~[Astria Ascending][astria ascending] (XSX) [9/30/21] [game pass]~~ :green_heart:
 1. Far Cry 6 (XSX) [10/7/21] [wait for sale]
    * It's Ubisoft, it'll be on heavy discount by the time I get to it.
-1. [Metroid Dread][metroid dread] (NS) [10/8/21] [pre-ordered] :floppy_disk:
+1. ~~[Metroid Dread][metroid dread] (NS) [10/8/21]~~ [pre-ordered] :floppy_disk:
    * Originally disinterested but reviews really sold me on it.
 1. [Disco Elysium - The Final Cut][disco elysium] (XSX) [10/12/21] [wait for $30 sale or game pass]
 1. [The Rift Breaker][rift breaker] (XSX) [10/14/21] [game pass] :green_heart:
