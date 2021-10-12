@@ -5,7 +5,7 @@ description: A management page for my ever evolving list of games.
 keywords: games, xbox, playstation, nintendo, nintendo switch, switch, oculus quest, oculus, quest, virtual reality, vr
 permalink: /games/
 customnav: games_nav.html
-update: 2021-10-08
+update: 2021-10-11
 ---
 
 <a id='playing'></a>
@@ -55,6 +55,7 @@ update: 2021-10-08
 1. SUPERHOT: MIND CONTROL DELETE (XSX) [11.0hr] <!-- Nov 2020 -->
 1. West of Loathing (NS) [11.5hr] <!-- Mar 2018 -->
 1. Steamworld Heist (NS) [12.0hr] <!-- Jul 2019 -->
+1. Unsighted (XSX) [12.0hr] :new: :green_heart: <!-- Oct -->
 1. Need For Speed Heat (XB1) [12.5hr] :green_heart:
    * Compared to Underground 1 & 2. :sparkling_heart:
 1. Child of Light - Ultimate Edition (NS) [15.0hr] <!-- June -->
@@ -354,6 +355,7 @@ See the [New Releases Wiki][new-releases]. Sorted by release date.
 1. ~~Diablo II: Resurrected (XSX) [9/23/21]~~ [skipped]
    * The UI hurts to look at.
 1. ~~[Astria Ascending][astria ascending] (XSX) [9/30/21] [game pass]~~ :green_heart:
+1. ~~Unsighted (XSX) [9/30/21] [game pass]~~ :green_heart:
 1. Far Cry 6 (XSX) [10/7/21] [wait for sale]
    * It's Ubisoft, it'll be on heavy discount by the time I get to it.
 1. ~~[Metroid Dread][metroid dread] (NS) [10/8/21]~~ [pre-ordered] :floppy_disk:
