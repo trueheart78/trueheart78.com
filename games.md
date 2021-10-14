@@ -5,7 +5,7 @@ description: A management page for my ever evolving list of games.
 keywords: games, xbox, playstation, nintendo, nintendo switch, switch, oculus quest, oculus, quest, virtual reality, vr
 permalink: /games/
 customnav: games_nav.html
-update: 2021-10-11
+update: 2021-10-14
 ---
 
 <a id='playing'></a>
@@ -71,6 +71,7 @@ update: 2021-10-11
 1. AI: THE SOMNIUM FILES (XSX) [28.0hr] :green_heart: :new: <!-- Sept -->
 1. Cris Tales (XB1) [28.0hr] :green_heart: <!-- July -->
 1. Darksiders II Deathinitive Edition (XB1) [29.5hr] <!-- July -->
+1. Astria Ascending (XSX) [30.0hr] :green_heart: :new: <!-- Sept -->
 1. Knights of the Old Republic 2 (XBX) [31.0hr] <!-- Oct 2020 -->
 1. Valkyria Chronicles 4 (PS4) [35.5hr] <!-- Oct 2020 -->
 1. SCARLET NEXUS (XSX) [36.0hr] :green_heart: :new: <!-- Sept -->
@@ -79,7 +80,7 @@ update: 2021-10-11
 1. Yakuza: Like a Dragon (XSX) [45.0hr] <!-- Nov 2020 -->
 1. Assassin's Creed: Valhalla (XSX) [53.0hr] <!-- Nov 2020 -->
 1. Tales of Vesperia - Definitive Edition (XB1) [70.0hr] :green_heart: <!-- July -->
-1. Astria Ascending (XSX) [?.?hr] :green_heart: :new: <!-- Sept -->
+1. The Rift Breaker (XSX) [?.?hr] :green_heart: :new: <!-- Oct -->
 
 <!-- unplayed:end -->
 
@@ -356,12 +357,11 @@ See the [New Releases Wiki][new-releases]. Sorted by release date.
    * The UI hurts to look at.
 1. ~~[Astria Ascending][astria ascending] (XSX) [9/30/21] [game pass]~~ :green_heart:
 1. ~~Unsighted (XSX) [9/30/21] [game pass]~~ :green_heart:
-1. Far Cry 6 (XSX) [10/7/21] [wait for sale]
-   * It's Ubisoft, it'll be on heavy discount by the time I get to it.
+1. ~~Far Cry 6 (XSX) [10/7/21]~~ [skipped]
 1. ~~[Metroid Dread][metroid dread] (NS) [10/8/21]~~ [pre-ordered] :floppy_disk:
    * Originally disinterested but reviews really sold me on it.
 1. [Disco Elysium - The Final Cut][disco elysium] (XSX) [10/12/21] [wait for $30 sale or game pass]
-1. [The Rift Breaker][rift breaker] (XSX) [10/14/21] [game pass] :green_heart:
+1. ~~[The Rift Breaker][rift breaker] (XSX) [10/14/21] [game pass]~~ :green_heart:
 1. [The Good Life][good life] (XSX) [10/15/21] [game pass] :green_heart:
 1. Forza Horizon 5 (XSX) [11/9/21] [game pass] :green_heart:
    * Ordered the [Limited Edition controller][forza controller]. :yellow_heart: :sparkling_heart: :blue_heart:
