@@ -4,7 +4,7 @@ title: 📆 What I'm Up to Now
 description: What I've recently been up to.
 keywords: now, nownownow, studying, playing, reading, comics, books, side projects, games, ruby, rails, golang, tv shows, movies
 permalink: /now/
-update: 2021-10-08
+update: 2021-10-18
 ---
 
 ![Agent Smith - Crazy][agent smith - crazy laughing]
@@ -13,9 +13,6 @@ I'm currently living in Ohio, working remote for [CoverMyMeds][cmm] as a softwar
 
 ## :books: Software Development Studies
 
-* [Ruby][ruby] and recent version changes ([2.7][ruby 2.7] & [3.0][ruby 3.0]).
-  * Changes to the stdlib, extracted gems, and new features (like [Ractors][ractors]).
-* [Rails][rails] and recent version changes ([6.0][rails 6.0] & [6.1][rails 6.1]).
 * [Go](https://golang.org/)
    * [Concurrency in Go](https://www.oreilly.com/library/view/concurrency-in-go/9781491941294/)
    * [The Go Programming Language](http://www.gopl.io/)
@@ -28,6 +25,9 @@ I'm currently living in Ohio, working remote for [CoverMyMeds][cmm] as a softwar
 ## :video_game: Playing Until Credits
 
 * _Metroid Dread_ on Nintendo Switch.
+* _Tales of Berseria_ on Playstation 4.
+  * Via remote play on my iPad. :calling:
+  * Using an Xbox controller an my AirPod Pros. :headphones:
 * _Wandersong_ on Nintendo Switch.
 
 ### :checkered_flag: Recently Beaten
@@ -46,13 +46,19 @@ I'm currently living in Ohio, working remote for [CoverMyMeds][cmm] as a softwar
 
 ## :book: Books and Comics
 
-* _TBD_
-  
+* [Punderworld - Volume 1](https://www.amazon.com/dp/B096H56K1W)
+  * Hades falling in love? :revolving_hearts:
+* [BRZRKR - Volume 1](https://www.amazon.com/dp/B09HTNP4SQ)
+  * Co-written by Keanu Reeves.
+
 ### :closed_book: Recently Completed
 
+* [Blood Stain - Volumes 1 to 3](https://www.amazon.com/dp/B07JK9ZBWV) :blood:
+  * Not what I was expecting, but good nonetheless.
+  * 6 more volumes due out, in sets of 3. 
 * [Batman: White Knight Presents: Harley Quinn (2021)](https://www.amazon.com/Batman-White-Knight-Presents-Harley/dp/1779510144) :black_heart: :heart:
-  * Harley's "Noir" suit is awesome, and easily one of my favorites!
-  * I teared up at the end.
+  * Harley's "Noir" suit is awesome, and easily one of my favorites! :star_struck:
+  * I teared up at the end. :cry: :relaxed:
 * [Harley Quinn: Black + White + Red (2021)](https://www.amazon.com/Harley-Quinn-Black-White-Red/dp/1779509952) [[Overview]](https://www.dccomics.com/blog/2020/06/26/dc-proudly-presents-harley-quinn-black-white-red) :black_heart: :heart:
   * What a great set of stories. 
 * [Marvel Rising (2018)](https://www.amazon.com/Marvel-Rising-Devin-Grayson/dp/1302912615)
