@@ -440,6 +440,11 @@ See the [Games in Development Wiki][games-in-development]
   I should consider moving on. I value enjoyment the most, so if the fun factor isn't there, even
   for AAA GOTY titles, it's ok. :rocket:
   - See _Control_ and _Ghost of Tsushima_.
++ Games that frustrate me aren't fun. There's no joy in beating my head against a wall. It's likely that
+  a game that violates this once, will do so again. Don't be fooled.
+  - See _Metroid Dread_.
++ If there is no difficulty setting for a combat-oriented game, I may not be interested.
+  - See _Metroid Dread_.
   
 <a id='legend'></a>
 
