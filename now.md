@@ -53,7 +53,7 @@ I'm currently living in Ohio, working remote for [CoverMyMeds][cmm] as a softwar
 
 ### :closed_book: Recently Completed
 
-* [Blood Stain - Volumes 1 to 3](https://www.amazon.com/dp/B07JK9ZBWV) :lab_coat: :drop_of_blood:
+* [Blood Stain - Volumes 1 to 3](https://www.amazon.com/dp/B07JK9ZBWV)
   * Not what I was expecting, but good nonetheless.
   * 6 more volumes due out, in sets of 3. 
 * [Batman: White Knight Presents: Harley Quinn (2021)](https://www.amazon.com/Batman-White-Knight-Presents-Harley/dp/1779510144) :black_heart: :heart:
