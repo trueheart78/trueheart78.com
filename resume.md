@@ -4,7 +4,7 @@ title: 👨‍💻 My Resume
 description: I love writing Ruby & Go, rocking out to Taylor Swift, and using gifs to make others smile. I’ve been writing software professionally since 2004.
 keywords: resume, ruby, golang, software developer, side projects, open source, rails, sinatrarb, aws, lambda, aws lambda, paypal
 permalink: /resume/
-update: 2021-10-03
+update: 2021-10-19
 ---
 
 <a id='intro'></a>
@@ -98,6 +98,13 @@ for payment processing.
 * Site: [caringforkarensue.com][caringforkarensue]
 * Source: [GitHub][caringforkarensue-source]
 
+### :detective: Gem Lookup
+
+Simple but effective command line tool that looks up gem details using [RubyGems.org's public API][ruby-gems-api] and displays the results in an emoji-filled format. Makes concurrent requests and obeys the rate limit via a  batching feature.
+
+* RubyGems: [Gem Lookup][gem-lookup-ruby-gems]
+* Source: [GitHub][gem-lookup-source]
+
 ### :notebook: Book Notes
 
 Where I put notes from books I’ve read. Makes it much easier to study across machines, and provides
@@ -112,15 +119,6 @@ generates the core markdown files for the chapters and sections. It also places 
 the above Book Notes project in a new folder, with a handy Readme link provided at the end. 
 
 * Source: [GitHub][book-notes-generator-source]
-
-### :skull: Dead To Us
-
-A goof project to display team members at CMM that are "dead to us" (read: anyone that has left the
-team). Originally a Rails 5 project, I converted it to a basic HTML site on AWS S3 for faster load
-times, and no monthly cost.
-
-* Site: [deadtous.com][dead-to-us]
-* Source: [GitHub][dead-to-us-source]
 
 ### :video_game: Go, Deathbonus!
 
@@ -258,10 +256,11 @@ Associate of Computer Science in Software Applications and Programming
 [gifs-gem-source]: https://github.com/trueheart78/gifs
 [caringforkarensue]: https://caringforkarensue.com
 [caringforkarensue-source]: https://github.com/trueheart78/caring-for-karen-sue
+[gem-lookup-ruby-gems]: https://rubygems.org/gems/gem_lookup
+[gem-lookup-source]: https://github.com/trueheart78/gem_lookup/
+[ruby-gems-api]: https://guides.rubygems.org/rubygems-org-api/#gem-methods
 [book-notes-source]: https://github.com/trueheart78/book-notes
 [book-notes-generator-source]: https://github.com/trueheart78/book-notes-generator
-[dead-to-us]: https://www.deadtous.com/
-[dead-to-us-source]: https://github.com/trueheart78/dead-to-us-html
 [deathbonus]: https://go.deathbon.us/
 [deathbonus-source]: https://github.com/trueheart78/deathbonus-2.0
 [alexa-alerter-source]: https://github.com/trueheart78/alexa-alerter
