@@ -162,54 +162,54 @@ update: 2021-10-18
 
 <!-- beaten:start -->
 
-## :checkered_flag: Beaten [:top:][top]
+## :checkered_flag: Beaten [:top:][top] <a id='cyberpunk-2077'></a>
 
 1. Cyberpunk 2077 (XSX) <!-- Dec 2020 -->
    * 90+ hours spent doing everything aside from buying all the vehicles.
    * Got a satsifying ending with Judy and Panam.
    * May revisit after the next-gen upgrade, but not before.
    * Judy :sparkling_heart:
-   * Panam :sparkling_heart:
+   * Panam :sparkling_heart: <a id='watch-dogs-legion'></a>
 1. Watch Dogs: Legion (XSX) <!-- Nov 2020 -->
    * On a scale of 1 to 10, I give it a 6.5 (Decent).
    * No main character made the game less engaging.
    * Story beats were solid.
    * Really chuffed it lost 6 hours of progress due to an autosave issue.
    * I did enjoy the hacking and bits, but for me, even with all the crashes and bugs, Cyberpunk 2077 ate its lunch and dinner and kept me overnight and took me out to breakfast. 
-   * Bagley :sparkling_heart:
+   * Bagley :sparkling_heart: <a id='sayonara-wild-hearts'></a>
 1. Sayonara Wild Hearts (NS) <!-- Oct 2019 -->
    * Chose this as a palette cleanser and it delivered in spades.
    * The entire experience was simply wonderful.
    * I don't think I could recommend this game highly enough.
    * I had a tear running down my cheek by the end of the game.
-   * Best end level I have played in a long time. :kiss:
+   * Best end level I have played in a long time. :kiss: <a id='project-triangle-demo'></a>
 1. Project TRIANGLE STRATEGY™ (working title) Debut Demo (NS)
    * Played enough of the demo to know I like it.
    * Reminds me of Fire Emblem: Three Houses, strategy-wise.
    * Looks like OCTOPATH TRAVELER
-   * Will defintely consider this on-sale, post-release.
+   * Will defintely consider this on-sale, post-release. <a id='rain-on-your-parade'></a>
 1. Rain on Your Parade (XB1) :green_heart: <!-- May -->
    * Wonderful game that didn't overstay it's welcome.
    * Continually changed up the formula.
    * Literally laughed out loud at a late game achievement. 
-   * Cloudy :sparkling_heart:
+   * Cloudy :sparkling_heart: <a id='tunic-demo'></a>
 1. Tunic Demo (XSX) <!-- June -->
    * Fun and charming.
-   * Impeccable music.
+   * Impeccable music. <a id='haven'></a>
 1. Haven (XSX) :green_heart:
    * It had me at, _"Hello"_ [(the _New Game_ screen)][haven - new game]. :cupid:
    * "This is wonderful", I said aloud, in the nest for the first time. :heartpulse:
    * Just caught myself smiling at [the interactions][haven - butt] between [Kay & Yu][haven - criminal lovers]. :revolving_hearts:
-   * [I love this][haven - selfie]. I didn’t know a game [like this][haven - embrace] existed. :blush:
+   * [I love this][haven - selfie]. I didn’t know a game [like this][haven - embrace] existed. :blush: <a id='chicory'></a>
 1. Chicory: A Colorful Tale (PS4) <!-- June -->
    * Completely worth the price of admission.
    * Very enjoyable gameplay.
    * Godmode and Boss Skip options should be standards.
    * Very solid story covering emotions and friendship.
-   * Chicory :sparkling_heart:
+   * Chicory :sparkling_heart: <a id='subsurface-circular'></a>
 1. Subsurface Circular (NS) <!-- July -->
    * Mixed feelings. 
-   * Did like the lore nod to Thomas Was Alone. :heart:
+   * Did like the lore nod to Thomas Was Alone. :heart: <a id='lake'></a>
 1. Lake (XSX) <!-- Sept -->
    * Pre-ordered after positive reviews.
    * Felt underwhelmed and disappointed by the end. :disappointed:
@@ -220,7 +220,7 @@ update: 2021-10-18
         potentially had dinner with in a two-week span, without giving me any freedom to
         explore those potenially budding relationships at my leisure.
    * More characters bothered me with their personalities than I enjoyed.
-   * Plagued by technical issues, at the end, I chose to go back home.
+   * Plagued by technical issues, at the end, I chose to go back home. <a id='the-artful-escape'></a>
 1. [The Artful Escape][artful escape] (XSX) :green_heart: <!-- Sept -->
    * What a game!
    * Stunning visuals.
@@ -228,15 +228,15 @@ update: 2021-10-18
    * Solid Bill & Ted vibes (on a journey and not sure how to take on a big show.)
    * The player choices were cosmically delightful.
    * Absolutely sticks the landing.
-   * Couldn’t recommend it high enough. :star: :star: :star: :star: :star:
+   * Couldn’t recommend it high enough. :star: :star: :star: :star: :star: <a id='hellblade'></a>
 1. Hellblade: Senua's Sacrifice (XSX) :green_heart: <!-- 2020 -->
    * Looked so beautiful with RTX on.
    * Headphones make the audio experience amazing.
    * Just such a good game that doesn't overstay it's welcome.
    * Sticks the landing.
    * Makes me think about my mom's mental health differently.
-   * The [Mental Health Feature](https://youtu.be/31PbCTS4Sq4) opens up as a menu item post-game & is 25 minutes well spent.
-1. [Metroid Dread][metroid dread] (NS) <!-- Oct --> <a id='metroid-dread'></a>
+   * The [Mental Health Feature](https://youtu.be/31PbCTS4Sq4) opens up as a menu item post-game & is 25 minutes well spent. <a id='metroid'></a>
+1. [Metroid Dread][metroid dread] (NS) <!-- Oct -->
    * So very cool.
    * Movement is super fluid and gameplay was _mostly_ enjoyable.
    * The EMMI's were more annoying than frightening.
@@ -245,7 +245,7 @@ update: 2021-10-18
    * New turbo-enabled third party Joycons made it easier.
    * Story was interesting but not captivating.
    * After multiple tries, watched the final battle and ending on YouTube.
-   * I liked it, but it definitely had it's flaws.
+   * I liked it, but it definitely had it's flaws. :star: :star: :star:
 
 <!-- beaten:end -->
 
