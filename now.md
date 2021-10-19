@@ -53,7 +53,7 @@ I'm currently living in Ohio, working remote for [CoverMyMeds][cmm] as a softwar
 
 ### :closed_book: Recently Completed
 
-* [Blood Stain - Volumes 1 to 3](https://www.amazon.com/dp/B07JK9ZBWV) :blood:
+* [Blood Stain - Volumes 1 to 3](https://www.amazon.com/dp/B07JK9ZBWV) :lab_coat: :drop_of_blood:
   * Not what I was expecting, but good nonetheless.
   * 6 more volumes due out, in sets of 3. 
 * [Batman: White Knight Presents: Harley Quinn (2021)](https://www.amazon.com/Batman-White-Knight-Presents-Harley/dp/1779510144) :black_heart: :heart:
@@ -82,7 +82,7 @@ I'm currently living in Ohio, working remote for [CoverMyMeds][cmm] as a softwar
   * Three episode in.
   * Captain Carter is so good!
 * [Harley Quinn (TV Series)](https://en.wikipedia.org/wiki/Harley_Quinn_(TV_series)) :black_heart: :heart:
-  * Starting season two.
+  * Middle of season two.
 * [Solos](https://www.amazon.com/Solos-Season-1/dp/B0945CR5MM)
   * Two episodes in.
   
