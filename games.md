@@ -235,7 +235,7 @@ update: 2021-10-18
    * Just such a good game that doesn't overstay it's welcome.
    * Sticks the landing.
    * Makes me think about my mom's mental health differently.
-   * The [Mental Health Feature](https://youtu.be/31PbCTS4Sq4) opens up as a menu item post-game & is 25 minutes well spent. <a id='metroid'></a>
+   * The [Mental Health Feature](https://youtu.be/31PbCTS4Sq4) opens up as a menu item post-game & is 25 minutes well spent. <a id='metroid-dread'></a>
 1. [Metroid Dread][metroid dread] (NS) <!-- Oct -->
    * So very cool.
    * Movement is super fluid and gameplay was _mostly_ enjoyable.
