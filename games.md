@@ -16,7 +16,6 @@ update: 2021-10-18
 
 #### :eyes: Focused
 
-1. [Metroid Dread][metroid dread] (NS) [13.0hr] :new: <!-- Oct -->
 1. Tales of Berseria (PS4) [44.5hr] <!-- Oct 2020 -->
    * Remote play on iPad with an Xbox controller. 
 1. Wandersong (NS) [9.0hr]
@@ -237,6 +236,16 @@ update: 2021-10-18
    * Sticks the landing.
    * Makes me think about my mom's mental health differently.
    * The [Mental Health Feature](https://youtu.be/31PbCTS4Sq4) opens up as a menu item post-game & is 25 minutes well spent.
+1. [Metroid Dread][metroid dread] (NS) <!-- Oct --> <a id='metroid-dread'></a>
+   * So very cool.
+   * Movement is super fluid and gameplay was _mostly_ enjoyable.
+   * The EMMI's were more annoying than frightening.
+   * The "spam missiles to win _most_ boss fights" became tedious.
+   * Nearly gave up on the second boss, my hands and wrists hurt from Joycon & Pro Controller usage.
+   * New turbo-enabled third party Joycons made it easier.
+   * Story was interesting but not captivating.
+   * After multiple tries, watched the final battle and ending on YouTube.
+   * I liked it, but it definitely had it's flaws.
 
 <!-- beaten:end -->
 

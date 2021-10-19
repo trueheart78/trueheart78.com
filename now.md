@@ -24,7 +24,6 @@ I'm currently living in Ohio, working remote for [CoverMyMeds][cmm] as a softwar
 
 ## :video_game: Playing Until Credits
 
-* _Metroid Dread_ on Nintendo Switch.
 * _Tales of Berseria_ on Playstation 4.
   * Via remote play on my iPad. :calling:
   * Using an Xbox controller an my AirPod Pros. :headphones:
@@ -32,6 +31,7 @@ I'm currently living in Ohio, working remote for [CoverMyMeds][cmm] as a softwar
 
 ### :checkered_flag: Recently Beaten
 
+* _Metroid Dread_ on Nintendo Switch.
 * _Hellblade: Senua's Sacrifice_ on Xbox Series X.
 * _The Artful Escape_ on Xbox Series X.
 * _Lake_ on Xbox Series X.
