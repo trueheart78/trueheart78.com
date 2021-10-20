@@ -50,6 +50,7 @@ update: 2021-10-20
 1. Last Stop (XSX) [6.5hr] :green_heart:
 1. River City Girls (XB1) [7.0hr] :green_heart:
 1. Far Cry 3: Blood Dragon (360) [7.0hr] <!-- June -->
+1. Darkside Detective: A Fumble in the Dark (NS) [7.5hr] :new: <!-- Oct -->
 1. Trover Saves the Universe (VR) [8.0hr] <!-- June -->
 1. Deadpool (XB1) [10.0hr] :cd: :new: <!-- August -->
 1. Star Wars: The Force Unleashed (360) [Enhanced Ed] [11.0hr] <!-- July -->
@@ -408,7 +409,7 @@ See the [Games in Development Wiki][games-in-development]
 
 ## :dollar: Planned Purchases (Previously Released)
 
-1. Darkside Detective: A Fumble in the Dark (XSX/NS) [7.5hr] [wait for sale]
+1. ~~Darkside Detective: A Fumble in the Dark (NS) [7.5hr]~~ [purchased]
 1. ~~Final Fantasy XV Royal Edition (XSX) [35.0hr]~~ [skipped]
 1. Immortals Fenyx Rising (XSX) [30.0hr] [wait for $20 sale]
 1. ~~Regalia: Of Men and Monarchs - Royal Edition (NS) [40.5hr]~~ [skipped]
