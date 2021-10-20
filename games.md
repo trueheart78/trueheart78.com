@@ -5,7 +5,7 @@ description: A management page for my ever evolving list of games.
 keywords: games, xbox, playstation, nintendo, nintendo switch, switch, oculus quest, oculus, quest, virtual reality, vr
 permalink: /games/
 customnav: games_nav.html
-update: 2021-10-18
+update: 2021-10-20
 ---
 
 <a id='playing'></a>
@@ -16,6 +16,8 @@ update: 2021-10-18
 
 #### :eyes: Focused
 
+1. Down The Rabbit Hole (VR) [3.0hr] <!-- May -->
+   * 120hz mode supported.
 1. Tales of Berseria (PS4) [44.5hr] <!-- Oct 2020 -->
    * Remote play on iPad with an Xbox controller. 
 1. Wandersong (NS) [9.0hr]
@@ -35,8 +37,6 @@ update: 2021-10-18
 ## :space_invader: Unplayed [:top:][top]
 
 1. Vader Immortal: Episode I (VR) [1.0hr] :new: <!-- August -->
-1. Down The Rabbit Hole (VR) [3.0hr] <!-- May -->
-   * 120hz mode supported.
 1. Pixel Ripped 1995 (VR) [3.0hr] <!-- Oct 2020 -->
 1. Deltarune: Chapter 1 (NS) [3.5hr] :new: <!-- Oct -->
 1. GRIS (NS) [4.0hr] <!-- Nov 2019 -->
