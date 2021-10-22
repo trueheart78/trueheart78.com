@@ -21,7 +21,7 @@ update: 2021-10-21
 1. Tales of Berseria (PS4) [44.5hr] <!-- Oct 2020 -->
    * Remote play on iPad with an Xbox controller. 
 1. Wandersong (NS) [9.0hr]
-   * Two overseers visited :notes
+   * Two overseers visited :notes:
 
 #### :traffic_light: Started and Need to Finish
 
