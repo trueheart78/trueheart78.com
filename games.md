@@ -5,7 +5,7 @@ description: A management page for my ever evolving list of games.
 keywords: games, xbox, playstation, nintendo, nintendo switch, switch, oculus quest, oculus, quest, virtual reality, vr
 permalink: /games/
 customnav: games_nav.html
-update: 2021-10-21
+update: 2021-10-22
 ---
 
 <a id='playing'></a>
@@ -82,8 +82,6 @@ update: 2021-10-21
 1. Hades (XSX) [43.5hr] :green_heart: <!-- August -->
 1. Yakuza: Like a Dragon (XSX) [45.0hr] <!-- Nov 2020 -->
 1. Assassin's Creed: Valhalla (XSX) [53.0hr] <!-- Nov 2020 -->
-1. Tales of Vesperia - Definitive Edition (XB1) [70.0hr] :green_heart: <!-- July -->
-1. The Rift Breaker (XSX) [?.?hr] :green_heart: :new: <!-- Oct -->
 
 <!-- unplayed:end -->
 
@@ -330,6 +328,8 @@ of games I have to play is oh so long._
    * Highly rated. 
    * Taste tested.
    * Not for me.
+1. Tales of Vesperia - Definitive Edition (XB1) [70.0hr] :green_heart: <!-- July -->
+   * Left Game Pass before I got to it.
    
 <!-- jettisoned:end -->
 
@@ -374,7 +374,7 @@ See the [New Releases Wiki][new-releases]. Sorted by release date.
 1. ~~[Metroid Dread][metroid dread] (NS) [10/8/21]~~ [pre-ordered] :floppy_disk:
    * Originally disinterested but reviews really sold me on it.
 1. [Disco Elysium - The Final Cut][disco elysium] (XSX) [10/12/21] [wait for $20 sale or game pass]
-1. ~~[The Rift Breaker][rift breaker] (XSX) [10/14/21] [game pass]~~ :green_heart:
+1. ~~[The Rift Breaker][rift breaker] (XSX) [10/14/21] [game pass]~~ :green_heart: [skipped]
 1. ~~[The Good Life][good life] (XSX) [10/15/21] [game pass]~~ :green_heart:
 1. Forza Horizon 5 (XSX) [11/9/21] [game pass] :green_heart:
    * Ordered the [Limited Edition controller][forza controller]. :yellow_heart: :sparkling_heart: :blue_heart:
