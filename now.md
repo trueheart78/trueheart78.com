@@ -4,7 +4,7 @@ title: 📆 What I'm Up to Now
 description: What I've recently been up to.
 keywords: now, nownownow, studying, playing, reading, comics, books, side projects, games, ruby, rails, golang, tv shows, movies
 permalink: /now/
-update: 2021-10-20
+update: 2021-10-23
 ---
 
 ![Agent Smith - Crazy][agent smith - crazy laughing]
@@ -49,11 +49,14 @@ I'm currently living in Ohio, working remote for [CoverMyMeds][cmm] as a softwar
 
 * [Punderworld - Volume 1](https://www.amazon.com/dp/B096H56K1W)
   * Hades falling in love? :revolving_hearts:
-* [BRZRKR - Volume 1](https://www.amazon.com/dp/B09HTNP4SQ)
-  * Co-written by Keanu Reeves.
+* [Saga - Volume 5](https://imagecomics.com/comics/series/saga)
+  * Such a wonderful series.
 
 ### :closed_book: Recently Completed
 
+* [BRZRKR - Volume 1](https://www.amazon.com/dp/B09HTNP4SQ)
+  * Co-written by Keanu Reeves.
+  * Pretty forking great.
 * [Blood Stain - Volumes 1 to 3](https://www.amazon.com/dp/B07JK9ZBWV)
   * Not what I was expecting, but good nonetheless.
   * 6 more volumes due out, in sets of 3. 
@@ -178,3 +181,4 @@ Head over to the [About Page][now - about] of [NowNowNow.com][now - home] for mo
 [agent smith - crazy laughing]: /assets/images/now/agent-smith-crazy-laughing.gif
 [now - about]: https://nownownow.com/about 
 [now - home]: https://nownownow.com
+[go date format]: https://godateformat.com
