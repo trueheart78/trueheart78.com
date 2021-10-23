@@ -27,7 +27,7 @@ I'm currently living in Ohio, working remote for [CoverMyMeds][cmm] as a softwar
 * _Down the Rabbit Hole_ on my Oculus Quest 2.
 * _Tales of Berseria_ on Playstation 4.
   * Via remote play on my iPad. :calling:
-  * Using an Xbox controller an my AirPod Pros. :headphones:
+  * Using an Xbox controller and my AirPod Pros. :headphones:
 * _Wandersong_ on Nintendo Switch.
 
 ### :checkered_flag: Recently Beaten
