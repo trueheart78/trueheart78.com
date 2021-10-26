@@ -22,7 +22,7 @@ update: 2021-10-26
    * Remote play on iPad with an Xbox controller. 
 1. Wandersong (NS) [9.0hr]
    * Just started Act 5. :notes:
-   * He doesn't do well with coffee. :coffee: :lol:
+   * He doesn't do well with coffee. :coffee: :joy:
 
 #### :traffic_light: Started and Need to Finish
 
