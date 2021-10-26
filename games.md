@@ -5,7 +5,7 @@ description: A management page for my ever evolving list of games.
 keywords: games, xbox, playstation, nintendo, nintendo switch, switch, oculus quest, oculus, quest, virtual reality, vr
 permalink: /games/
 customnav: games_nav.html
-update: 2021-10-22
+update: 2021-10-26
 ---
 
 <a id='playing'></a>
@@ -21,7 +21,8 @@ update: 2021-10-22
 1. Tales of Berseria (PS4) [44.5hr] <!-- Oct 2020 -->
    * Remote play on iPad with an Xbox controller. 
 1. Wandersong (NS) [9.0hr]
-   * Two overseers visited :notes:
+   * Just started Act 5. :notes:
+   * He doesn't do well with coffee. :coffee: :lol:
 
 #### :traffic_light: Started and Need to Finish
 
