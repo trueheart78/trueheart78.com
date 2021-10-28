@@ -5,7 +5,7 @@ description: A management page for my ever evolving list of games.
 keywords: games, xbox, playstation, nintendo, nintendo switch, switch, oculus quest, oculus, quest, virtual reality, vr
 permalink: /games/
 customnav: games_nav.html
-update: 2021-10-26
+update: 2021-10-28
 ---
 
 <a id='playing'></a>
@@ -49,7 +49,6 @@ update: 2021-10-26
 1. Raji: An Ancient Epic (XB1) [5.5hr] :green_heart: <!-- July -->
 1. Transistor (NS) [6.0hr] <!-- Mar -->
 1. Dirt 5 (XSX) [6.5hr] :green_heart:
-1. Last Stop (XSX) [6.5hr] :green_heart:
 1. River City Girls (XB1) [7.0hr] :green_heart:
 1. Far Cry 3: Blood Dragon (360) [7.0hr] <!-- June -->
 1. Darkside Detective: A Fumble in the Dark (NS) [7.5hr] :new: <!-- Oct -->
@@ -70,7 +69,6 @@ update: 2021-10-26
 1. Darksiders: Warmaster Edition (XB1) [20.0hr] <!-- July -->
 1. Evoland 2 (NS) [20.0hr] <!-- July -->
 1. Art of Rally (XSX) [20.5hr] :green_heart: :new: <!-- Sept -->
-1. The Good Life (XSX) [23.5hr] :green_heart: :new: <!-- Oct -->
 1. ALTDEUS: Beyond Chronos + Episode Yamato DLC (VR) [25.0hr] <!-- Mar + June -->
 1. Valkyria Chronicles Remastered (PS4) [27.5hr] <!-- Oct 2020 -->
 1. AI: THE SOMNIUM FILES (XSX) [28.0hr] :green_heart: :new: <!-- Sept -->
@@ -331,7 +329,9 @@ of games I have to play is oh so long._
    * Not for me.
 1. Tales of Vesperia - Definitive Edition (XB1) [70.0hr] :green_heart: <!-- July -->
    * Left Game Pass before I got to it.
-   
+1. Last Stop (XSX) [6.5hr] :green_heart:
+   * Realized I don't want to play this.
+
 <!-- jettisoned:end -->
 
 <a id='planned-purchases'></a>
@@ -376,7 +376,7 @@ See the [New Releases Wiki][new-releases]. Sorted by release date.
    * Originally disinterested but reviews really sold me on it.
 1. [Disco Elysium - The Final Cut][disco elysium] (XSX) [10/12/21] [wait for $20 sale or game pass]
 1. ~~[The Rift Breaker][rift breaker] (XSX) [10/14/21] [game pass]~~ :green_heart: [skipped]
-1. ~~[The Good Life][good life] (XSX) [10/15/21] [game pass]~~ :green_heart:
+1. ~~[The Good Life][good life] (XSX) [10/15/21] [game pass]~~ :green_heart: [skipped]
 1. Forza Horizon 5 (XSX) [11/9/21] [game pass] :green_heart:
    * Ordered the [Limited Edition controller][forza controller]. :yellow_heart: :sparkling_heart: :blue_heart:
 1. Triangle Strategy (NS) [3/4/22] [wait for sale]
