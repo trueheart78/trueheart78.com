@@ -18,6 +18,7 @@ update: 2021-10-28
 
 1. Down The Rabbit Hole (VR) [3.0hr] <!-- May -->
    * 120hz mode supported.
+1. Moonglow Bay (XSX) :new: <!-- Oct -->
 1. Tales of Berseria (PS4) [44.5hr] <!-- Oct 2020 -->
    * Remote play on iPad with an Xbox controller. 
 1. Wandersong (NS) [9.0hr]

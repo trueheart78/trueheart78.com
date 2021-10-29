@@ -4,7 +4,7 @@ title: 📆 What I'm Up to Now
 description: What I've recently been up to.
 keywords: now, nownownow, studying, playing, reading, comics, books, side projects, games, ruby, rails, golang, tv shows, movies
 permalink: /now/
-update: 2021-10-23
+update: 2021-10-28
 ---
 
 ![Agent Smith - Crazy][agent smith - crazy laughing]
@@ -24,7 +24,8 @@ I'm currently living in Ohio, working remote for [CoverMyMeds][cmm] as a softwar
 
 ## :video_game: Playing Until Credits
 
-* _Down the Rabbit Hole_ on my Oculus Quest 2.
+* _Down the Rabbit Hole_ on Oculus Quest 2.
+* _Moonglow Bay_ on Xbox Series X.
 * _Tales of Berseria_ on Playstation 4.
   * Via remote play on my iPad. :calling:
   * Using an Xbox controller and my AirPod Pros. :headphones:
