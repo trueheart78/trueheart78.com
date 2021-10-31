@@ -5,7 +5,7 @@ description: A management page for my ever evolving list of games.
 keywords: games, xbox, playstation, nintendo, nintendo switch, switch, oculus quest, oculus, quest, virtual reality, vr
 permalink: /games/
 customnav: games_nav.html
-update: 2021-10-29
+update: 2021-10-31
 ---
 
 <a id='playing'></a>
@@ -18,7 +18,6 @@ update: 2021-10-29
 
 1. Down The Rabbit Hole (VR) [3.0hr] <!-- May -->
    * 120hz mode supported.
-1. Moonglow Bay (XSX) :new: :green_heart: <!-- Oct -->
 1. Tales of Berseria (PS4) [44.5hr] <!-- Oct 2020 -->
    * Remote play on iPad with an Xbox controller. 
 1. Wandersong (NS) [9.0hr]
@@ -332,6 +331,9 @@ of games I have to play is oh so long._
    * Left Game Pass before I got to it.
 1. Last Stop (XSX) [6.5hr] :green_heart:
    * Realized I don't want to play this.
+1. Moonglow Bay (XSX) :green_heart: <!-- Oct -->
+   * Charm wore off after two chapters.
+   * Became a job simulator where I was looking for podcasts to listen to while I played.
 
 <!-- jettisoned:end -->
 

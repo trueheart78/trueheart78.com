@@ -4,7 +4,7 @@ title: 📆 What I'm Up to Now
 description: What I've recently been up to.
 keywords: now, nownownow, studying, playing, reading, comics, books, side projects, games, ruby, rails, golang, tv shows, movies
 permalink: /now/
-update: 2021-10-28
+update: 2021-10-30
 ---
 
 ![Agent Smith - Crazy][agent smith - crazy laughing]
@@ -25,7 +25,6 @@ I'm currently living in Ohio, working remote for [CoverMyMeds][cmm] as a softwar
 ## :video_game: Playing Until Credits
 
 * _Down the Rabbit Hole_ on Oculus Quest 2.
-* _Moonglow Bay_ on Xbox Series X.
 * _Tales of Berseria_ on Playstation 4.
   * Via remote play on my iPad. :calling:
   * Using an Xbox controller and my AirPod Pros. :headphones:
@@ -123,9 +122,7 @@ I'm currently living in Ohio, working remote for [CoverMyMeds][cmm] as a softwar
 
 ### :hammer: Current
 
-* Crafting [Gem Lookup][gem lookup]
-  * Was intended to be a simple script, slowly turned into a Ruby Gem. :gem:
-  * Planning a Go-based version, as to remove any Ruby version restrictions.
+* _TBD_
 
 ### :soon: In The Works
 
@@ -135,6 +132,8 @@ I'm currently living in Ohio, working remote for [CoverMyMeds][cmm] as a softwar
 
 ### :ballot_box_with_check: Completed
 
+* [Gem Lookup :detective:][gem lookup] gem.
+  * Was intended to be a simple script, slowly turned into a Ruby Gem. :gem:
 * [CaringForKarenSue.com][caring for karen sue] ([source][caring for karen sue - source]) upgraded to Rails 6.1.
 * [Food Tracker :watermelon:][food tracker source]
 * [Global Pandemic Goofs Site 🦠][pandemic site]
