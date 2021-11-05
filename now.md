@@ -4,7 +4,7 @@ title: 📆 What I'm Up to Now
 description: What I've recently been up to.
 keywords: now, nownownow, studying, playing, reading, comics, books, side projects, games, ruby, rails, golang, tv shows, movies
 permalink: /now/
-update: 2021-10-30
+update: 2021-11-04
 ---
 
 ![Agent Smith - Crazy][agent smith - crazy laughing]
@@ -47,13 +47,14 @@ I'm currently living in Ohio, working remote for [CoverMyMeds][cmm] as a softwar
 
 ## :book: Books and Comics
 
-* [Punderworld - Volume 1](https://www.amazon.com/dp/B096H56K1W)
-  * Hades falling in love? :revolving_hearts:
 * [Saga - Volume 5](https://imagecomics.com/comics/series/saga)
   * Such a wonderful series.
 
 ### :closed_book: Recently Completed
 
+* [Punderworld - Volume 1](https://www.amazon.com/dp/B096H56K1W)
+  * Hades falling in love? :revolving_hearts:
+  * So very sweet.
 * [BRZRKR - Volume 1](https://www.amazon.com/dp/B09HTNP4SQ)
   * Co-written by Keanu Reeves.
   * Pretty forking great.
