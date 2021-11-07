@@ -249,7 +249,7 @@ update: 2021-11-07
    * The gameplay never felt old.
    * Miriam had such wonderful character development. :sparkling_heart:
    * Baub was a delight to watch in every situation.
-   * I loved [the secret password area][wandersong secrets video].
+   * I loved [the secret area][wandersong secrets video].
    * :star: :star: :star: :star: :star:
 
 <!-- beaten:end -->
