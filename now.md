@@ -4,7 +4,7 @@ title: 📆 What I'm Up to Now
 description: What I've recently been up to.
 keywords: now, nownownow, studying, playing, reading, comics, books, side projects, games, ruby, rails, golang, tv shows, movies
 permalink: /now/
-update: 2021-11-04
+update: 2021-11-07
 ---
 
 ![Agent Smith - Crazy][agent smith - crazy laughing]
@@ -28,10 +28,10 @@ I'm currently living in Ohio, working remote for [CoverMyMeds][cmm] as a softwar
 * _Tales of Berseria_ on Playstation 4.
   * Via remote play on my iPad. :calling:
   * Using an Xbox controller and my AirPod Pros. :headphones:
-* _Wandersong_ on Nintendo Switch.
 
 ### :checkered_flag: Recently Beaten
 
+* _Wandersong_ on Nintendo Switch.
 * _Metroid Dread_ on Nintendo Switch.
 * _Hellblade: Senua's Sacrifice_ on Xbox Series X.
 * _The Artful Escape_ on Xbox Series X.

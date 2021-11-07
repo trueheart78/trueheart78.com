@@ -5,7 +5,7 @@ description: A management page for my ever evolving list of games.
 keywords: games, xbox, playstation, nintendo, nintendo switch, switch, oculus quest, oculus, quest, virtual reality, vr
 permalink: /games/
 customnav: games_nav.html
-update: 2021-10-31
+update: 2021-11-07
 ---
 
 <a id='playing'></a>
@@ -20,9 +20,6 @@ update: 2021-10-31
    * 120hz mode supported.
 1. Tales of Berseria (PS4) [44.5hr] <!-- Oct 2020 -->
    * Remote play on iPad with an Xbox controller. 
-1. Wandersong (NS) [9.0hr]
-   * Just started Act 5. :notes:
-   * He doesn't do well with coffee. :coffee: :joy:
 
 #### :traffic_light: Started and Need to Finish
 
@@ -244,7 +241,16 @@ update: 2021-10-31
    * New turbo-enabled third party Joycons made it easier.
    * Story was interesting but not captivating.
    * After multiple tries, watched the final battle and ending on YouTube.
-   * I liked it, but it definitely had it's flaws. :star: :star: :star:
+   * I liked it, but it definitely had it's flaws. :star: :star: :star: <a id="wandersong"></a>
+1. Wandersong (NS)
+   * Finally saw this through after _years_ in my library.
+   * What started with a silly bard ended with some of the most heartfelt game design I've ever experienced.
+   * The music was the star.
+   * The gameplay never felt old.
+   * Miriam had such wonderful character development. :sparkling_heart:
+   * Baub was a delight to watch in every situation.
+   * I loved [the secret password area][wandersong secrets video].
+   * :star: :star: :star: :star: :star:
 
 <!-- beaten:end -->
 
@@ -503,3 +509,4 @@ See the [Games in Development Wiki][games-in-development]
 [haven - butt]: https://i.imgur.com/vHNTEdu.png
 [haven - selfie]: https://i.imgur.com/MauLWyb.png
 [forza controller]: https://www.xbox.com/en-US/accessories/controllers/forza-horizon-5-limited-edition
+[wandersong secrets video]: https://youtu.be/hhRBbFSF1BE
