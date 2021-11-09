@@ -5,7 +5,7 @@ description: A management page for my ever evolving list of games.
 keywords: games, xbox, playstation, nintendo, nintendo switch, switch, oculus quest, oculus, quest, virtual reality, vr
 permalink: /games/
 customnav: games_nav.html
-update: 2021-11-07
+update: 2021-11-09
 ---
 
 <a id='playing'></a>
@@ -18,6 +18,7 @@ update: 2021-11-07
 
 1. Down The Rabbit Hole (VR) [3.0hr] <!-- May -->
    * 120hz mode supported.
+1. Forza Horizon 5 (XSX) :green_heart: <!-- Nov -->
 1. Tales of Berseria (PS4) [44.5hr] <!-- Oct 2020 -->
    * Remote play on iPad with an Xbox controller. 
 
@@ -386,7 +387,7 @@ See the [New Releases Wiki][new-releases]. Sorted by release date.
 1. [Disco Elysium - The Final Cut][disco elysium] (XSX) [10/12/21] [wait for $20 sale or game pass]
 1. ~~[The Rift Breaker][rift breaker] (XSX) [10/14/21] [game pass]~~ :green_heart: [skipped]
 1. ~~[The Good Life][good life] (XSX) [10/15/21] [game pass]~~ :green_heart: [skipped]
-1. Forza Horizon 5 (XSX) [11/9/21] [game pass] :green_heart:
+1. ~~Forza Horizon 5 (XSX) [11/9/21] [game pass]~~ :green_heart:
    * Ordered the [Limited Edition controller][forza controller]. :yellow_heart: :sparkling_heart: :blue_heart:
 1. Triangle Strategy (NS) [3/4/22] [wait for sale]
    * The demo was right up my tactics-loving alley.
