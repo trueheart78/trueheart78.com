@@ -18,7 +18,7 @@ update: 2021-11-13
 
 1. Down The Rabbit Hole (VR) [3.0hr] <!-- May -->
    * 120hz mode supported.
-1. Forza Horizon 5 (XSX) :green_heart: <!-- Nov -->
+1. Forza Horizon 5 (XSX) :green_heart: :new: <!-- Nov -->
 1. Tales of Berseria (PS4) [44.5hr] <!-- Oct 2020 -->
    * Remote play on iPad with an Xbox controller. 
 
@@ -36,7 +36,7 @@ update: 2021-11-13
 
 ## :space_invader: Unplayed [:top:][top]
 
-1. Vader Immortal: Episode I (VR) [1.0hr] :new: <!-- August -->
+1. Vader Immortal: Episode I (VR) [1.0hr] <!-- August -->
 1. Pixel Ripped 1995 (VR) [3.0hr] <!-- Oct 2020 -->
 1. Deltarune: Chapter 1 (NS) [3.5hr] :new: <!-- Oct -->
 1. GRIS (NS) [4.0hr] <!-- Nov 2019 -->
@@ -47,16 +47,15 @@ update: 2021-11-13
 1. Raji: An Ancient Epic (XB1) [5.5hr] :green_heart: <!-- July -->
 1. Transistor (NS) [6.0hr] <!-- Mar -->
 1. Dirt 5 (XSX) [6.5hr] :green_heart:
-1. River City Girls (XB1) [7.0hr] :green_heart:
 1. Far Cry 3: Blood Dragon (360) [7.0hr] <!-- June -->
 1. Darkside Detective: A Fumble in the Dark (NS) [7.5hr] :new: <!-- Oct -->
 1. Trover Saves the Universe (VR) [8.0hr] <!-- June -->
-1. Deadpool (XB1) [10.0hr] :cd: :new: <!-- August -->
+1. Deadpool (XB1) [10.0hr] :cd: <!-- August -->
 1. Star Wars: The Force Unleashed (360) [Enhanced Ed] [11.0hr] <!-- July -->
 1. SUPERHOT: MIND CONTROL DELETE (XSX) [11.0hr] <!-- Nov 2020 -->
 1. West of Loathing (NS) [11.5hr] <!-- Mar 2018 -->
 1. Steamworld Heist (NS) [12.0hr] <!-- Jul 2019 -->
-1. Unsighted (XSX) [12.0hr] :new: :green_heart: <!-- Oct -->
+1. Unsighted (XSX) [12.0hr] :green_heart: :new: <!-- Oct -->
 1. Need For Speed Heat (XB1) [12.5hr] :green_heart:
    * Compared to Underground 1 & 2. :sparkling_heart:
 1. Child of Light - Ultimate Edition (NS) [15.0hr] <!-- June -->
@@ -138,7 +137,7 @@ update: 2021-11-13
 ## :calendar: Awaiting Content [:top:][top]
 
 1. Sable (XSX) :green_heart: :new: <!-- Sept -->
-   * Waiting for patch to fix the hitches.
+   * Still waiting for a patch to fix the hitches.
    
 <!-- awaiting-content:end -->
 
@@ -341,6 +340,8 @@ of games I have to play is oh so long._
 1. Moonglow Bay (XSX) :green_heart: <!-- Oct -->
    * Charm wore off after two chapters.
    * Became a job simulator where I was looking for podcasts to listen to while I played.
+1. River City Girls (XB1) [7.0hr] :green_heart:
+   * Left Game Pass before I got to it.
 
 <!-- jettisoned:end -->
 
@@ -360,17 +361,17 @@ See the [New Releases Wiki][new-releases]. Sorted by release date.
 1. Mass Effect: Legendary Edition [5/14/21] [wait for $30 sale or game pass]
 1. ~~[Chicory: A Colorful Tale][chicory] (PS4) [6/10/21]~~ [purchased]
 1. ~~[Dungeons & Dragons: Dark Alliance][dark alliance] (XSX) [6/22/21] [game pass]~~ :green_heart: [skipped]
-1. ~~[SCARLET NEXUS][scarlet nexus] (XSX) [6/25/21] [game pass]~~ :green_heart:
+1. ~~[SCARLET NEXUS][scarlet nexus] (XSX) [6/25/21] [game pass]~~ :green_heart: [downloaded]
 1. ~~[Going Under][going under] (XSX) [6/29/21] [game pass]~~ :green_heart: [skipped]
-1. ~~[Cris Tales][cris tales] (XB1) [7/20/21] [game pass]~~ :green_heart:
+1. ~~[Cris Tales][cris tales] (XB1) [7/20/21] [game pass]~~ :green_heart: [downloaded]
 1. [Death's Door][death's door] (XSX) [7/20/21] [wait for sale]
    * Many Zelda comparisons make this $20 title interesting.
-1. ~~Hades (XSX) [8/13/21] [game pass]~~ :green_heart:
+1. ~~Hades (XSX) [8/13/21] [game pass]~~ :green_heart: [downloaded]
 1. [Greak: Memories of Azur][greak] (XSX) [8/17/21] [wait and see]
 1. ~~Twelve Minutes (XSX) [8/19/21] [game pass]~~ :green_heart: [skipped]
 1. ~~Psychonauts 2 (XSX) [8/25/21] [game pass]~~ :green_heart: [skipped]
-1. ~~[Lake][lake] (XSX) [9/1/21] [pre-ordered]~~
-1. ~~[The Artful Escape][artful escape] (XB1) [9/9/21] [game pass]~~ :green_heart:
+1. ~~[Lake][lake] (XSX) [9/1/21] [pre-ordered]~~ [purchased]
+1. ~~[The Artful Escape][artful escape] (XB1) [9/9/21] [game pass]~~ :green_heart: [downloaded]
 1. ~~[Life is Strange: True Colors][true colors] (XSX) [9/10/21]~~ [skipped]
 1. [Lost in Random][lost in random] (XB1) [9/10/21] [wait for sale]
    * Ryan North (of Squirrel Girl and Dinosaur Comics fame) wrote all the dialogue :chipmunk: :sparkling_heart:
@@ -378,15 +379,15 @@ See the [New Releases Wiki][new-releases]. Sorted by release date.
 1. [Tails of Iron][tails of iron] (XSX) [8.0hr] [9/17/21] [wait for sale]
 1. ~~Diablo II: Resurrected (XSX) [9/23/21]~~ [skipped]
    * The UI hurts to look at.
-1. ~~[Astria Ascending][astria ascending] (XSX) [9/30/21] [game pass]~~ :green_heart:
-1. ~~Unsighted (XSX) [9/30/21] [game pass]~~ :green_heart:
+1. ~~[Astria Ascending][astria ascending] (XSX) [9/30/21] [game pass]~~ :green_heart: [downloaded]
+1. ~~Unsighted (XSX) [9/30/21] [game pass]~~ :green_heart: [downloaded]
 1. ~~Far Cry 6 (XSX) [10/7/21]~~ [skipped]
-1. ~~[Metroid Dread][metroid dread] (NS) [10/8/21]~~ [pre-ordered] :floppy_disk:
+1. ~~[Metroid Dread][metroid dread] (NS) [10/8/21] [pre-ordered]~~ [purchased] :floppy_disk:
    * Originally disinterested but reviews really sold me on it.
 1. [Disco Elysium - The Final Cut][disco elysium] (XSX) [10/12/21] [wait for $20 sale or game pass]
 1. ~~[The Rift Breaker][rift breaker] (XSX) [10/14/21] [game pass]~~ :green_heart: [skipped]
 1. ~~[The Good Life][good life] (XSX) [10/15/21] [game pass]~~ :green_heart: [skipped]
-1. ~~Forza Horizon 5 (XSX) [11/9/21] [game pass]~~ :green_heart:
+1. ~~Forza Horizon 5 (XSX) [11/9/21] [game pass]~~ :green_heart: [downloaded]
    * Ordered the [Limited Edition controller][forza controller]. :yellow_heart: :sparkling_heart: :blue_heart:
 1. Triangle Strategy (NS) [3/4/22] [wait for sale]
    * The demo was right up my tactics-loving alley.
@@ -465,7 +466,7 @@ See the [Games in Development Wiki][games-in-development]
 * :green_heart: = Xbox Game Pass
 * :blue_heart: = PlayStation Plus Freebie
 * :arrow_left: = Next on my radar to play
-* :new: = Added this month
+* :new: = Added recently (generally within the last 60-90 days)
 * :cd: = Disc-based version
 * :floppy_disk: = Cartridge-based version
 
