@@ -5,7 +5,7 @@ description: A management page for my ever evolving list of games.
 keywords: games, xbox, playstation, nintendo, nintendo switch, switch, oculus quest, oculus, quest, virtual reality, vr
 permalink: /games/
 customnav: games_nav.html
-update: 2021-11-09
+update: 2021-11-13
 ---
 
 <a id='playing'></a>
@@ -354,25 +354,24 @@ of games I have to play is oh so long._
 
 See the [New Releases Wiki][new-releases]. Sorted by release date.
 
-1. ~~Hitman 3 (XSX) [1/20/21] [skipped]~~
-1. ~~The Medium (XSX) [1/28/21] [skipped]~~ :green_heart:
-1. ~~Bravely Default II (NS) [2/26/21] [skipped]~~
+1. ~~Hitman 3 (XSX) [1/20/21]~~ [skipped]
+1. ~~The Medium (XSX) [1/28/21]~~ :green_heart: [skipped]
+1. ~~Bravely Default II (NS) [2/26/21]~~ [skipped]
 1. Mass Effect: Legendary Edition [5/14/21] [wait for $30 sale or game pass]
 1. ~~[Chicory: A Colorful Tale][chicory] (PS4) [6/10/21]~~ [purchased]
-1. ~~[Dungeons & Dragons: Dark Alliance][dark alliance] (XSX) [6/22/21] [game pass]~~ :green_heart:
+1. ~~[Dungeons & Dragons: Dark Alliance][dark alliance] (XSX) [6/22/21] [game pass]~~ :green_heart: [skipped]
 1. ~~[SCARLET NEXUS][scarlet nexus] (XSX) [6/25/21] [game pass]~~ :green_heart:
-1. ~~[Going Under][going under] (XSX) [6/29/21] [game pass]~~ :green_heart:
+1. ~~[Going Under][going under] (XSX) [6/29/21] [game pass]~~ :green_heart: [skipped]
 1. ~~[Cris Tales][cris tales] (XB1) [7/20/21] [game pass]~~ :green_heart:
 1. [Death's Door][death's door] (XSX) [7/20/21] [wait for sale]
    * Many Zelda comparisons make this $20 title interesting.
 1. ~~Hades (XSX) [8/13/21] [game pass]~~ :green_heart:
 1. [Greak: Memories of Azur][greak] (XSX) [8/17/21] [wait and see]
 1. ~~Twelve Minutes (XSX) [8/19/21] [game pass]~~ :green_heart: [skipped]
-1. ~~Psychonauts 2 (XSX) [8/25/21] [game pass]~~ :green_heart:
+1. ~~Psychonauts 2 (XSX) [8/25/21] [game pass]~~ :green_heart: [skipped]
 1. ~~[Lake][lake] (XSX) [9/1/21] [pre-ordered]~~
 1. ~~[The Artful Escape][artful escape] (XB1) [9/9/21] [game pass]~~ :green_heart:
-1. [Life is Strange: True Colors][true colors] (XSX) [9/10/21] [wait for sale or game pass]
-   * It's Ubisoft, it'll be on heavy discount by the time I get to it.
+1. ~~[Life is Strange: True Colors][true colors] (XSX) [9/10/21]~~ [skipped]
 1. [Lost in Random][lost in random] (XB1) [9/10/21] [wait for sale]
    * Ryan North (of Squirrel Girl and Dinosaur Comics fame) wrote all the dialogue :chipmunk: :sparkling_heart:
 1. [Tales of Arise][tales of arise] (XSX) [09/10/21] [wait for sale]
@@ -412,7 +411,7 @@ See the [Games in Development Wiki][games-in-development]
 1. [Eiyuden Chronicle: Rising][rising] (XSX) [2022] [game pass] :green_heart:
 1. Metroid Prime 4 (NS)
 1. [SacriFire (via KickStarter)][sacri fire ks] (XSX) [backed]
-1. [Stranger of Paradise - Final Fantasy Orogin][stranger of paradise] (XSX) [2022]
+1. [Stranger of Paradise - Final Fantasy Origin][stranger of paradise] (XSX) [2022]
 1. Stray (PS4) [2022]
 1. System Shock (XSX)
 1. Untitled RWBY Game (XSX)
@@ -423,7 +422,7 @@ See the [Games in Development Wiki][games-in-development]
 
 1. ~~Darkside Detective: A Fumble in the Dark (NS) [7.5hr]~~ [purchased]
 1. ~~Final Fantasy XV Royal Edition (XSX) [35.0hr]~~ [skipped]
-1. Immortals Fenyx Rising (XSX) [30.0hr] [wait for $20 sale]
+1. Immortals Fenyx Rising (XSX) [30.0hr] [wait for $15 sale]
 1. ~~Regalia: Of Men and Monarchs - Royal Edition (NS) [40.5hr]~~ [skipped]
 
 <!-- planned-purchases:end -->
