@@ -358,20 +358,20 @@ See the [New Releases Wiki][new-releases]. Sorted by release date.
 1. ~~Hitman 3 (XSX) [1/20/21]~~ [skipped]
 1. ~~The Medium (XSX) [1/28/21]~~ :green_heart: [skipped]
 1. ~~Bravely Default II (NS) [2/26/21]~~ [skipped]
-1. Mass Effect: Legendary Edition [5/14/21] [wait for $30 sale or game pass]
+1. Mass Effect: Legendary Edition [5/14/21] [wait for $30 sale or :green_heart:]
 1. ~~[Chicory: A Colorful Tale][chicory] (PS4) [6/10/21]~~ [purchased]
-1. ~~[Dungeons & Dragons: Dark Alliance][dark alliance] (XSX) [6/22/21] [game pass]~~ :green_heart: [skipped]
-1. ~~[SCARLET NEXUS][scarlet nexus] (XSX) [6/25/21] [game pass]~~ :green_heart: [downloaded]
-1. ~~[Going Under][going under] (XSX) [6/29/21] [game pass]~~ :green_heart: [skipped]
-1. ~~[Cris Tales][cris tales] (XB1) [7/20/21] [game pass]~~ :green_heart: [downloaded]
+1. ~~[Dungeons & Dragons: Dark Alliance][dark alliance] (XSX) [6/22/21]~~ :green_heart: [skipped]
+1. ~~[SCARLET NEXUS][scarlet nexus] (XSX) [6/25/21]~~ :green_heart: [downloaded]
+1. ~~[Going Under][going under] (XSX) [6/29/21]~~ :green_heart: [skipped]
+1. ~~[Cris Tales][cris tales] (XB1) [7/20/21]~~ :green_heart: [downloaded]
 1. [Death's Door][death's door] (XSX) [7/20/21] [wait for sale]
    * Many Zelda comparisons make this $20 title interesting.
-1. ~~Hades (XSX) [8/13/21] [game pass]~~ :green_heart: [downloaded]
+1. ~~Hades (XSX) [8/13/21]~~ :green_heart: [downloaded]
 1. [Greak: Memories of Azur][greak] (XSX) [8/17/21] [wait and see]
-1. ~~Twelve Minutes (XSX) [8/19/21] [game pass]~~ :green_heart: [skipped]
-1. ~~Psychonauts 2 (XSX) [8/25/21] [game pass]~~ :green_heart: [skipped]
-1. ~~[Lake][lake] (XSX) [9/1/21] [pre-ordered]~~ [purchased]
-1. ~~[The Artful Escape][artful escape] (XB1) [9/9/21] [game pass]~~ :green_heart: [downloaded]
+1. ~~Twelve Minutes (XSX) [8/19/21]~~ :green_heart: [skipped]
+1. ~~Psychonauts 2 (XSX) [8/25/21]~~ :green_heart: [skipped]
+1. ~~[Lake][lake] (XSX) [9/1/21]~~ [pre-ordered]
+1. ~~[The Artful Escape][artful escape] (XB1) [9/9/21]~~ :green_heart: [downloaded]
 1. ~~[Life is Strange: True Colors][true colors] (XSX) [9/10/21]~~ [skipped]
 1. [Lost in Random][lost in random] (XB1) [9/10/21] [wait for sale]
    * Ryan North (of Squirrel Girl and Dinosaur Comics fame) wrote all the dialogue :chipmunk: :sparkling_heart:
@@ -379,23 +379,23 @@ See the [New Releases Wiki][new-releases]. Sorted by release date.
 1. [Tails of Iron][tails of iron] (XSX) [8.0hr] [9/17/21] [wait for sale]
 1. ~~Diablo II: Resurrected (XSX) [9/23/21]~~ [skipped]
    * The UI hurts to look at.
-1. ~~[Astria Ascending][astria ascending] (XSX) [9/30/21] [game pass]~~ :green_heart: [downloaded]
-1. ~~Unsighted (XSX) [9/30/21] [game pass]~~ :green_heart: [downloaded]
+1. ~~[Astria Ascending][astria ascending] (XSX) [9/30/21]~~ :green_heart: [downloaded]
+1. ~~Unsighted (XSX) [9/30/21]~~ :green_heart: [downloaded]
 1. ~~Far Cry 6 (XSX) [10/7/21]~~ [skipped]
-1. ~~[Metroid Dread][metroid dread] (NS) [10/8/21] [pre-ordered]~~ [purchased] :floppy_disk:
+1. ~~[Metroid Dread][metroid dread] (NS) [10/8/21]~~ [pre-ordered] :floppy_disk:
    * Originally disinterested but reviews really sold me on it.
-1. [Disco Elysium - The Final Cut][disco elysium] (XSX) [10/12/21] [wait for $20 sale or game pass]
-1. ~~[The Rift Breaker][rift breaker] (XSX) [10/14/21] [game pass]~~ :green_heart: [skipped]
-1. ~~[The Good Life][good life] (XSX) [10/15/21] [game pass]~~ :green_heart: [skipped]
-1. ~~Forza Horizon 5 (XSX) [11/9/21] [game pass]~~ :green_heart: [downloaded]
+1. [Disco Elysium - The Final Cut][disco elysium] (XSX) [10/12/21] [wait for $20 sale or :green_heart:]
+1. ~~[The Rift Breaker][rift breaker] (XSX) [10/14/21]~~ :green_heart: [skipped]
+1. ~~[The Good Life][good life] (XSX) [10/15/21]~~ :green_heart: [skipped]
+1. ~~Forza Horizon 5 (XSX) [11/9/21]~~ :green_heart: [downloaded]
    * Ordered the [Limited Edition controller][forza controller]. :yellow_heart: :sparkling_heart: :blue_heart:
 1. Triangle Strategy (NS) [3/4/22] [wait for sale]
    * The demo was right up my tactics-loving alley.
-1. [Starfield][starfield] (XSX) [11/11/22] [game pass] :green_heart:
+1. [Starfield][starfield] (XSX) [11/11/22]:green_heart:
 1. [Severed Steel][severed steel] (XSX) [_TBD_] [wait for sale]
 1. [Bear & Breakfast][b and b] (NS) [_TBD_] [wait and see]
-1. [Replaced][replaced] (XSX) [_TBD_] [game pass] :green_heart:
-1. [Tunic][tunic] (XSX) [_TBD_] [game pass] :green_heart:
+1. [Replaced][replaced] (XSX) [_TBD_] :green_heart:
+1. [Tunic][tunic] (XSX) [_TBD_] :green_heart:
    * I really enjoyed the demo.
 1. [Vampire: The Masquerade - Swansong][swansong] (XSX) [_TBD_]
 1. [Wildermyth][wildermyth] (XSX/NS) [_TBD_]
@@ -407,9 +407,9 @@ See the [New Releases Wiki][new-releases]. Sorted by release date.
 
 See the [Games in Development Wiki][games-in-development]
 
-1. [Atomic Heart][atomic heart] (XSX) [game pass] :green_heart:
+1. [Atomic Heart][atomic heart] (XSX) :green_heart:
 1. [Eiyuden Chronicle: Hundred Heroes][hundred heroes] (XSX) [2023] :green_heart:
-1. [Eiyuden Chronicle: Rising][rising] (XSX) [2022] [game pass] :green_heart:
+1. [Eiyuden Chronicle: Rising][rising] (XSX) [2022] :green_heart:
 1. Metroid Prime 4 (NS)
 1. [SacriFire (via KickStarter)][sacri fire ks] (XSX) [backed]
 1. [Stranger of Paradise - Final Fantasy Origin][stranger of paradise] (XSX) [2022]
