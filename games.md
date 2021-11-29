@@ -46,19 +46,22 @@ update: 2021-11-29
 1. Deltarune: Chapter 2 (NS) [5.5hr] :new: <!-- Oct -->
 1. Raji: An Ancient Epic (XB1) [5.5hr] :green_heart: <!-- July -->
 1. Transistor (NS) [6.0hr] <!-- Mar -->
-1. Dirt 5 (XSX) [6.5hr] :green_heart:
+1. Dirt 5 (XSX) [6.5hr] :green_heart: <!-- Feb -->
+1. Sable (XSX) [7.0hr] :green_heart: :new: <!-- Sept -->
 1. Darkside Detective: A Fumble in the Dark (NS) [7.5hr] :new: <!-- Oct -->
 1. Trover Saves the Universe (VR) [8.0hr] <!-- June -->
+1. The Banner Saga 3 (NS) [9.5hr] :new: <!-- Nov -->
 1. Deadpool (XB1) [10.0hr] :cd: <!-- August -->
+1. The Banner Saga (NS) [10.5hr] :new: <!-- Nov -->
 1. Star Wars: The Force Unleashed (360) [Enhanced Ed] [11.0hr] <!-- July -->
 1. SUPERHOT: MIND CONTROL DELETE (XSX) [11.0hr] <!-- Nov 2020 -->
+1. The Banner Saga 2 (NS) [11.5hr] :new:  <!-- Nov -->
 1. West of Loathing (NS) [11.5hr] <!-- Mar 2018 -->
 1. Steamworld Heist (NS) [12.0hr] <!-- Jul 2019 -->
 1. Unsighted (XSX) [12.0hr] :green_heart: :new: <!-- Oct -->
-1. Need For Speed Heat (XB1) [12.5hr] :green_heart:
-   * Compared to Underground 1 & 2. :sparkling_heart:
 1. Child of Light - Ultimate Edition (NS) [15.0hr] <!-- June -->
 1. DRAGON QUEST II: Luminaries of the Legendary Line (NS) [16.5hr] <!-- Dec 2019 -->
+1. Marvels Guardians of the Galaxy (XSX) [17.0hr] :cd: :new: <!-- Nov -->
 1. South Park: The Fractured But Whole (NS) [17.5hr] <!-- 2020 -->
 1. Children of Morta (XB1) [18.5hr] :green_heart: :new: <!-- Sept -->
 1. Darksiders 3 (XB1) [18.5hr] <!-- July -->
@@ -66,14 +69,17 @@ update: 2021-11-29
 1. Evoland 2 (NS) [20.0hr] <!-- July -->
 1. Art of Rally (XSX) [20.5hr] :green_heart: :new: <!-- Sept -->
 1. ALTDEUS: Beyond Chronos + Episode Yamato DLC (VR) [25.0hr] <!-- Mar + June -->
+1. Immortals Fenyx Rising (XSX) [25.0hr] :cd: :new: <!-- Nov -->
 1. Valkyria Chronicles Remastered (PS4) [27.5hr] <!-- Oct 2020 -->
 1. AI: THE SOMNIUM FILES (XSX) [28.0hr] :green_heart: :new: <!-- Sept -->
 1. Cris Tales (XB1) [28.0hr] :green_heart: <!-- July -->
 1. Darksiders II Deathinitive Edition (XB1) [29.5hr] <!-- July -->
 1. Astria Ascending (XSX) [30.0hr] :green_heart: :new: <!-- Sept -->
 1. Knights of the Old Republic 2 (XBX) [31.0hr] <!-- Oct 2020 -->
+1. Persona 5 Strikers (NS) [35.5hr] :floppy_disk: :new: <!-- Nov -->
 1. Valkyria Chronicles 4 (PS4) [35.5hr] <!-- Oct 2020 -->
 1. SCARLET NEXUS (XSX) [36.0hr] :green_heart: :new: <!-- Sept -->
+1. Tales of Arise (XSX) [40.0hr] :cd: :new: <!-- Nov -->
 1. Hades (XSX) [43.5hr] :green_heart: <!-- August -->
 1. Yakuza: Like a Dragon (XSX) [45.0hr] <!-- Nov 2020 -->
 1. Assassin's Creed: Valhalla (XSX) [53.0hr] <!-- Nov 2020 -->
@@ -135,8 +141,7 @@ update: 2021-11-29
 
 ## :calendar: Awaiting Content [:top:][top]
 
-1. Sable (XSX) :green_heart: :new: <!-- Sept -->
-   * Still waiting for a patch to fix the hitches.
+1. _TBD_.
    
 <!-- awaiting-content:end -->
 
@@ -146,10 +151,7 @@ update: 2021-11-29
 
 ## :repeat: Revisiting [:top:][top]
 
-1. Mass Effect Series (360/XSX)
-   * 360 version :green_heart:
-   * XSX is the Legendary Edition
-1. Road Rash (PS1/GEN) :cd:
+1. _TBD_.
 
 <!-- revisiting:end -->
 
@@ -231,7 +233,7 @@ update: 2021-11-29
    * Sticks the landing.
    * Makes me think about my mom's mental health differently.
    * The [Mental Health Feature](https://youtu.be/31PbCTS4Sq4) opens up as a menu item post-game & is 25 minutes well spent. <a id='metroid-dread'></a>
-1. [Metroid Dread][metroid dread] (NS) <!-- Oct -->
+1. [Metroid Dread][metroid dread] (NS) :floppy_disk: <!-- Oct -->
    * So very cool.
    * Movement is super fluid and gameplay was _mostly_ enjoyable.
    * The EMMI's were more annoying than frightening.
@@ -348,6 +350,13 @@ of games I have to play is oh so long._
    * Became a job simulator where I was looking for podcasts to listen to while I played.
 1. River City Girls (XB1) [7.0hr] :green_heart:
    * Left Game Pass before I got to it.
+1. Exo One (XSX) <!-- Nov -->
+   * Movement was kind of cool, but nothing exceptional.
+   * A nice visual ride.
+   * Story told in a creepy, extra terrestial manner.
+   * Could not figure out how to get past the forested planet after 2 attempts and over 30 minutes of being lost. :confused:
+1. Need For Speed Heat (XB1) [12.5hr] :green_heart:
+   * Forza Horizon 5 scratched the racing itch.
 
 <!-- jettisoned:end -->
 
@@ -381,7 +390,7 @@ See the [New Releases Wiki][new-releases]. Sorted by release date.
 1. ~~[Life is Strange: True Colors][true colors] (XSX) [9/10/21]~~ [skipped]
 1. [Lost in Random][lost in random] (XB1) [9/10/21] [wait for sale]
    * Ryan North (of Squirrel Girl and Dinosaur Comics fame) wrote all the dialogue :chipmunk: :sparkling_heart:
-1. [Tales of Arise][tales of arise] (XSX) [09/10/21] [wait for sale]
+1. ~~[Tales of Arise][tales of arise] (XSX) [09/10/21]~~ [purchased]
 1. [Tails of Iron][tails of iron] (XSX) [8.0hr] [9/17/21] [wait for sale]
 1. ~~Diablo II: Resurrected (XSX) [9/23/21]~~ [skipped]
    * The UI hurts to look at.
@@ -429,7 +438,7 @@ See the [Games in Development Wiki][games-in-development]
 
 1. ~~Darkside Detective: A Fumble in the Dark (NS) [7.5hr]~~ [purchased]
 1. ~~Final Fantasy XV Royal Edition (XSX) [35.0hr]~~ [skipped]
-1. Immortals Fenyx Rising (XSX) [30.0hr] [wait for $15 sale]
+1. ~~Immortals Fenyx Rising (XSX) [30.0hr]~~ [purchased]
 1. ~~Regalia: Of Men and Monarchs - Royal Edition (NS) [40.5hr]~~ [skipped]
 
 <!-- planned-purchases:end -->
@@ -464,7 +473,9 @@ See the [Games in Development Wiki][games-in-development]
   - See _Metroid Dread_.
 + If there is no difficulty setting for a combat-oriented game, I may not be interested.
   - See _Metroid Dread_.
-  
++ Short games (10 hours or less) that I can complete in one to two sittings are wonderful. 
+  - See _Far Cry 3 Blood Dragon_.
+
 <a id='legend'></a>
 
 ## :information_source: Legend [:top:][top]
