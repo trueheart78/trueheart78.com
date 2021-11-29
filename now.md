@@ -4,7 +4,7 @@ title: 📆 What I'm Up to Now
 description: What I've recently been up to.
 keywords: now, nownownow, studying, playing, reading, comics, books, side projects, games, ruby, rails, golang, tv shows, movies
 permalink: /now/
-update: 2021-11-09
+update: 2021-11-29
 ---
 
 ![Agent Smith - Crazy][agent smith - crazy laughing]
@@ -32,6 +32,7 @@ I'm currently living in Ohio, working remote for [CoverMyMeds][cmm] as a softwar
 
 ### :checkered_flag: Recently Beaten
 
+* _Far Cry 3 Blood Dragon_ on Xbox Series X.
 * _Wandersong_ on Nintendo Switch.
 * _Metroid Dread_ on Nintendo Switch.
 * _Hellblade: Senua's Sacrifice_ on Xbox Series X.
@@ -53,6 +54,8 @@ I'm currently living in Ohio, working remote for [CoverMyMeds][cmm] as a softwar
 
 ### :closed_book: Recently Completed
 
+* [Slaughterhouse Five (graphic novel)](https://www.amazon.com/Slaughterhouse-Five-Ryan-North/dp/1684156254/)
+  * So it goes.
 * [Punderworld - Volume 1](https://www.amazon.com/dp/B096H56K1W)
   * Hades falling in love? :revolving_hearts:
   * So very sweet.
