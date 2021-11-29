@@ -5,7 +5,7 @@ description: A management page for my ever evolving list of games.
 keywords: games, xbox, playstation, nintendo, nintendo switch, switch, oculus quest, oculus, quest, virtual reality, vr
 permalink: /games/
 customnav: games_nav.html
-update: 2021-11-13
+update: 2021-11-29
 ---
 
 <a id='playing'></a>
@@ -47,7 +47,6 @@ update: 2021-11-13
 1. Raji: An Ancient Epic (XB1) [5.5hr] :green_heart: <!-- July -->
 1. Transistor (NS) [6.0hr] <!-- Mar -->
 1. Dirt 5 (XSX) [6.5hr] :green_heart:
-1. Far Cry 3: Blood Dragon (360) [7.0hr] <!-- June -->
 1. Darkside Detective: A Fumble in the Dark (NS) [7.5hr] :new: <!-- Oct -->
 1. Trover Saves the Universe (VR) [8.0hr] <!-- June -->
 1. Deadpool (XB1) [10.0hr] :cd: <!-- August -->
@@ -250,7 +249,14 @@ update: 2021-11-13
    * Miriam had such wonderful character development. :sparkling_heart:
    * Baub was a delight to watch in every situation.
    * I loved [the secret area][wandersong secrets video].
-   * :star: :star: :star: :star: :star:
+   * :star: :star: :star: :star: :star: <a id="far-cry-3-blood-dragon"></a>
+1. Far Cry 3 Blood Dragon (360) <!-- June -->
+   * Wow. Just… wow.
+   * Such 80's goodness distilled into a fantastic game.
+   * Ignored most of the "liberate these outposts" and I was able to wrap it up in a single evening.
+   * I loved the bonkers story, the 80's music, the gameplay, and the required training montage.
+   * By the time the credits rolled, I was just smiling and shaking my head… what a game. :smiling_face_with_three_hearts:
+   * For a 360 game, it held up quite well on my Series X.
 
 <!-- beaten:end -->
 
