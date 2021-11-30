@@ -17,7 +17,6 @@ update: 2021-11-29
 #### :eyes: Focused
 
 1. Down The Rabbit Hole (VR) [3.0hr] <!-- May -->
-   * 120hz mode supported.
 1. Forza Horizon 5 (XSX) :green_heart: :new: <!-- Nov -->
 1. Tales of Berseria (PS4) [44.5hr] <!-- Oct 2020 -->
    * Remote play on iPad with an Xbox controller. 
@@ -26,7 +25,6 @@ update: 2021-11-29
 
 1. SUPERHOT (VR) <!-- Nov 2020 -->
    * Great bit of light exercise for me.
-   * Now supports 120hz.
 
 <!-- playing:end -->
 
@@ -36,51 +34,52 @@ update: 2021-11-29
 
 ## :space_invader: Unplayed [:top:][top]
 
-1. Vader Immortal: Episode I (VR) [1.0hr] <!-- August -->
+1. Vader Immortal: Episode I (VR) [1.0hr] <!-- Aug -->
+1. Vader Immortal: Episode II (VR) [1.0hr] <!-- Nov -->
 1. Pixel Ripped 1995 (VR) [3.0hr] <!-- Oct 2020 -->
 1. Deltarune: Chapter 1 (NS) [3.5hr] :new: <!-- Oct -->
 1. GRIS (NS) [4.0hr] <!-- Nov 2019 -->
 1. Moss (VR) [4.5hr] <!-- Feb -->
 1. Evoland (NS) [5.0hr] <!-- July -->
-1. The Solitaire Conspiracy (NS) [5.0hr] <!-- June -->
+1. The Solitaire Conspiracy (NS) [5.0hr] <!-- Jun -->
 1. Deltarune: Chapter 2 (NS) [5.5hr] :new: <!-- Oct -->
-1. Raji: An Ancient Epic (XB1) [5.5hr] :green_heart: <!-- July -->
+1. Raji: An Ancient Epic (XB1) [5.5hr] :green_heart: <!-- Jul -->
 1. Transistor (NS) [6.0hr] <!-- Mar -->
 1. Dirt 5 (XSX) [6.5hr] :green_heart: <!-- Feb -->
-1. Sable (XSX) [7.0hr] :green_heart: :new: <!-- Sept -->
+1. Sable (XSX) [7.0hr] :green_heart: :new: <!-- Sep -->
 1. Darkside Detective: A Fumble in the Dark (NS) [7.5hr] :new: <!-- Oct -->
 1. Trover Saves the Universe (VR) [8.0hr] <!-- June -->
 1. The Banner Saga 3 (NS) [9.5hr] :new: <!-- Nov -->
-1. Deadpool (XB1) [10.0hr] :cd: <!-- August -->
+1. Deadpool (XB1) [10.0hr] :cd: <!-- Aug -->
 1. The Banner Saga (NS) [10.5hr] :new: <!-- Nov -->
-1. Star Wars: The Force Unleashed (360) [Enhanced Ed] [11.0hr] <!-- July -->
+1. Star Wars: The Force Unleashed (360) [Enhanced Ed] [11.0hr] <!-- Jul -->
 1. SUPERHOT: MIND CONTROL DELETE (XSX) [11.0hr] <!-- Nov 2020 -->
 1. The Banner Saga 2 (NS) [11.5hr] :new:  <!-- Nov -->
 1. West of Loathing (NS) [11.5hr] <!-- Mar 2018 -->
 1. Steamworld Heist (NS) [12.0hr] <!-- Jul 2019 -->
 1. Unsighted (XSX) [12.0hr] :green_heart: :new: <!-- Oct -->
-1. Child of Light - Ultimate Edition (NS) [15.0hr] <!-- June -->
+1. Child of Light - Ultimate Edition (NS) [15.0hr] <!-- Jun -->
 1. DRAGON QUEST II: Luminaries of the Legendary Line (NS) [16.5hr] <!-- Dec 2019 -->
 1. Marvels Guardians of the Galaxy (XSX) [17.0hr] :cd: :new: <!-- Nov -->
 1. South Park: The Fractured But Whole (NS) [17.5hr] <!-- 2020 -->
-1. Children of Morta (XB1) [18.5hr] :green_heart: :new: <!-- Sept -->
-1. Darksiders 3 (XB1) [18.5hr] <!-- July -->
-1. Darksiders: Warmaster Edition (XB1) [20.0hr] <!-- July -->
-1. Evoland 2 (NS) [20.0hr] <!-- July -->
-1. Art of Rally (XSX) [20.5hr] :green_heart: :new: <!-- Sept -->
-1. ALTDEUS: Beyond Chronos + Episode Yamato DLC (VR) [25.0hr] <!-- Mar + June -->
+1. Children of Morta (XB1) [18.5hr] :green_heart: :new: <!-- Sep -->
+1. Darksiders 3 (XB1) [18.5hr] <!-- Jul -->
+1. Darksiders: Warmaster Edition (XB1) [20.0hr] <!-- Jul -->
+1. Evoland 2 (NS) [20.0hr] <!-- Jul -->
+1. Art of Rally (XSX) [20.5hr] :green_heart: :new: <!-- Sep -->
+1. ALTDEUS: Beyond Chronos + Episode Yamato DLC (VR) [25.0hr] <!-- Mar + Jun -->
 1. Immortals Fenyx Rising (XSX) [25.0hr] :cd: :new: <!-- Nov -->
 1. Valkyria Chronicles Remastered (PS4) [27.5hr] <!-- Oct 2020 -->
-1. AI: THE SOMNIUM FILES (XSX) [28.0hr] :green_heart: :new: <!-- Sept -->
-1. Cris Tales (XB1) [28.0hr] :green_heart: <!-- July -->
-1. Darksiders II Deathinitive Edition (XB1) [29.5hr] <!-- July -->
-1. Astria Ascending (XSX) [30.0hr] :green_heart: :new: <!-- Sept -->
+1. AI: THE SOMNIUM FILES (XSX) [28.0hr] :green_heart: :new: <!-- Sep -->
+1. Cris Tales (XB1) [28.0hr] :green_heart: <!-- Jul -->
+1. Darksiders II Deathinitive Edition (XB1) [29.5hr] <!-- Jul -->
+1. Astria Ascending (XSX) [30.0hr] :green_heart: :new: <!-- Sep -->
 1. Knights of the Old Republic 2 (XBX) [31.0hr] <!-- Oct 2020 -->
 1. Persona 5 Strikers (NS) [35.5hr] :floppy_disk: :new: <!-- Nov -->
 1. Valkyria Chronicles 4 (PS4) [35.5hr] <!-- Oct 2020 -->
-1. SCARLET NEXUS (XSX) [36.0hr] :green_heart: :new: <!-- Sept -->
+1. SCARLET NEXUS (XSX) [36.0hr] :green_heart: :new: <!-- Sep -->
 1. Tales of Arise (XSX) [40.0hr] :cd: :new: <!-- Nov -->
-1. Hades (XSX) [43.5hr] :green_heart: <!-- August -->
+1. Hades (XSX) [43.5hr] :green_heart: <!-- Aug -->
 1. Yakuza: Like a Dragon (XSX) [45.0hr] <!-- Nov 2020 -->
 1. Assassin's Creed: Valhalla (XSX) [53.0hr] <!-- Nov 2020 -->
 
@@ -95,10 +94,10 @@ update: 2021-11-29
 1. Assassin's Creed: Odyssey (XB1) <!-- Feb 2020 -->
    * Re-purchased it and re-playing it again on Xbox.
    * Have fully explored the world. Now, I just need to do the quests.
-1. Dark Souls 3 (XSX) <!-- July -->
+1. Dark Souls 3 (XSX) <!-- Jul -->
    * 60 FPS thanks to FPS Boost. :heart:
    * Will be fun to revisit.
-1. Valentino Rossi: The Game (XB1) :cd: <!-- August -->
+1. Valentino Rossi: The Game (XB1) :cd: <!-- Aug -->
 1. Tilt Brush (VR) <!-- Oct 2020 -->
 
 <!-- for-fun:end -->
@@ -130,7 +129,7 @@ update: 2021-11-29
    * Bought the Billie Eilish, BTS, Green Day, Interplay, Linkin Park, and Panic! at the Disco packs.
    * Mainly play the "solo" mode, so there is no "completion".
    * Love the 90° mode.
-1. OhShape (VR) <!-- June -->
+1. OhShape (VR) <!-- Jun -->
    * Contortionist skills being tested.
 
 <!-- vr-workouts:end -->
@@ -190,7 +189,7 @@ update: 2021-11-29
    * Continually changed up the formula.
    * Literally laughed out loud at a late game achievement. 
    * Cloudy :sparkling_heart: <a id='tunic-demo'></a>
-1. Tunic Demo (XSX) <!-- June -->
+1. Tunic Demo (XSX) <!-- Jun -->
    * Fun and charming.
    * Impeccable music. <a id='haven'></a>
 1. Haven (XSX) :green_heart:
@@ -198,16 +197,16 @@ update: 2021-11-29
    * "This is wonderful", I said aloud, in the nest for the first time. :heartpulse:
    * Just caught myself smiling at [the interactions][haven - butt] between [Kay & Yu][haven - criminal lovers]. :revolving_hearts:
    * [I love this][haven - selfie]. I didn’t know a game [like this][haven - embrace] existed. :blush: <a id='chicory'></a>
-1. Chicory: A Colorful Tale (PS4) <!-- June -->
+1. Chicory: A Colorful Tale (PS4) <!-- Jun -->
    * Completely worth the price of admission.
    * Very enjoyable gameplay.
    * Godmode and Boss Skip options should be standards.
    * Very solid story covering emotions and friendship.
    * Chicory :sparkling_heart: <a id='subsurface-circular'></a>
-1. Subsurface Circular (NS) <!-- July -->
+1. Subsurface Circular (NS) <!-- Jul -->
    * Mixed feelings. 
    * Did like the lore nod to Thomas Was Alone. :heart: <a id='lake'></a>
-1. Lake (XSX) <!-- Sept -->
+1. Lake (XSX) <!-- Sep -->
    * Pre-ordered after positive reviews.
    * Felt underwhelmed and disappointed by the end. :disappointed:
    * Lot's of day one technical issues (soft crashes, little to no autosaves, glitches that started my day in conversations with other characters).
@@ -218,7 +217,7 @@ update: 2021-11-29
         explore those potenially budding relationships at my leisure.
    * More characters bothered me with their personalities than I enjoyed.
    * Plagued by technical issues, at the end, I chose to go back home. <a id='the-artful-escape'></a>
-1. [The Artful Escape][artful escape] (XSX) :green_heart: <!-- Sept -->
+1. [The Artful Escape][artful escape] (XSX) :green_heart: <!-- Sep -->
    * What a game!
    * Stunning visuals.
    * Wonderful, shredding music. :guitar: :sparkles: :sparkles:
@@ -252,7 +251,7 @@ update: 2021-11-29
    * Baub was a delight to watch in every situation.
    * I loved [the secret area][wandersong secrets video].
    * :star: :star: :star: :star: :star: <a id="far-cry-3-blood-dragon"></a>
-1. Far Cry 3 Blood Dragon (360) <!-- June -->
+1. Far Cry 3 Blood Dragon (360) <!-- Jun -->
    * Wow. Just… wow.
    * Such 80's goodness distilled into a fantastic game.
    * Ignored most of the "liberate these outposts" and I was able to wrap it up in a single evening.
@@ -341,7 +340,7 @@ of games I have to play is oh so long._
    * Highly rated. 
    * Taste tested.
    * Not for me.
-1. Tales of Vesperia - Definitive Edition (XB1) [70.0hr] :green_heart: <!-- July -->
+1. Tales of Vesperia - Definitive Edition (XB1) [70.0hr] :green_heart: <!-- Jul -->
    * Left Game Pass before I got to it.
 1. Last Stop (XSX) [6.5hr] :green_heart:
    * Realized I don't want to play this.
