@@ -5,7 +5,7 @@ description: A management page for my ever evolving list of games.
 keywords: games, xbox, playstation, nintendo, nintendo switch, switch, oculus quest, oculus, quest, virtual reality, vr
 permalink: /games/
 customnav: games_nav.html
-update: 2021-11-29
+update: 2021-12-04
 ---
 
 <a id='playing'></a>
@@ -46,7 +46,6 @@ update: 2021-11-29
 1. Raji: An Ancient Epic (XB1) [5.5hr] :green_heart: <!-- Jul -->
 1. Transistor (NS) [6.0hr] <!-- Mar -->
 1. Dirt 5 (XSX) [6.5hr] :green_heart: <!-- Feb -->
-1. Sable (XSX) [7.0hr] :green_heart: :new: <!-- Sep -->
 1. Darkside Detective: A Fumble in the Dark (NS) [7.5hr] :new: <!-- Oct -->
 1. Trover Saves the Universe (VR) [8.0hr] <!-- June -->
 1. The Banner Saga 3 (NS) [9.5hr] :new: <!-- Nov -->
@@ -356,7 +355,10 @@ of games I have to play is oh so long._
    * Could not figure out how to get past the forested planet after 2 attempts and over 30 minutes of being lost. :confused:
 1. Need For Speed Heat (XB1) [12.5hr] :green_heart:
    * Forza Horizon 5 scratched the racing itch.
-
+1. Sable (XSX) [7.0hr] :green_heart: :new: <!-- Sep -->
+   * Felt like I understood the core mechanic.
+   * Didn't find the core gameplay to be very enjoyable.
+    
 <!-- jettisoned:end -->
 
 <a id='planned-purchases'></a>
@@ -403,6 +405,7 @@ See the [New Releases Wiki][new-releases]. Sorted by release date.
 1. ~~[The Good Life][good life] (XSX) [10/15/21]~~ :green_heart: [skipped]
 1. ~~Forza Horizon 5 (XSX) [11/9/21]~~ :green_heart: [downloaded]
    * Ordered the [Limited Edition controller][forza controller]. :yellow_heart: :sparkling_heart: :blue_heart:
+1. The Gunk (XSX) [12/16/21] :green_heart:
 1. Triangle Strategy (NS) [3/4/22] [wait for sale]
    * The demo was right up my tactics-loving alley.
 1. [Starfield][starfield] (XSX) [11/11/22]:green_heart:
@@ -413,7 +416,7 @@ See the [New Releases Wiki][new-releases]. Sorted by release date.
    * I really enjoyed the demo.
 1. [Vampire: The Masquerade - Swansong][swansong] (XSX) [_TBD_]
 1. [Wildermyth][wildermyth] (XSX/NS) [_TBD_]
-   * Not sure if coming to console but definitely interested.
+   * Console version confirmed to be in the works.
 
 <!-- planned-purchases:new-releases:end -->
 
