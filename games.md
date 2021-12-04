@@ -357,7 +357,7 @@ of games I have to play is oh so long._
    * Forza Horizon 5 scratched the racing itch.
 1. Sable (XSX) [7.0hr] :green_heart: :new: <!-- Sep -->
    * Felt like I understood the core mechanic.
-   * Didn't find the core gameplay to be very enjoyable.
+   * Didn't find the gameplay to be very enjoyable.
     
 <!-- jettisoned:end -->
 
