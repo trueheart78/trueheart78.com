@@ -46,7 +46,6 @@ update: 2021-12-04
 1. Raji: An Ancient Epic (XB1) [5.5hr] :green_heart: <!-- Jul -->
 1. Transistor (NS) [6.0hr] <!-- Mar -->
 1. Dirt 5 (XSX) [6.5hr] :green_heart: <!-- Feb -->
-1. Darkside Detective: A Fumble in the Dark (NS) [7.5hr] :new: <!-- Oct -->
 1. Trover Saves the Universe (VR) [8.0hr] <!-- June -->
 1. The Banner Saga 3 (NS) [9.5hr] :new: <!-- Nov -->
 1. Deadpool (XB1) [10.0hr] :cd: <!-- Aug -->
@@ -358,7 +357,12 @@ of games I have to play is oh so long._
 1. Sable (XSX) [7.0hr] :green_heart: :new: <!-- Sep -->
    * Felt like I understood the core mechanic.
    * Didn't find the gameplay to be very enjoyable.
-    
+1. Darkside Detective: A Fumble in the Dark (NS) [7.5hr] <!-- Oct -->
+   * Wonderful art style.
+   * So much _"get an item and then go 5+ screens away to use item and repeat."_
+     * Very frustrating in multiple ways. :rage:
+   * Stern reminder that I do not enjoy adventure game mechanics. :no_good:
+
 <!-- jettisoned:end -->
 
 <a id='planned-purchases'></a>
@@ -477,6 +481,8 @@ See the [Games in Development Wiki][games-in-development]
   - See _Metroid Dread_.
 + Short games (10 hours or less) that I can complete in one to two sittings are wonderful. 
   - See _Far Cry 3 Blood Dragon_.
++ I do not like traditional adventure games. I'm not a fan of trying every option or attempting to solve illogical puzzles as the primary form of gameplay. Also, all the _"get an item and then go 5+ screens away to use item and repeat" is frustrating in multiple ways.
+  - See _Darkside Detective: A Fumble in the Dark_.
 
 <a id='legend'></a>
 
