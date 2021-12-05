@@ -481,7 +481,7 @@ See the [Games in Development Wiki][games-in-development]
   - See _Metroid Dread_.
 + Short games (10 hours or less) that I can complete in one to two sittings are wonderful. 
   - See _Far Cry 3 Blood Dragon_.
-+ I do not like traditional adventure games. I'm not a fan of trying every option or attempting to solve illogical puzzles as the primary form of gameplay. Also, all the _"get an item and then go 5+ screens away to use item and repeat" is frustrating in multiple ways.
++ I do not like traditional adventure games. I'm not a fan of trying every option or attempting to solve illogical puzzles as the primary form of gameplay. Also, all the _"get an item and then go 5+ screens away to use item and repeat"_ is frustrating in multiple ways.
   - See _Darkside Detective: A Fumble in the Dark_.
 
 <a id='legend'></a>
