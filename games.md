@@ -5,7 +5,7 @@ description: A management page for my ever evolving list of games.
 keywords: games, xbox, playstation, nintendo, nintendo switch, switch, oculus quest, oculus, quest, virtual reality, vr
 permalink: /games/
 customnav: games_nav.html
-update: 2021-12-04
+update: 2021-12-09
 ---
 
 <a id='playing'></a>
@@ -16,10 +16,7 @@ update: 2021-12-04
 
 #### :eyes: Focused
 
-1. Down The Rabbit Hole (VR) [3.0hr] <!-- May -->
-1. Forza Horizon 5 (XSX) :green_heart: :new: <!-- Nov -->
-1. Tales of Berseria (PS4) [44.5hr] <!-- Oct 2020 -->
-   * Remote play on iPad with an Xbox controller. 
+1. Down The Rabbit Hole (VR) [3.0hr] <!-- May --> 
 
 #### :traffic_light: Started and Need to Finish
 
@@ -56,6 +53,8 @@ update: 2021-12-04
 1. West of Loathing (NS) [11.5hr] <!-- Mar 2018 -->
 1. Steamworld Heist (NS) [12.0hr] <!-- Jul 2019 -->
 1. Unsighted (XSX) [12.0hr] :green_heart: :new: <!-- Oct -->
+1. DOOM Eternal (XSX) [13.5hr] :green_heart: <!-- Oct 2020 -->
+   * 120fps
 1. Child of Light - Ultimate Edition (NS) [15.0hr] <!-- Jun -->
 1. DRAGON QUEST II: Luminaries of the Legendary Line (NS) [16.5hr] <!-- Dec 2019 -->
 1. Marvels Guardians of the Galaxy (XSX) [17.0hr] :cd: :new: <!-- Nov -->
@@ -255,8 +254,13 @@ update: 2021-12-04
    * Ignored most of the "liberate these outposts" and I was able to wrap it up in a single evening.
    * I loved the bonkers story, the 80's music, the gameplay, and the required training montage.
    * By the time the credits rolled, I was just smiling and shaking my head… what a game. :smiling_face_with_three_hearts:
-   * For a 360 game, it held up quite well on my Series X.
-
+   * For a 360 game, it held up quite well on my Series X. <a id="forza-horizon-5"></a>
+1. Forza Horizon 5 (XSX) <!-- Nov -->
+   * Quite enjoyed my time with this.
+   * So much fun just tooling around off-road.
+   * Went from a good game to a great game when used my custom Spotify playlist.
+   * The range of cars that are fun to drive is just insane.
+   * :star: :star: :star: :star: :star:
 <!-- beaten:end -->
 
 <a id='jettisoned'></a>
@@ -326,8 +330,6 @@ of games I have to play is oh so long._
    * Checks all the boxes except the one labeled "fun".
 1. SpiritFarer (XB1) [23.0hr] :green_heart:
    * Will consider playing this in a few years when I can emotionally cope with it.
-1. DOOM Eternal (XSX) [13.5hr] :green_heart: <!-- Oct 2020 -->
-   * Just some fall cleaning of games I won't get to.
 1. Psychonauts (XBX) [15.5hr] :green_heart: <!-- June -->
    * Just some fall cleaning of games I won't get to.
 1. Psychonauts 2 (XSX) [19.0hr] :green_heart: <!-- August -->
@@ -362,6 +364,8 @@ of games I have to play is oh so long._
    * So much _"get an item and then go 5+ screens away to use item and repeat."_
      * Very frustrating in multiple ways. :rage:
    * Stern reminder that I do not enjoy adventure game mechanics. :no_good:
+1. Tales of Berseria (PS4) [44.5hr] <!-- Oct 2020 -->
+   * I'm just done with my PS4.
 
 <!-- jettisoned:end -->
 
