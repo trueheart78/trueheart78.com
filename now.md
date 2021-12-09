@@ -4,7 +4,7 @@ title: 📆 What I'm Up to Now
 description: What I've recently been up to.
 keywords: now, nownownow, studying, playing, reading, comics, books, side projects, games, ruby, rails, golang, tv shows, movies
 permalink: /now/
-update: 2021-11-29
+update: 2021-12-09
 ---
 
 ![Agent Smith - Crazy][agent smith - crazy laughing]
@@ -25,13 +25,10 @@ I'm currently living in Ohio, working remote for [CoverMyMeds][cmm] as a softwar
 ## :video_game: Playing Until Credits
 
 * _Down the Rabbit Hole_ on Oculus Quest 2.
-* _Forza Horizon 5_ on Xbox Series X.
-* _Tales of Berseria_ on Playstation 4.
-  * Via remote play on my iPad. :calling:
-  * Using an Xbox controller and my AirPod Pros. :headphones:
 
 ### :checkered_flag: Recently Beaten
 
+* _Forza Horizon 5_ on Xbox Series X.
 * _Far Cry 3 Blood Dragon_ on Xbox Series X.
 * _Wandersong_ on Nintendo Switch.
 * _Metroid Dread_ on Nintendo Switch.
@@ -49,6 +46,8 @@ I'm currently living in Ohio, working remote for [CoverMyMeds][cmm] as a softwar
 
 ## :book: Books and Comics
 
+* [Harley Quinn: Breaking Glass](https://www.amazon.com/gp/product/1401283292/)
+* [Critical Role: The Mighty Nein Origins - Jester Lavorre](https://www.amazon.com/gp/product/1506723764/)
 * [Saga - Volume 5](https://imagecomics.com/comics/series/saga)
   * Such a wonderful series.
 
