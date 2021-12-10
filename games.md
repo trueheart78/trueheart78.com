@@ -416,12 +416,12 @@ See the [New Releases Wiki][new-releases]. Sorted by release date.
 1. The Gunk (XSX) [12/16/21] :green_heart:
 1. Triangle Strategy (NS) [3/4/22] [wait for sale]
    * The demo was right up my tactics-loving alley.
-1. [Starfield][starfield] (XSX) [11/11/22]:green_heart:
+1. [Tunic][tunic] (XSX) [3/16/22] :green_heart:
+   * I really enjoyed the demo.
+1. [Starfield][starfield] (XSX) [11/11/22] :green_heart:
 1. [Severed Steel][severed steel] (XSX) [_TBD_] [wait for sale]
 1. [Bear & Breakfast][b and b] (NS) [_TBD_] [wait and see]
 1. [Replaced][replaced] (XSX) [_TBD_] :green_heart:
-1. [Tunic][tunic] (XSX) [_TBD_] :green_heart:
-   * I really enjoyed the demo.
 1. [Vampire: The Masquerade - Swansong][swansong] (XSX) [_TBD_]
 1. [Wildermyth][wildermyth] (XSX/NS) [_TBD_]
    * Console version confirmed to be in the works.
