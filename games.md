@@ -5,7 +5,7 @@ description: A management page for my ever evolving list of games.
 keywords: games, xbox, playstation, nintendo, nintendo switch, switch, oculus quest, oculus, quest, virtual reality, vr
 permalink: /games/
 customnav: games_nav.html
-update: 2021-12-09
+update: 2021-12-12
 ---
 
 <a id='playing'></a>
@@ -16,10 +16,11 @@ update: 2021-12-09
 
 #### :eyes: Focused
 
-1. Down The Rabbit Hole (VR) [3.0hr] <!-- May --> 
+1. Marvels Guardians of the Galaxy (XSX) [17.0hr] :cd: :new: <!-- Nov -->
 
 #### :traffic_light: Started and Need to Finish
 
+1. Down The Rabbit Hole (VR) [3.0hr] <!-- May -->
 1. SUPERHOT (VR) <!-- Nov 2020 -->
    * Great bit of light exercise for me.
 
@@ -57,7 +58,6 @@ update: 2021-12-09
    * 120fps
 1. Child of Light - Ultimate Edition (NS) [15.0hr] <!-- Jun -->
 1. DRAGON QUEST II: Luminaries of the Legendary Line (NS) [16.5hr] <!-- Dec 2019 -->
-1. Marvels Guardians of the Galaxy (XSX) [17.0hr] :cd: :new: <!-- Nov -->
 1. South Park: The Fractured But Whole (NS) [17.5hr] <!-- 2020 -->
 1. Children of Morta (XB1) [18.5hr] :green_heart: :new: <!-- Sep -->
 1. Darksiders 3 (XB1) [18.5hr] <!-- Jul -->
