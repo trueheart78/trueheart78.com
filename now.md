@@ -66,7 +66,7 @@ I'm currently living in Ohio, working remote for [CoverMyMeds][cmm] as a softwar
   * Not what I was expecting, but good nonetheless.
   * 6 more volumes due out, in sets of 3. 
 * [Batman: White Knight Presents: Harley Quinn (2021)](https://www.amazon.com/Batman-White-Knight-Presents-Harley/dp/1779510144) :black_heart: :heart:
-  * Harley's "Noir" suit is awesome, and easily one of my favorites! :star_struck:
+  * Harley's "Noir" suit is awesome, and easily one of my favorites! 🤩
   * I teared up at the end. :cry: :relaxed:
 * [Harley Quinn: Black + White + Red (2021)](https://www.amazon.com/Harley-Quinn-Black-White-Red/dp/1779509952) [[Overview]](https://www.dccomics.com/blog/2020/06/26/dc-proudly-presents-harley-quinn-black-white-red) :black_heart: :heart:
   * What a great set of stories. 
