@@ -4,7 +4,7 @@ title: 👨‍💻 My Resume
 description: I love writing Ruby & Go, rocking out to Taylor Swift, and using gifs to make others smile. I’ve been writing software professionally since 2004.
 keywords: resume, ruby, golang, software developer, side projects, open source, rails, sinatrarb, aws, lambda, aws lambda, paypal
 permalink: /resume/
-update: 2021-10-19
+update: 2021-12-15
 ---
 
 <a id='intro'></a>
@@ -74,7 +74,7 @@ My long term goals are:
 
 My personal website that also includes a [slightly active blog][blog]. Like any good personal site,
 it is host to many different [pages][pages]. Utilizes [Jekyll][jekyll] so I only have to use markdown,
-and is hosted on [GitHub pages][github-pages].
+and is hosted on [Netlify][netlify].
 
 * Site: [trueheart78.com][trueheart78-site] aka [iheartruby.com][iheartruby]
 * Source: [GitHub][iheartruby-source]
@@ -120,13 +120,13 @@ the above Book Notes project in a new folder, with a handy Readme link provided 
 
 * Source: [GitHub][book-notes-generator-source]
 
-### :video_game: Go, Deathbonus!
+### :space_invader: Go, Deathbonus!
 
 As someone that enjoys watching people play games on [Twitch][twitch] (and generally does so from
 a mobile device), I wanted to create a simple, easy-to-use site that could take me to a streamer's
 subscribe page, their chat in a browser window, or directly to their stream. So, as [Dexbonus][dexbonus]
 is one of my favorite content creators, I created a basic website using an alias of theirs, crafted
-it as a JavaScript-powered HTML page, and hosted it on AWS S3.
+it as a JavaScript-powered HTML page, and hosted it on [Netlify][netlify].
 
 * Site: [go.deathbon.us][deathbonus]
 * Source: [GitHub][deathbonus-source]
@@ -247,10 +247,10 @@ Associate of Computer Science in Software Applications and Programming
 [blog]: /blog
 [pages]: /pages
 [jekyll]: https://jekyllrb.com/
-[github-pages]: https://pages.github.com/
+[netlify]: https://www.netlify.com/
 [trueheart78-site]: https://www.trueheart78.com
 [iheartruby]: http://iheartruby.com
-[iheartruby-source]: https://github.com/trueheart78/trueheart78.github.io
+[iheartruby-source]: https://github.com/trueheart78/trueheart78.com
 [dropbox]: https://www.dropbox.com/
 [dropbox-gif-linker-source]: https://github.com/trueheart78/dropbox-gif-linker
 [gifs-gem-source]: https://github.com/trueheart78/gifs
