@@ -257,6 +257,7 @@ update: 2021-12-18
    * Went from a good game to a great game when used my custom Spotify playlist.
    * The range of cars that are fun to drive is just insane.
    * :star: :star: :star: :star: :star:
+
 <!-- beaten:end -->
 
 <a id='jettisoned'></a>
@@ -391,8 +392,7 @@ See the [New Releases Wiki][new-releases]. Sorted by release date.
 1. ~~[Going Under][going under] (XSX) [6/29/21]~~ :green_heart: [skipped]
 1. ~~[Cris Tales][cris tales] (XB1) [7/20/21]~~ :green_heart: [downloaded]
 1. ~~[Death's Door][death's door] (XSX) [7/20/21]~~ [skipped]
-   * Many Zelda comparisons make this $20 title interesting.
-   * The bullet hell, Dark Souls-esque description makes me not interested.
+   * The bullet hell, Dark Souls-esque description makes this a skip.
 1. ~~Hades (XSX) [8/13/21]~~ :green_heart: [downloaded]
 1. ~~[Greak: Memories of Azur][greak] (XSX) [8/17/21]~~ [skipped]
    * Watching gameplay, it's really not my style of game.
