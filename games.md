@@ -5,7 +5,7 @@ description: A management page for my ever evolving list of games.
 keywords: games, xbox, playstation, nintendo, nintendo switch, switch, oculus quest, oculus, quest, virtual reality, vr
 permalink: /games/
 customnav: games_nav.html
-update: 2021-12-12
+update: 2021-12-18
 ---
 
 <a id='playing'></a>
@@ -22,7 +22,6 @@ update: 2021-12-12
 
 1. Down The Rabbit Hole (VR) [3.0hr] <!-- May -->
 1. SUPERHOT (VR) <!-- Nov 2020 -->
-   * Great bit of light exercise for me.
 
 <!-- playing:end -->
 
@@ -53,9 +52,8 @@ update: 2021-12-12
 1. The Banner Saga 2 (NS) [11.5hr] :new:  <!-- Nov -->
 1. West of Loathing (NS) [11.5hr] <!-- Mar 2018 -->
 1. Steamworld Heist (NS) [12.0hr] <!-- Jul 2019 -->
-1. Unsighted (XSX) [12.0hr] :green_heart: :new: <!-- Oct -->
 1. DOOM Eternal (XSX) [13.5hr] :green_heart: <!-- Oct 2020 -->
-   * 120fps
+   * I want to see how 120fps feels.
 1. Child of Light - Ultimate Edition (NS) [15.0hr] <!-- Jun -->
 1. DRAGON QUEST II: Luminaries of the Legendary Line (NS) [16.5hr] <!-- Dec 2019 -->
 1. South Park: The Fractured But Whole (NS) [17.5hr] <!-- 2020 -->
@@ -66,14 +64,12 @@ update: 2021-12-12
 1. Art of Rally (XSX) [20.5hr] :green_heart: :new: <!-- Sep -->
 1. ALTDEUS: Beyond Chronos + Episode Yamato DLC (VR) [25.0hr] <!-- Mar + Jun -->
 1. Immortals Fenyx Rising (XSX) [25.0hr] :cd: :new: <!-- Nov -->
-1. Valkyria Chronicles Remastered (PS4) [27.5hr] <!-- Oct 2020 -->
 1. AI: THE SOMNIUM FILES (XSX) [28.0hr] :green_heart: :new: <!-- Sep -->
 1. Cris Tales (XB1) [28.0hr] :green_heart: <!-- Jul -->
 1. Darksiders II Deathinitive Edition (XB1) [29.5hr] <!-- Jul -->
 1. Astria Ascending (XSX) [30.0hr] :green_heart: :new: <!-- Sep -->
 1. Knights of the Old Republic 2 (XBX) [31.0hr] <!-- Oct 2020 -->
 1. Persona 5 Strikers (NS) [35.5hr] :floppy_disk: :new: <!-- Nov -->
-1. Valkyria Chronicles 4 (PS4) [35.5hr] <!-- Oct 2020 -->
 1. SCARLET NEXUS (XSX) [36.0hr] :green_heart: :new: <!-- Sep -->
 1. Tales of Arise (XSX) [40.0hr] :cd: :new: <!-- Nov -->
 1. Hades (XSX) [43.5hr] :green_heart: <!-- Aug -->
@@ -365,7 +361,13 @@ of games I have to play is oh so long._
      * Very frustrating in multiple ways. :rage:
    * Stern reminder that I do not enjoy adventure game mechanics. :no_good:
 1. Tales of Berseria (PS4) [44.5hr] <!-- Oct 2020 -->
-   * I'm just done with my PS4.
+   * I've packed away my PS4.
+1. Valkyria Chronicles Remastered (PS4) [27.5hr] <!-- Oct 2020 -->
+   * I've packed away my PS4.
+1. Valkyria Chronicles 4 (PS4) [35.5hr] <!-- Oct 2020 -->
+   * I've packed away my PS4.
+1. Unsighted (XSX) [12.0hr] :green_heart: :new: <!-- Oct -->
+   * Learned through GotY discussions that it's anxiety-inducing hard.
 
 <!-- jettisoned:end -->
 
@@ -388,11 +390,14 @@ See the [New Releases Wiki][new-releases]. Sorted by release date.
 1. ~~[SCARLET NEXUS][scarlet nexus] (XSX) [6/25/21]~~ :green_heart: [downloaded]
 1. ~~[Going Under][going under] (XSX) [6/29/21]~~ :green_heart: [skipped]
 1. ~~[Cris Tales][cris tales] (XB1) [7/20/21]~~ :green_heart: [downloaded]
-1. [Death's Door][death's door] (XSX) [7/20/21] [wait for sale]
+1. ~~[Death's Door][death's door] (XSX) [7/20/21]~~ [skipped]
    * Many Zelda comparisons make this $20 title interesting.
+   * The bullet hell, Dark Souls-esque description makes me not interested.
 1. ~~Hades (XSX) [8/13/21]~~ :green_heart: [downloaded]
-1. [Greak: Memories of Azur][greak] (XSX) [8/17/21] [wait and see]
+1. ~~[Greak: Memories of Azur][greak] (XSX) [8/17/21]~~ [skipped]
+   * Watching gameplay, it's really not my style of game.
 1. ~~Twelve Minutes (XSX) [8/19/21]~~ :green_heart: [skipped]
+   * Having heard how it progresses, good ol' nope from me.
 1. ~~Psychonauts 2 (XSX) [8/25/21]~~ :green_heart: [skipped]
 1. ~~[Lake][lake] (XSX) [9/1/21]~~ [pre-ordered]
 1. ~~[The Artful Escape][artful escape] (XB1) [9/9/21]~~ :green_heart: [downloaded]
@@ -413,7 +418,7 @@ See the [New Releases Wiki][new-releases]. Sorted by release date.
 1. ~~[The Good Life][good life] (XSX) [10/15/21]~~ :green_heart: [skipped]
 1. ~~Forza Horizon 5 (XSX) [11/9/21]~~ :green_heart: [downloaded]
    * Ordered the [Limited Edition controller][forza controller]. :yellow_heart: :sparkling_heart: :blue_heart:
-1. The Gunk (XSX) [12/16/21] :green_heart:
+1. ~~The Gunk (XSX) [12/16/21]~~ :green_heart: [downloaded]
 1. Triangle Strategy (NS) [3/4/22] [wait for sale]
    * The demo was right up my tactics-loving alley.
 1. [Tunic][tunic] (XSX) [3/16/22] :green_heart:
@@ -438,7 +443,8 @@ See the [Games in Development Wiki][games-in-development]
 1. Metroid Prime 4 (NS)
 1. [SacriFire (via KickStarter)][sacri fire ks] (XSX) [backed]
 1. [Stranger of Paradise - Final Fantasy Origin][stranger of paradise] (XSX) [2022]
-1. Stray (PS4) [2022]
+1. ~~Stray (PS4) [2022]~~
+   * Packed away my PS4.
 1. System Shock (XSX)
 1. Untitled RWBY Game (XSX)
 1. Vampire: The Masquerade – Bloodlines 2 (XSX)
