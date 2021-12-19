@@ -36,8 +36,10 @@ update: 2021-12-19
 1. Pixel Ripped 1995 (VR) [3.0hr] <!-- Oct 2020 -->
 1. Deltarune: Chapter 1 (NS) [3.5hr] :new: <!-- Oct -->
 1. GRIS (NS) [4.0hr] <!-- Nov 2019 -->
+1. Firewatch (XB1) [4.5hr] :green_heart: :new: <!-- Dec -->
 1. Moss (VR) [4.5hr] <!-- Feb -->
 1. Evoland (NS) [5.0hr] <!-- July -->
+1. The Gunk (XSX) [5.0hr] :green_heart: :new: <!-- Dec -->
 1. The Solitaire Conspiracy (NS) [5.0hr] <!-- Jun -->
 1. Deltarune: Chapter 2 (NS) [5.5hr] :new: <!-- Oct -->
 1. Raji: An Ancient Epic (XB1) [5.5hr] :green_heart: <!-- Jul -->
@@ -402,7 +404,7 @@ See the [New Releases Wiki][new-releases]. Sorted by release date.
 1. ~~[Lake][lake] (XSX) [9/1/21]~~ [pre-ordered]
 1. ~~[The Artful Escape][artful escape] (XB1) [9/9/21]~~ :green_heart: [downloaded]
 1. ~~[Life is Strange: True Colors][true colors] (XSX) [9/10/21]~~ [skipped]
-1. [Lost in Random][lost in random] (XB1) [9/10/21] [wait for sale]
+1. ~~[Lost in Random][lost in random] (XB1) [9/10/21]~~ [skipped]
    * Ryan North (of Squirrel Girl and Dinosaur Comics fame) wrote all the dialogue :chipmunk: :sparkling_heart:
 1. ~~[Tales of Arise][tales of arise] (XSX) [09/10/21]~~ [purchased]
 1. [Tails of Iron][tails of iron] (XSX) [8.0hr] [9/17/21] [wait for sale]
