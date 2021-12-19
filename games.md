@@ -5,7 +5,7 @@ description: A management page for my ever evolving list of games.
 keywords: games, xbox, playstation, nintendo, nintendo switch, switch, oculus quest, oculus, quest, virtual reality, vr
 permalink: /games/
 customnav: games_nav.html
-update: 2021-12-18
+update: 2021-12-19
 ---
 
 <a id='playing'></a>
@@ -454,6 +454,7 @@ See the [Games in Development Wiki][games-in-development]
 
 1. ~~Darkside Detective: A Fumble in the Dark (NS) [7.5hr]~~ [purchased]
 1. ~~Final Fantasy XV Royal Edition (XSX) [35.0hr]~~ [skipped]
+1. Jade Empire (XSX) [wait for sale]
 1. ~~Immortals Fenyx Rising (XSX) [30.0hr]~~ [purchased]
 1. ~~Regalia: Of Men and Monarchs - Royal Edition (NS) [40.5hr]~~ [skipped]
 
