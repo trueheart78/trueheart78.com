@@ -369,27 +369,6 @@ See the [Games in Development Wiki][games-in-development]
 
 <div id="lessons-learned"></div>
 
-+ I should not buy DLC until I am ready to play it.
-+ I stop playing open world games when I complete the main story.
-+ I am bad at platformers, regardless of how much I enjoy watching them.
-  - See _Super Lucky's Tale_ and _Mario Maker 2_.
-+ I am much more of a taste-tester than I ever was before. This leads to more jettisoned games, but
-  in the end I, I find myself playing more games and getting hooked on the ones that really click
-  with me.
-+ If a game isn't living rent free in my mind, or at least making me want to get to back to it, then
-  I should consider moving on. I value enjoyment the most, so if the fun factor isn't there, even
-  for AAA GOTY titles, it's ok. :rocket:
-  - See _Control_ and _Ghost of Tsushima_.
-+ Games that frustrate me aren't fun. There's no joy in beating my head against a wall. It's likely that
-  a game that violates this once, will do so again. Don't be fooled.
-  - See _Metroid Dread_.
-+ If there is no difficulty setting for a combat-oriented game, I may not be interested.
-  - See _Metroid Dread_.
-+ Short games (10 hours or less) that I can complete in one to two sittings are wonderful. 
-  - See _Far Cry 3 Blood Dragon_.
-+ I do not like traditional adventure games. I'm not a fan of trying every option or attempting to solve illogical puzzles as the primary form of gameplay. Also, all the _"get an item and then go 5+ screens away to use item and repeat"_ is frustrating in multiple ways.
-  - See _Darkside Detective: A Fumble in the Dark_.
-
 <a id='legend'></a>
 
 ## :information_source: Legend [🔝][top]
