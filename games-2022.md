@@ -15,90 +15,22 @@ update: 2022-01-01
 #### 👀 Focused
 
 <div id="games-playing"></div>
-1. Marvels Guardians of the Galaxy (XSX) [17.0hr] :cd: :new: <!-- Nov -->
 
 <a id='paused'></a>
 ## 🚥 Paused
 
 <div id="games-paused"></div>
-1. Down The Rabbit Hole (VR) [3.0hr] <!-- May -->
-1. SUPERHOT (VR) <!-- Nov 2020 -->
 
 <a id='unplayed'></a>
 ## 👾 Unplayed [🔝][top]
 
 <div id="games-unplayed"></div>
-1. Vader Immortal: Episode I (VR) [1.0hr] <!-- Aug -->
-1. Vader Immortal: Episode II (VR) [1.0hr] <!-- Nov -->
-1. Pixel Ripped 1995 (VR) [3.0hr] <!-- Oct 2020 -->
-1. Deltarune: Chapter 1 (NS) [3.5hr] :new: <!-- Oct -->
-1. GRIS (NS) [4.0hr] <!-- Nov 2019 -->
-1. Firewatch (XB1) [4.5hr] :green_heart: :new: <!-- Dec -->
-1. Moss (VR) [4.5hr] <!-- Feb -->
-1. Evoland (NS) [5.0hr] <!-- July -->
-1. The Gunk (XSX) [5.0hr] :green_heart: :new: <!-- Dec -->
-1. The Solitaire Conspiracy (NS) [5.0hr] <!-- Jun -->
-1. Deltarune: Chapter 2 (NS) [5.5hr] :new: <!-- Oct -->
-1. Raji: An Ancient Epic (XB1) [5.5hr] :green_heart: <!-- Jul -->
-1. Transistor (NS) [6.0hr] <!-- Mar -->
-1. Dirt 5 (XSX) [6.5hr] :green_heart: <!-- Feb -->
-1. Trover Saves the Universe (VR) [8.0hr] <!-- June -->
-1. The Banner Saga 3 (NS) [9.5hr] :new: <!-- Nov -->
-1. Deadpool (XB1) [10.0hr] :cd: <!-- Aug -->
-1. The Banner Saga (NS) [10.5hr] :new: <!-- Nov -->
-1. Star Wars: The Force Unleashed (360) [Enhanced Ed] [11.0hr] <!-- Jul -->
-1. SUPERHOT: MIND CONTROL DELETE (XSX) [11.0hr] <!-- Nov 2020 -->
-1. The Banner Saga 2 (NS) [11.5hr] :new:  <!-- Nov -->
-1. West of Loathing (NS) [11.5hr] <!-- Mar 2018 -->
-1. Steamworld Heist (NS) [12.0hr] <!-- Jul 2019 -->
-1. DOOM Eternal (XSX) [13.5hr] :green_heart: <!-- Oct 2020 -->
-   * I want to see how 120fps feels.
-1. Child of Light - Ultimate Edition (NS) [15.0hr] <!-- Jun -->
-1. DRAGON QUEST II: Luminaries of the Legendary Line (NS) [16.5hr] <!-- Dec 2019 -->
-1. South Park: The Fractured But Whole (NS) [17.5hr] <!-- 2020 -->
-1. Children of Morta (XB1) [18.5hr] :green_heart: :new: <!-- Sep -->
-1. Darksiders 3 (XB1) [18.5hr] <!-- Jul -->
-1. Darksiders: Warmaster Edition (XB1) [20.0hr] <!-- Jul -->
-1. Evoland 2 (NS) [20.0hr] <!-- Jul -->
-1. Art of Rally (XSX) [20.5hr] :green_heart: :new: <!-- Sep -->
-1. ALTDEUS: Beyond Chronos + Episode Yamato DLC (VR) [25.0hr] <!-- Mar + Jun -->
-1. Immortals Fenyx Rising (XSX) [25.0hr] :cd: :new: <!-- Nov -->
-1. AI: THE SOMNIUM FILES (XSX) [28.0hr] :green_heart: :new: <!-- Sep -->
-1. Cris Tales (XB1) [28.0hr] :green_heart: <!-- Jul -->
-1. Darksiders II Deathinitive Edition (XB1) [29.5hr] <!-- Jul -->
-1. Astria Ascending (XSX) [30.0hr] :green_heart: :new: <!-- Sep -->
-1. Knights of the Old Republic 2 (XBX) [31.0hr] <!-- Oct 2020 -->
-1. Persona 5 Strikers (NS) [35.5hr] :floppy_disk: :new: <!-- Nov -->
-1. SCARLET NEXUS (XSX) [36.0hr] :green_heart: :new: <!-- Sep -->
-1. Tales of Arise (XSX) [40.0hr] :cd: :new: <!-- Nov -->
-1. Hades (XSX) [43.5hr] :green_heart: <!-- Aug -->
-1. Yakuza: Like a Dragon (XSX) [45.0hr] <!-- Nov 2020 -->
-1. Assassin's Creed: Valhalla (XSX) [53.0hr] <!-- Nov 2020 -->
 
 <a id='fun'></a>
 
-## :heart_eyes: For Funsies [🔝][top]
+## 😍 For Funsies [🔝][top]
 
 <div id="games-fun"></div>
-
-1. Assassin's Creed: Odyssey (XB1) <!-- Feb 2020 -->
-   * Re-purchased it and re-playing it again on Xbox.
-   * Have fully explored the world. Now, I just need to do the quests.
-1. Audica (VR) <!-- Feb -->
-   * This is my jam.
-   * Made by Harmonix.
-   * Has _Bad Guy_ and _Juice_.
-1. Beat Saber (VR) <!-- Oct 2020 -->
-   * Bought the Billie Eilish, BTS, Green Day, Interplay, Linkin Park, and Panic! at the Disco packs.
-   * Mainly play the "solo" mode, so there is no "completion".
-   * Love the 90° mode.
-1. Dark Souls 3 (XSX) <!-- Jul -->
-   * 60 FPS thanks to FPS Boost. :heart:
-   * Will be fun to revisit.
-1. OhShape (VR) <!-- Jun -->
-   * Contortionist skills being tested.
-1. Valentino Rossi: The Game (XB1) :cd: <!-- Aug -->
-1. Tilt Brush (VR) <!-- Oct 2020 -->
 
 <a id='vr-experiences'></a>
 
@@ -106,14 +38,9 @@ update: 2022-01-01
 
 <div id="games-vr-experiences"></div>
 
-1. Alcove: Into Space - 1st Step (VR) [14m] <!-- Feb -->
-1. Alcove: Into Space - 2nd Step (VR) [11m] <!-- Feb -->
-1. Nature Treks VR (VR) <!-- Jan -->
-1. Space Explorers: The ISS Experience - Adapt (VR) [29m] <!-- Jan -->
-
 <a id='awaiting-content'></a>
 
-## :calendar: Awaiting Content [🔝][top]
+## 📆 Awaiting Content [🔝][top]
 
 <div id="games-awaiting-content"></div>
 
