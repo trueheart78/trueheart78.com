@@ -4,7 +4,7 @@ title: 📆 What I'm Up to Now
 description: What I've recently been up to.
 keywords: now, nownownow, studying, playing, reading, comics, books, side projects, games, ruby, rails, golang, tv shows, movies
 permalink: /now/
-update: 2021-12-12
+update: 2021-12-22
 ---
 
 ![Agent Smith - Crazy][agent smith - crazy laughing]
@@ -47,13 +47,15 @@ I'm currently living in Ohio, working remote for [CoverMyMeds][cmm] as a softwar
 
 ## :book: Books and Comics
 
-* [Harley Quinn: Breaking Glass](https://www.amazon.com/gp/product/1401283292/)
 * [Critical Role: The Mighty Nein Origins - Jester Lavorre](https://www.amazon.com/gp/product/1506723764/)
 * [Saga - Volume 5](https://imagecomics.com/comics/series/saga)
   * Such a wonderful series.
 
 ### :closed_book: Recently Completed
 
+* [Harley Quinn: Breaking Glass](https://www.amazon.com/gp/product/1401283292/)
+  * A delightful take on what the younger Harley Quinn could have been.
+  * That final panel. :heart: :black_heart:
 * [Slaughterhouse Five (graphic novel)](https://www.amazon.com/Slaughterhouse-Five-Ryan-North/dp/1684156254/)
   * So it goes.
 * [Punderworld - Volume 1](https://www.amazon.com/dp/B096H56K1W)
