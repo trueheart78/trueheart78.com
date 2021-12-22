@@ -46,7 +46,7 @@ update: 2022-01-01
    
 <a id="beaten"></a>
 
-## 🏁 Beaten [🔝][top] <a id='cyberpunk-2077'></a>
+## 🏁 Beaten [🔝][top]
 
 <div id="games-beaten"></div>
 
@@ -69,7 +69,7 @@ See the [New Releases Wiki][new-releases]. Sorted by release date.
 
 ## 💰 Planned Purchases (Hopefully in 2022)
 
-See the [Games in Development Wiki][games-in-development]
+See the [Games in Development Wiki][games-in-development].
 
 <div id="purchases-hopeful"></div>
 
@@ -93,14 +93,14 @@ See the [Games in Development Wiki][games-in-development]
 
 <div id="lessons-learned"></div>
 
-<a id='legend'></a>
+<a id="legend"></a>
 
-## :information_source: Legend [🔝][top]
+## ℹ️ Legend [🔝][top]
 
-* :green_heart: = Xbox Game Pass
-* :new: = Added within the last 90 days
-* :cd: = Disc-based version
-* :floppy_disk: = Cartridge-based version
+* 💚 = Xbox Game Pass
+* 🆕 = Added within the last 90 days
+* 💿 = Disc-based version
+* 💾 = Cartridge-based version
 
 [top]: #page-top
 [new-releases]: https://en.wikipedia.org/wiki/2022_in_video_gaming#Game_releases
