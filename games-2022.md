@@ -17,7 +17,7 @@ update: 2022-01-01
 <div id="games-playing"></div>
 
 <a id="paused"></a>
-## 🚥 Paused
+#### 🚥 Paused
 
 <div id="games-paused"></div>
 
