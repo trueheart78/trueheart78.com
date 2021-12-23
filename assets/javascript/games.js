@@ -6,8 +6,9 @@
  * - Cross-reference the "last_modified" of each file and find the most recent, then 
  */
 
-async function loadData() {
-  let options = { mode: 'no-cors' };
+const dates = [];
+
+async function loadGameData() {
   let response = await fetch('https://api.trueheart78.com/v1/games/games.json');
 
   if (!response.ok) {
@@ -15,13 +16,15 @@ async function loadData() {
   }
 
   let gameData = await response.json();
-
-  let dates = [];
   dates.push(gameData["last_modified"]);
 
-  updateLastModified(dates);
-
   parseGames(gameData["games"], gameData["statuses"]);
+}
+
+function loadData() {
+  loadGameData().catch(e => logError(e));
+
+//  updateLastModified(dates);
 }
 
 function updateLastModified(dates) {
@@ -56,31 +59,38 @@ function parseGames(games, statuses) {
 }
 
 function gameToHTML(game) {
+  let output = [];
   let string = `${game["name"]} (${game["system"]})`;
+  if (game.hasOwnProperty("url") && game["url"].length > 0) {
+    output.push(`<a href="${game["url"]}" target="_blank">${game["name"]}</a>`);
+  } else {
+    output.push(game["name"]);
+  }
+  output.push(` (${game["system"]})`);
   if (game.hasOwnProperty("hours") && game["hours"] > 0) {
-    string += ` [${game["hours"]}hr]`;
+    output.push(` [${game["hours"]}hr]`);
   }
   if (game.hasOwnProperty("cartridge") && game["cartridge"]) {
-    string += " 💾";
+    output.push(" 💾");
   }
   if (game.hasOwnProperty("disc") && game["disc"]) {
-    string += " 💿";
+    output.push(" 💿");
   }
   if (game.hasOwnProperty("gamepass") && game["gamepass"]) {
-    string += " 💚";
+    output.push(" 💚");
   }
   if (recentAddition(game["added"])) {
-    string += " 🆕";
+    output.push(" 🆕");
   }
   if (game.hasOwnProperty("notes") && game["notes"].length > 0) {
-    string += "\n<ul>";
+    output.push("\n<ul>");
     for(let note of game["notes"]) {
-      string += `\n<li>${note}</li>`;
+      output.push(`\n<li>${note}</li>`);
     }
-    string += "\n</ul>";
+    output.push("\n</ul>");
   }
 
-  return `<li>${string}</li>`;
+  return `<li>${output.join("")}</li>`;
 }
 
 const today = new Date();
@@ -94,7 +104,8 @@ function recentAddition(date) {
   return recent;
 }
 
-loadData()
-.catch(e => {
-  console.log('There has been a problem with your fetch operation: ' + e.message);
-});
+function logError(error) {
+  console.log(`Error: ${e.message}`);
+}
+
+loadData();
