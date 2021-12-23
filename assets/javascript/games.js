@@ -21,8 +21,22 @@ async function loadGameData() {
   parseGames(gameData.games, gameData.statuses);
 }
 
+async function loadLessonData() {
+  let response = await fetch('https://api.trueheart78.com/v1/games/lessons.json');
+
+  if (!response.ok) {
+    throw new Error(`HTTP error! status: ${response.status}`);
+  }
+
+  let lessonData = await response.json();
+  dates.push(lessonData.last_modified);
+
+  parseLessons(lessonData.lessons);
+}
+
 function loadData() {
   loadGameData().catch(e => logError(e));
+  loadLessonData().catch(e => logError(e));
 
 //  updateLastModified(dates);
 }
@@ -55,6 +69,26 @@ function parseGames(games, statuses) {
       console.log(`Info: No element found with the "${divId}" id.`);
     }
   }
+}
+
+function parseLessons(lessons) {
+  let div = document.getElementById("lessons-learned");
+  let items = [];
+  for (let lesson of lessons) {
+    items.push(lessonToHTML(lesson));
+  }
+  div.innerHTML = `<ol>${items.join("\n")}</ol>`;
+}
+
+function lessonToHTML(lesson) {
+  let output = [lesson.learned];
+  if (lesson.hasOwnProperty("examples") && lesson.examples.length > 0) {
+    output.push("\n<ul><li>See <i>");
+    output.push(lesson.examples.join("</i> and <i>"));
+    output.push("</i>.</li>\n</ul>");
+  }
+
+  return `<li>${output.join("")}</li>`;
 }
 
 function gameToHTML(game) {
