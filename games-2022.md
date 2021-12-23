@@ -5,7 +5,7 @@ description: A management page for my ever evolving list of games.
 keywords: games, xbox, playstation, nintendo, nintendo switch, switch, oculus quest, oculus, quest, virtual reality, vr
 permalink: /games-2022/
 customnav: games_nav_v2.html
-update: 2022-01-01
+update: placeholder
 ---
 
 <a id="playing"></a>
@@ -101,6 +101,8 @@ See the [Games in Development Wiki][games-in-development].
 * 🆕 = Added within the last 90 days
 * 💿 = Disc-based version
 * 💾 = Cartridge-based version
+
+<script type="text/javascript" src="/assets/javascript/games.js"></script>
 
 [top]: #page-top
 [new-releases]: https://en.wikipedia.org/wiki/2022_in_video_gaming#Game_releases
