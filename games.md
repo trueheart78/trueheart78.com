@@ -36,7 +36,6 @@ update: 2021-12-19
 1. Pixel Ripped 1995 (VR) [3.0hr] <!-- Oct 2020 -->
 1. Deltarune: Chapter 1 (NS) [3.5hr] :new: <!-- Oct -->
 1. GRIS (NS) [4.0hr] <!-- Nov 2019 -->
-1. Firewatch (XB1) [4.5hr] :green_heart: :new: <!-- Dec -->
 1. Moss (VR) [4.5hr] <!-- Feb -->
 1. Evoland (NS) [5.0hr] <!-- July -->
 1. The Gunk (XSX) [5.0hr] :green_heart: :new: <!-- Dec -->
