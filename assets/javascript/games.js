@@ -56,15 +56,26 @@ function parseGames(games, statuses) {
     let div = document.getElementById(divId);
     if (div != null) {
       let items = [];
+      let htmlItems = [];
       for (let game of games) {
-        if (game["status"] == currentStatus) {
-          items.push(gameToHTML(game));
+        if (game.status == currentStatus) {
+          items.push(game);
         }
       }
-      if (items.length == 0) {
-        items.push("<li><em>TBD</em></li>");
+      if (currentStatus == "unplayed" || currentStatus == "vr experiences") {
+        items = items.sort(compareWithHours);
+      } else if (currentStatus == "beaten" || currentStatus == "jettisoned") {
+        items = items.sort(compareByRemoved);
+      } else {
+        items = items.sort(compare);
       }
-      div.innerHTML = `<ol>${items.join("\n")}</ol>`;
+      for(let item of items) {
+        htmlItems.push(gameToHTML(item));
+      }
+      if (htmlItems.length == 0) {
+        htmlItems.push("<li><em>TBD</em></li>");
+      }
+      div.innerHTML = `<ol>${htmlItems.join("\n")}</ol>`;
     } else {
       console.log(`Info: No element found with the "${divId}" id.`);
     }
@@ -78,6 +89,55 @@ function parseLessons(lessons) {
     items.push(lessonToHTML(lesson));
   }
   div.innerHTML = `<ol>${items.join("\n")}</ol>`;
+}
+function compare(a, b) {
+  // Use toUpperCase() to ignore character casing
+  let gameNameA = a.name.toUpperCase();
+  let gameNameB = b.name.toUpperCase();
+
+  let comparison = 0;
+  // Sort by name.
+  if (gameNameA > gameNameB) {
+    comparison = 1;
+  } else if (gameNameA < gameNameB) {
+    comparison = -1;
+  }
+  return comparison;
+}
+
+function compareWithHours(a, b) {
+  let gameHoursA = a.hours;
+  let gameHoursB = b.hours;
+  // Use toUpperCase() to ignore character casing
+  let gameNameA = a.name.toUpperCase();
+  let gameNameB = b.name.toUpperCase();
+
+  let comparison = 0;
+  // Sort by hours first, and then name.
+  if (gameHoursA > gameHoursB) {
+    comparison = 1;
+  } else if (gameHoursA < gameHoursB) {
+    comparison = -1;
+  } else if (gameNameA > gameNameB) {
+    comparison = 1;
+  } else if (gameNameA < gameNameB) {
+    comparison = -1;
+  }
+  return comparison;
+}
+
+function compareByRemoved(a, b) {
+  let gameRemovedA = new Date(a.removed).getTime();
+  let gameRemovedB = new Date(b.removed).getTime();
+
+  let comparison = 0;
+  // Sort by removed time.
+  if (gameRemovedA > gameRemovedB) {
+    comparison = 1;
+  } else if (gameRemovedA < gameRemovedB) {
+    comparison = -1;
+  }
+  return comparison;
 }
 
 function lessonToHTML(lesson) {
