@@ -102,13 +102,21 @@ function parsePurchases(purchases, categories, completed_statuses) {
     let div = document.getElementById(divId);
     if (div != null) {
       let items = [];
+      let itemsWithRelease = [];
       let htmlItems = [];
       for (let purchase of purchases) {
         if (purchase.category == currentCategory) {
-          items.push(purchase);
+          if (purchase.hasOwnProperty("release_date") && purchase.release_date != "") {
+            itemsWithRelease.push(purchase);
+          } else {
+            items.push(purchase);
+          }
         }
       }
-      items = items.sort(compareWithRelease);
+      itemsWithRelease = itemsWithRelease.sort(compareWithRelease);
+      items = items.sort(compare);
+      items = itemsWithRelease.concat(items);
+
       for(let item of items) {
         let completed = completed_statuses.includes(item.status);
         htmlItems.push(purchaseToHTML(item, completed));
@@ -170,22 +178,14 @@ function compareWithHours(a, b) {
 }
 
 function compareWithRelease(a, b) {
+  // Sort by release date and, if they match, sort by name
+  let gameReleaseA = new Date(a.release_date).getTime();
+  let gameReleaseB = new Date(b.release_date).getTime();
+
   let comparison = 0;
-
-  // Sort by release date (preferred) and then name
-  if (a.hasOwnProperty("release_date") && b.hasOwnProperty("release_date")) {
-    let gameReleaseA = new Date(a.release_date).getTime();
-    let gameReleaseB = new Date(b.release_date).getTime();
-    //console.log(`${a.name}: ${gameReleaseA} vs ${b.name}: ${gameReleaseB}`);
-
-    if (gameReleaseA > gameReleaseB) {
-      comparison = 1;
-    } else if (gameReleaseA < gameReleaseB) {
-      comparison = -1;
-    }
-  } else if (a.hasOwnProperty("release_date")) {
+  if (gameReleaseA > gameReleaseB) {
     comparison = 1;
-  } else if (b.hasOwnProperty("release_date")) {
+  } else if (gameReleaseA < gameReleaseB) {
     comparison = -1;
   } else {
     // Use toUpperCase() to ignore character casing
@@ -198,7 +198,7 @@ function compareWithRelease(a, b) {
       comparison = -1;
     }
   }
-  
+
   return comparison;
 }
 
