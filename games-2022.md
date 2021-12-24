@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 🔮 My Games
+title: 🔮 My Games (2022)
 description: A management page for my ever evolving list of games.
 keywords: games, xbox, playstation, nintendo, nintendo switch, switch, oculus quest, oculus, quest, virtual reality, vr
 permalink: /games-2022/
