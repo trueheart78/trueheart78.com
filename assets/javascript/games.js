@@ -17,7 +17,7 @@ async function loadGameData() {
 
   parseGames(gameData.games, gameData.statuses);
   
-  retrun gameData.last_modified;
+  retrun gameData;
 }
 
 async function loadPurchaseData() {
@@ -31,7 +31,7 @@ async function loadPurchaseData() {
 
   parsePurchases(purchaseData.purchases, purchaseData.categories, purchaseData.completed_statuses);
   
-  return purchaseData.last_modified;
+  return purchaseData;
 }
 
 async function loadLessonData() {
@@ -45,16 +45,20 @@ async function loadLessonData() {
 
   parseLessons(lessonData.lessons);
   
-  return lessonData.last_modified;
+  return lessonData;
 }
 
-function loadData() {
-  let date1 = loadGameData().catch(e => logError(e));
-  let date2 = loadPurchaseData().catch(e => logError(e));
-  let date3 = loadLessonData().catch(e => logError(e));
+async function loadData() {
+  let gameData = loadGameData();
+  let purchaseData = loadPurchaseData();
+  let lessonData = loadLessonData();
 
-  let dates = await Promise.all([date1, date2, date3]);
-  updateLastModified(dates);
+  let data = await Promise.all([gameData, purchaseData, lessonData]);
+  
+  console.log(data);
+  
+  
+  // updateLastModified(dates);
 }
 
 function updateLastModified(dates) {
@@ -339,4 +343,4 @@ function logError(error) {
   console.log(`Error: ${error.message}`);
 }
 
-loadData();
+loadData().catch(e => logError(e));
