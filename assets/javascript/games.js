@@ -53,12 +53,13 @@ async function loadData() {
   let purchaseData = loadPurchaseData();
   let lessonData = loadLessonData();
 
-  let data = await Promise.all([gameData, purchaseData, lessonData]);
+  let allData = await Promise.all([gameData, purchaseData, lessonData]);
   
-  console.log(data);
-  
-  
-  // updateLastModified(dates);
+  let dates = [];
+  for(let data of allData) {
+    dates.push(data.last_modified);
+  }
+  updateLastModified(dates);
 }
 
 function updateLastModified(dates) {
