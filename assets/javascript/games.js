@@ -64,6 +64,13 @@ function updateLastModified(dates) {
   // console.log(lastModifiedDate);
 }
 
+function shortDate(date) {
+  let date = new Date(date);
+  let options = { day: "2-digit", month: "2-digit", year: "2-digit", timeZone: "UTC" };
+  
+  return date.toLocaleString("en-US", options);
+}
+
 function parseGames(games, statuses) {
   for (let currentStatus of statuses) {
     let divId = `games-${currentStatus.replaceAll(" ", "-")}`;
@@ -274,7 +281,7 @@ function purchaseToHTML(purchase, completed) {
     output.push(` [${purchase.hours}hr]`);
   }
   if (purchase.hasOwnProperty("release_date") && purchase.release_date) {
-    output.push(` [${purchase.release_date}]`);
+    output.push(` [${shortDate(purchase.release_date)}]`);
   } else if (purchase.category == "planned") {
     output.push(" [TBD]");
   }
