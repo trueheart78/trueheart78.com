@@ -9,7 +9,6 @@
 const dates = [];
 
 async function loadGameData() {
-  console.log("loadGameData: start");
   let response = await fetch('https://api.trueheart78.com/v1/games/games.json');
 
   if (!response.ok) {
@@ -17,16 +16,12 @@ async function loadGameData() {
   }
 
   let gameData = await response.json();
-  console.log("loadGameData: json ready");
   dates.push(gameData.last_modified);
-  console.log("loadGameData: date pushed? ["+gameData.last_modified+"]");
 
   parseGames(gameData.games, gameData.statuses);
-  console.log("loadGameData: end");
 }
 
 async function loadPurchaseData() {
-  console.log("loadPurchaseData: start");
   let response = await fetch('https://api.trueheart78.com/v1/games/purchases.json');
 
   if (!response.ok) {
@@ -34,16 +29,12 @@ async function loadPurchaseData() {
   }
 
   let purchaseData = await response.json();
-  console.log("loadPurchaseData: json loaded");
   dates.push(purchaseData.last_modified);
-  console.log("loadPurchaseData: date pushed? ["+purchaseData.last_modified+"]");
 
   parsePurchases(purchaseData.purchases, purchaseData.categories, purchaseData.completed_statuses);
-  console.log("loadPurchaseData: end");
 }
 
 async function loadLessonData() {
-  console.log("loadLessonData: start");
   let response = await fetch('https://api.trueheart78.com/v1/games/lessons.json');
 
   if (!response.ok) {
@@ -51,12 +42,9 @@ async function loadLessonData() {
   }
 
   let lessonData = await response.json();
-  console.log("loadLessonData: start");
   dates.push(lessonData.last_modified);
-  console.log("loadLessonData: date pushed? ["+lessonData.last_modified+"]");
 
   parseLessons(lessonData.lessons);
-  console.log("loadLessonData: end");
 }
 
 function loadData() {
