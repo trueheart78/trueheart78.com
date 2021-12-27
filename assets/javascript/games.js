@@ -17,7 +17,7 @@ async function loadGameData() {
 
   parseGames(gameData.games, gameData.statuses);
   
-  retrun gameData;
+  return gameData;
 }
 
 async function loadPurchaseData() {
