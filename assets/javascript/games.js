@@ -6,8 +6,6 @@
  * - Cross-reference the "last_modified" of each file and find the most recent, then 
  */
 
-const dates = [];
-
 async function loadGameData() {
   let response = await fetch('https://api.trueheart78.com/v1/games/games.json');
 
@@ -16,9 +14,10 @@ async function loadGameData() {
   }
 
   let gameData = await response.json();
-  dates.push(gameData.last_modified);
 
   parseGames(gameData.games, gameData.statuses);
+  
+  retrun gameData.last_modified;
 }
 
 async function loadPurchaseData() {
@@ -29,9 +28,10 @@ async function loadPurchaseData() {
   }
 
   let purchaseData = await response.json();
-  dates.push(purchaseData.last_modified);
 
   parsePurchases(purchaseData.purchases, purchaseData.categories, purchaseData.completed_statuses);
+  
+  return purchaseData.last_modified;
 }
 
 async function loadLessonData() {
@@ -42,17 +42,19 @@ async function loadLessonData() {
   }
 
   let lessonData = await response.json();
-  dates.push(lessonData.last_modified);
 
   parseLessons(lessonData.lessons);
+  
+  return lessonData.last_modified;
 }
 
 function loadData() {
-  loadGameData().catch(e => logError(e));
-  loadPurchaseData().catch(e => logError(e));
-  loadLessonData().catch(e => logError(e));
+  let date1 = loadGameData().catch(e => logError(e));
+  let date2 = loadPurchaseData().catch(e => logError(e));
+  let date3 = loadLessonData().catch(e => logError(e));
 
-//  updateLastModified(dates);
+  let dates = await Promise.all([date1, date2, date3]);
+  updateLastModified(dates);
 }
 
 function updateLastModified(dates) {
