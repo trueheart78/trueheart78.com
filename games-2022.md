@@ -12,12 +12,12 @@ update: placeholder
 
 ## 🎮 Playing [🔝][top]
 
-#### 👀 Focused
+#### 👀 Focused [🔝][top]
 
 <div id="games-playing"></div>
 
 <a id="paused"></a>
-#### 🚥 Paused
+#### 🚥 Paused [🔝][top]
 
 <div id="games-paused"></div>
 
@@ -67,13 +67,13 @@ See the [New Releases Wiki][new-releases]. Sorted by release date.
 
 <div id="purchases-planned"></div>
 
-## 💰 Planned Purchases (Hopefully in 2022)
+## 💰 Planned Purchases (Hopefully in 2022) [🔝][top]
 
 See the [Games in Development Wiki][games-in-development].
 
 <div id="purchases-hopeful"></div>
 
-## 💵 Planned Purchases (Previously Released)
+## 💵 Planned Purchases (Previously Released) [🔝][top]
 
 <div id="purchases-previous"></div>
 
