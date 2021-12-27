@@ -64,11 +64,11 @@ function updateLastModified(dates) {
   // console.log(lastModifiedDate);
 }
 
-function shortDate(date) {
-  let date = new Date(date);
+function shortDate(releaseDate) {
+  let shortDate = new Date(releaseDate);
   let options = { day: "2-digit", month: "2-digit", year: "2-digit", timeZone: "UTC" };
   
-  return date.toLocaleString("en-US", options);
+  return shortDate.toLocaleString("en-US", options);
 }
 
 function parseGames(games, statuses) {
