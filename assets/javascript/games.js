@@ -1,11 +1,3 @@
-/* TODO List
- * - Fetch game json from localhost:8000/v1/games/games.json
- * - Fetch purchases json from localhost:8000/v1/games/purchases.json
- * - Fetch lessons json from localhost:8000/v1/games/lessons.json
- * - Populate related divs with data.
- * - Cross-reference the "last_modified" of each file and find the most recent, then 
- */
-
 async function loadGameData() {
   let response = await fetch('https://api.trueheart78.com/v1/games/games.json');
 
