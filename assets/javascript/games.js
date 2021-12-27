@@ -66,7 +66,7 @@ function updateLastModified(dates) {
 
 function shortDate(releaseDate) {
   let shortDate = new Date(releaseDate);
-  let options = { day: "2-digit", month: "2-digit", year: "2-digit", timeZone: "UTC" };
+  let options = { day: "numeric", month: "numeric", year: "2-digit", timeZone: "UTC" };
   
   return shortDate.toLocaleString("en-US", options);
 }
