@@ -149,6 +149,7 @@ function parseLessons(lessons) {
   }
   div.innerHTML = `<ol>${items.join("\n")}</ol>`;
 }
+
 function compare(a, b) {
   // Use toUpperCase() to ignore character casing
   let gameNameA = a.name.toUpperCase();
@@ -246,7 +247,7 @@ function gameToHTML(game) {
     output.push(game.name);
   }
   output.push(` (${game.system})`);
-  if (game.hasOwnProperty("hours") && game.hours > 0) {
+  if (hasHours(game)) {
     output.push(` [${game.hours}hr]`);
   }
   if (game.hasOwnProperty("cartridge") && game.cartridge) {
@@ -255,13 +256,13 @@ function gameToHTML(game) {
   if (game.hasOwnProperty("disc") && game.disc) {
     output.push(" 💿");
   }
-  if (game.hasOwnProperty("gamepass") && game.gamepass) {
+  if (hasGamePass(game)) {
     output.push(" 💚");
   }
   if (recentAddition(game.added)) {
     output.push(" 🆕");
   }
-  if (game.hasOwnProperty("notes") && game.notes.length > 0) {
+  if (hasNotes(game)) {
     output.push("\n<ul>");
     for(let note of game.notes) {
       output.push(`\n<li>${note}</li>`);
@@ -280,7 +281,7 @@ function purchaseToHTML(purchase, completed) {
     output.push(purchase.name);
   }
   output.push(` (${purchase.system})`);
-  if (purchase.hasOwnProperty("hours") && purchase.hours > 0) {
+  if (hasHours(purchase)) {
     output.push(` [${purchase.hours}hr]`);
   }
   if (purchase.hasOwnProperty("release_date") && purchase.release_date) {
@@ -292,7 +293,7 @@ function purchaseToHTML(purchase, completed) {
   if (!completed) {
     if (purchase.hasOwnProperty("reason") && purchase.reason) {
       status = `${purchase.status} for ${purchase.reason}`
-    } else if (purchase.status == "waiting" && purchase.hasOwnProperty("gamepass") && purchase.gamepass) {
+    } else if (purchase.status == "waiting" && hasGamePass(purchase)) {
       status = ""; 
     } else if (purchase.status == "waiting") {
       status = "wait and see"; 
@@ -304,13 +305,13 @@ function purchaseToHTML(purchase, completed) {
     output.push("</del>");
     status = `${purchase.status}`;
   }
-  if (purchase.hasOwnProperty("gamepass") && purchase.gamepass) {
+  if (hasGamePass(purchase)) {
     output.push(" 💚");
   }
   if (status != "") {
     output.push(` [${status}]`);
   }
-  if (purchase.hasOwnProperty("notes") && purchase.notes.length > 0) {
+  if (hasNotes(purchase)) {
     output.push("\n<ul>");
     for(let note of purchase.notes) {
       output.push(`\n<li>${note}</li>`);
@@ -319,6 +320,18 @@ function purchaseToHTML(purchase, completed) {
   }
 
   return `<li>${output.join("")}</li>`;
+}
+
+function hasGamePass(item) {
+  return (item.hasOwnProperty("gamepass") && item.gamepass);
+}
+
+function hasHours(item) {
+  return (item.hasOwnProperty("hours") && item.hours > 0);
+}
+
+function hasNotes(item) {
+  return (item.hasOwnProperty("notes") && item.notes.length > 0);
 }
 
 const today = new Date();
