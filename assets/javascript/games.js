@@ -56,19 +56,19 @@ function loadData() {
 }
 
 function updateLastModified(dates) {
-  let today = new Date(dates[0]);
-  let options = { weekday: "long", year: "numeric", month: "long", day: "numeric", timeZone: "UTC" };
-  let lastModifiedDate = today.toLocaleString("en-US", options);
-
-  document.getElementById("last-modified").innerHTML = lastModifiedDate;
-  // console.log(lastModifiedDate);
+  document.getElementById("last-modified").innerHTML = longDate(dates[0]);
 }
 
-function shortDate(releaseDate) {
-  let shortDate = new Date(releaseDate);
+function longDate(date) {
+  let options = { weekday: "long", year: "numeric", month: "long", day: "numeric", timeZone: "UTC" };
+  
+  return new Date(date).toLocaleString("en-US", options);
+}
+
+function shortDate(date) {
   let options = { day: "numeric", month: "numeric", year: "2-digit", timeZone: "UTC" };
   
-  return shortDate.toLocaleString("en-US", options);
+  return new Date(date).toLocaleString("en-US", options);
 }
 
 function parseGames(games, statuses) {
