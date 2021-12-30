@@ -317,7 +317,7 @@ function purchaseToHTML(purchase, completed) {
   if (!completed) {
     if (purchase.hasOwnProperty("reason") && purchase.reason) {
       status = `${purchase.status} for ${purchase.reason}`
-    } else if (purchase.status == "waiting" && hasGamePass(purchase)) {
+    } else if (purchase.status == "waiting" && isGamePass(purchase)) {
       status = ""; 
     } else if (purchase.status == "waiting") {
       status = "wait and see"; 
