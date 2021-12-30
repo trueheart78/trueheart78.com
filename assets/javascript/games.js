@@ -259,7 +259,7 @@ function gameToHTML(game) {
   if (hasGamePass(game)) {
     output.push(" 💚");
   }
-  if (recentAddition(game.added)) {
+  if (isRecentAddition(game.added)) {
     output.push(" 🆕");
   }
   if (hasNotes(game)) {
@@ -337,7 +337,7 @@ function hasNotes(item) {
 const today = new Date();
 const oneDay = 1000 * 3600 * 24;
 
-function recentAddition(date) {
+function isRecentAddition(date) {
   let added = new Date(date);
   let daysDiff = Math.floor(Math.abs((added.getTime() - today.getTime()) / oneDay));
   let recent = daysDiff <= 90;
