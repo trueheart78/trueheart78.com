@@ -240,6 +240,7 @@ function lessonToHTML(lesson) {
 }
 
 function gameToHTML(game) {
+  isThisYear(game.added);
   let output = [];
   if (game.hasOwnProperty("url") && game.url.length > 0) {
     output.push(`<a href="${game.url}" target="_blank">${game.name}</a>`);
