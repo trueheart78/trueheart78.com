@@ -264,7 +264,6 @@ function lessonToHTML(lesson) {
 }
 
 function gameToHTML(game) {
-  isThisYear(game.added);
   let output = [];
   if (game.hasOwnProperty("url") && game.url.length > 0) {
     output.push(`<a href="${game.url}" target="_blank">${game.name}</a>`);
@@ -351,11 +350,11 @@ function isGamePass(game) {
   return (game.hasOwnProperty("gamepass") && game.gamepass);
 }
 
-function hasHours(item) {
+function hasHours(game) {
   return (game.hasOwnProperty("hours") && game.hours > 0);
 }
 
-function hasNotes(item) {
+function hasNotes(game) {
   return (game.hasOwnProperty("notes") && game.notes.length > 0);
 }
 
