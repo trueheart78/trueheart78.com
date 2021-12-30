@@ -343,6 +343,7 @@ function hasNotes(item) {
 
 const today = new Date();
 const oneDay = 1000 * 3600 * 24;
+const currentYear = today.getFullYear();
 
 function isRecentAddition(date) {
   let added = new Date(date);
@@ -353,10 +354,7 @@ function isRecentAddition(date) {
 }
 
 function isThisYear(date) {
-  let options = { year: "2-digit", timeZone: "UTC" };
-  
-  let yearToCheck = new Date(date).toLocaleString("en-US", options);
-  let currentYear = today.toLocaleString("en-US", options);
+  let yearToCheck = new Date(date).getFullYear();
   
   console.log(`check: ${yearToCheck} (vs) current: ${currentYear}`);
 
