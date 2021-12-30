@@ -372,10 +372,11 @@ function isRecentAddition(date) {
 
 function isThisYear(date) {
   let yearToCheck = new Date(date).getFullYear();
+  let matches = (yearToCheck == currentYear);
   
-  console.log(`check: ${yearToCheck} (vs) current: ${currentYear}`);
+  console.log(`check: ${yearToCheck} (vs) current: ${currentYear} = [${matches}]`);
 
-  return yearToCheck == currentYear;
+  return matches;
 }
 
 function logError(error) {
