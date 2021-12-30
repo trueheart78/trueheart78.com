@@ -351,7 +351,7 @@ function isThisYear(date) {
   let yearToCheck = new Date(date).toLocaleString("en-US", options);
   let currentYear = today.toLocaleString("en-US", options);
   
-  alert(`check: ${yearToCheck} (vs) current: ${currentYear}`);
+  console.log(`check: ${yearToCheck} (vs) current: ${currentYear}`);
 
   return yearToCheck == currentYear;
 }
