@@ -86,13 +86,7 @@ function parseGames(games, statuses) {
           items.push(game);
         }
       }
-      if (currentStatus == "unplayed" || currentStatus == "vr experiences") {
-        items = items.sort(compareWithHours);
-      } else if (currentStatus == "beaten" || currentStatus == "jettisoned") {
-        items = items.sort(compareByRemoved);
-      } else {
-        items = items.sort(compare);
-      }
+      items = sortGames(items, currentStatus);
       for(let item of items) {
         htmlItems.push(gameToHTML(item));
       }
@@ -148,6 +142,18 @@ function parseLessons(lessons) {
     items.push(lessonToHTML(lesson));
   }
   div.innerHTML = `<ol>${items.join("\n")}</ol>`;
+}
+
+function sortGames(games, status) {
+  if (["unplayed", "vr experiences"].includes(status)) {
+    games = games.sort(compareWithHours);
+  } else if (["beaten", "jettisoned"].includes(status)) {
+    games = games.sort(compareByRemoved);
+  } else {
+    games = games.sort(compare);
+  }
+  
+  return games;
 }
 
 function compare(a, b) {
