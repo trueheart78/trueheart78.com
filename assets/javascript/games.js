@@ -345,6 +345,17 @@ function isRecentAddition(date) {
   return recent;
 }
 
+function isThisYear(date) {
+  let options = { year: "2-digit", timeZone: "UTC" };
+  
+  let yearToCheck = new Date(date).toLocaleString("en-US", options);
+  let currentYear = today.toLocaleString("en-US", options);
+  
+  alert(`check: ${yearToCheck} (vs) current: ${currentYear}`);
+
+  return yearToCheck == currentYear;
+}
+
 function logError(error) {
   console.log(`Error: ${error.message}`);
 }
