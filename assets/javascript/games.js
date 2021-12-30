@@ -87,7 +87,7 @@ function parseGames(games, statuses) {
         }
       }
       if (["beaten", "jettisoned"].includes(currentStatus)) {
-        items = prunePreviouslyRemovedYears(items);
+        items = items.filter(removedThisYear);
       }
       items = sortGames(items, currentStatus);
       
@@ -148,18 +148,14 @@ function parseLessons(lessons) {
   div.innerHTML = `<ol>${items.join("\n")}</ol>`;
 }
 
-function prunePreviouslyRemovedYears(games) {
-  let prunedGames = [];
+function removedThisYear(game) {
+  let valid = true;
   
-  for(let game of games) {
-    if (game.hasOwnProperty("removed") && isThisYear(game.removed)) {
-      prunedGames.push(game);
-    } else {
-      prunedGames.push(game);
-    }
+  if (game.hasOwnProperty("removed") && !isThisYear(game.removed)) {
+    valid = false;
   }
 
-  return prunedGames;
+  return valid;
 }
 
 function sortGames(games, status) {
