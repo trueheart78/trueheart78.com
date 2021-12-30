@@ -86,7 +86,11 @@ function parseGames(games, statuses) {
           items.push(game);
         }
       }
+      if (["beaten", "jettisoned"].includes(currentStatus)) {
+        items = prunePreviouslyRemovedYears(items);
+      }
       items = sortGames(items, currentStatus);
+      
       for(let item of items) {
         htmlItems.push(gameToHTML(item));
       }
@@ -142,6 +146,20 @@ function parseLessons(lessons) {
     items.push(lessonToHTML(lesson));
   }
   div.innerHTML = `<ol>${items.join("\n")}</ol>`;
+}
+
+function prunePreviouslyRemovedYears(games) {
+  let prunedGames = [];
+  
+  for(let game of games) {
+    if (game.hasOwnProperty("removed") && isThisYear(game.removed)) {
+      prunedGames.push(game);
+    } else {
+      prunedGames.push(game);
+    }
+  }
+
+  return prunedGames;
 }
 
 function sortGames(games, status) {
@@ -263,7 +281,7 @@ function gameToHTML(game) {
   if (game.hasOwnProperty("disc") && game.disc) {
     output.push(" 💿");
   }
-  if (hasGamePass(game)) {
+  if (isGamePass(game)) {
     output.push(" 💚");
   }
   if (isRecentAddition(game.added)) {
@@ -312,7 +330,7 @@ function purchaseToHTML(purchase, completed) {
     output.push("</del>");
     status = `${purchase.status}`;
   }
-  if (hasGamePass(purchase)) {
+  if (isGamePass(purchase)) {
     output.push(" 💚");
   }
   if (status != "") {
@@ -329,16 +347,16 @@ function purchaseToHTML(purchase, completed) {
   return `<li>${output.join("")}</li>`;
 }
 
-function hasGamePass(item) {
-  return (item.hasOwnProperty("gamepass") && item.gamepass);
+function isGamePass(game) {
+  return (game.hasOwnProperty("gamepass") && game.gamepass);
 }
 
 function hasHours(item) {
-  return (item.hasOwnProperty("hours") && item.hours > 0);
+  return (game.hasOwnProperty("hours") && game.hours > 0);
 }
 
 function hasNotes(item) {
-  return (item.hasOwnProperty("notes") && item.notes.length > 0);
+  return (game.hasOwnProperty("notes") && game.notes.length > 0);
 }
 
 const today = new Date();
