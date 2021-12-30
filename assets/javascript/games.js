@@ -99,7 +99,7 @@ function parseGames(games, statuses) {
       }
       div.innerHTML = `<ol>${htmlItems.join("\n")}</ol>`;
     } else {
-      console.log(`Info: No element found with the "${divId}" id.`);
+      console.info(`No element found with the "${divId}" id.`);
     }
   }
 }
@@ -134,7 +134,7 @@ function parsePurchases(purchases, categories, completed_statuses) {
       }
       div.innerHTML = `<ol>${htmlItems.join("\n")}</ol>`;
     } else {
-      console.log(`Info: No element found with the "${divId}" id.`);
+      console.info(`No element found with the "${divId}" id.`);
     }
   }
 }
@@ -374,13 +374,11 @@ function isThisYear(date) {
   let yearToCheck = new Date(date).getFullYear();
   let matches = (yearToCheck == currentYear);
   
-  console.log(`check: ${yearToCheck} (vs) current: ${currentYear} = [${matches}]`);
-
   return matches;
 }
 
 function logError(error) {
-  console.log(`Error: ${error.message}`);
+  console.error(error.message);
 }
 
 loadData().catch(e => logError(e));
