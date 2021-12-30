@@ -246,7 +246,7 @@ function gameToHTML(game) {
   } else {
     output.push(game.name);
   }
-  output.push(` (${game.system})`);
+  output.push(` (${game.system.toUpperCase()})`);
   if (hasHours(game)) {
     output.push(` [${game.hours}hr]`);
   }
@@ -280,7 +280,7 @@ function purchaseToHTML(purchase, completed) {
   } else {
     output.push(purchase.name);
   }
-  output.push(` (${purchase.system})`);
+  output.push(` (${purchase.system.toUpperCase()})`);
   if (hasHours(purchase)) {
     output.push(` [${purchase.hours}hr]`);
   }
