@@ -5,7 +5,7 @@ description: A management page for my ever evolving list of games.
 keywords: games, xbox, playstation, nintendo, nintendo switch, switch, oculus quest, oculus, quest, virtual reality, vr
 permalink: /games/
 customnav: games_nav.html
-update: 2021-12-19
+update: 2021-12-30
 ---
 
 <a id='playing'></a>
@@ -16,7 +16,7 @@ update: 2021-12-19
 
 #### :eyes: Focused
 
-1. Marvels Guardians of the Galaxy (XSX) [17.0hr] :cd: :new: <!-- Nov -->
+1. _TBD_
 
 #### :traffic_light: Started and Need to Finish
 
@@ -85,14 +85,10 @@ update: 2021-12-19
 
 ## :heart_eyes: For Funsies [:top:][top]
 
-1. Assassin's Creed: Odyssey (XB1) <!-- Feb 2020 -->
-   * Re-purchased it and re-playing it again on Xbox.
-   * Have fully explored the world. Now, I just need to do the quests.
 1. Dark Souls 3 (XSX) <!-- Jul -->
    * 60 FPS thanks to FPS Boost. :heart:
    * Will be fun to revisit.
 1. Valentino Rossi: The Game (XB1) :cd: <!-- Aug -->
-1. Tilt Brush (VR) <!-- Oct 2020 -->
 
 <!-- for-fun:end -->
 
@@ -117,11 +113,8 @@ update: 2021-12-19
 
 1. Audica (VR) <!-- Feb -->
    * This is my jam.
-   * Made by Harmonix.
-   * Has _Bad Guy_ and _Juice_.
 1. Beat Saber (VR) <!-- Oct 2020 -->
-   * Bought the Billie Eilish, BTS, Green Day, Interplay, Linkin Park, and Panic! at the Disco packs.
-   * Mainly play the "solo" mode, so there is no "completion".
+   * Bought the Billie Eilish, BTS, Green Day, Interplay, Lady Gaga, Linkin Park, and Panic! at the Disco packs.
    * Love the 90° mode.
 1. OhShape (VR) <!-- Jun -->
    * Contortionist skills being tested.
@@ -370,6 +363,11 @@ of games I have to play is oh so long._
    * I've packed away my PS4.
 1. Unsighted (XSX) [12.0hr] :green_heart: :new: <!-- Oct -->
    * Learned through GotY discussions that it's anxiety-inducing hard.
+1. Marvels Guardians of the Galaxy (XSX) [17.0hr] :cd: :new: <!-- Nov -->
+   * Great visuals.
+   * Fun characters.
+   * Feel zero buy-in to any of the characters, even though they were done well.
+   * Couldn't care less about the story.
 
 <!-- jettisoned:end -->
 

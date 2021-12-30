@@ -4,7 +4,7 @@ title: 📆 What I'm Up to Now
 description: What I've recently been up to.
 keywords: now, nownownow, studying, playing, reading, comics, books, side projects, games, ruby, rails, golang, tv shows, movies
 permalink: /now/
-update: 2021-12-22
+update: 2021-12-30
 ---
 
 ![Agent Smith - Crazy][agent smith - crazy laughing]
@@ -25,7 +25,6 @@ I'm currently living in Ohio, working remote for [CoverMyMeds][cmm] as a softwar
 ## :video_game: Playing Until Credits
 
 * _Down the Rabbit Hole_ on Oculus Quest 2.
-* _Marvels Guardians of the Galaxy_ on Xbox Series X.
 
 ### :checkered_flag: Recently Beaten
 
@@ -47,12 +46,15 @@ I'm currently living in Ohio, working remote for [CoverMyMeds][cmm] as a softwar
 
 ## :book: Books and Comics
 
-* [Critical Role: The Mighty Nein Origins - Jester Lavorre](https://www.amazon.com/gp/product/1506723764/)
+* [Harley Quinn: A Celebration of 25 Years](https://www.amazon.com/Harley-Quinn-Celebration-25-Years/dp/1401275990/)
+  * A Christmas gift I couldn't be more happy about.
 * [Saga - Volume 5](https://imagecomics.com/comics/series/saga)
   * Such a wonderful series.
 
 ### :closed_book: Recently Completed
 
+* [Critical Role: The Mighty Nein Origins - Jester Lavorre](https://www.amazon.com/gp/product/1506723764/)
+  * Jester will forever be one of my favorite characters. :purple_heart:
 * [Harley Quinn: Breaking Glass](https://www.amazon.com/gp/product/1401283292/)
   * A delightful take on what the younger Harley Quinn could have been.
   * That final panel. :heart: :black_heart:
@@ -99,6 +101,10 @@ I'm currently living in Ohio, working remote for [CoverMyMeds][cmm] as a softwar
   
 ### :film_strip: Recently Watched
 
+* The Matrix Resurrections
+  * Absolutely loved it. :sparkling_heart:
+  * I am smitten with _Bugs_! :blue_heart:
+    * Jessica Henwick did such a fantastic job. 
 * [Loudermilk (TV Series)](https://en.wikipedia.org/wiki/Loudermilk_(TV_series))
   * Ron Livingston is a delight to watch.
   * I really hope that some place picks up the rest of the series.
