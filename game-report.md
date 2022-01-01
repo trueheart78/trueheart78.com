@@ -55,7 +55,7 @@ update: placeholder
 <div id="bbcode-report" style="font-family: 'Fira Code', monospace;">
 [h1]<span id="bbcode-month"></span> [img=30x30]<span id="bbcode-emoji"></span>[/img][/h1]<br>
 <br>
-[img]https://media.giphy.com/media/3o6fIQjcv5aMWz8eS4/giphy.gif[/img]<br>
+[img]https://media.giphy.com/media/l2QEf0qMprKaQPQIw/giphy.gif[/img]<br>
 <br>
 [h3]Beaten [img=25x25]https://emojipedia-us.s3.amazonaws.com/source/skype/289/chequered-flag_1f3c1.png[/img][/h3]<br>
 <div id="bbcode-games-beaten">
