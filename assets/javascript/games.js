@@ -52,7 +52,28 @@ async function loadData() {
     dates.push(data.last_modified);
   }
   updateLastModified(dates);
-  window.scrollTo(0, 0);
+  restoreView();
+}
+
+function restoreView() {
+  let id = selectedSectionId();
+  
+  if (id != "") {
+    document.querySelector(`#${id}`).scrollIntoView({behavior: 'smooth'});
+  } else {
+    window.scrollTo(0, 0);
+  }
+}
+
+function selectedSectionId() {
+  let id = "";
+  let url = window.location.href;
+  
+  if (url.indexOf("#") != -1) {
+    id = url.split("#").pop();
+  }
+  
+  return id;
 }
 
 function updateLastModified(dates) {
