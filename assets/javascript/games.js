@@ -164,6 +164,8 @@ function parsePurchases(purchases, categories, completed_statuses) {
 function parseLessons(lessons) {
   let div = document.getElementById("lessons-learned");
   let items = [];
+  
+  lessons = lessons.sort(compareByAdded);
   for (let lesson of lessons) {
     items.push(lessonToHTML(lesson));
   }
@@ -192,13 +194,13 @@ function sortGames(games, status) {
   return games;
 }
 
+// Sort by name
 function compare(a, b) {
   // Use toUpperCase() to ignore character casing
   let gameNameA = a.name.toUpperCase();
   let gameNameB = b.name.toUpperCase();
 
   let comparison = 0;
-  // Sort by name.
   if (gameNameA > gameNameB) {
     comparison = 1;
   } else if (gameNameA < gameNameB) {
@@ -208,6 +210,7 @@ function compare(a, b) {
   return comparison;
 }
 
+// Sort by hours first, and then name
 function compareWithHours(a, b) {
   let gameHoursA = a.hours;
   let gameHoursB = b.hours;
@@ -216,7 +219,6 @@ function compareWithHours(a, b) {
   let gameNameB = b.name.toUpperCase();
 
   let comparison = 0;
-  // Sort by hours first, and then name.
   if (gameHoursA > gameHoursB) {
     comparison = 1;
   } else if (gameHoursA < gameHoursB) {
@@ -230,8 +232,8 @@ function compareWithHours(a, b) {
   return comparison;
 }
 
+// Sort by release date and, if they match, sort by name
 function compareWithRelease(a, b) {
-  // Sort by release date and, if they match, sort by name
   let gameReleaseA = new Date(a.release_date).getTime();
   let gameReleaseB = new Date(b.release_date).getTime();
 
@@ -255,12 +257,25 @@ function compareWithRelease(a, b) {
   return comparison;
 }
 
+function compareByAdded(a, b) {
+  let itemAddedA = new Date(a.added).getTime();
+  let itemAddedB = new Date(b.added).getTime();
+
+  let comparison = 0;
+  if (itemAddedA > itemAddedB) {
+    comparison = 1;
+  } else if (itemAddedA < itemAddedB) {
+    comparison = -1;
+  }
+
+  return comparison;
+}
+
 function compareByRemoved(a, b) {
   let gameRemovedA = new Date(a.removed).getTime();
   let gameRemovedB = new Date(b.removed).getTime();
 
   let comparison = 0;
-  // Sort by removed time.
   if (gameRemovedA > gameRemovedB) {
     comparison = 1;
   } else if (gameRemovedA < gameRemovedB) {
@@ -269,6 +284,7 @@ function compareByRemoved(a, b) {
 
   return comparison;
 }
+
 
 function lessonToHTML(lesson) {
   let output = [];
