@@ -2,7 +2,8 @@ const urlSearchParams = new URLSearchParams(window.location.search);
 const params = Object.fromEntries(urlSearchParams.entries());
 const today = new Date();
 const currentYear = today.getFullYear();
-const currentMonth = today.getFullMonth();
+const currentMonth = today.getMonth();
+const gamePassHeartURL = "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/facebook/65/green-heart_1f49a.png";
 
 async function loadGameData() {
   let response = await fetch('https://api.trueheart78.com/v1/games/games.json');
@@ -38,21 +39,26 @@ async function loadReportData() {
 
   let allData = await Promise.all([gameData, lessonData]);
   
-  updateDate();
-  updateEmoji();
-  restoreView();
   console.info(params);
+  
+  updateMonth();
+  updateEmoji();
+  updateGamePassHearts();
+  restoreView();
 }
 
 function restoreView() {
   window.scrollTo(0, 0);
 }
 
-function updateDate() {
-  document.getElementById("month").innerHTML = month("2022-01-01");
+function updateMonth() {
+  let month = getLongMonth("2022-01-01");
+  
+  document.getElementById("default-month").innerHTML = month;
+  document.getElementById("bbcode-month").innerHTML = month;
 }
 
-function month(date) {
+function getLongMonth(date) {
   let options = { month: "long", timeZone: "UTC" };
   
   // return new Date(date).toLocaleString("en-US", options);
@@ -60,12 +66,24 @@ function month(date) {
 }
 
 function updateEmoji() {
-  // update emoji
-  // update emoji url
+  document.getElementById("default-emoji").innerHTML = getEmoji("");
+  document.getElementById("bbcode-emoji").innerHTML = getEmojiURL("");
 }
 
-function emoji(month) {
+function getEmoji(month) {
   return "❄️";
+}
+
+function getEmojiURL(month) {
+  return "https://emojipedia-us.s3.amazonaws.com/source/skype/289/snowflake_2744-fe0f.png";
+}
+
+function updateGamePassHearts() {
+  let elements = document.getElementsByClassName("game-pass-heart");
+  
+  for(let element of elements) {
+    element.innerHTML = gamePassHeartURL;
+  }
 }
 
 function logError(error) {
