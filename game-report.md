@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 📖 Game Report
+title: 📒 Game Report
 description: A report page for my ever evolving list of games.
 keywords: games, report
 permalink: /game-report/

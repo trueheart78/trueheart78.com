@@ -4,7 +4,7 @@ title: 📑 Pages
 description: A list of public pages across the site.
 keywords: public pages, blog, ruby, games, now, resume, cult of done, favorite games, personalysis briefing, open source, tone indicators
 permalink: /pages/
-update: 2021-09-30
+update: 2022-01-01
 ---
 
 ## Primary :100:
@@ -20,6 +20,7 @@ update: 2021-09-30
 
 * [:scroll: Cult of Done Manifesto][cult of done]
 * [:video_game: Favorite Games][favorite games]
+* [:ledger: Game Report][game report]
 * [:bar_chart: Personalysis Briefing][personalysis]
 
 ## Achievements :trophy:
@@ -67,6 +68,7 @@ update: 2021-09-30
 [cyberpunk 2077]: /cyberpunk-2077/
 [favorite games]: /favorite-games/
 [games]: /games/
+[game report]: /game-report/
 [home]: /
 [i can do what i want]: /i-can-do-what-i-want/
 [naked dagger]: /naked-dagger/

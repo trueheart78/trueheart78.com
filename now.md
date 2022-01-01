@@ -54,7 +54,7 @@ I'm currently living in Ohio, working remote for [CoverMyMeds][cmm] as a softwar
 
 ### 🔨 Current
 
-* _TBD_.
+* Creating a [Game Report](/game-report/) page. 📒
 
 ### 🔜 In The Works
 
