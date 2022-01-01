@@ -39,6 +39,10 @@
 
     <link rel="stylesheet" href="{{ "/css/main.css" | prepend: site.baseurl }}">
     <link rel="canonical" href="{{ current_page_url }}">
+    
+    {% if page.remote_css %}{% for css in page.remote_css %}
+    <link rel="stylesheet" href="{{ remote_css }}">
+    {% endfor %}{% endif %}
 
     {% if page.customjs %}{% for js in page.customjs %}
     <script type="text/javascript" src="/assets/javascript/{{ js }}"></script>
