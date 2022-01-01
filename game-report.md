@@ -4,14 +4,12 @@ title: 📒 Game Report
 description: A report page for my ever evolving list of games.
 keywords: games, report
 permalink: /game-report/
+remote_css: https://cdn.jsdelivr.net/npm/firacode@6.2.0/distr/fira_code.css
 update: placeholder
 ---
 
 <div id="default-report">
-<h1><span id="default-month">Month</span> <span id="default-emoji">❄️</span></h1>
-
-<!-- [img]header/from/giphy.gif[/img] -->
-
+<h1><span id="default-month"></span> <span id="default-emoji"></span></h1>
 <h3>Beaten 🏁</h3>
 <p>
 <div id="default-games-beaten">
@@ -50,12 +48,14 @@ update: placeholder
 </p>
 </div>
 
+<input type="button" onclick="copyReport()" value="Copy BBCode Report" />
+<div id="copy-status"></div>
+
 <hr>
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/firacode@6.2.0/distr/fira_code.css">
 <div id="bbcode-report" style="font-family: 'Fira Code', monospace;">
-[h1]<span id="bbcode-month">November</span> [img=30x30]<span id="bbcode-emoji">https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/285/fallen-leaf_1f342.png</span>[/img][/h1]<br>
+[h1]<span id="bbcode-month"></span> [img=30x30]<span id="bbcode-emoji"></span>[/img][/h1]<br>
 <br>
-[img]https://media3.giphy.com/media/PJfbtgUPLOHLXoOO4b/giphy.gif[/img]<br>
+[img]https://media.giphy.com/media/3o6fIQjcv5aMWz8eS4/giphy.gif[/img]<br>
 <br>
 [h3]Beaten [img=25x25]https://emojipedia-us.s3.amazonaws.com/source/skype/289/chequered-flag_1f3c1.png[/img][/h3]<br>
 <div id="bbcode-games-beaten">
@@ -100,7 +100,7 @@ update: placeholder
 <br>
 [img=18x18]<span class="game-pass-heart"></span>[/img] = Xbox Game Pass<br>
 <br>
-[img]https://media2.giphy.com/media/s1Veo1ErMRTTha9ktc/giphy.gif[/img]
+[img]https://media.giphy.com/media/3o6fIQjcv5aMWz8eS4/giphy.gif[/img]
 </div>
 
 <script type="text/javascript" src="/assets/javascript/game_report.js"></script>

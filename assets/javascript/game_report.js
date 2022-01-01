@@ -86,6 +86,17 @@ function updateGamePassHearts() {
   }
 }
 
+function copyReport() {
+  var range = document.createRange();
+  range.selectNode(document.getElementById('bbcode-report'));
+  window.getSelection().removeAllRanges();
+  window.getSelection().addRange(range);
+  document.execCommand('copy');
+  window.getSelection().removeAllRanges();
+
+  document.getElementById('copy-status').innerHTML = 'Copied!';
+}
+
 function logError(error) {
   console.error(error.message);
 }
