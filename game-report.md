@@ -5,7 +5,6 @@ description: A report page for my ever evolving list of games.
 keywords: games, report
 permalink: /game-report/
 remote_css: https://cdn.jsdelivr.net/npm/firacode@6.2.0/distr/fira_code.css
-update: placeholder
 ---
 
 <div id="default-report">
