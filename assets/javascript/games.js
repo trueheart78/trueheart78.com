@@ -249,7 +249,12 @@ function compareByRemoved(a, b) {
 }
 
 function lessonToHTML(lesson) {
-  let output = [lesson.learned];
+  let output = [];
+  let parts = lesson.learned.split(".");
+  
+  output.push(`<strong>${parts.shift()}.</strong>`);
+  output.push(parts.join("."));
+  
   if (lesson.hasOwnProperty("examples") && lesson.examples.length > 0) {
     output.push("\n<ul><li>See <i>");
     output.push(lesson.examples.join("</i> and <i>"));
