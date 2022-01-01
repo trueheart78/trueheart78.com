@@ -52,6 +52,7 @@ async function loadData() {
     dates.push(data.last_modified);
   }
   updateLastModified(dates);
+  window.scrollTo(0, 0);
 }
 
 function updateLastModified(dates) {
