@@ -58,7 +58,7 @@ async function loadData() {
 function restoreView() {
   let id = selectedSectionId();
   
-  if (id != "") {
+  if (id != "" && document.getElementById(id)) {
     document.querySelector(`#${id}`).scrollIntoView({behavior: 'smooth'});
   } else {
     window.scrollTo(0, 0);
