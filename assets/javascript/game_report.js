@@ -94,7 +94,7 @@ function copyReport() {
   document.execCommand('copy');
   window.getSelection().removeAllRanges();
 
-  document.getElementById('copy-status').innerHTML = 'Copied!';
+  document.getElementById('copy-report-button').value = 'Copied!';
 }
 
 function logError(error) {

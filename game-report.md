@@ -48,8 +48,7 @@ update: placeholder
 </p>
 </div>
 
-<input type="button" onclick="copyReport()" value="Copy BBCode Report" />
-<div id="copy-status"></div>
+<input type="button" id="copy-report-button" onclick="copyReport()" value="Copy BBCode Report" />
 
 <hr>
 <div id="bbcode-report" style="font-family: 'Fira Code', monospace;">
