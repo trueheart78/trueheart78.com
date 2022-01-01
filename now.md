@@ -54,8 +54,7 @@ I'm currently living in Ohio, working remote for [CoverMyMeds][cmm] as a softwar
 
 ### 🔨 Current
 
-* Tweaking my new Games page.
-  * Rewritten to utilize JavaScript and my own API.
+* _TBD_.
 
 ### 🔜 In The Works
 
@@ -67,7 +66,7 @@ I'm currently living in Ohio, working remote for [CoverMyMeds][cmm] as a softwar
 
 ## 🌐 Recent Site Updates
 
-* _TBD_.
+* Rewrote the [Games page](/games/) with JavaScript and a new API.
 
 ## 🙋‍♀️ What is a Now Page?
 
