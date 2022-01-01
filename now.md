@@ -62,7 +62,7 @@ I'm currently living in Ohio, working remote for [CoverMyMeds][cmm] as a softwar
 
 ### ☑️ Completed
 
-* _TBD_.
+* Created a [static api][api] for personal use.
 
 ## 🌐 Recent Site Updates
 
@@ -86,3 +86,4 @@ Head over to the [About Page][now - about] of [NowNowNow.com][now - home] for mo
 [now - about]: https://nownownow.com/about 
 [now - home]: https://nownownow.com
 [go date format]: https://godateformat.com
+[api]: https://api.trueheart78.com
