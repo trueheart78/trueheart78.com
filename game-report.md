@@ -44,7 +44,7 @@ update: placeholder
   </ul>
 </div>
 </p>
-<h2>Legend ℹ️</h3>
+<h2>Legend ℹ️</h2>
 <p>
 💚 = Game Pass
 </p>
@@ -104,10 +104,3 @@ update: placeholder
 </div>
 
 <script type="text/javascript" src="/assets/javascript/game_report.js"></script>
-
-[beaten flag]: https://emojipedia-us.s3.amazonaws.com/source/skype/289/chequered-flag_1f3c1.png
-[new t-rex]: https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/google/313/t-rex_1f996.png
-[jettisoned flame]: https://emojipedia-us.s3.amazonaws.com/source/skype/289/fire_1f525.png
-[learned monocle]: https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/285/face-with-monocle_1f9d0.png
-[legend info]: https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/facebook/304/information_2139-fe0f.png
-[gamepass heart]: https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/facebook/65/green-heart_1f49a.png
