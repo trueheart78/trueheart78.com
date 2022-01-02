@@ -59,7 +59,6 @@ async function loadData() {
   }
   updateLastModified(dates);
   restoreView();
-  suggestRandomGame();
 }
 
 function restoreView() {
