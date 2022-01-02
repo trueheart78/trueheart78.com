@@ -1,7 +1,5 @@
-// const gameData = [];
-
 Array.prototype.random = function () {
-  return this[Math.floor((Math.random()*this.length))];
+  return this[Math.floor((Math.random() * this.length))];
 }
 
 async function loadGameData() {
@@ -52,8 +50,6 @@ async function loadData() {
   let lessonData = loadLessonData();
 
   let allData = await Promise.all([gameData, purchaseData, lessonData]);
-  
-  console.info(gameData.games[0]["name"]);
   
   let dates = [];
   for(let data of allData) {
