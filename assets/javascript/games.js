@@ -2,7 +2,7 @@ Array.prototype.random = function () {
   return this[Math.floor((Math.random() * this.length))];
 }
 
-const unplayedGames = [];
+let unplayedGames = [];
 
 async function loadGameData() {
   let response = await fetch('https://api.trueheart78.com/v1/games/games.json');
