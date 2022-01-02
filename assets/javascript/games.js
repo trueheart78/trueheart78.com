@@ -2,6 +2,8 @@ Array.prototype.random = function () {
   return this[Math.floor((Math.random() * this.length))];
 }
 
+const unplayedGames = [];
+
 async function loadGameData() {
   let response = await fetch('https://api.trueheart78.com/v1/games/games.json');
 
@@ -57,6 +59,7 @@ async function loadData() {
   }
   updateLastModified(dates);
   restoreView();
+  suggestRandomGame();
 }
 
 function restoreView() {
@@ -116,6 +119,9 @@ function parseGames(games, statuses) {
         items = items.filter(removedThisYear);
       }
       items = sortGames(items, currentStatus);
+      if (currentStatus == "unplayed") {
+        unplayedGames = items;
+      }
       
       for(let item of items) {
         htmlItems.push(gameToHTML(item));
@@ -422,6 +428,12 @@ function isThisYear(date) {
 
 function logError(error) {
   console.error(error.message);
+}
+
+function suggestRandomGame() {
+  let game = unplayedGames.random();
+  
+  alert(`How about ${game.name} on ${game.system}?`);
 }
 
 loadData().catch(e => logError(e));
