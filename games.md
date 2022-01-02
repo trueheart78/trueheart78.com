@@ -105,6 +105,6 @@ See the [Games in Development Wiki][games-in-development].
 <script type="text/javascript" src="/assets/javascript/games.js"></script>
 
 [top]: #page-top
-[new-releases]: https://en.wikipedia.org/wiki/2022_in_video_gaming#Game_releases
+[new-releases]: https://en.wikipedia.org/wiki/2022_in_video_games#Game_releases
 [games-in-development]: https://en.wikipedia.org/wiki/List_of_video_games_in_development
 [2013 - 12 month pile thread GWJ]: https://www.gamerswithjobs.com/node/1283851?page=6#comment-12179406
