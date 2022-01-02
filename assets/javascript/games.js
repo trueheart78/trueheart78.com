@@ -1,3 +1,9 @@
+// const gameData = [];
+
+Array.prototype.random = function () {
+  return this[Math.floor((Math.random()*this.length))];
+}
+
 async function loadGameData() {
   let response = await fetch('https://api.trueheart78.com/v1/games/games.json');
 
@@ -46,6 +52,8 @@ async function loadData() {
   let lessonData = loadLessonData();
 
   let allData = await Promise.all([gameData, purchaseData, lessonData]);
+  
+  console.info(gameData.games[0]["name"]);
   
   let dates = [];
   for(let data of allData) {
