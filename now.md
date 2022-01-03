@@ -4,7 +4,7 @@ title: 📆 What I'm Up to Now
 description: What I've recently been up to.
 keywords: now, nownownow, studying, playing, reading, comics, books, side projects, games, ruby, rails, golang, tv shows, movies
 permalink: /now/
-update: 2021-01-01
+update: 2021-01-03
 ---
 
 ![Agent Smith - Crazy][agent smith - crazy laughing]
@@ -17,6 +17,7 @@ I'm currently living in Ohio, working remote for [CoverMyMeds][cmm] as a softwar
 
 ## 🎮 Playing Until Credits
 
+* _Tales of Arise_ on Xbox Series X.
 * _Down the Rabbit Hole_ on Oculus Quest 2.
 
 ### 🏁 Recently Beaten
