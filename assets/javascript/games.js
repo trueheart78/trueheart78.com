@@ -12,8 +12,7 @@ async function loadGameData() {
   }
 
   let gameData = await response.json();
-
-  parseGames(gameData.games, gameData.statuses);
+  gameData.type = "game";
   
   return gameData;
 }
@@ -26,8 +25,7 @@ async function loadPurchaseData() {
   }
 
   let purchaseData = await response.json();
-
-  parsePurchases(purchaseData.purchases, purchaseData.categories, purchaseData.completed_statuses);
+  purchaseData.type = "purchase";
   
   return purchaseData;
 }
@@ -40,8 +38,7 @@ async function loadLessonData() {
   }
 
   let lessonData = await response.json();
-
-  parseLessons(lessonData.lessons);
+  lessonData.type = "lesson";
   
   return lessonData;
 }
@@ -55,6 +52,14 @@ async function loadData() {
   
   let dates = [];
   for(let data of allData) {
+    console.log(data.type);
+    if (data.type == "game") {
+      parseGames(data.games, data.statuses);
+    } else if (data.type == "purchase") {
+      parsePurchases(data.purchases, data.categories, data.completed_statuses);
+    } else if (data.type == "lesson") {
+      parseLessons(data.lessons);
+    }
     dates.push(data.last_modified);
   }
   updateLastModified(dates);
