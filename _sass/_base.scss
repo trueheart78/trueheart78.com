@@ -228,3 +228,50 @@ a.ruby {
         text-decoration: underline;
     }
 }
+
+/**
+ * Buttons - Copied from SimpleCSS
+ */
+a button,
+button,
+input[type="submit"],
+input[type="reset"],
+input[type="button"] {
+  border: none;
+  border-radius: 5px;
+  background-color: #0d47a1;
+  font-size: 1rem;
+  color: #fff;
+  padding: .7rem .9rem;
+  margin: .5rem 0;
+  transition: .4s;
+}
+
+a button[disabled],
+button[disabled],
+input[type="submit"][disabled],
+input[type="reset"][disabled],
+input[type="button"][disabled],
+input[type="checkbox"][disabled],
+input[type="radio"][disabled],
+select[disabled] {
+  cursor: default;
+  opacity: .5;
+  cursor: not-allowed;
+}
+
+button:focus,
+button:enabled:hover,
+input[type="submit"]:focus,
+input[type="submit"]:enabled:hover,
+input[type="reset"]:focus,
+input[type="reset"]:enabled:hover,
+input[type="button"]:focus,
+input[type="button"]:enabled:hover,
+input[type="checkbox"]:focus,
+input[type="checkbox"]:enabled:hover,
+input[type="radio"]:focus,
+input[type="radio"]:enabled:hover{
+  opacity: .8;
+  cursor: pointer;
+}
