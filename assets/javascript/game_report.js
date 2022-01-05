@@ -97,7 +97,7 @@ function isThisMonth(date) {
 }
 
 function detectReportDate() {
-  if (params.hasOwnProperty("date") {
+  if (params.hasOwnProperty("date")) {
     return new Date(params.date);
   }
 
