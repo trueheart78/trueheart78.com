@@ -41,7 +41,7 @@
     <link rel="canonical" href="{{ current_page_url }}">
     
     {% if page.remote_css %}{% for css in page.remote_css %}
-    <link rel="stylesheet" href="{{ remote_css }}">
+    <link rel="stylesheet" href="{{ css }}">
     {% endfor %}{% endif %}
 
     {% if page.customjs %}{% for js in page.customjs %}
