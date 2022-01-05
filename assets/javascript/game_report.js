@@ -87,6 +87,18 @@ function setHTML(id, html) {
   }
 }
 
+function isGamePass(game) {
+  return (game.hasOwnProperty("gamepass") && game.gamepass);
+}
+
+function hasHours(game) {
+  return (game.hasOwnProperty("hours") && game.hours > 0);
+}
+
+function hasNotes(game) {
+  return (game.hasOwnProperty("notes") && game.notes.length > 0);
+}
+
 function copyReport() {
   var range = document.createRange();
   range.selectNode(document.getElementById("bbcode-report"));
