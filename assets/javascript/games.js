@@ -4,7 +4,7 @@ Array.prototype.random = function () {
 
 let unplayedGames = [];
 
-async function loadGameData() {
+async function fetchGameData() {
   let response = await fetch('https://api.trueheart78.com/v1/games/games.json');
 
   if (!response.ok) {
@@ -17,7 +17,7 @@ async function loadGameData() {
   return gameData;
 }
 
-async function loadPurchaseData() {
+async function fetchPurchaseData() {
   let response = await fetch('https://api.trueheart78.com/v1/games/purchases.json');
 
   if (!response.ok) {
@@ -30,7 +30,7 @@ async function loadPurchaseData() {
   return purchaseData;
 }
 
-async function loadLessonData() {
+async function fetchLessonData() {
   let response = await fetch('https://api.trueheart78.com/v1/games/lessons.json');
 
   if (!response.ok) {
@@ -44,9 +44,9 @@ async function loadLessonData() {
 }
 
 async function loadData() {
-  let gameData = loadGameData();
-  let purchaseData = loadPurchaseData();
-  let lessonData = loadLessonData();
+  let gameData = fetchGameData();
+  let purchaseData = fetchPurchaseData();
+  let lessonData = fetchLessonData();
 
   let allData = await Promise.all([gameData, purchaseData, lessonData]);
   
