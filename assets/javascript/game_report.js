@@ -30,10 +30,18 @@ function restoreView() {
 }
 
 function updateMonth() {
-  let longMonth = getLongMonth(`${reportYear}-${reportMonth+1}-01`);
+  let longMonth = getLongMonth(`${reportYear}-${paddedMonth()}-01`);
   
   setHTML("default-month", longMonth);
   setHTML("bbcode-month", longMonth);
+}
+function paddedMonth() {
+  let paddedMonth = reportMonth + 1;
+  if (paddedMonth < 10) {
+    paddedMonth = `0${paddedMonth}`;
+  }
+
+  return paddedMonth;
 }
 
 function getLongMonth(date) {
