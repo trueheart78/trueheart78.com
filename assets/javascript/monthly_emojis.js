@@ -5,7 +5,7 @@ const monthlyEmojiURLs = [
   "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/285/umbrella-with-rain-drops_2614.png", // Apr
   "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/285/butterfly_1f98b.png", // May
   "https://emojipedia-us.s3.amazonaws.com/source/skype/289/rainbow_1f308.png", // Jun
-  "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/285/sparkles_2728.png", // Jul
+  "https://emojipedia-us.s3.amazonaws.com/source/skype/289/sparkling-heart_1f496.png", // Jul
   "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/google/313/beach-with-umbrella_1f3d6-fe0f.png", // Aug
   "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/285/cherry-blossom_1f338.png", // Sep
   "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/285/jack-o-lantern_1f383.png", // Oct
@@ -20,7 +20,7 @@ const monthlyEmojis = [
   "☔", // Apr
   "🦋", // May
   "🌈", // Jun
-  "✨", // Jul
+  "💖", // Jul
   "🏖️", // Aug
   "🌸", // Sep
   "🎃", // Oct
