@@ -303,10 +303,10 @@ function gameToHTML(game) {
   if (hasHours(game)) {
     output.push(` [${game.hours}hr]`);
   }
-  if (game.hasOwnProperty("cartridge") && game.cartridge) {
+  if (isCartridge(game)) {
     output.push(" 💾");
   }
-  if (game.hasOwnProperty("disc") && game.disc) {
+  if (isDisc(game)) {
     output.push(" 💿");
   }
   if (isGamePass(game)) {
@@ -373,18 +373,6 @@ function purchaseToHTML(purchase, completed) {
   }
 
   return `<li>${output.join("")}</li>`;
-}
-
-function isGamePass(game) {
-  return (game.hasOwnProperty("gamepass") && game.gamepass);
-}
-
-function hasHours(game) {
-  return (game.hasOwnProperty("hours") && game.hours > 0);
-}
-
-function hasNotes(game) {
-  return (game.hasOwnProperty("notes") && game.notes.length > 0);
 }
 
 const today = new Date();

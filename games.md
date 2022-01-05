@@ -105,6 +105,7 @@ See the [Games in Development Wiki][games-in-development].
 * 💾 = Cartridge-based version
 
 <script type="text/javascript" src="/assets/javascript/api_functions.js"></script>
+<script type="text/javascript" src="/assets/javascript/game_display_functions.js"></script>
 <script type="text/javascript" src="/assets/javascript/games.js"></script>
 
 [top]: #page-top
