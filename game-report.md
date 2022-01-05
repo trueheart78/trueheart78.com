@@ -33,7 +33,7 @@ remote_css: https://cdn.jsdelivr.net/npm/firacode@6.2.0/distr/fira_code.css
 </p>
 </div>
 
-<input type="button" id="copy-report-button" onclick="copyReport()" value="Copy BBCode Report" />
+<button id="copy-report-button" onclick="copyReport()">Copy BBCode Report</button>
 
 <hr>
 <div id="bbcode-report" style="font-family: 'Fira Code', monospace;">

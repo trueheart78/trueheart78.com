@@ -223,7 +223,7 @@ function copyReport() {
   document.execCommand("copy");
   window.getSelection().removeAllRanges();
 
-  document.getElementById("copy-report-button").value = "Copied!";
+  document.getElementById("copy-report-button").innerText = "Copied!";
 }
 
 function logError(error) {
