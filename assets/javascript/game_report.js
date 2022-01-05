@@ -10,19 +10,34 @@ const gamePassHeartURL = "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws
 async function loadReportData() {
   let allData = await Promise.all([fetchGameData(), fetchLessonData()]);
 
-  /* data to parse
   for(let data of allData) {
     if (data.type == "game") {
-
+      parseGameData(data);
     } else if (data.type == "lesson") {
-
+      parseLessonData(data);
     }
-  } */
+  }
   
   updateMonth();
   updateEmoji();
   updateGamePassHearts();
   restoreView();
+}
+
+function parseGameData(data) {
+  let games = data.games.filter(addedOrRemovedThisMonth);
+  let beatenGames = games.filter(beaten);
+  let jettisonedGames = games.filter(jettisoned);
+  let addedGames = games.filter(addedThisMonth);
+
+  console.log(`beaten: ${beatenGames.length}`);
+  console.log(`jettisoned: ${jettisonedGames.length}`);
+  console.log(`added: ${addedGames.length}`);
+}
+
+function parseLessonData(data) {
+  let lessons = data.lessons.filter(addedThisMonth);
+  console.log(`lessons: ${lessons.length}`);
 }
 
 function restoreView() {
@@ -35,6 +50,7 @@ function updateMonth() {
   setHTML("default-month", longMonth);
   setHTML("bbcode-month", longMonth);
 }
+
 function paddedMonth() {
   let paddedMonth = reportMonth + 1;
   if (paddedMonth < 10) {
@@ -71,12 +87,41 @@ function updateGamePassHearts() {
   }
 }
 
-function isThisMonth(date) {
-  let d = new Date(date);
-  let year = d.getUTCFullYear();
-  let month = d.getUTCMonth();
+function beaten(game) {
+  return (game.status == "beaten" && game.hasOwnProperty("removed"));
+}
+
+function jettisoned(game) {
+  return (game.status == "jettisoned" && game.hasOwnProperty("removed"));
+}
+
+function addedOrRemovedThisMonth(game) {
+  let added = addedThisMonth(game);
+  let removed = removedThisMonth(game);
+
+  return (added || removed);
+}
+
+function addedThisMonth(game) {
+  let date = new Date(game.added);
+  let year = date.getUTCFullYear();
+  let month = date.getUTCMonth();
 
   return ((year == reportYear) && (month == reportMonth));
+}
+
+function removedThisMonth(game) {
+  let removed = false;
+  
+  if (game.hasOwnProperty("removed")) {
+    let date = new Date(game.removed);
+    let year = date.getUTCFullYear();
+    let month = date.getUTCMonth();
+
+    removed = ((year == reportYear) && (month == reportMonth));
+  }
+
+  return removed;
 }
 
 function detectReportDate() {
