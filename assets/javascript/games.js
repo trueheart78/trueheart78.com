@@ -11,15 +11,29 @@ async function loadData() {
   for(let data of allData) {
     if (data.type == "game") {
       parseGames(data.games, data.statuses);
+      dates = dates.concat(data.games.map(findDates)).flat();
     } else if (data.type == "purchase") {
       parsePurchases(data.purchases, data.categories, data.completed_statuses);
     } else if (data.type == "lesson") {
       parseLessons(data.lessons);
+      dates.concat(data.lessons.map(findDates)).flat();
     }
     dates.push(data.last_modified);
   }
   updateLastModified(dates);
   restoreView();
+}
+
+function findDates(item) {
+  let itemDates = [];
+  if (item.hasOwnProperty("added")) {
+    itemDates.push(item.added);
+  }
+  if (item.hasOwnProperty("removed")) {
+    itemDates.push(item.removed);
+  }
+
+  return itemDates;
 }
 
 function restoreView() {
