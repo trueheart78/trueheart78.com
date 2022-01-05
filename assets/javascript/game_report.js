@@ -7,41 +7,8 @@ const currentMonth = today.getMonth();
 
 const gamePassHeartURL = "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/facebook/65/green-heart_1f49a.png";
 
-async function loadGameData() {
-  let response = await fetch('https://api.trueheart78.com/v1/games/games.json');
-
-  if (!response.ok) {
-    throw new Error(`HTTP error! status: ${response.status}`);
-  }
-
-  let gameData = await response.json();
-
-  // parseGames(gameData.games, gameData.statuses);
-  
-  return gameData;
-}
-
-async function loadLessonData() {
-  let response = await fetch('https://api.trueheart78.com/v1/games/lessons.json');
-
-  if (!response.ok) {
-    throw new Error(`HTTP error! status: ${response.status}`);
-  }
-
-  let lessonData = await response.json();
-
-  // parseLessons(lessonData.lessons);
-  
-  return lessonData;
-}
-
 async function loadReportData() {
-  let gameData = loadGameData();
-  let lessonData = loadLessonData();
-
-  let allData = await Promise.all([gameData, lessonData]);
-  
-  console.info(params);
+  let allData = await Promise.all([fetchGameData(), fetchLessonData()]);
   
   updateMonth();
   updateEmoji();

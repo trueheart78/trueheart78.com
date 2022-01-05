@@ -101,4 +101,5 @@ remote_css: https://cdn.jsdelivr.net/npm/firacode@6.2.0/distr/fira_code.css
 [img]https://media.giphy.com/media/3o6fIQjcv5aMWz8eS4/giphy.gif[/img]
 </div>
 
+<script type="text/javascript" src="/assets/javascript/api_functions.js"></script>
 <script type="text/javascript" src="/assets/javascript/game_report.js"></script>

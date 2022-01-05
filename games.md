@@ -104,6 +104,7 @@ See the [Games in Development Wiki][games-in-development].
 * 💿 = Disc-based version
 * 💾 = Cartridge-based version
 
+<script type="text/javascript" src="/assets/javascript/api_functions.js"></script>
 <script type="text/javascript" src="/assets/javascript/games.js"></script>
 
 [top]: #page-top

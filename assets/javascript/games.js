@@ -4,55 +4,11 @@ Array.prototype.random = function () {
 
 let unplayedGames = [];
 
-async function fetchGameData() {
-  let response = await fetch('https://api.trueheart78.com/v1/games/games.json');
-
-  if (!response.ok) {
-    throw new Error(`HTTP error! status: ${response.status}`);
-  }
-
-  let gameData = await response.json();
-  gameData.type = "game";
-  
-  return gameData;
-}
-
-async function fetchPurchaseData() {
-  let response = await fetch('https://api.trueheart78.com/v1/games/purchases.json');
-
-  if (!response.ok) {
-    throw new Error(`HTTP error! status: ${response.status}`);
-  }
-
-  let purchaseData = await response.json();
-  purchaseData.type = "purchase";
-  
-  return purchaseData;
-}
-
-async function fetchLessonData() {
-  let response = await fetch('https://api.trueheart78.com/v1/games/lessons.json');
-
-  if (!response.ok) {
-    throw new Error(`HTTP error! status: ${response.status}`);
-  }
-
-  let lessonData = await response.json();
-  lessonData.type = "lesson";
-  
-  return lessonData;
-}
-
 async function loadData() {
-  let gameData = fetchGameData();
-  let purchaseData = fetchPurchaseData();
-  let lessonData = fetchLessonData();
-
-  let allData = await Promise.all([gameData, purchaseData, lessonData]);
+  let allData = await Promise.all([fetchGameData(), fetchPurchaseData(), fetchLessonData()]);
   
   let dates = [];
   for(let data of allData) {
-    console.log(data.type);
     if (data.type == "game") {
       parseGames(data.games, data.statuses);
     } else if (data.type == "purchase") {
