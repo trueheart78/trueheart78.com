@@ -1,14 +1,23 @@
 const urlSearchParams = new URLSearchParams(window.location.search);
 const params = Object.fromEntries(urlSearchParams.entries());
 
-const today = detectReportDate();
-const currentYear = today.getFullYear();
-const currentMonth = today.getMonth();
+const reportDate = detectReportDate();
+const reportYear = reportDate.getUTCFullYear();
+const reportMonth = reportDate.getUTCMonth() + 1;
 
 const gamePassHeartURL = "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/facebook/65/green-heart_1f49a.png";
 
 async function loadReportData() {
   let allData = await Promise.all([fetchGameData(), fetchLessonData()]);
+
+  /* data to parse
+  for(let data of allData) {
+    if (data.type == "game") {
+
+    } else if (data.type == "lesson") {
+
+    }
+  } */
   
   updateMonth();
   updateEmoji();
@@ -21,29 +30,28 @@ function restoreView() {
 }
 
 function updateMonth() {
-  let month = getLongMonth("2022-01-01");
+  let longMonth = getLongMonth(`${reportYear}-${reportMonth}-01`);
   
-  document.getElementById("default-month").innerHTML = month;
-  document.getElementById("bbcode-month").innerHTML = month;
+  setHTML("default-month", longMonth);
+  setHTML("bbcode-month", longMonth);
 }
 
 function getLongMonth(date) {
-  let options = { month: "long", timeZone: "UTC" };
-  
-  // return new Date(date).toLocaleString("en-US", options);
-  return today.toLocaleString("en-US", options);
+  let options = { month: "long" , timeZone: "UTC" };
+
+  return new Date(date).toLocaleString("en-US", options);
 }
 
 function updateEmoji() {
-  document.getElementById("default-emoji").innerHTML = getEmoji("");
-  document.getElementById("bbcode-emoji").innerHTML = getEmojiURL("");
+  setHTML("default-emoji", getEmoji());
+  setHTML("bbcode-emoji", getEmojiURL());
 }
 
-function getEmoji(month) {
+function getEmoji() {
   return "❄️";
 }
 
-function getEmojiURL(month) {
+function getEmojiURL() {
   return "https://emojipedia-us.s3.amazonaws.com/source/skype/289/snowflake_2744-fe0f.png";
 }
 
@@ -57,10 +65,10 @@ function updateGamePassHearts() {
 
 function isThisMonth(date) {
   let d = new Date(date);
-  let year = d.getFullYear();
-  let month = d.getMonth();
+  let year = d.getUTCFullYear();
+  let month = d.getUTCMonth();
 
-  return ((year == currentYear) && (month == currentMonth));
+  return ((year == reportYear) && (month == reportMonth));
 }
 
 function detectReportDate() {
@@ -69,6 +77,14 @@ function detectReportDate() {
   }
 
   return new Date();
+}
+
+function setHTML(id, html) {
+  if (document.getElementById(id)) {
+    document.getElementById(id).innerHTML = html
+  } else {
+    console.warning(`Unable to find element with id of "${id}"`);
+  }
 }
 
 function copyReport() {
