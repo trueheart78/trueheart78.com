@@ -3,7 +3,7 @@ const params = Object.fromEntries(urlSearchParams.entries());
 
 const reportDate = detectReportDate();
 const reportYear = reportDate.getUTCFullYear();
-const reportMonth = reportDate.getUTCMonth() + 1;
+const reportMonth = reportDate.getUTCMonth();
 
 const gamePassHeartURL = "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/facebook/65/green-heart_1f49a.png";
 
@@ -30,7 +30,7 @@ function restoreView() {
 }
 
 function updateMonth() {
-  let longMonth = getLongMonth(`${reportYear}-${reportMonth}-01`);
+  let longMonth = getLongMonth(`${reportYear}-${reportMonth+1}-01`);
   
   setHTML("default-month", longMonth);
   setHTML("bbcode-month", longMonth);
@@ -48,11 +48,11 @@ function updateEmoji() {
 }
 
 function getEmoji() {
-  return "❄️";
+  return monthlyEmojis[reportMonth];
 }
 
 function getEmojiURL() {
-  return "https://emojipedia-us.s3.amazonaws.com/source/skype/289/snowflake_2744-fe0f.png";
+  return monthlyEmojiURLs[reportMonth];
 }
 
 function updateGamePassHearts() {
