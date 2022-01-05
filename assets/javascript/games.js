@@ -10,12 +10,12 @@ async function loadData() {
   let dates = [];
   for(let data of allData) {
     if (data.type == "game") {
-      parseGames(data.games, data.statuses);
+      parseGames(data);
       dates = dates.concat(data.games.map(findDates)).flat();
     } else if (data.type == "purchase") {
-      parsePurchases(data.purchases, data.categories, data.completed_statuses);
+      parsePurchases(data);
     } else if (data.type == "lesson") {
-      parseLessons(data.lessons);
+      parseLessons(data);
       dates.concat(data.lessons.map(findDates)).flat();
     }
     dates.push(data.last_modified);
@@ -77,7 +77,9 @@ function shortDate(date) {
   return new Date(date).toLocaleString("en-US", options);
 }
 
-function parseGames(games, statuses) {
+function parseGames(data) {
+  let games = data.games;
+  let statuses = data.statuses;
   for (let currentStatus of statuses) {
     let divId = `games-${currentStatus.replaceAll(" ", "-")}`;
     let div = document.getElementById(divId);
@@ -110,7 +112,10 @@ function parseGames(games, statuses) {
   }
 }
 
-function parsePurchases(purchases, categories, completed_statuses) {
+function parsePurchases(data) {
+  let purchases = data.purchases;
+  let categories = data.categories;
+  let completed_statuses = data.completed_statuses;
   for (let currentCategory of categories) {
     let divId = `purchases-${currentCategory}`;
     let div = document.getElementById(divId);
@@ -145,7 +150,8 @@ function parsePurchases(purchases, categories, completed_statuses) {
   }
 }
 
-function parseLessons(lessons) {
+function parseLessons(data) {
+  let lessons = data.lessons;
   let div = document.getElementById("lessons-learned");
   let items = [];
   
