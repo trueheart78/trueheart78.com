@@ -20,6 +20,7 @@ async function loadReportData() {
     }
   }
   
+  drawMonthlyMenu();
   updateMonth();
   updateEmoji();
   updateGameIcons();
@@ -176,14 +177,14 @@ function restoreView() {
 }
 
 function updateMonth() {
-  let longMonth = getLongMonth(`${reportYear}-${paddedMonth()}-01`);
+  let longMonth = getLongMonth(`${reportYear}-${paddedMonth(reportMonth)}-01`);
   
   setHTML("default-month", longMonth);
   setHTML("bbcode-month", longMonth);
 }
 
-function paddedMonth() {
-  let paddedMonth = reportMonth + 1;
+function paddedMonth(month) {
+  let paddedMonth = month + 1;
   if (paddedMonth < 10) {
     paddedMonth = `0${paddedMonth}`;
   }
@@ -193,6 +194,12 @@ function paddedMonth() {
 
 function getLongMonth(date) {
   let options = { month: "long" , timeZone: "UTC" };
+
+  return new Date(date).toLocaleString("en-US", options);
+}
+
+function getShortMonth(date) {
+  let options = { month: "short" , timeZone: "UTC" };
 
   return new Date(date).toLocaleString("en-US", options);
 }
@@ -222,7 +229,6 @@ function updateIcons(className, iconURL) {
   for(let element of elements) {
     element.innerHTML = `[img=18x18]${iconURL}[/img]`;
   }
-
 }
 
 function beaten(game) {
@@ -268,6 +274,26 @@ function detectReportDate() {
   }
 
   return new Date();
+}
+
+function drawMonthlyMenu() {
+  let items = [];
+
+  let currentDate = new Date();
+  let currentYear = currentDate.getUTCFullYear();
+  let currentMonth = currentDate.getUTCMonth();
+
+  for (let m = 0; m <= currentMonth; m++) {
+    let date = `${reportYear}-${paddedMonth(m)}-01`;
+    let text = `${getShortMonth(date)} ${monthlyEmojis[m]}`;
+
+    items.push(monthButton(text, date));
+  }
+  setHTML("monthly-menu", items.join(" | "));
+}
+
+function monthButton(text, date) {
+  return `<a href="?date=${date}" class="ruby">${text}</a>`;
 }
 
 function setHTML(id, html) {

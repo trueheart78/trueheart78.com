@@ -6,7 +6,7 @@ keywords: games, report
 permalink: /game-report/
 remote_css: https://cdn.jsdelivr.net/npm/firacode@6.2.0/distr/fira_code.css
 ---
-
+<div id="monthly-menu"></div>
 <div id="default-report">
 <h1><span id="default-month"></span> <span id="default-emoji"></span></h1>
 <h3>Beaten 🏁</h3>
