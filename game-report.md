@@ -25,7 +25,7 @@ remote_css: https://cdn.jsdelivr.net/npm/firacode@6.2.0/distr/fira_code.css
 <p>
 <div id="default-lessons-learned"></div>
 </p>
-<h2>Legend ℹ️</h2>
+<h3>Legend ℹ️</h3>
 <p>
 <ul>
 <li>💚 = Game Pass</li>
@@ -55,7 +55,7 @@ remote_css: https://cdn.jsdelivr.net/npm/firacode@6.2.0/distr/fira_code.css
 [h3]Learned [img=25x25]https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/285/face-with-monocle_1f9d0.png[/img][/h3]<br>
 <div id="bbcode-lessons-learned"></div>
 <br>
-[h2]Legend [img=25x25]https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/facebook/304/information_2139-fe0f.png[/img][/h2]<br>
+[h3]Legend [img=25x25]https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/facebook/304/information_2139-fe0f.png[/img][/h3]<br>
 <br>
 <span class="game-pass-heart"></span> = Xbox Game Pass<br>
 <span class="disc"></span> = Disc version<br>
