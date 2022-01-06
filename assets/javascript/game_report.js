@@ -32,14 +32,53 @@ function parseGameData(data) {
   let jettisonedGames = games.filter(jettisoned);
   let addedGames = games.filter(addedThisMonth);
 
-  console.log(`beaten: ${beatenGames.length}`);
-  console.log(`jettisoned: ${jettisonedGames.length}`);
-  console.log(`added: ${addedGames.length}`);
+  displayGames(beatenGames, "beaten");
+  displayGames(jettisonedGames, "jettisoned");
+  displayGames(addedGames, "added");
+}
+
+function displayGames(games, type) {
+  let htmlItems = [];
+  let bbcodeItems = [];
+
+  if (games.length > 0) {
+    for (let game of games) {
+      htmlItems.push(gameToHTML(game));
+      bbcodeItems.push(gameToBBCode(game));
+    }
+  } else {
+    htmlItems.push("<li>None.</li>");
+    bbcodeItems.push("[*] None.<br>");
+  }
+
+  setHTML(`default-games-${type}`, `<ol>${htmlItems.join("\n")}</ol>`);
+  setHTML(`bbcode-games-${type}`, `[ol]<br>${bbcodeItems.join("")}[/ol]`);
 }
 
 function parseLessonData(data) {
   let lessons = data.lessons.filter(addedThisMonth);
+  
+  displayLessons(lessons);
+}
+
+function displayLessons(lessons) {
+  let htmlItems = [];
+  let bbcodeItems = [];
+
   console.log(`lessons: ${lessons.length}`);
+
+  if (lessons.length > 0) {
+    for(let lesson of lessons) {
+      htmlItems.push(lessonToHTML(lesson));
+      bbcodeItems.push(lessonToBBCode(lesson));
+    }
+  } else {
+    htmlItems.push("<li>None.</li>");
+    bbcodeItems.push("[*] None.<br>");
+  }
+
+  setHTML(`default-lessons-learned`, `<ol>${htmlItems.join("\n")}</ol>`);
+  setHTML(`bbcode-lessons-learned`, `[ol]<br>${bbcodeItems.join("")}[/ol]`);
 }
 
 function gameToHTML(game) {
@@ -54,14 +93,12 @@ function gameToHTML(game) {
   if (hasHours(game)) {
     output.push(` [${game.hours}hr]`);
   }
-  if (isCartridge(game)) {
-    output.push(" 💾");
-  }
-  if (isDisc(game)) {
-    output.push(" 💿");
-  }
   if (isGamePass(game)) {
     output.push(" 💚");
+  } else if (isCartridge(game)) {
+    output.push(" 💾");
+  } else if (isDisc(game)) {
+    output.push(" 💿");
   }
   if (hasNotes(game)) {
     output.push("\n<ul>");
@@ -86,14 +123,12 @@ function gameToBBCode(game) {
   if (hasHours(game)) {
     output.push(` [${game.hours}hr]`);
   }
-  if (isCartridge(game)) {
-    output.push("<span id='cartridge'></span>");
-  }
-  if (isDisc(game)) {
-    output.push("<span id='disc'></span>");
-  }
   if (isGamePass(game)) {
-    output.push("<span id='game-pass-heart'></span>");
+    output.push("&nbsp;<span id='game-pass-heart'></span>");
+  } else if (isCartridge(game)) {
+    output.push("&nbsp;<span id='cartridge'></span>");
+  } else if (isDisc(game)) {
+    output.push("&nbsp;<span id='disc'></span>");
   }
   if (hasNotes(game)) {
     output.push("<br>&nbsp;&nbsp;[ul]");
@@ -103,7 +138,7 @@ function gameToBBCode(game) {
     output.push("<br>&nbsp;&nbsp;[/ul]");
   }
 
-  return `[*] ${output.join("")}`;
+  return `[*] ${output.join("")}<br>`;
 }
 
 function lessonToHTML(lesson) {
@@ -126,7 +161,7 @@ function lessonToBBCode(lesson) {
   let output = [];
   let parts = lesson.learned.split(".");
   
-  output.push(`[b]${parts.shift()}.[b]`);
+  output.push(`[b]${parts.shift()}.[/b]`);
   output.push(parts.join("."));
   
   if (hasExamples(lesson)) {
@@ -136,7 +171,7 @@ function lessonToBBCode(lesson) {
     output.push("[/i].<br>&nbsp;&nbsp;[/ul]");
   }
 
-  return `[*] ${output.join("")}`;
+  return `[*] ${output.join("")}<br>`;
 }
 function restoreView() {
   window.scrollTo(0, 0);
@@ -187,7 +222,7 @@ function updateIcons(className, iconURL) {
   let elements = document.getElementsByClassName(className);
   
   for(let element of elements) {
-    element.innerHTML = iconURL;
+    element.innerHTML = `[img=18x18]${iconURL}[/img]`;
   }
 
 }

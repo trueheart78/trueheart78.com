@@ -101,8 +101,8 @@ See the [Games in Development Wiki][games-in-development].
 
 * 💚 = Xbox Game Pass
 * 🆕 = Added within the last 90 days
-* 💿 = Disc-based version
-* 💾 = Cartridge-based version
+* 💿 = Disc version
+* 💾 = Cartridge version
 
 <script type="text/javascript" src="/assets/javascript/api_functions.js"></script>
 <script type="text/javascript" src="/assets/javascript/game_display_functions.js"></script>

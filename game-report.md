@@ -13,13 +13,13 @@ remote_css: https://cdn.jsdelivr.net/npm/firacode@6.2.0/distr/fira_code.css
 <p>
 <div id="default-games-beaten"></div>
 </p>
-<h3>New 🦖</h3>
-<p>
-<div id="default-games-new"></div>
-</p>
 <h3>Jettisoned 🔥</h3>
 <p>
 <div id="default-games-jettisoned"></div>
+</p>
+<h3>Added 🦖</h3>
+<p>
+<div id="default-games-added"></div>
 </p>
 <h3>Learned 🧐</h3>
 <p>
@@ -27,13 +27,15 @@ remote_css: https://cdn.jsdelivr.net/npm/firacode@6.2.0/distr/fira_code.css
 </p>
 <h2>Legend ℹ️</h2>
 <p>
-💚 = Game Pass<br>
-💿 = Disc-based version<br>
-💾 = Cartridge-based version
+<ul>
+<li>💚 = Game Pass</li>
+<li>💿 = Disc version</li>
+<li>💾 = Cartridge version</li>
+</ul>
 </p>
 </div>
 
-<button id="copy-report-button" onclick="copyReport()">Copy BBCode Report</button>
+<button id="copy-report-button" onclick="copyReport()">Copy BBCode</button>
 
 <hr>
 <div id="bbcode-report" style="font-family: 'Fira Code', monospace;">
@@ -44,20 +46,20 @@ remote_css: https://cdn.jsdelivr.net/npm/firacode@6.2.0/distr/fira_code.css
 [h3]Beaten [img=25x25]https://emojipedia-us.s3.amazonaws.com/source/skype/289/chequered-flag_1f3c1.png[/img][/h3]<br>
 <div id="bbcode-games-beaten"></div>
 <br>
-[h3]New [img=25x25]https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/google/313/t-rex_1f996.png[/img][/h3]<br>
-<div id="bbcode-games-new"></div>
-<br>
 [h3]Jettisoned [img=25x25]https://emojipedia-us.s3.amazonaws.com/source/skype/289/fire_1f525.png[/img][/h3]<br>
 <div id="bbcode-games-jettisoned"></div>
+<br>
+[h3]Added [img=25x25]https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/google/313/t-rex_1f996.png[/img][/h3]<br>
+<div id="bbcode-games-added"></div>
 <br>
 [h3]Learned [img=25x25]https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/285/face-with-monocle_1f9d0.png[/img][/h3]<br>
 <div id="bbcode-lessons-learned"></div>
 <br>
 [h2]Legend [img=25x25]https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/facebook/304/information_2139-fe0f.png[/img][/h2]<br>
 <br>
-[img=18x18]<span class="game-pass-heart"></span>[/img] = Xbox Game Pass<br>
-[img=18x18]<span class="disc"></span>[/img] = Disc-based version<br>
-[img=18x18]<span class="cartridge"></span>[/img] = Cartridge-based version<br>
+<span class="game-pass-heart"></span> = Xbox Game Pass<br>
+<span class="disc"></span> = Disc version<br>
+<span class="cartridge"></span> = Cartridge version<br>
 <br>
 [img]FIND-A-GIF[/img]
 </div>

@@ -303,14 +303,12 @@ function gameToHTML(game) {
   if (hasHours(game)) {
     output.push(` [${game.hours}hr]`);
   }
-  if (isCartridge(game)) {
-    output.push(" 💾");
-  }
-  if (isDisc(game)) {
-    output.push(" 💿");
-  }
   if (isGamePass(game)) {
     output.push(" 💚");
+  } else if (isCartridge(game)) {
+    output.push(" 💾");
+  } else if (isDisc(game)) {
+    output.push(" 💿");
   }
   if (isRecentAddition(game.added)) {
     output.push(" 🆕");
