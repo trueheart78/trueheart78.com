@@ -283,7 +283,7 @@ function lessonToHTML(lesson) {
   output.push(`<strong>${parts.shift()}.</strong>`);
   output.push(parts.join("."));
   
-  if (lesson.hasOwnProperty("examples") && lesson.examples.length > 0) {
+  if (hasExamples(lesson)) {
     output.push("\n<ul><li>See <i>");
     output.push(lesson.examples.join("</i> and <i>"));
     output.push("</i>.</li>\n</ul>");

@@ -96,18 +96,48 @@ function gameToBBCode(game) {
     output.push("<span id='game-pass-heart'></span>");
   }
   if (hasNotes(game)) {
-    output.push("<br>[ul]");
+    output.push("<br>&nbsp;&nbsp;[ul]");
     for(let note of game.notes) {
-      output.push(`<br><li>${note}</li>`);
+      output.push(`<br>&nbsp;&nbsp;&nbsp;&nbsp;[*] ${note}`);
     }
-    output.push("<br>[/ul]");
+    output.push("<br>&nbsp;&nbsp;[/ul]");
   }
 
   return `[*] ${output.join("")}`;
 }
 
+function lessonToHTML(lesson) {
+  let output = [];
+  let parts = lesson.learned.split(".");
+  
+  output.push(`<strong>${parts.shift()}.</strong>`);
+  output.push(parts.join("."));
+  
+  if (hasExamples(lesson)) {
+    output.push("\n<ul><li>See <i>");
+    output.push(lesson.examples.join("</i> and <i>"));
+    output.push("</i>.</li>\n</ul>");
+  }
 
+  return `<li>${output.join("")}</li>`;
+}
 
+function lessonToBBCode(lesson) {
+  let output = [];
+  let parts = lesson.learned.split(".");
+  
+  output.push(`[b]${parts.shift()}.[b]`);
+  output.push(parts.join("."));
+  
+  if (hasExamples(lesson)) {
+    output.push("<br>&nbsp;&nbsp;[ul]<br>");
+    output.push("&nbsp;&nbsp;&nbsp;&nbsp;[*] See [i]");
+    output.push(lesson.examples.join("[/i] and [i]"));
+    output.push("[/i].<br>&nbsp;&nbsp;[/ul]");
+  }
+
+  return `[*] ${output.join("")}`;
+}
 function restoreView() {
   window.scrollTo(0, 0);
 }
