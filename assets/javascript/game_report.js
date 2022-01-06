@@ -283,24 +283,25 @@ function drawMonthlyMenu() {
   let currentYear = currentDate.getUTCFullYear();
   let currentMonth = currentDate.getUTCMonth();
 
-  // if earlier than March of the current year, display links from prev year
+  // display links in reverse order
+  for (let m = currentMonth; m >= 0; m--) {
+    let date = `${currentYear}-${paddedMonth(m)}-01`;
+    let text = `${getShortMonth(date)} ${monthlyEmojis[m]}`;
+
+    items.push(monthMenuItem(text, date));
+  }
+
+  // if earlier than March of the current year, display a few from prev year
   if (currentMonth < 2) {
     let previousYear = currentYear - 1;
     let startingMonth = currentMonth + 10;
 
-    for (let m = startingMonth; m <= 11; m++) {
+    for (let m = 11; m >= startingMonth; m--) {
       let date = `${previousYear}-${paddedMonth(m)}-01`;
       let text = `${getShortMonth(date)} ${monthlyEmojis[m]}`;
 
       items.push(monthMenuItem(text, date));
     }
-  }
-
-  for (let m = 0; m <= currentMonth; m++) {
-    let date = `${currentYear}-${paddedMonth(m)}-01`;
-    let text = `${getShortMonth(date)} ${monthlyEmojis[m]}`;
-
-    items.push(monthMenuItem(text, date));
   }
   setHTML("monthly-menu", items.join(" | "));
 }
