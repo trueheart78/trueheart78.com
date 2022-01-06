@@ -65,8 +65,6 @@ function displayLessons(lessons) {
   let htmlItems = [];
   let bbcodeItems = [];
 
-  console.log(`lessons: ${lessons.length}`);
-
   if (lessons.length > 0) {
     for(let lesson of lessons) {
       htmlItems.push(lessonToHTML(lesson));
