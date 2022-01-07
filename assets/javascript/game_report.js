@@ -123,11 +123,11 @@ function gameToBBCode(game) {
     output.push(` [${game.hours}hr]`);
   }
   if (isGamePass(game)) {
-    output.push("&nbsp;<span id='game-pass-heart'></span>");
+    output.push("&nbsp;<span class='game-pass-heart'></span>");
   } else if (isCartridge(game)) {
-    output.push("&nbsp;<span id='cartridge'></span>");
+    output.push("&nbsp;<span class='cartridge'></span>");
   } else if (isDisc(game)) {
-    output.push("&nbsp;<span id='disc'></span>");
+    output.push("&nbsp;<span class='disc'></span>");
   }
   if (hasNotes(game)) {
     output.push("<br>&nbsp;&nbsp;[ul]");
