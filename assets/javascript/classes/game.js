@@ -1,14 +1,14 @@
 class Game {
+  name;
+  system;
+  status;
   added;
   removed;
   hours = 0;
   disc = false;
   cartridge = false;
   gamepass = false;
-  name;
-  status;
   surpriseMe = true;
-  system;
   notes = [];
 
   constructor(game) {
@@ -39,6 +39,9 @@ class Game {
       this.surpriseMe = game.surprise_me;
     }
   }
+  get hasNotes() {
+    return (this.notes.length > 0);
+  }
   get wasRemoved() {
     return (this.removed != undefined);
   }
@@ -66,10 +69,16 @@ class Game {
   get vrExperience() {
     return (this.status == "vr experiences");
   }
-  get vr() {
-    return (this.system == "VR");
-  }
   get completed() {
     return (this.beaten || this.jettisoned);
+  }
+  get xbox() {
+    return (["XSX", "XB1", "360", "XB"].includes(this.system));
+  }
+  get nintendo() {
+    return (this.system == "NS");
+  }
+  get vr() {
+    return (this.system == "VR");
   }
 }
