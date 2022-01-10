@@ -2,6 +2,7 @@ Array.prototype.random = function () {
   return this[Math.floor((Math.random() * this.length))];
 }
 
+let allGames = [];
 let unplayedGames = [];
 
 async function loadData() {
@@ -10,6 +11,9 @@ async function loadData() {
   let dates = [];
   for(let data of allData) {
     if (data.type == "game") {
+      for(let game of data.games) {
+        allGames.push(new Game(game));
+      }
       parseGames(data);
       dates = dates.concat(data.games.map(findDates)).flat();
     } else if (data.type == "purchase") {

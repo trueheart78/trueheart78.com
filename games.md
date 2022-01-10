@@ -108,6 +108,9 @@ See the [Games in Development Wiki][games-in-development].
 * 💾 = Cartridge version
 
 <script type="text/javascript" src="/assets/javascript/api_functions.js"></script>
+<script type="text/javascript" src="/assets/javascript/classes/game.js"></script>
+<script type="text/javascript" src="/assets/javascript/classes/purchase.js"></script>
+<script type="text/javascript" src="/assets/javascript/classes/lesson.js"></script>
 <script type="text/javascript" src="/assets/javascript/game_display_functions.js"></script>
 <script type="text/javascript" src="/assets/javascript/games.js"></script>
 
