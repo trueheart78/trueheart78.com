@@ -65,6 +65,9 @@ remote_css: https://cdn.jsdelivr.net/npm/firacode@6.2.0/distr/fira_code.css
 </div>
 
 <script type="text/javascript" src="/assets/javascript/api_functions.js"></script>
+<script type="text/javascript" src="/assets/javascript/classes/game.js"></script>
+<script type="text/javascript" src="/assets/javascript/classes/purchase.js"></script>
+<script type="text/javascript" src="/assets/javascript/classes/lesson.js"></script>
 <script type="text/javascript" src="/assets/javascript/monthly_emojis.js"></script>
 <script type="text/javascript" src="/assets/javascript/game_display_functions.js"></script>
 <script type="text/javascript" src="/assets/javascript/game_report.js"></script>
