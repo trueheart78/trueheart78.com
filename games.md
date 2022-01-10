@@ -24,7 +24,10 @@ update: placeholder
 <a id="unplayed"></a>
 ## 👾 Unplayed [🔝][top]
 
-<button onclick="suggestRandomGame()">Help Me Decide</button>
+<button onclick="suggestRandomGame('any')">Help Me Decide</button>
+<button onclick="suggestRandomGame('short')">Short</button>
+<button onclick="suggestRandomGame('medium')">Medium</button>
+<button onclick="suggestRandomGame('long')">Long</button>
 
 <div id="games-unplayed"></div>
 

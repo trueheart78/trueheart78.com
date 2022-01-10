@@ -98,7 +98,6 @@ function parseGames(data) {
       if (currentStatus == "unplayed") {
         unplayedGames = items;
       }
-      
       for(let item of items) {
         htmlItems.push(gameToHTML(item));
       }
@@ -392,14 +391,62 @@ function isThisYear(date) {
   return matches;
 }
 
-function logError(error) {
-  console.error(error.message);
+// defaults to true
+function surpriseMe(game) {
+  let surprise_me = true;
+  if (game.hasOwnProperty("surprise_me")) {
+    surprise_me = game.surprise_me;
+  }
+  return surprise_me;
 }
 
-function suggestRandomGame() {
-  let game = unplayedGames.random();
+/**
+ * length: any, long, medium, short
+ * system: any, xbox, vr, ns
+ */
+function suggestRandomGame(length = "any", system = "any") {
+  let possibleGames = unplayedGames;
+  if (system != "vr") {
+    possibleGames = possibleGames.filter(game => game.system.toUpperCase() != "VR");
+  }
+  possibleGames = possibleGames.filter(game => surpriseMe(game));
+  possibleGames = restrictLength(possibleGames, length);
+
+  let game = possibleGames.random();
   
-  alert(`How about ${game.name} on ${game.system}?`);
+  let hourString = (game.hours != 1) ? "hours" : "hour";
+  alert(`How about ${game.name} on ${game.system}? It's ${game.hours} ${hourString} long.`);
+}
+
+function restrictLength(games, length = "any") {
+  let filteredGames = games;
+  if (length != "any") {
+    // Filter to correct values
+    let minLength = 0;
+    let maxLength = 0;
+    if (length == "short") {
+      minLength = 1;
+      maxLength = 6;
+    } else if (length == "medium") {
+      minLength = 7
+      maxLength = 20
+    } else if (length == "long") {
+      minLength = 21
+      maxLength = 10000
+    } else {
+      console.warn(`Unsupported length restriction ("${length}")`);
+    }
+
+    if (minLength > 0 && maxLength > 0) {
+      filteredGames = filteredGames.filter(game => game.hours >= minLength && game.hours <= maxLength);
+    }
+  }
+
+  return filteredGames;
+}
+
+function logError(error) {
+  console.error(error.message);
 }
 
 loadData().catch(e => logError(e));
