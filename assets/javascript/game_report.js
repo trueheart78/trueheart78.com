@@ -143,7 +143,7 @@ function gameToBBCode(game) {
 function lessonToHTML(lesson) {
   let output = [];
   
-  output.push(`<strong>${lesson.learned}.</strong> `);
+  output.push(`<strong>${lesson.learned}</strong> `);
   
   if (hasNotes(lesson)) {
     output.push(lesson.notes.join(" "));
@@ -161,7 +161,7 @@ function lessonToHTML(lesson) {
 function lessonToBBCode(lesson) {
   let output = [];
   
-  output.push(`[b]${lesson.learned}.[/b] `);
+  output.push(`[b]${lesson.learned}[/b] `);
   
   if (hasNotes(lesson)) {
     output.push(lesson.notes.join(" "));
