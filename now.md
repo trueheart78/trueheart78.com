@@ -4,7 +4,7 @@ title: 📆 What I'm Up to Now
 description: What I've recently been up to.
 keywords: now, nownownow, studying, playing, reading, comics, books, side projects, games, ruby, rails, golang, tv shows, movies
 permalink: /now/
-update: 2021-01-16
+update: 2022-01-16
 ---
 
 ![Agent Smith - Crazy][agent smith - crazy laughing]
