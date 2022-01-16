@@ -142,10 +142,12 @@ function gameToBBCode(game) {
 
 function lessonToHTML(lesson) {
   let output = [];
-  let parts = lesson.learned.split(".");
   
-  output.push(`<strong>${parts.shift()}.</strong>`);
-  output.push(parts.join("."));
+  output.push(`<strong>${lesson.learned}.</strong> `);
+  
+  if (hasNotes(lesson)) {
+    output.push(lesson.notes.join(" "));
+  }
   
   if (hasExamples(lesson)) {
     output.push("\n<ul><li>See <i>");
@@ -158,10 +160,12 @@ function lessonToHTML(lesson) {
 
 function lessonToBBCode(lesson) {
   let output = [];
-  let parts = lesson.learned.split(".");
   
-  output.push(`[b]${parts.shift()}.[/b]`);
-  output.push(parts.join("."));
+  output.push(`[b]${lesson.learned}.[/b] `);
+  
+  if (hasNotes(lesson)) {
+    output.push(lesson.notes.join(" "));
+  }
   
   if (hasExamples(lesson)) {
     output.push("<br>&nbsp;&nbsp;[ul]<br>");
