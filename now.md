@@ -4,7 +4,7 @@ title: 📆 What I'm Up to Now
 description: What I've recently been up to.
 keywords: now, nownownow, studying, playing, reading, comics, books, side projects, games, ruby, rails, golang, tv shows, movies
 permalink: /now/
-update: 2021-01-03
+update: 2021-01-16
 ---
 
 ![Agent Smith - Crazy][agent smith - crazy laughing]
@@ -39,9 +39,12 @@ I'm currently living in Ohio, working remote for [CoverMyMeds][cmm] as a softwar
 
 * _TBD_.
 
-  
 ### 🎞 Recently Watched
 
+* Blade Runner 2049
+  * A solid follow-up that was quite enjoyable.
+  * Ana de Armas is such a talent. 🤩
+  * Ryan Gosling was amazing. 😮
 * Bill & Ted Face The Music 🎸✨✨
   * Rang in the New Years with it. 🥳
   * What a wonderful, feel good movie!
@@ -55,7 +58,7 @@ I'm currently living in Ohio, working remote for [CoverMyMeds][cmm] as a softwar
 
 ### 🔨 Current
 
-* Creating a [Game Report](/game-report/) page. 📒
+* _TBD_
 
 ### 🔜 In The Works
 
@@ -67,6 +70,7 @@ I'm currently living in Ohio, working remote for [CoverMyMeds][cmm] as a softwar
 
 ## 🌐 Recent Site Updates
 
+* Created a [Game Report](/game-report/) page using the new API. 📒
 * Rewrote the [Games page](/games/) with JavaScript and a new API.
 
 ## 🙋‍♀️ What is a Now Page?
