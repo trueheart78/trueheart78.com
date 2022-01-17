@@ -4,7 +4,7 @@ title: 📆 What I'm Up to Now
 description: What I've recently been up to.
 keywords: now, nownownow, studying, playing, reading, comics, books, side projects, games, ruby, rails, golang, tv shows, movies
 permalink: /now/
-update: 2022-01-16
+update: 2022-01-17
 ---
 
 ![Agent Smith - Crazy][agent smith - crazy laughing]
@@ -41,6 +41,11 @@ I'm currently living in Ohio, working remote for [CoverMyMeds][cmm] as a softwar
 
 ### 🎞 Recently Watched
 
+* No Time to Die
+  * Really enjoyed it.
+  * Fitting finale for Craig. 🎬
+  * Leá Seydoux killed it. So good!
+  * Ana de Armas' role was a lot of fun. 💃
 * Blade Runner 2049
   * A solid follow-up that was quite enjoyable.
   * Ana de Armas is such a talent. 🤩
