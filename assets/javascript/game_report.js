@@ -28,10 +28,10 @@ async function loadReportData() {
 }
 
 function parseGameData(data) {
-  let games = data.games.filter(addedOrRemovedThisMonth);
-  let beatenGames = games.filter(beaten);
-  let jettisonedGames = games.filter(jettisoned);
-  let addedGames = games.filter(addedThisMonth);
+  let games = data.games.filter(addedOrRemovedThisMonth).sort(compareNames);
+  let beatenGames = games.filter(beaten).sort(compareNames);
+  let jettisonedGames = games.filter(jettisoned).sort(compareNames);
+  let addedGames = games.filter(addedThisMonth).sort(compareNames);
 
   displayGames(beatenGames, "beaten");
   displayGames(jettisonedGames, "jettisoned");
@@ -331,6 +331,21 @@ function copyReport() {
   window.getSelection().removeAllRanges();
 
   document.getElementById("copy-report-button").innerText = "Copied!";
+}
+
+function compareNames(a, b) {
+  // Use toUpperCase() to ignore character casing
+  let gameNameA = a.name.toUpperCase();
+  let gameNameB = b.name.toUpperCase();
+
+  let comparison = 0;
+  if (gameNameA > gameNameB) {
+    comparison = 1;
+  } else if (gameNameA < gameNameB) {
+    comparison = -1;
+  }
+
+  return comparison;
 }
 
 function logError(error) {
