@@ -9,9 +9,28 @@ update: 2021-05-12
 
 ![Taylor Swift - Chef's Kiss][taylor-swift-chefs-kiss]
 
-**Game of the Year:** [**2020**][goty-2020] • [**2019**][goty-2019] • [**2018**][goty-2018] • [**2017**][goty-2017] • [**2016**][goty-2016] • [**Of All Time**][all-time]
+**Game of the Year:** [**2021**][goty-2021] • [**2020**][goty-2020] • [**2019**][goty-2019] • [**2018**][goty-2018] • [**2017**][goty-2017] • [**2016**][goty-2016] • [**Of All Time**][all-time]
 
 ---
+
+<a id='goty-2021'></a>
+
+## :scroll: Game of the Year - 2021 [:top:][page-top]
+
+### :trophy: Haven (XSX) :trophy: **Game of the Year** :trophy:
+
+![Haven - Kay and Yu][haven]
+
+Haven. Wow. Where to begin. Let me start of by saying that I had no idea a game [like this][haven - embrace] existed. It had me [from the jump (the _New Game_ screen)][haven - new game]. A game about an
+existing romance that I get to tag along for, and watch grow? I was all in!
+
+From the inside of Kay & Yu's home, the Nest, through the trials and tribulations of exploring a
+foreign planet and doubling down on love, Haven brought me a lot of smiles. Watching their relationship
+grow closer and closer through [light-hearted interactions][haven - butt] and [while camping out][haven - criminal lovers],
+to [more intimate][haven - in bed] scenes. Also, sometimes, [it's just about needing snuggles][haven - snuggles].
+
+I just loved it so much. So, so much. :revolving_hearts:
+
 
 <a id='goty-2020'></a>
 
@@ -439,4 +458,12 @@ My bullet points, until I get to writing up something more proper:
 [hzd-aloy-scouting]: /assets/images/favorites/hzd-aloy-scouting.png
 [fe3h-all-3]: /assets/images/favorites/fe3h-all-3.jpg
 [cyberpunk-2077]: /assets/images/favorites/cyberpunk-2077-female-v.jpg
+[haven]: /assets/images/favorites/haven.png
+[haven - new game]: https://i.imgur.com/ykrAUxm.jpg
+[haven - embrace]: https://i.imgur.com/zorJ5K6.jpg
+[haven - butt]: https://i.imgur.com/vHNTEdu.png
+[haven - criminal lovers]: https://i.imgur.com/1Okd5vV.png
+[haven - selfie]: https://i.imgur.com/MauLWyb.png
+[haven - snuggles]: https://i.imgur.com/GOy5xA8.png
+[haven - in bed]: https://i.imgur.com/UpFu68L.png
 [page-top]: #page-top
