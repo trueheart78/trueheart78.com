@@ -4,7 +4,7 @@ title: 📆 What I'm Up to Now
 description: What I've recently been up to.
 keywords: now, nownownow, studying, playing, reading, comics, books, side projects, games, ruby, rails, golang, tv shows, movies
 permalink: /now/
-update: 2022-01-17
+update: 2022-01-24
 ---
 
 ![Agent Smith - Crazy][agent smith - crazy laughing]
@@ -22,7 +22,8 @@ I'm currently living in Ohio, working remote for [CoverMyMeds][cmm] as a softwar
 
 ### 🏁 Recently Beaten
 
-* _TBD_.
+* _To Be Or Not To Be_ on Nintendo Switch.
+* _Pupperazzi_ on Xbox Series X.
 
 ## 📖 Books and Comics
 
