@@ -31,6 +31,22 @@ to [more intimate][haven - in bed] scenes. Also, sometimes, [it's just about nee
 
 I just loved it so much. So, so much. :revolving_hearts:
 
+#### Awards
+
+* The Artful Escape (XSX)
+  * :trophy: **Best Visuals** :trophy:
+  * :trophy: **Best Music** :trophy:
+  * :trophy: **Best Ending** :trophy:
+  * :trophy: **Best Button: Shred** :trophy:
+* Chicory: A Colorful Tale (PS4)
+  * :trophy: **Best Friendship: Chicory and Pizza** :trophy:
+  * :trophy: **Most Accessible Boss Fight Options** :trophy:
+* Sayonara Wild Hearts (NS)
+  * :trophy: **Best End Level :kiss:** :trophy:
+* Far Cry 3 Blood Dragon (360)
+  * :trophy: **Best 80's Game** :trophy:
+
+---
 
 <a id='goty-2020'></a>
 
@@ -451,6 +467,7 @@ My bullet points, until I get to writing up something more proper:
 [goty-2018]: #goty-2018
 [goty-2019]: #goty-2019
 [goty-2020]: #goty-2020
+[goty-2021]: #goty-2021
 [random-thoughts]: #random-thoughts
 [taylor-swift-chefs-kiss]: /assets/images/favorites/taylor-swift-chefs-kiss.gif
 [ac-odyssey-kassandra]: /assets/images/favorites/ac-odyssey-kassandra.png
