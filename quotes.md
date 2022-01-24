@@ -4,7 +4,7 @@ title: 💬 Quotes
 description: Some of my favorite quotes.
 keywords: aj mendez brooks, kent beck, taylor swift, quotes, sandi metz, katrina owen
 permalink: /quotes/
-update: 2021-09-30
+update: 2021-01-24
 ---
 
 ## General
@@ -66,6 +66,12 @@ update: 2021-09-30
 ### [Kent Beck][kent beck]
 
 > You're creating a vocabulary, not writing a program. Be a poet for a moment. - On naming classes
+
+## Life
+
+### Mark Twain
+
+> The secret of getting ahead, is getting started. 
 
 [aj mendez]: http://www.theajmendez.com/
 [aj oct 2017]: http://mailchi.mp/ajmendezbrooks/represent-team-aj-467805
