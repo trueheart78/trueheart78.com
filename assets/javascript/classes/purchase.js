@@ -1,6 +1,7 @@
 class Purchase {
   name;
   system;
+  category;
   status;
   releaseDate;
   reason;
@@ -12,6 +13,7 @@ class Purchase {
   constructor(purchase) {
     this.name = purchase.name;
     this.system = purchase.system.toUpperCase();
+    this.category = purchase.category.toLowerCase();
     this.status = purchase.status.toLowerCase();
     if (purchase.hasOwnProperty("hours")) {
       this.hours = purchase.hours;
@@ -46,14 +48,5 @@ class Purchase {
   }
   get isWaiting() {
     return (this.status == "waiting");
-  }
-  get complete() {
-    return this.completed;
-  }
-  get completed() {
-    return (["downloded", "purchased", "skipped"].includes(this.status));
-  }
-  get incomplete() {
-    return !(this.completed);
   }
 }
