@@ -3,7 +3,8 @@ Array.prototype.random = function () {
 }
 
 let allGames = [];
-let unplayedGames = [];
+let allPurchases = [];
+let allLessons = [];
 
 async function loadData() {
   let allData = await Promise.all([fetchGameData(), fetchPurchaseData(), fetchLessonData()]);
@@ -14,30 +15,40 @@ async function loadData() {
       for(let game of data.games) {
         allGames.push(new Game(game));
       }
+      dates = dates.concat(allGames.map(findGameDates)).flat();
+    } else if (data.type == "purchase") {
+      for(let purchase of data.purchases) {
+        allPurchases.push(new Purchase(purchase));
+      }
+    } else if (data.type == "lesson") {
+      for(let lesson of data.lessons) {
+        allLessons.push(new Lesson(lesson));
+      }
+      dates = dates.concat(allLessons.map(lesson => lesson.added)).flat();
+    }
+    dates.push(data.last_modified);
+  }
+
+  for(let data of allData) {
+    if (data.type == "game") {
       parseGames(data);
-      dates = dates.concat(data.games.map(findDates)).flat();
     } else if (data.type == "purchase") {
       parsePurchases(data);
     } else if (data.type == "lesson") {
       parseLessons(data);
-      dates.concat(data.lessons.map(findDates)).flat();
     }
-    dates.push(data.last_modified);
   }
   updateLastModified(dates);
   restoreView();
 }
 
-function findDates(item) {
-  let itemDates = [];
-  if (item.hasOwnProperty("added")) {
-    itemDates.push(item.added);
-  }
-  if (item.hasOwnProperty("removed")) {
-    itemDates.push(item.removed);
+function findGameDates(game) {
+  let gameDates = [game.added];
+  if (game.wasRemoved) {
+    gameDates.push(game.removed);
   }
 
-  return itemDates;
+  return gameDates;
 }
 
 function restoreView() {
@@ -63,7 +74,7 @@ function selectedSectionId() {
 
 function updateLastModified(dates) {
   if (dates.length > 0) {
-    let mostRecentDate = dates.sort().pop();
+    let mostRecentDate = dates.sort().reverse().shift();
     
     document.getElementById("last-modified").innerHTML = longDate(mostRecentDate);
   }
@@ -99,9 +110,6 @@ function parseGames(data) {
         items = items.filter(removedThisYear);
       }
       items = sortGames(items, currentStatus);
-      if (currentStatus == "unplayed") {
-        unplayedGames = items;
-      }
       for(let item of items) {
         htmlItems.push(gameToHTML(item));
       }
@@ -397,25 +405,15 @@ function isThisYear(date) {
   return matches;
 }
 
-// defaults to true
-function surpriseMe(game) {
-  let surprise_me = true;
-  if (game.hasOwnProperty("surprise_me")) {
-    surprise_me = game.surprise_me;
-  }
-  return surprise_me;
-}
-
 /**
  * length: any, long, medium, short
  * system: any, xbox, vr, ns
  */
 function suggestRandomGame(length = "any", system = "any") {
-  let possibleGames = unplayedGames;
+  let possibleGames = allGames.filter(game => game.unplayed && game.surpriseMe);
   if (system != "vr") {
-    possibleGames = possibleGames.filter(game => game.system.toUpperCase() != "VR");
+    possibleGames = possibleGames.filter(game => !game.vr);
   }
-  possibleGames = possibleGames.filter(game => surpriseMe(game));
   possibleGames = restrictLength(possibleGames, length);
 
   let game = possibleGames.random();
