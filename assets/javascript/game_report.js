@@ -50,8 +50,8 @@ function displayGames(games, type) {
 
   if (games.length > 0) {
     for (let game of games) {
-      htmlItems.push(gameToHTML(game));
-      bbcodeItems.push(gameToBBCode(game));
+      htmlItems.push(gameToHTML(game, type));
+      bbcodeItems.push(gameToBBCode(game, type));
     }
   } else {
     htmlItems.push("<li>None.</li>");
@@ -89,7 +89,7 @@ function displayLessons(lessons) {
   setHTML(`bbcode-lessons-learned`, `[ol]<br>${bbcodeItems.join("")}[/ol]`);
 }
 
-function gameToHTML(game) {
+function gameToHTML(game, type) {
   let output = [];
 
   if (game.hasUrl) {
@@ -101,6 +101,10 @@ function gameToHTML(game) {
   if (game.hasHours) {
     output.push(` [${game.hours}hr]`);
   }
+  if (type == "added" && game.complete) {
+    output.unshift("<del>");
+    output.push("</del>");
+  }
   if (game.gamepass) {
     output.push(" 💚");
   } else if (game.cartridge) {
@@ -108,7 +112,7 @@ function gameToHTML(game) {
   } else if (game.disc) {
     output.push(" 💿");
   }
-  if (game.hasNotes) {
+  if (showNotes(game, type)) {
     output.push("\n<ul>");
     for(let note of game.notes) {
       output.push(`\n<li>${note}</li>`);
@@ -119,7 +123,7 @@ function gameToHTML(game) {
   return `<li>${output.join("")}</li>`;
 }
 
-function gameToBBCode(game) {
+function gameToBBCode(game, type) {
   let output = [];
 
   if (game.hasUrl) {
@@ -131,6 +135,10 @@ function gameToBBCode(game) {
   if (game.hasHours) {
     output.push(` [${game.hours}hr]`);
   }
+  if (type == "added" && game.complete) {
+    output.unshift("[s]");
+    output.push("[/s]");
+  }
   if (game.gamepass) {
     output.push("&nbsp;<span class='game-pass-heart'></span>");
   } else if (game.cartridge) {
@@ -138,7 +146,7 @@ function gameToBBCode(game) {
   } else if (game.disc) {
     output.push("&nbsp;<span class='disc'></span>");
   }
-  if (game.hasNotes) {
+  if (showNotes(game, type)) {
     output.push("<br>&nbsp;&nbsp;[ul]");
     for(let note of game.notes) {
       output.push(`<br>&nbsp;&nbsp;&nbsp;&nbsp;[*] ${note}`);
@@ -147,6 +155,17 @@ function gameToBBCode(game) {
   }
 
   return `[*] ${output.join("")}<br>`;
+}
+
+// show notes if
+// * the game is incomplete && the type is "added"
+// * OR
+// * the type is not "added"
+function showNotes(game, type) {
+  if (game.hasNotes && ((type != "added") || (type == "added" && game.incomplete))) {
+    return true;
+  }
+  return false;
 }
 
 function lessonToHTML(lesson) {
