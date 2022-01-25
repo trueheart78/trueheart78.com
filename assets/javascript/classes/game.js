@@ -4,6 +4,7 @@ class Game {
   status;
   added;
   removed;
+  url;
   hours = 0;
   disc = false;
   cartridge = false;
@@ -38,9 +39,18 @@ class Game {
     if (game.hasOwnProperty("surprise_me")) {
       this.surpriseMe = game.surprise_me;
     }
+    if (game.hasOwnProperty("url")) {
+      this.url = game.url;
+    }
+  }
+  get hasHours() {
+    return (this.hours > 0);
   }
   get hasNotes() {
     return (this.notes.length > 0);
+  }
+  get hasUrl() {
+    return (this.url != undefined && this.url.length > 0);
   }
   get wasRemoved() {
     return (this.removed != undefined);
