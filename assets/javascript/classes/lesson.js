@@ -6,11 +6,12 @@ class Lesson {
 
   constructor(lesson) {
     this.learned = lesson.learned;
+    this.added = lesson.added;
     if (lesson.hasOwnProperty("notes")) {
       this.notes = lesson.notes;
     }
     if (lesson.hasOwnProperty("examples")) {
-      this.notes = lesson.notes;
+      this.examples = lesson.examples;
     }
   }
   get hasNotes() {
