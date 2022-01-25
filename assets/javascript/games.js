@@ -9,35 +9,30 @@ let allLessons = [];
 async function loadData() {
   let allData = await Promise.all([fetchGameData(), fetchPurchaseData(), fetchLessonData()]);
   
+  let gameStatuses = [];
+  let purchaseCategories = [];
+  let purchaseCompletedStatuses = [];
   let dates = [];
   for(let data of allData) {
     if (data.type == "game") {
-      for(let game of data.games) {
-        allGames.push(new Game(game));
-      }
+      allGames = data.games.map(game => new Game(game));
+      gameStatuses = data.statuses;
       dates = dates.concat(allGames.map(findGameDates)).flat();
     } else if (data.type == "purchase") {
-      for(let purchase of data.purchases) {
-        allPurchases.push(new Purchase(purchase));
-      }
+      allPurchases = data.purchases.map(purchase => new Purchase(purchase));
+      purchaseCategories = data.categories;
+      purchaseCompletedStatuses = data.completed_statuses;
     } else if (data.type == "lesson") {
-      for(let lesson of data.lessons) {
-        allLessons.push(new Lesson(lesson));
-      }
+      allLessons = data.lessons.map(lesson => new Lesson(lesson));
       dates = dates.concat(allLessons.map(lesson => lesson.added)).flat();
     }
     dates.push(data.last_modified);
   }
 
-  for(let data of allData) {
-    if (data.type == "game") {
-      parseGames(data);
-    } else if (data.type == "purchase") {
-      parsePurchases(data);
-    } else if (data.type == "lesson") {
-      parseLessons(data);
-    }
-  }
+  parseGames(gameStatuses);
+  parsePurchases(purchaseCategories, purchaseCompletedStatuses);
+  parseLessons();
+
   updateLastModified(dates);
   restoreView();
 }
@@ -92,26 +87,24 @@ function shortDate(date) {
   return new Date(date).toLocaleString("en-US", options);
 }
 
-function parseGames(data) {
-  let games = data.games;
-  let statuses = data.statuses;
+function parseGames(statuses) {
   for (let currentStatus of statuses) {
     let divId = `games-${currentStatus.replaceAll(" ", "-")}`;
     let div = document.getElementById(divId);
     if (div != null) {
-      let items = [];
+      let games = [];
       let htmlItems = [];
-      for (let game of games) {
+      for (let game of allGames) {
         if (game.status == currentStatus) {
-          items.push(game);
+          games.push(game);
         }
       }
       if (["beaten", "jettisoned"].includes(currentStatus)) {
-        items = items.filter(removedThisYear);
+        games = games.filter(removedThisYear);
       }
-      items = sortGames(items, currentStatus);
-      for(let item of items) {
-        htmlItems.push(gameToHTML(item));
+      games = sortGames(games, currentStatus);
+      for(let game of games) {
+        htmlItems.push(gameToHTML(game));
       }
       if (htmlItems.length == 0) {
         htmlItems.push("<li><em>TBD</em></li>");
@@ -123,33 +116,30 @@ function parseGames(data) {
   }
 }
 
-function parsePurchases(data) {
-  let purchases = data.purchases;
-  let categories = data.categories;
-  let completed_statuses = data.completed_statuses;
+function parsePurchases(categories, completedStatuses) {
   for (let currentCategory of categories) {
     let divId = `purchases-${currentCategory}`;
     let div = document.getElementById(divId);
     if (div != null) {
-      let items = [];
-      let itemsWithRelease = [];
+      let purchases = [];
+      let purchasesWithRelease = [];
       let htmlItems = [];
-      for (let purchase of purchases) {
+      for (let purchase of allPurchases) {
         if (purchase.category == currentCategory) {
-          if (purchase.hasOwnProperty("release_date") && purchase.release_date != "") {
-            itemsWithRelease.push(purchase);
+          if (purchase.hasReleaseDate) {
+            purchasesWithRelease.push(purchase);
           } else {
-            items.push(purchase);
+            purchases.push(purchase);
           }
         }
       }
-      itemsWithRelease = itemsWithRelease.sort(compareWithRelease);
-      items = items.sort(compare);
-      items = itemsWithRelease.concat(items);
+      purchasesWithRelease = purchasesWithRelease.sort(compareWithRelease);
+      purchases = purchases.sort(compare);
+      purchases = purchasesWithRelease.concat(purchases);
 
-      for(let item of items) {
-        let completed = completed_statuses.includes(item.status);
-        htmlItems.push(purchaseToHTML(item, completed));
+      for(let purchase of purchases) {
+        let completed = completedStatuses.includes(purchase.status);
+        htmlItems.push(purchaseToHTML(purchase, completed));
       }
       if (htmlItems.length == 0) {
         htmlItems.push("<li><em>TBD</em></li>");
@@ -162,12 +152,11 @@ function parsePurchases(data) {
 }
 
 function parseLessons(data) {
-  let lessons = data.lessons;
   let div = document.getElementById("lessons-learned");
   let items = [];
   
-  lessons = lessons.sort(compareByAdded);
-  for (let lesson of lessons) {
+  allLessons = allLessons.sort(compareByAdded);
+  for (let lesson of allLessons) {
     items.push(lessonToHTML(lesson));
   }
   div.innerHTML = `<ol>${items.join("\n")}</ol>`;
@@ -176,7 +165,7 @@ function parseLessons(data) {
 function removedThisYear(game) {
   let valid = true;
   
-  if (game.hasOwnProperty("removed") && !isThisYear(game.removed)) {
+  if (game.wasRemoved && !isThisYear(game.removed)) {
     valid = false;
   }
 
@@ -292,11 +281,11 @@ function lessonToHTML(lesson) {
   
   output.push(`<strong>${lesson.learned}</strong> `);
   
-  if (hasNotes(lesson)) {
+  if (lesson.hasNotes) {
     output.push(lesson.notes.join(" "));
   }
   
-  if (hasExamples(lesson)) {
+  if (lesson.hasExamples) {
     output.push("\n<ul><li>See <i>");
     output.push(lesson.examples.join("</i> and <i>"));
     output.push("</i>.</li>\n</ul>");
@@ -307,26 +296,26 @@ function lessonToHTML(lesson) {
 
 function gameToHTML(game) {
   let output = [];
-  if (game.hasOwnProperty("url") && game.url.length > 0) {
+  if (game.hasUrl) {
     output.push(`<a href="${game.url}" target="_blank">${game.name}</a>`);
   } else {
     output.push(game.name);
   }
-  output.push(` (${game.system.toUpperCase()})`);
-  if (hasHours(game)) {
+  output.push(` (${game.system})`);
+  if (game.hasHours) {
     output.push(` [${game.hours}hr]`);
   }
-  if (isGamePass(game)) {
+  if (game.gamepass) {
     output.push(" 💚");
-  } else if (isCartridge(game)) {
+  } else if (game.cartridge) {
     output.push(" 💾");
-  } else if (isDisc(game)) {
+  } else if (game.disc) {
     output.push(" 💿");
   }
   if (isRecentAddition(game.added)) {
     output.push(" 🆕");
   }
-  if (hasNotes(game)) {
+  if (game.hasNotes) {
     output.push("\n<ul>");
     for(let note of game.notes) {
       output.push(`\n<li>${note}</li>`);
@@ -339,27 +328,27 @@ function gameToHTML(game) {
 
 function purchaseToHTML(purchase, completed) {
   let output = [];
-  if (purchase.hasOwnProperty("url") && purchase.url.length > 0) {
+  if (purchase.hasUrl) {
     output.push(`<a href="${purchase.url}" target="_blank">${purchase.name}</a>`);
   } else {
     output.push(purchase.name);
   }
-  output.push(` (${purchase.system.toUpperCase()})`);
-  if (hasHours(purchase)) {
+  output.push(` (${purchase.system})`);
+  if (purchase.hasHours) {
     output.push(` [${purchase.hours}hr]`);
   }
-  if (purchase.hasOwnProperty("release_date") && purchase.release_date) {
-    output.push(` [${shortDate(purchase.release_date)}]`);
+  if (purchase.hasReleaseDate) {
+    output.push(` [${shortDate(purchase.releaseDate)}]`);
   } else if (purchase.category == "planned") {
     output.push(" [TBD]");
   }
   let status = "";
   if (!completed) {
-    if (purchase.hasOwnProperty("reason") && purchase.reason) {
+    if (purchase.hasReason) {
       status = `${purchase.status} for ${purchase.reason}`
-    } else if (purchase.status == "waiting" && isGamePass(purchase)) {
+    } else if (purchase.isWaiting && purchase.gamepass) {
       status = ""; 
-    } else if (purchase.status == "waiting") {
+    } else if (purchase.isWaiting) {
       status = "wait and see"; 
     } else {
       status = `${purchase.status}`;
@@ -369,13 +358,13 @@ function purchaseToHTML(purchase, completed) {
     output.push("</del>");
     status = `${purchase.status}`;
   }
-  if (isGamePass(purchase)) {
+  if (purchase.gamepass) {
     output.push(" 💚");
   }
   if (status != "") {
     output.push(` [${status}]`);
   }
-  if (hasNotes(purchase)) {
+  if (purchase.hasNotes) {
     output.push("\n<ul>");
     for(let note of purchase.notes) {
       output.push(`\n<li>${note}</li>`);
