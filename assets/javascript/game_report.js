@@ -9,6 +9,9 @@ const cartridgeURL = "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com
 const discURL = "https://emojipedia-us.s3.amazonaws.com/source/skype/289/optical-disk_1f4bf.png";
 const gamePassHeartURL = "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/facebook/65/green-heart_1f49a.png";
 
+let allGames = [];
+let allLessons = [];
+
 async function loadReportData() {
   let allData = await Promise.all([fetchGameData(), fetchLessonData()]);
 
@@ -28,7 +31,10 @@ async function loadReportData() {
 }
 
 function parseGameData(data) {
-  let games = data.games.filter(addedOrRemovedThisMonth).sort(compareNames);
+  for(let game of data.games) {
+    allGames.push(new Game(game));
+  }
+  let games = allGames.filter(addedOrRemovedThisMonth).sort(compareNames);
   let beatenGames = games.filter(beaten).sort(compareNames);
   let jettisonedGames = games.filter(jettisoned).sort(compareNames);
   let addedGames = games.filter(addedThisMonth).sort(compareNames);
@@ -57,7 +63,10 @@ function displayGames(games, type) {
 }
 
 function parseLessonData(data) {
-  let lessons = data.lessons.filter(addedThisMonth);
+  for(let lesson of data.lessons) {
+    allLessons.push(new Lesson(lesson));
+  }
+  let lessons = allLessons.filter(addedThisMonth);
   
   displayLessons(lessons);
 }
@@ -83,23 +92,23 @@ function displayLessons(lessons) {
 function gameToHTML(game) {
   let output = [];
 
-  if (game.hasOwnProperty("url") && game.url.length > 0) {
+  if (game.hasUrl) {
     output.push(`<a href="${game.url}" target="_blank">${game.name}</a>`);
   } else {
     output.push(game.name);
   }
   output.push(` (${game.system.toUpperCase()})`);
-  if (hasHours(game)) {
+  if (game.hasHours) {
     output.push(` [${game.hours}hr]`);
   }
-  if (isGamePass(game)) {
+  if (game.gamepass) {
     output.push(" 💚");
-  } else if (isCartridge(game)) {
+  } else if (game.cartridge) {
     output.push(" 💾");
-  } else if (isDisc(game)) {
+  } else if (game.disc) {
     output.push(" 💿");
   }
-  if (hasNotes(game)) {
+  if (game.hasNotes) {
     output.push("\n<ul>");
     for(let note of game.notes) {
       output.push(`\n<li>${note}</li>`);
@@ -113,23 +122,23 @@ function gameToHTML(game) {
 function gameToBBCode(game) {
   let output = [];
 
-  if (game.hasOwnProperty("url") && game.url.length > 0) {
+  if (game.hasUrl) {
     output.push(`[url=${game.url}]${game.name}[/url]`);
   } else {
     output.push(game.name);
   }
   output.push(` (${game.system.toUpperCase()})`);
-  if (hasHours(game)) {
+  if (game.hasHours) {
     output.push(` [${game.hours}hr]`);
   }
-  if (isGamePass(game)) {
+  if (game.gamepass) {
     output.push("&nbsp;<span class='game-pass-heart'></span>");
-  } else if (isCartridge(game)) {
+  } else if (game.cartridge) {
     output.push("&nbsp;<span class='cartridge'></span>");
-  } else if (isDisc(game)) {
+  } else if (game.disc) {
     output.push("&nbsp;<span class='disc'></span>");
   }
-  if (hasNotes(game)) {
+  if (game.hasNotes) {
     output.push("<br>&nbsp;&nbsp;[ul]");
     for(let note of game.notes) {
       output.push(`<br>&nbsp;&nbsp;&nbsp;&nbsp;[*] ${note}`);
@@ -145,11 +154,11 @@ function lessonToHTML(lesson) {
   
   output.push(`<strong>${lesson.learned}</strong> `);
   
-  if (hasNotes(lesson)) {
+  if (lesson.hasNotes) {
     output.push(lesson.notes.join(" "));
   }
   
-  if (hasExamples(lesson)) {
+  if (lesson.hasExamples) {
     output.push("\n<ul><li>See <i>");
     output.push(lesson.examples.join("</i> and <i>"));
     output.push("</i>.</li>\n</ul>");
@@ -163,11 +172,11 @@ function lessonToBBCode(lesson) {
   
   output.push(`[b]${lesson.learned}[/b] `);
   
-  if (hasNotes(lesson)) {
+  if (lesson.hasNotes) {
     output.push(lesson.notes.join(" "));
   }
   
-  if (hasExamples(lesson)) {
+  if (lesson.hasExamples) {
     output.push("<br>&nbsp;&nbsp;[ul]<br>");
     output.push("&nbsp;&nbsp;&nbsp;&nbsp;[*] See [i]");
     output.push(lesson.examples.join("[/i] and [i]"));
@@ -236,11 +245,11 @@ function updateIcons(className, iconURL) {
 }
 
 function beaten(game) {
-  return (game.status == "beaten" && game.hasOwnProperty("removed"));
+  return game.beaten
 }
 
 function jettisoned(game) {
-  return (game.status == "jettisoned" && game.hasOwnProperty("removed"));
+  return game.jettisoned
 }
 
 function addedOrRemovedThisMonth(game) {
@@ -261,7 +270,7 @@ function addedThisMonth(game) {
 function removedThisMonth(game) {
   let removed = false;
   
-  if (game.hasOwnProperty("removed")) {
+  if (game.wasRemoved) {
     let date = new Date(game.removed);
     let year = date.getUTCFullYear();
     let month = date.getUTCMonth();
