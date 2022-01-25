@@ -79,8 +79,14 @@ class Game {
   get vrExperience() {
     return (this.status == "vr experiences");
   }
+  get complete() {
+    return this.completed;
+  }
   get completed() {
     return (this.beaten || this.jettisoned);
+  }
+  get incomplete() {
+    return !(this.completed);
   }
   get xbox() {
     return (["XSX", "XB1", "360", "XB"].includes(this.system));
