@@ -224,8 +224,8 @@ function compareWithHours(a, b) {
 
 // Sort by release date and, if they match, sort by name
 function compareWithRelease(a, b) {
-  let gameReleaseA = new Date(a.release_date).getTime();
-  let gameReleaseB = new Date(b.release_date).getTime();
+  let gameReleaseA = new Date(a.releaseDate).getTime();
+  let gameReleaseB = new Date(b.releaseDate).getTime();
 
   let comparison = 0;
   if (gameReleaseA > gameReleaseB) {
