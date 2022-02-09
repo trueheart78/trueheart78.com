@@ -4,19 +4,22 @@ title: 📆 What I'm Up to Now
 description: What I've recently been up to.
 keywords: now, nownownow, studying, playing, reading, comics, books, side projects, games, ruby, rails, golang, tv shows, movies
 permalink: /now/
-update: 2022-01-24
+update: 2022-02-09
 ---
 
 ![Agent Smith - Crazy][agent smith - crazy laughing]
 
 I'm currently living in Ohio, working remote for [CoverMyMeds][cmm] as a software developer.
 
+<!--
 ## 📚 Software Development Studies
 
 * _TBD_.
+-->
 
 ## 🎮 Playing Until Credits
 
+* _Death's Door_ on Xbox Series X.
 * _Tales of Arise_ on Xbox Series X.
 * _Down the Rabbit Hole_ on Oculus Quest 2.
 
@@ -32,13 +35,17 @@ I'm currently living in Ohio, working remote for [CoverMyMeds][cmm] as a softwar
 * [Saga - Volume 5](https://imagecomics.com/comics/series/saga)
   * Such a wonderful series.
 
+<!--
 ### 📘 Recently Completed
 
 * _TBD_.
+-->
 
+<!--
 ## 📺 Shows and Movies
 
 * _TBD_.
+-->
 
 ### 🎞 Recently Watched
 
@@ -62,13 +69,17 @@ I'm currently living in Ohio, working remote for [CoverMyMeds][cmm] as a softwar
 
 ## 🛠 Side Projects
 
+<!--
 ### 🔨 Current
 
 * _TBD_
+-->
 
+<!--
 ### 🔜 In The Works
 
 * _TBD_
+-->
 
 ### ☑️ Completed
 
