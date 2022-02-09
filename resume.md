@@ -4,7 +4,7 @@ title: 👨‍💻 My Resume
 description: I love writing Ruby & Go, rocking out to Taylor Swift, and using gifs to make others smile. I’ve been writing software professionally since 2004.
 keywords: resume, ruby, golang, software developer, side projects, open source, rails, sinatrarb, aws, lambda, aws lambda, paypal
 permalink: /resume/
-update: 2021-12-15
+update: 2022-02-09
 ---
 
 <a id='intro'></a>
@@ -58,10 +58,10 @@ My long term goals are:
 
 ![Taylor Swift - What's Up?][taylor-whats-up]
 
-* Eight years of Ruby. ![ruby][ruby-logo]
-* Six years of Ruby on Rails. :steam_locomotive:
+* Nine years of Ruby. ![ruby][ruby-logo]
+* Seven years of Ruby on Rails. :steam_locomotive:
 * Two years of Go. :open_book:
-* Eight years of being a huge Taylor Swift fan. :notes:
+* Nine years of being a huge Taylor Swift fan. :notes:
 
 <a id='side-projects'></a>
 ## :wrench: Side Projects [:top:][top]
@@ -153,14 +153,6 @@ And Smoothie Bar?" It even has a simple, but effective, API.
 
 * Site: [pandemic-goofs.herokuapp.com][pandemic-goofs]
 * Source: [GitHub][pandemic-goofs-source]
-
-### :watermelon: Food Tracker
-
-A personalized Ruby application with the Sinatra framework that displays what we have to eat. Uses
-YAML files to store data, so that it can be edited on-the-go (no database interface required).
-
-* Site: [food.pls.lol][food-tracker]
-* Source: [GitHub][food-tracker-source]
 
 <a id='open-source'></a>
 ## :octocat: Open Source Contributions [:top:][top]
@@ -268,11 +260,8 @@ Associate of Computer Science in Software Applications and Programming
 [twilio]: https://www.twilio.com/
 [aws-lambda]: https://aws.amazon.com/lambda/
 [amazon-echo]: https://en.wikipedia.org/wiki/Amazon_Echo
-[alexa-food-tracker-source]: https://github.com/trueheart78/alexa-food-tracker
 [pandemic-goofs]: https://pandemic-goofs.herokuapp.com/
 [pandemic-goofs-source]: https://github.com/trueheart78/global-pandemic-goofs
-[food-tracker]: https://food.pls.lol
-[food-tracker-source]: https://github.com/trueheart78/food-tracker
 [github]: https://github.com/trueheart78
 [kitty]: https://github.com/kovidgoyal/kitty
 [kitty-commit]: https://github.com/kovidgoyal/kitty/commit/9e476127d3c2f2643990b67d9b4642e956abbb54
