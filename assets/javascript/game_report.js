@@ -35,8 +35,8 @@ function parseGameData(data) {
     allGames.push(new Game(game));
   }
   let games = allGames.filter(addedOrRemovedThisMonth).sort(compareNames);
-  let beatenGames = games.filter(beaten).sort(compareNames);
-  let jettisonedGames = games.filter(jettisoned).sort(compareNames);
+  let beatenGames = games.filter(beatenThisMonth).sort(compareNames);
+  let jettisonedGames = games.filter(jettisonedThisMonth).sort(compareNames);
   let addedGames = games.filter(addedThisMonth).sort(compareNames);
 
   displayGames(beatenGames, "beaten");
@@ -81,8 +81,8 @@ function displayLessons(lessons) {
       bbcodeItems.push(lessonToBBCode(lesson));
     }
   } else {
-    htmlItems.push("<li>None.</li>");
-    bbcodeItems.push("[*] None.<br>");
+    htmlItems.push("<li>Nothing.</li>");
+    bbcodeItems.push("[*] Nothing.<br>");
   }
 
   setHTML(`default-lessons-learned`, `<ol>${htmlItems.join("\n")}</ol>`);
@@ -101,7 +101,7 @@ function gameToHTML(game, type) {
   if (game.hasHours) {
     output.push(` [${game.hours}hr]`);
   }
-  if (type == "added" && game.complete) {
+  if (type == "added" && completedThisMonth(game)) {
     output.unshift("<del>");
     output.push("</del>");
   }
@@ -135,7 +135,7 @@ function gameToBBCode(game, type) {
   if (game.hasHours) {
     output.push(` [${game.hours}hr]`);
   }
-  if (type == "added" && game.complete) {
+  if (type == "added" && completedThisMonth(game)) {
     output.unshift("[s]");
     output.push("[/s]");
   }
@@ -263,12 +263,22 @@ function updateIcons(className, iconURL) {
   }
 }
 
-function beaten(game) {
-  return game.beaten
+function beatenThisMonth(game) {
+  let removed = removedThisMonth(game);
+  
+  return (game.beaten && removed);
 }
 
-function jettisoned(game) {
-  return game.jettisoned
+function jettisonedThisMonth(game) {
+  let removed = removedThisMonth(game);
+
+  return (game.jettisoned && removed);
+}
+
+function completedThisMonth(game) {
+  let removed = removedThisMonth(game);
+  
+  return (game.complete && removed);
 }
 
 function addedOrRemovedThisMonth(game) {
