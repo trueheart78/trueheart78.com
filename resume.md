@@ -4,7 +4,7 @@ title: 👨‍💻 My Resume
 description: I love writing Ruby & Go, rocking out to Taylor Swift, and using gifs to make others smile. I’ve been writing software professionally since 2004.
 keywords: resume, ruby, golang, software developer, side projects, open source, rails, sinatrarb, aws, lambda, aws lambda, paypal
 permalink: /resume/
-update: 2022-02-09
+update: 2022-03-01
 ---
 
 <a id='intro'></a>
@@ -190,7 +190,7 @@ Discovered an IE8-related bug in Turbolinks and submitted a PR to the project to
 
 ![Taylor Swift - Reputation Mountain][taylor-mountain]
 
-### :pill: CoverMyMeds (2015 to present)
+### :pill: CoverMyMeds (2015 to 2022)
 
 #### Software Developer
 
