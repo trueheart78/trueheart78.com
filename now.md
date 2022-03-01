@@ -9,7 +9,7 @@ update: 2022-03-01
 
 ![Agent Smith - Crazy][agent smith - crazy laughing]
 
-I'm currently living in Ohio, working remote as a software developer.
+<!-- I'm currently living in Ohio, working remote as a software developer. -->
 
 <!--
 ## 📚 Software Development Studies
