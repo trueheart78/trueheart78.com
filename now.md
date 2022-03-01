@@ -4,12 +4,12 @@ title: 📆 What I'm Up to Now
 description: What I've recently been up to.
 keywords: now, nownownow, studying, playing, reading, comics, books, side projects, games, ruby, rails, golang, tv shows, movies
 permalink: /now/
-update: 2022-02-09
+update: 2022-03-01
 ---
 
 ![Agent Smith - Crazy][agent smith - crazy laughing]
 
-I'm currently living in Ohio, working remote for [CoverMyMeds][cmm] as a software developer.
+I'm currently living in Ohio, working remote as a software developer.
 
 <!--
 ## 📚 Software Development Studies
@@ -19,12 +19,12 @@ I'm currently living in Ohio, working remote for [CoverMyMeds][cmm] as a softwar
 
 ## 🎮 Playing Until Credits
 
-* _Death's Door_ on Xbox Series X.
 * _Tales of Arise_ on Xbox Series X.
 * _Down the Rabbit Hole_ on Oculus Quest 2.
 
 ### 🏁 Recently Beaten
 
+* _Death's Door_ on Xbox Series X.
 * _To Be Or Not To Be_ on Nintendo Switch.
 * _Pupperazzi_ on Xbox Series X.
 
@@ -94,7 +94,6 @@ I'm currently living in Ohio, working remote for [CoverMyMeds][cmm] as a softwar
 
 Head over to the [About Page][now - about] of [NowNowNow.com][now - home] for more details and how to create your own.
 
-[cmm]: https://covermymeds.com
 [ruby]: https://www.ruby-lang.org/en/
 [ruby 2.7]: https://rubyreferences.github.io/rubychanges/2.7.html
 [ruby 3.0]: https://rubyreferences.github.io/rubychanges/3.0.html
