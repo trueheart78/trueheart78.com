@@ -43,6 +43,9 @@ class Purchase {
   get hasUrl() {
     return (this.url != undefined && this.url.length > 0);
   }
+  get hasReason() {
+    return (this.reason != undefined);
+  }
   get hasReleaseDate() {
     return (this.releaseDate != undefined);
   }
