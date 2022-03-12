@@ -400,15 +400,16 @@ function isThisYear(date) {
  */
 function suggestRandomGame(length = "any", system = "any") {
   let possibleGames = allGames.filter(game => game.unplayed && game.surpriseMe);
-  if (system != "vr") {
-    possibleGames = possibleGames.filter(game => !game.vr);
-  }
   possibleGames = restrictLength(possibleGames, length);
 
-  let game = possibleGames.random();
+  if (possibleGames.length > 0) {
+    let game = possibleGames.random();
   
-  let hourString = (game.hours != 1) ? "hours" : "hour";
-  alert(`How about ${game.name} on ${game.system}? It's ${game.hours} ${hourString} long.`);
+    let hourString = (game.hours != 1) ? "hours" : "hour";
+    alert(`How about ${game.name} on ${game.system}? It's ${game.hours} ${hourString} long.`);
+  } else {
+    alert(`There are no ${length} games to recommend. 🤷‍♀️`);
+  }
 }
 
 function restrictLength(games, length = "any") {
