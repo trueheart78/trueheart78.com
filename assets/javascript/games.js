@@ -173,7 +173,7 @@ function removedThisYear(game) {
 }
 
 function sortGames(games, status) {
-  if (["unplayed", "vr experiences"].includes(status)) {
+  if (["unplayed", "vr games", "vr experiences"].includes(status)) {
     games = games.sort(compareWithHours);
   } else if (["beaten", "jettisoned"].includes(status)) {
     games = games.sort(compareByRemoved);
