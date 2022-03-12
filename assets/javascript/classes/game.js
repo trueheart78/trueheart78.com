@@ -76,6 +76,9 @@ class Game {
   get awaitingContent() {
     return (this.status == "awaiting content");
   }
+  get vrGame() {
+    return (this.status == "vr games");
+  }
   get vrExperience() {
     return (this.status == "vr experiences");
   }
