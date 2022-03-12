@@ -37,6 +37,12 @@ update: placeholder
 
 <div id="games-fun"></div>
 
+<a id="vr-games"></a>
+
+## 🕶 VR Games [🔝][top]
+
+<div id="games-vr-games"></div>
+
 <a id="vr-experiences"></a>
 
 ## 🎬 VR Experiences [🔝][top]
