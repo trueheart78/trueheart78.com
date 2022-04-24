@@ -4,7 +4,7 @@ title: 👨‍💻 My Resume
 description: I love writing Ruby & Go, rocking out to Taylor Swift, and using gifs to make others smile. I’ve been writing software professionally since 2004.
 keywords: resume, ruby, golang, software developer, side projects, open source, rails, sinatrarb, aws, lambda, aws lambda, paypal
 permalink: /resume/
-update: 2022-03-01
+update: 2022-04-25
 ---
 
 <a id='intro'></a>
@@ -38,20 +38,15 @@ I enjoy light-hearted, collaborative teams, that I can learn from.
 * I will always make time for my colleagues, regardless of their skill level.
 * I always consider future maintainers.
 * I desire to contribute to open source.
-* I proudly wear the title of "Gif Captain", bestowed upon me by my manager.
+* I want my work to have an impact on people.
 
 <a id='aspirations'></a>
 ## :raising_hand: Aspirations [:top:][top]
 
 ![Taylor Swift - What I Want][taylor-what-i-want]
 
-I want to be a master software craftsman.
+For the longest time, I’ve wanted to be a master software craftsman. While that’s still a strong desire of mine, it doesn’t mean much if I can’t help people, as well. 
 
-My long term goals are:
-
-1. Master [**Ruby**][ruby-lang].
-1. Master [**Rails**][ruby-on-rails].
-1. Master [**Go**][go-lang].
 
 <a id='experience'></a>
 ## :scroll: Experience [:top:][top]
@@ -61,6 +56,8 @@ My long term goals are:
 * Nine years of Ruby. ![ruby][ruby-logo]
 * Seven years of Ruby on Rails. :steam_locomotive:
 * Two years of Go. :open_book:
+* Five years managing the entire backend of a web service.
+* Seven years working in Healthcare and with HIPAA.
 * Nine years of being a huge Taylor Swift fan. :notes:
 
 <a id='side-projects'></a>
@@ -198,7 +195,7 @@ Discovered an IE8-related bug in Turbolinks and submitted a PR to the project to
 * Worked with developers and operations to standardize interactions in our migration to
   recently dockerized applications.
 * Helped introduce a JSON Web Token (JWT) authorization process for our users.
-* Built and maintained microservice-based, RESTful APIs.
+* Built and maintained microservice-based, RESTful APIs. 
 
 ### :envelope: Vya (2007 to 2015)
 
