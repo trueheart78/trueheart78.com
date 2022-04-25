@@ -52,11 +52,11 @@ For the longest time, I’ve wanted to be a master software craftsman. While tha
 
 ![Taylor Swift - What's Up?][taylor-whats-up]
 
-* Nine years of Ruby. ![ruby][ruby-logo]
+* Nine years of Ruby. ![Ruby][ruby-logo]
 * Seven years of Ruby on Rails. :steam_locomotive:
-* Two years of Go. :open_book:
+* Two years of Go. ![Go][go-logo]
 * Five years managing the entire backend of a web service. :hammer_and_wrench:
-* Seven years working in Healthcare and with HIPAA. :stethoscope:
+* Seven years working in Healthcare and with HIPAA. 🩺
 * Nine years of being a huge Taylor Swift fan. :notes:
 
 <a id='side-projects'></a>
@@ -271,6 +271,7 @@ Associate of Computer Science in Software Applications and Programming
 [dexbonus]: https://twitch.tv/dexbonus
 [ruby-lang]: https://www.ruby-lang.org/en/
 [go-lang]: https://golang.org/
+[go-logo]: /assets/images/language-icons/go-53x20.png
 [ruby-on-rails]: https://rubyonrails.org/
 [ruby-logo]: /assets/images/language-icons/ruby-20x20.png
 [taylor-hi]: /assets/images/resume/taylor-hi.gif
