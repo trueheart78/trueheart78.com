@@ -45,7 +45,7 @@ I enjoy light-hearted, collaborative teams, that I can learn from.
 
 ![Taylor Swift - What I Want][taylor-what-i-want]
 
-For the longest time, I’ve wanted to be a master software craftsman. While that’s still a strong desire of mine, it doesn’t mean much if I can’t help people, as well. 
+For the longest time, I’ve wanted to be a master software craftsman. While that’s still a strong desire of mine, I also _really_ want to help people. 
 
 <a id='experience'></a>
 ## :scroll: Experience [:top:][top]
