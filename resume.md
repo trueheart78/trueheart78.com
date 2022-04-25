@@ -47,7 +47,6 @@ I enjoy light-hearted, collaborative teams, that I can learn from.
 
 For the longest time, I’ve wanted to be a master software craftsman. While that’s still a strong desire of mine, it doesn’t mean much if I can’t help people, as well. 
 
-
 <a id='experience'></a>
 ## :scroll: Experience [:top:][top]
 
@@ -56,8 +55,8 @@ For the longest time, I’ve wanted to be a master software craftsman. While tha
 * Nine years of Ruby. ![ruby][ruby-logo]
 * Seven years of Ruby on Rails. :steam_locomotive:
 * Two years of Go. :open_book:
-* Five years managing the entire backend of a web service.
-* Seven years working in Healthcare and with HIPAA.
+* Five years managing the entire backend of a web service. :hammer_and_wrench:
+* Seven years working in Healthcare and with HIPAA. :medical_symbol:
 * Nine years of being a huge Taylor Swift fan. :notes:
 
 <a id='side-projects'></a>
