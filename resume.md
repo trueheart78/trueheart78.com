@@ -55,7 +55,7 @@ For the longest time, I’ve wanted to be a master software craftsman. While tha
 * Nine years of Ruby. ![Ruby][ruby-logo]
 * Seven years of Ruby on Rails. :steam_locomotive:
 * Two years of Go. ![Go][go-logo]
-* Five years managing the backend of a web service. :hammer_and_wrench:
+* Five years managing the back-end of a web service. :hammer_and_wrench:
 * Seven years working in Healthcare and with HIPAA. 🩺
 * Nine years of being a huge Taylor Swift fan. :notes:
 
