@@ -59,7 +59,7 @@ For the longest time, I’ve wanted to be a master software craftsman. While tha
 * Seven years
   * Writing automated tests. :robot:
   * Working in healthcare and with HIPAA. 🩺
-  * As a remote team member. :laptop:
+  * As a remote team member. :computer:
 
 <a id='side-projects'></a>
 ## :wrench: Side Projects [:top:][top]
