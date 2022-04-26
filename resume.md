@@ -24,9 +24,9 @@ update: 2022-04-25
 I love writing Ruby & Go :sparkling_heart:, rocking out to Taylor Swift :notes:, and using gifs to
 make others smile :smile:.
 
-I've been writing software professionally since 2004, focusing mainly on back-end development.
+I've been writing software professionally since 2004, with a strong lean towards back-end development.
 
-I enjoy light-hearted, collaborative teams, that I can learn from.
+I enjoy lighthearted, collaborative teams, that I can learn from.
 
 <a id='strengths'></a>
 ## :muscle: Strengths [:top:][top]
@@ -36,9 +36,8 @@ I enjoy light-hearted, collaborative teams, that I can learn from.
 * I :heart: Ruby & Go. I love the communities, and the languages.
 * I enjoy writing documentation, as I find it highly valuable.
 * I will always make time for my colleagues, regardless of their skill level.
-* I always consider future maintainers.
 * I desire to contribute to open source.
-* I want my work to have an impact on people.
+* I love people, and I want my work to have an impact on them.
 
 <a id='aspirations'></a>
 ## :raising_hand: Aspirations [:top:][top]
@@ -55,9 +54,12 @@ For the longest time, I’ve wanted to be a master software craftsman. While tha
 * Nine years of Ruby. ![Ruby][ruby-logo]
 * Seven years of Ruby on Rails. :steam_locomotive:
 * Two years of Go. ![Go][go-logo]
-* Five years managing the back-end of a web service. :hammer_and_wrench:
-* Seven years working in Healthcare and with HIPAA. 🩺
-* Nine years of being a huge Taylor Swift fan. :notes:
+* Five years managing the back-end of a web service (CentOS, Ubuntu, MySQL, Redis). :hammer_and_wrench:
+* Nearly two decades of JavaScript and CSS familiarity. :toolbox:
+* Seven years
+  * Writing automated tests. :robot:
+  * Working in healthcare and with HIPAA. 🩺
+  * As a remote team member. :laptop:
 
 <a id='side-projects'></a>
 ## :wrench: Side Projects [:top:][top]
@@ -205,12 +207,12 @@ Discovered an IE8-related bug in Turbolinks and submitted a PR to the project to
 * Wrote, instituted and tested a comprehensive web application disaster recovery plan.
 * Managed the MySQL database back-end, tuning performance settings and optimizing queries.
 * Introduced full support for the MVC development pattern in a custom PHP framework.
-* Migrated the marketing portal codebase to run on both Windows Server 2008 and CentOS.
+* Migrated the marketing portal codebase to run on Windows Server, CentOS, and Ubuntu.
 
 #### Internet Application Developer (2007 to 2010)
 
 * Created a dynamic reporting system to offload work from support.
-* Migrated the marketing portal codebase to from Mac OS X Server to Windows Server 2008.
+* Migrated the marketing portal codebase to from Mac OS X Server to Windows Server.
 * Introduced the use of coding standards.
 
 ### :house: Self-Employed Contractor (2004 to 2007)
