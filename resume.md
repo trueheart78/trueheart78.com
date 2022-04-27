@@ -56,7 +56,7 @@ For the longest time, I’ve wanted to be a master software craftsman. While tha
 * Two years of Go. ![Go][go-logo]
 * Two years of Docker. :whale:
 * Five years managing the back-end of a web service (CentOS, Ubuntu, MySQL, Redis). :hammer_and_wrench:
-* Nearly two decades of JavaScript and CSS familiarity. :toolbox:
+* Nearly two decades of JavaScript and CSS familiarity. 🧰
 * Seven years
   * Writing automated tests. :robot:
   * Working in healthcare and with HIPAA. 🩺
