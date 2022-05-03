@@ -4,7 +4,7 @@ title: 👨‍💻 My Resume
 description: I love writing Ruby & Go, rocking out to Taylor Swift, and using gifs to make others smile. I’ve been writing software professionally since 2004.
 keywords: resume, ruby, golang, software developer, side projects, open source, rails, sinatrarb, aws, lambda, aws lambda, paypal
 permalink: /resume/
-update: 2022-04-01
+update: 2022-05-01
 ---
 
 <a id='intro'></a>
@@ -54,8 +54,9 @@ For the longest time, I’ve wanted to be a master software craftsman. While tha
 * Nine years of Ruby. ![Ruby][ruby-logo]
 * Seven years of Ruby on Rails. :steam_locomotive:
 * Two years of Go. ![Go][go-logo]
+* Two years of Docker. :whale:
 * Five years managing the back-end of a web service (CentOS, Ubuntu, MySQL, Redis). :hammer_and_wrench:
-* Nearly two decades of JavaScript and CSS familiarity. :toolbox:
+* Nearly two decades of JavaScript and CSS familiarity. 🧰
 * Seven years
   * Writing automated tests. :robot:
   * Working in healthcare and with HIPAA. 🩺
