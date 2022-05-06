@@ -4,11 +4,12 @@ title: 📆 What I'm Up to Now
 description: What I've recently been up to.
 keywords: now, nownownow, studying, playing, reading, comics, books, side projects, games, ruby, rails, golang, tv shows, movies
 permalink: /now/
-update: 2022-03-01
+update: 2022-05-05
 ---
 
 ![Agent Smith - Crazy][agent smith - crazy laughing]
 
+I'm currently living in Ohio, spending time with my doggos. 🐾
 <!-- I'm currently living in Ohio, working remote as a software developer. -->
 
 <!--
@@ -21,9 +22,13 @@ update: 2022-03-01
 
 * _Tales of Arise_ on Xbox Series X.
 * _Down the Rabbit Hole_ on Oculus Quest 2.
+* _Moss_ on Oculus Quest 2.
 
 ### 🏁 Recently Beaten
 
+* _Unpacking_ on Xbox Series X.
+* _Evoland_ on Nintendo Switch.
+* _West of Loathing_ on Nintendo Switch.
 * _Death's Door_ on Xbox Series X.
 * _To Be Or Not To Be_ on Nintendo Switch.
 * _Pupperazzi_ on Xbox Series X.
@@ -35,11 +40,9 @@ update: 2022-03-01
 * [Saga - Volume 5](https://imagecomics.com/comics/series/saga)
   * Such a wonderful series.
 
-<!--
 ### 📘 Recently Completed
 
-* _TBD_.
--->
+* Moonknight: The Complete Collection
 
 <!--
 ## 📺 Shows and Movies
