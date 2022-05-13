@@ -4,12 +4,19 @@ title: 🔖 Picks
 description: Hand selected, artisinally selected good things.
 keywords: picks, ruby rogues
 permalink: /picks/
-update: 2018-01-08
+update: 2022-05-13
 ---
 
 Shamelessy stealing this idea from the fantastic
 [Ruby Rogues podcast][ruby-rogues-podcast]. Consider them the first pick
 :sparkling_heart:
+
+May 13th, 2022
+
+- [Website Planet's Favicon Generator](https://www.websiteplanet.com/webtools/favicon-generator/)
+  I've mentioned a favicon generator before, but this one comes from a reader. Not only does it
+  support a larger filesize (up to 5mb), it also provides a gallery feature, so you don't have to
+  bring your own image; you can simply choose from a wide variety their gallery provides.
 
 January 8th, 2018
 
@@ -52,7 +59,7 @@ communication and comraderie. A breath of fresh air, you should really check out
 her stuff.
 - [Real Favicon Generator.net][real-favicon-generator]:
 Great for helping to get your favicon setup properly on your site, and also helps
-understand mobile supprt.
+understand mobile support.
 - Ben Orenstein [[twitter][ben-orenstein-twitter]] [[site][ben-orenstein-site]]:
 His love for Vim and his desire to remove the friction from his everyday tool usage
 is just what I needed. Also, dude gives great talks. Like, seriously, great talks.
