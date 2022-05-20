@@ -37,7 +37,7 @@ I'm currently living in Ohio, spending time with my doggos. 🐾
 ## 📖 Books and Comics
 
 * [Harley Quinn: No Good Deed](https://www.amazon.com/Harley-Quinn-Vol-Good-Deed/dp/1779513461/)
-* [House of X | Powers of X](https://www.amazon.com/House-X-Powers/dp/1846533880/)
+* [House of X / Powers of X](https://www.amazon.com/House-X-Powers/dp/1846533880/)
 * [Saga - Volume 5](https://imagecomics.com/comics/series/saga)
   * Such a wonderful series.
 
