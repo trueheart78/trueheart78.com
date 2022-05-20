@@ -7,7 +7,7 @@ permalink: /now/
 update: 2022-05-20
 ---
 
-![Agent Smith - Crazy][agent smith - crazy laughing]
+![Taylor Swift - Drawing a Heart][taylor swift - drawing a heart]
 
 I'm currently living in Ohio, spending time with my doggos. 🐾
 <!-- I'm currently living in Ohio, working remote as a software developer. -->
@@ -113,7 +113,7 @@ Head over to the [About Page][now - about] of [NowNowNow.com][now - home] for mo
 [rails 6.0]: https://edgeguides.rubyonrails.org/6_0_release_notes.html
 [rails 6.1]: https://edgeguides.rubyonrails.org/6_1_release_notes.html
 [rails 7.0]: https://edgeguides.rubyonrails.org/7_0_release_notes.html
-[agent smith - crazy laughing]: /assets/images/now/agent-smith-crazy-laughing.gif
+[taylor swift - drawing a heart]: /assets/images/now/taylor-swift-drawing-a-heart.gif
 [now - about]: https://nownownow.com/about 
 [now - home]: https://nownownow.com
 [go date format]: https://godateformat.com
