@@ -4,7 +4,7 @@ title: 📆 What I'm Up to Now
 description: What I've recently been up to.
 keywords: now, nownownow, studying, playing, reading, comics, books, side projects, games, ruby, rails, golang, tv shows, movies
 permalink: /now/
-update: 2022-05-05
+update: 2022-05-20
 ---
 
 ![Agent Smith - Crazy][agent smith - crazy laughing]
@@ -20,6 +20,7 @@ I'm currently living in Ohio, spending time with my doggos. 🐾
 
 ## 🎮 Playing Until Credits
 
+* _Wildermyth_ on PC.
 * _Tales of Arise_ on Xbox Series X.
 * _Down the Rabbit Hole_ on Oculus Quest 2.
 * _Moss_ on Oculus Quest 2.
@@ -35,14 +36,17 @@ I'm currently living in Ohio, spending time with my doggos. 🐾
 
 ## 📖 Books and Comics
 
-* [Harley Quinn: A Celebration of 25 Years](https://www.amazon.com/Harley-Quinn-Celebration-25-Years/dp/1401275990/)
-  * A Christmas gift I couldn't be more happy about.
+* [Harley Quinn: No Good Deed](https://www.amazon.com/Harley-Quinn-Vol-Good-Deed/dp/1779513461/)
+* [House of X | Powers of X](https://www.amazon.com/House-X-Powers/dp/1846533880/)
 * [Saga - Volume 5](https://imagecomics.com/comics/series/saga)
   * Such a wonderful series.
 
 ### 📘 Recently Completed
 
-* Moonknight: The Complete Collection
+* [Harley Quinn: A Celebration of 25 Years](https://www.amazon.com/Harley-Quinn-Celebration-25-Years/dp/1401275990/)
+  * A Christmas gift I couldn't be more happy about.
+* [Moon Knight By Bendis & Maleev: The Complete Collection](https://www.amazon.com/Moon-Knight-Bendis-Maleev-Collection/dp/1302933620/)
+  * What a great read.
 
 <!--
 ## 📺 Shows and Movies
@@ -52,6 +56,9 @@ I'm currently living in Ohio, spending time with my doggos. 🐾
 
 ### 🎞 Recently Watched
 
+* Dr. Strange in the Multiverse of Madness
+  * Loved Wanda.
+  * America Chavez... I can't wait to see where they take her character.
 * No Time to Die
   * Really enjoyed it.
   * Fitting finale for Craig. 🎬
