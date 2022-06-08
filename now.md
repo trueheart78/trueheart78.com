@@ -4,12 +4,15 @@ title: 📆 What I'm Up to Now
 description: What I've recently been up to.
 keywords: now, nownownow, studying, playing, reading, comics, books, side projects, games, ruby, rails, golang, tv shows, movies
 permalink: /now/
-update: 2022-05-20
+update: 2022-06-06
 ---
 
 ![Taylor Swift - Drawing a Heart][taylor swift - drawing a heart]
 
-I'm currently living in Ohio, spending time with my doggos. 🐾
+I'm currently living in Ohio, spending time with my doggos. 🐾 
+
+I’ve also accepted a job offer from [AppliedVR][avr]. 🧑🏼‍💻
+
 <!-- I'm currently living in Ohio, working remote as a software developer. -->
 
 <!--
@@ -36,13 +39,15 @@ I'm currently living in Ohio, spending time with my doggos. 🐾
 
 ## 📖 Books and Comics
 
-* [Harley Quinn: No Good Deed](https://www.amazon.com/Harley-Quinn-Vol-Good-Deed/dp/1779513461/)
 * [House of X / Powers of X](https://www.amazon.com/House-X-Powers/dp/1846533880/)
 * [Saga - Volume 5](https://imagecomics.com/comics/series/saga)
   * Such a wonderful series.
 
 ### 📘 Recently Completed
 
+* [Harley Quinn: No Good Deed Vol 1](https://www.amazon.com/Harley-Quinn-Vol-Good-Deed/dp/1779513461/)
+  * I really enjoyed the story. 
+  * It’s always interesting to see how different art styles work, and this one made me smile A LOT. ❤️🖤
 * [Harley Quinn: A Celebration of 25 Years](https://www.amazon.com/Harley-Quinn-Celebration-25-Years/dp/1401275990/)
   * A Christmas gift I couldn't be more happy about.
 * [Moon Knight By Bendis & Maleev: The Complete Collection](https://www.amazon.com/Moon-Knight-Bendis-Maleev-Collection/dp/1302933620/)
@@ -104,6 +109,7 @@ I'm currently living in Ohio, spending time with my doggos. 🐾
 
 Head over to the [About Page][now - about] of [NowNowNow.com][now - home] for more details and how to create your own.
 
+[avr]: https://appliedvr.io
 [ruby]: https://www.ruby-lang.org/en/
 [ruby 2.7]: https://rubyreferences.github.io/rubychanges/2.7.html
 [ruby 3.0]: https://rubyreferences.github.io/rubychanges/3.0.html
