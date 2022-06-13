@@ -4,7 +4,7 @@ title: 📆 What I'm Up to Now
 description: What I've recently been up to.
 keywords: now, nownownow, studying, playing, reading, comics, books, side projects, games, ruby, rails, golang, tv shows, movies
 permalink: /now/
-update: 2022-06-06
+update: 2022-06-13
 ---
 
 ![Taylor Swift - Drawing a Heart][taylor swift - drawing a heart]
@@ -23,6 +23,7 @@ I’ve also accepted a job offer from [AppliedVR][avr]. 🧑🏼‍💻
 
 ## 🎮 Playing Until Credits
 
+* _Life is Strange: True Colors_ on Xbox Series X. 💚
 * _Wildermyth_ on PC.
 * _Tales of Arise_ on Xbox Series X.
 * _Down the Rabbit Hole_ on Oculus Quest 2.
@@ -45,6 +46,8 @@ I’ve also accepted a job offer from [AppliedVR][avr]. 🧑🏼‍💻
 
 ### 📘 Recently Completed
 
+* [Batman and Harley Quinn][https://www.amazon.com/Batman-Harley-Quinn-Ty-Templeton/dp/1401288995/]
+  * Enjoyed this quite a lot. ❤️🖤
 * [Harley Quinn: No Good Deed Vol 1](https://www.amazon.com/Harley-Quinn-Vol-Good-Deed/dp/1779513461/)
   * I really enjoyed the story. 
   * It’s always interesting to see how different art styles work, and this one made me smile A LOT. ❤️🖤
@@ -61,6 +64,12 @@ I’ve also accepted a job offer from [AppliedVR][avr]. 🧑🏼‍💻
 
 ### 🎞 Recently Watched
 
+* Walk Hard: The Dewey Cox Story
+  * Been meaning to watch this for quite some time.
+  * Enjoyed it a lot.
+* Bill & Ted's Excellent Adventure
+  * What a wonderful rewatch.
+  * Looks and sounds amazing on the new TV. 📺
 * Dr. Strange in the Multiverse of Madness
   * Loved Wanda.
   * America Chavez... I can't wait to see where they take her character.
