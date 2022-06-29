@@ -4,7 +4,7 @@ title: 📆 What I'm Up to Now
 description: What I've recently been up to.
 keywords: now, nownownow, studying, playing, reading, comics, books, side projects, games, ruby, rails, golang, tv shows, movies
 permalink: /now/
-update: 2022-06-13
+update: 2022-06-29
 ---
 
 ![Taylor Swift - Drawing a Heart][taylor swift - drawing a heart]
@@ -46,7 +46,10 @@ I’ve also accepted a job offer from [AppliedVR][avr]. 🧑🏼‍💻
 
 ### 📘 Recently Completed
 
-* [Batman and Harley Quinn][https://www.amazon.com/Batman-Harley-Quinn-Ty-Templeton/dp/1401288995/]
+* [Wonder Woman: Future State](https://www.amazon.com/Future-State-2021-Wonder-Woman-ebook/dp/B097KN9HFS/)
+  * Yara Flor is a new favorite. 💛
+  * Jen bartel's art is just simply mind-blowing. 🤯
+* [Batman and Harley Quinn](https://www.amazon.com/Batman-Harley-Quinn-Ty-Templeton/dp/1401288995/)
   * Enjoyed this quite a lot. ❤️🖤
 * [Harley Quinn: No Good Deed Vol 1](https://www.amazon.com/Harley-Quinn-Vol-Good-Deed/dp/1779513461/)
   * I really enjoyed the story. 
