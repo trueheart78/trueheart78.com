@@ -7,8 +7,8 @@ permalink: /character-names/
 update: 2018-03-18
 ---
 
-+ Ashe (F) - Final Fantasy XII
-+ Ashelia (F) - Final Fantasy XII
++ [Ashe (F) - Final Fantasy XII][ashelia - ff12]
++ [Ashelia (F) - Final Fantasy XII][ashelia - ff12]
 + Basch (M) - Final Fantasy XII
 + Elisabet (F) - Horizon: Zero Dawn
 + Olivia (F) - FRINGE
@@ -21,3 +21,5 @@ update: 2018-03-18
 ### Pets
 
 + Spaghetti
+
+[ashelia - ff12]: https://finalfantasy.fandom.com/wiki/Ashelia_B%27nargin_Dalmasca

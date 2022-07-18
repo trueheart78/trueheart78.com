@@ -9,7 +9,7 @@ update: 2021-01-24
 
 ## General
 
-### Ashe from FFXII
+### [Ashe from FFXII][ashelia - ff12]
 
 > I am simply myself. No more and no less.
 
@@ -75,6 +75,7 @@ update: 2021-01-24
 
 [aj mendez]: http://www.theajmendez.com/
 [aj oct 2017]: http://mailchi.mp/ajmendezbrooks/represent-team-aj-467805
+[ashelia - ff12]: https://finalfantasy.fandom.com/wiki/Ashelia_B%27nargin_Dalmasca#Personality
 [kent beck]: https://twitter.com/KentBeck
 [taylor swift]: http://www.taylorswift.com
 [brit awards 2021]: https://youtu.be/88GdUGdqDnw?t=444
