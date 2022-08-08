@@ -1,6 +1,6 @@
-# I :sparkling_heart: Ruby
+# I 💖 Ruby
 
-Jekyll-based blog for [I :sparkling_heart: Ruby][iheartruby]
+Jekyll-based blog for [I 💖 Ruby][iheartruby]
 
 ## Create a Post
 
@@ -12,6 +12,6 @@ Jekyll-based blog for [I :sparkling_heart: Ruby][iheartruby]
 
 ## Ruby Version
 
-Currently setup to work with Ruby 2.7
+Currently setup to work with Ruby 3.0
 
 [iheartruby]: http://iheartruby.com
