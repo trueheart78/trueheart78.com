@@ -78,7 +78,7 @@ update: 2021-01-24
 [ashelia - ff12]: https://finalfantasy.fandom.com/wiki/Ashelia_B%27nargin_Dalmasca#Personality
 [kent beck]: https://twitter.com/KentBeck
 [taylor swift]: http://www.taylorswift.com
-[brit awards 2021]: https://youtu.be/88GdUGdqDnw?t=444
+[brit awards 2021]: https://youtu.be/PJkGURcetao?t=279
 [alan j perlis]: https://history.computer.org/pioneers/perlis.html
 [epigrams on programming]: https://www.latexstudio.net/shredderyin/epigrams.html
 [sandi metz]: https://sandimetz.com/
