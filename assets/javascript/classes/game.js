@@ -40,7 +40,7 @@ class Game {
     if (game.hasOwnProperty("played")) {
       this.played = game.played;
     } else {
-      this.played = (this.playing() || this.paused() || this.beaten() || this.complete());
+      this.played = (this.playing || this.paused || this.beaten || this.complete);
     }
     if (game.hasOwnProperty("surprise_me")) {
       this.surpriseMe = game.surprise_me;
