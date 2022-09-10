@@ -7,8 +7,9 @@ class Game {
   url;
   hours = 0;
   disc = false;
-  cartridge = false;
+  cartridge = false; 
   gamepass = false;
+  played = false;
   surpriseMe = true;
   notes = [];
 
@@ -35,6 +36,11 @@ class Game {
     }
     if (game.hasOwnProperty("removed")) {
       this.removed = game.removed;
+    }
+    if (game.hasOwnProperty("played")) {
+      this.played = game.played;
+    } else {
+      this.played = (this.playing() || this.paused() || this.beaten() || this.complete());
     }
     if (game.hasOwnProperty("surprise_me")) {
       this.surpriseMe = game.surprise_me;
