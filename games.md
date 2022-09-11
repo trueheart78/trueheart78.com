@@ -112,6 +112,7 @@ See the [Games in Development Wiki][games-in-development].
 * 🆕 = Added within the last 90 days
 * 💿 = Disc version
 * 💾 = Cartridge version
+* 🎮 = Spent time playing it
 
 <script type="text/javascript" src="/assets/javascript/api_functions.js"></script>
 <script type="text/javascript" src="/assets/javascript/classes/game.js"></script>

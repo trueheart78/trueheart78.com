@@ -31,6 +31,7 @@ remote_css: https://cdn.jsdelivr.net/npm/firacode@6.2.0/distr/fira_code.css
 <li>💚 = Game Pass</li>
 <li>💿 = Disc version</li>
 <li>💾 = Cartridge version</li>
+<li>🎮 = Spent time playing it</li>
 </ul>
 </p>
 </div>
@@ -60,6 +61,7 @@ remote_css: https://cdn.jsdelivr.net/npm/firacode@6.2.0/distr/fira_code.css
 <span class="game-pass-heart"></span> = Xbox Game Pass<br>
 <span class="disc"></span> = Disc version<br>
 <span class="cartridge"></span> = Cartridge version<br>
+<span class="controller"></span> = Spent time playing it<br>
 <br>
 [img]FIND-A-GIF[/img]
 </div>

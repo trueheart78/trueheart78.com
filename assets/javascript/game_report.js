@@ -8,6 +8,7 @@ const reportMonth = reportDate.getUTCMonth();
 const cartridgeURL = "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/google/313/floppy-disk_1f4be.png";
 const discURL = "https://emojipedia-us.s3.amazonaws.com/source/skype/289/optical-disk_1f4bf.png";
 const gamePassHeartURL = "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/facebook/65/green-heart_1f49a.png";
+const controllerURL = "https://emojipedia-us.s3.amazonaws.com/source/microsoft-teams/337/video-game_1f3ae.png"
 
 let allGames = [];
 let allLessons = [];
@@ -149,6 +150,10 @@ function gameToBBCode(game, type) {
   } else if (game.disc) {
     output.push("&nbsp;<span class='disc'></span>");
   }
+  if (game.jettisoned && game.played) {
+     output.push("&nbsp;<span class='controller'></span>");
+  }
+
   if (showNotes(game, type)) {
     output.push("<br>&nbsp;&nbsp;[ul]");
     for(let note of game.notes) {
@@ -256,6 +261,7 @@ function updateGameIcons() {
   updateIcons("cartridge", cartridgeURL);
   updateIcons("disc", discURL);
   updateIcons("game-pass-heart", gamePassHeartURL);
+  updateIcons("controller", controllerURL);
 }
 
 function updateIcons(className, iconURL) {
