@@ -312,6 +312,9 @@ function gameToHTML(game) {
   } else if (game.disc) {
     output.push(" 💿");
   }
+  if (game.jettisoned && game.played) {
+    output.push(" 🎮");
+  }
   if (isRecentAddition(game.added)) {
     output.push(" 🆕");
   }
