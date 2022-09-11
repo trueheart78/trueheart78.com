@@ -112,6 +112,9 @@ function gameToHTML(game, type) {
   } else if (game.disc) {
     output.push(" 💿");
   }
+  if (game.jettisoned && game.played) {
+    output.push(" 🎮");
+  }
   if (showNotes(game, type)) {
     output.push("\n<ul>");
     for(let note of game.notes) {
