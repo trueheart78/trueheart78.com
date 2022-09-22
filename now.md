@@ -4,16 +4,14 @@ title: 📆 What I'm Up to Now
 description: What I've recently been up to.
 keywords: now, nownownow, studying, playing, reading, comics, books, side projects, games, ruby, rails, golang, tv shows, movies
 permalink: /now/
-update: 2022-06-29
+update: 2022-09-21
 ---
 
 ![Taylor Swift - Drawing a Heart][taylor swift - drawing a heart]
 
 I'm currently living in Ohio, spending time with my doggos. 🐾 
 
-I’ve also accepted a job offer from [AppliedVR][avr]. 🧑🏼‍💻
-
-<!-- I'm currently living in Ohio, working remote as a software developer. -->
+I'm currently living in Ohio, working remote as a software developer. 🧑🏼‍💻
 
 <!--
 ## 📚 Software Development Studies
@@ -23,7 +21,7 @@ I’ve also accepted a job offer from [AppliedVR][avr]. 🧑🏼‍💻
 
 ## 🎮 Playing Until Credits
 
-* _Life is Strange: True Colors_ on Xbox Series X. 💚
+
 * _Wildermyth_ on PC.
 * _Tales of Arise_ on Xbox Series X.
 * _Down the Rabbit Hole_ on Oculus Quest 2.
@@ -31,12 +29,13 @@ I’ve also accepted a job offer from [AppliedVR][avr]. 🧑🏼‍💻
 
 ### 🏁 Recently Beaten
 
-* _Unpacking_ on Xbox Series X.
+* _Life is Strange: True Colors_ on Xbox Series X. 💚
+* _Unpacking_ on Xbox Series X. 💚
 * _Evoland_ on Nintendo Switch.
 * _West of Loathing_ on Nintendo Switch.
-* _Death's Door_ on Xbox Series X.
+* _Death's Door_ on Xbox Series X. 💚
 * _To Be Or Not To Be_ on Nintendo Switch.
-* _Pupperazzi_ on Xbox Series X.
+* _Pupperazzi_ on Xbox Series X. 💚
 
 ## 📖 Books and Comics
 
@@ -121,7 +120,6 @@ I’ve also accepted a job offer from [AppliedVR][avr]. 🧑🏼‍💻
 
 Head over to the [About Page][now - about] of [NowNowNow.com][now - home] for more details and how to create your own.
 
-[avr]: https://appliedvr.io
 [ruby]: https://www.ruby-lang.org/en/
 [ruby 2.7]: https://rubyreferences.github.io/rubychanges/2.7.html
 [ruby 3.0]: https://rubyreferences.github.io/rubychanges/3.0.html
