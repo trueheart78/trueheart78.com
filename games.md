@@ -71,7 +71,7 @@ update: placeholder
 
 ## 🚀 Jettisoned [🔝][top]
 
-_Games here aren't bad, I just don't play on getting to them._
+_Games here aren't bad, I just don't plan on getting to them._
 
 <div id="games-jettisoned"></div>
 
