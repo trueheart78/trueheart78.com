@@ -13,6 +13,10 @@ remote_css: https://cdn.jsdelivr.net/npm/firacode@6.2.0/distr/fira_code.css
 <p>
 <div id="default-games-beaten"></div>
 </p>
+<h3>Played 🛝</h3>
+<p>
+<div id="default-games-played"></div>
+</p>
 <h3>Jettisoned 🔥</h3>
 <p>
 <div id="default-games-jettisoned"></div>
@@ -46,6 +50,9 @@ remote_css: https://cdn.jsdelivr.net/npm/firacode@6.2.0/distr/fira_code.css
 <br>
 [h3]Beaten [img=25x25]https://emojipedia-us.s3.amazonaws.com/source/skype/289/chequered-flag_1f3c1.png[/img][/h3]<br>
 <div id="bbcode-games-beaten"></div>
+<br>
+[h3]Played [img=25x25]https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/whatsapp/326/playground-slide_1f6dd.png[/img][/h3]<br>
+<div id="bbcode-games-played"></div>
 <br>
 [h3]Jettisoned [img=25x25]https://emojipedia-us.s3.amazonaws.com/source/skype/289/fire_1f525.png[/img][/h3]<br>
 <div id="bbcode-games-jettisoned"></div>

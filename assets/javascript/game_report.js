@@ -37,10 +37,12 @@ function parseGameData(data) {
   }
   let games = allGames.filter(addedOrRemovedThisMonth).sort(compareNames);
   let beatenGames = games.filter(beatenThisMonth).sort(compareNames);
+  let playedGames = games.filter(playedThisMonth).sort(compareNames);
   let jettisonedGames = games.filter(jettisonedThisMonth).sort(compareNames);
   let addedGames = games.filter(addedThisMonth).sort(compareNames);
 
   displayGames(beatenGames, "beaten");
+  displayGames(playedGames, "played");
   displayGames(jettisonedGames, "jettisoned");
   displayGames(addedGames, "added");
 }
@@ -276,6 +278,12 @@ function beatenThisMonth(game) {
   let removed = removedThisMonth(game);
   
   return (game.beaten && removed);
+}
+
+function playedThisMonth(game) {
+  let removed = removedThisMonth(game);
+  
+  return (game.status == "played" && removed);
 }
 
 function jettisonedThisMonth(game) {
