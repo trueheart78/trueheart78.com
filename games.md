@@ -61,12 +61,17 @@ update: placeholder
 
 <div id="games-beaten"></div>
 
+<a id="played"></a>
+
+## 🛝 Played  [🔝][top]
+
+<div id="games-played"></div>
+
 <a id="jettisoned"></a>
 
 ## 🚀 Jettisoned [🔝][top]
 
-_Games here aren't bad, they just didn't keep me until the credits, or were culled because the list
-of games I have to play is oh so long._
+_Games here aren't bad, I just don't play on getting to them._
 
 <div id="games-jettisoned"></div>
 
