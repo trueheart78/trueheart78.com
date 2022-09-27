@@ -49,12 +49,14 @@ update: placeholder
 
 <div id="games-vr-experiences"></div>
 
+<!-- 
 <a id="awaiting-content"></a>
 
 ## 📆 Awaiting Content [🔝][top]
 
 <div id="games-awaiting-content"></div>
-   
+-->
+
 <a id="beaten"></a>
 
 ## 🏁 Beaten [🔝][top]
