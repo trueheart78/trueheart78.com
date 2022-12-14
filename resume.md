@@ -189,7 +189,7 @@ Discovered an IE8-related bug in Turbolinks and submitted a PR to the project to
 
 ![Taylor Swift - Reputation Mountain][taylor-mountain]
 
-### :goggles: AppliedVR (2022 to present)
+### 🥽 AppliedVR (2022 to present)
 
 #### Senior Software Developer
 
