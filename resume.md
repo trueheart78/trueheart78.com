@@ -4,7 +4,7 @@ title: 👨‍💻 My Resume
 description: I love writing Ruby & Go, rocking out to Taylor Swift, and using gifs to make others smile. I’ve been writing software professionally since 2004.
 keywords: resume, ruby, golang, software developer, side projects, open source, rails, sinatrarb, aws, lambda, aws lambda, paypal
 permalink: /resume/
-update: 2022-05-01
+update: 2022-12-14
 ---
 
 <a id='intro'></a>
@@ -21,8 +21,8 @@ update: 2022-05-01
 
 ![Taylor Swift - Hello][taylor-hi]
 
-I love writing Ruby & Go :sparkling_heart:, rocking out to Taylor Swift :notes:, and using gifs to
-make others smile :smile:.
+I love writing Ruby & Go :sparkling_heart:, rocking out to Taylor Swift :notes:, and using gifs and
+emoji to make others smile :smile:.
 
 I've been writing software professionally since 2004, with a strong lean towards back-end development.
 
@@ -34,7 +34,7 @@ I enjoy lighthearted, collaborative teams, that I can learn from.
 ![Taylor Swift - Strong][taylor-strong]
 
 * I :heart: Ruby & Go. I love the communities, and the languages.
-* I enjoy writing documentation, as I find it highly valuable.
+* I love to write human-readable code.
 * I will always make time for my colleagues, regardless of their skill level.
 * I desire to contribute to open source.
 * I love people, and I want my work to have an impact on them.
@@ -51,13 +51,13 @@ For the longest time, I’ve wanted to be a master software craftsman. While tha
 
 ![Taylor Swift - What's Up?][taylor-whats-up]
 
-* Nine years of Ruby. ![Ruby][ruby-logo]
-* Seven years of Ruby on Rails. :steam_locomotive:
+* Ten years of Ruby. ![Ruby][ruby-logo]
+* Eight years of Ruby on Rails. :steam_locomotive:
 * Two years of Go. ![Go][go-logo]
 * Two years of Docker. :whale:
 * Five years managing the back-end of a web service (CentOS, Ubuntu, MySQL, Redis). :hammer_and_wrench:
-* Nearly two decades of JavaScript and CSS familiarity. 🧰
-* Seven years
+* Two decades of JavaScript and CSS familiarity. 🧰
+* Eight years
   * Writing automated tests. :robot:
   * Working in healthcare and with HIPAA. 🩺
   * As a remote team member. 💻
@@ -150,7 +150,7 @@ up the phrases. It reads from text files to provide options to replace the phras
 pandemic?", with something like, "In this gleaming pop concert hall?", or "In this gothic Pulp Juice
 And Smoothie Bar?" It even has a simple, but effective, API.
 
-* Site: [pandemic-goofs.herokuapp.com][pandemic-goofs]
+<!-- * Site: [pandemic-goofs.herokuapp.com][pandemic-goofs] -->
 * Source: [GitHub][pandemic-goofs-source]
 
 <a id='open-source'></a>
@@ -188,6 +188,13 @@ Discovered an IE8-related bug in Turbolinks and submitted a PR to the project to
 ## :office: Work History [:top:][top]
 
 ![Taylor Swift - Reputation Mountain][taylor-mountain]
+
+### :goggles: AppliedVR (2022 to present)
+
+#### Senior Software Developer
+
+* Stressed the importance of tests in code and led the charge by example.
+* Took the initiative to smash technical debt around outdated tests.
 
 ### :pill: CoverMyMeds (2015 to 2022)
 
