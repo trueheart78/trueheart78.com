@@ -4,20 +4,18 @@ title: 📆 What I'm Up to Now
 description: What I've recently been up to.
 keywords: now, nownownow, studying, playing, reading, comics, books, side projects, games, ruby, rails, golang, tv shows, movies
 permalink: /now/
-update: 2022-09-21
+update: 2023-01-01
 ---
 
 ![Taylor Swift - Drawing a Heart][taylor swift - drawing a heart]
 
-I'm currently living in Ohio, spending time with my doggos. 🐾 
-
-I'm currently living in Ohio, working remote as a software developer. 🧑🏼‍💻
+I'm currently living in Ohio, spending time with my doggos, and cracking on some Ruby code. 🐾 
 
 <!--
 ## 📚 Software Development Studies
 
 * _TBD_.
--->
+
 
 ## 🎮 Playing Until Credits
 
@@ -58,11 +56,11 @@ I'm currently living in Ohio, working remote as a software developer. 🧑🏼�
 * [Moon Knight By Bendis & Maleev: The Complete Collection](https://www.amazon.com/Moon-Knight-Bendis-Maleev-Collection/dp/1302933620/)
   * What a great read.
 
-<!--
+
 ## 📺 Shows and Movies
 
 * _TBD_.
--->
+
 
 ### 🎞 Recently Watched
 
@@ -95,21 +93,22 @@ I'm currently living in Ohio, working remote as a software developer. 🧑🏼�
 
 ## 🛠 Side Projects
 
-<!--
+
 ### 🔨 Current
 
 * _TBD_
--->
 
-<!--
+
+
 ### 🔜 In The Works
 
 * _TBD_
--->
+
 
 ### ☑️ Completed
 
 * Created a [static api][api] for personal use.
+-->
 
 ## 🌐 Recent Site Updates
 
@@ -124,6 +123,7 @@ Head over to the [About Page][now - about] of [NowNowNow.com][now - home] for mo
 [ruby 2.7]: https://rubyreferences.github.io/rubychanges/2.7.html
 [ruby 3.0]: https://rubyreferences.github.io/rubychanges/3.0.html
 [ruby 3.1]: https://rubyreferences.github.io/rubychanges/3.1.html
+[ruby 3.2]: https://rubyreferences.github.io/rubychanges/3.2.html
 [ractors]: https://rubyreferences.github.io/rubychanges/3.0.html#ractors
 [rails]: https://rubyonrails.org/
 [rails 6.0]: https://edgeguides.rubyonrails.org/6_0_release_notes.html

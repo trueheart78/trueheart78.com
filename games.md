@@ -7,6 +7,15 @@ permalink: /games/
 customnav: games_nav_v2.html
 update: placeholder
 ---
+<style>
+/* Allows the dope reverse-order with descending numbers */
+#lessons-learned ol {
+    transform: rotate(180deg);
+}
+#lessons-learned ol > li {
+    transform: rotate(-180deg);
+}
+</style>
 
 <a id="playing"></a>
 
@@ -41,21 +50,7 @@ update: placeholder
 
 ## 🕶 VR Games [🔝][top]
 
-<div id="games-vr-games"></div>
-
-<a id="vr-experiences"></a>
-
-## 🎬 VR Experiences [🔝][top]
-
-<div id="games-vr-experiences"></div>
-
-<!-- 
-<a id="awaiting-content"></a>
-
-## 📆 Awaiting Content [🔝][top]
-
-<div id="games-awaiting-content"></div>
--->
+<div id="games-vr"></div>
 
 <a id="beaten"></a>
 
@@ -73,7 +68,7 @@ update: placeholder
 
 ## 🚀 Jettisoned [🔝][top]
 
-_Games here aren't bad, I just don't plan on getting to them._
+Games here aren't bad, I just don't plan on getting to them.
 
 <div id="games-jettisoned"></div>
 
@@ -85,15 +80,15 @@ See the [New Releases Wiki][new-releases]. Sorted by release date.
 
 <div id="purchases-planned"></div>
 
-## 💰 Planned Purchases (Hopefully in 2022) [🔝][top]
+## 💰 Planned Purchases [🔝][top]
 
 See the [Games in Development Wiki][games-in-development].
 
-<div id="purchases-hopeful"></div>
+<div id="purchases-future"></div>
 
 ## 💵 Planned Purchases (Previously Released) [🔝][top]
 
-<div id="purchases-previous"></div>
+<div id="purchases-released"></div>
 
 <a id="why"></a>
 
@@ -117,17 +112,14 @@ See the [Games in Development Wiki][games-in-development].
 
 * 💚 = Xbox Game Pass
 * 🆕 = Added within the last 90 days
-* 💿 = Disc version
-* 💾 = Cartridge version
-* 🎮 = Spent time playing it
 
-<script type="text/javascript" src="/assets/javascript/api_functions.js"></script>
-<script type="text/javascript" src="/assets/javascript/classes/game.js"></script>
-<script type="text/javascript" src="/assets/javascript/classes/purchase.js"></script>
-<script type="text/javascript" src="/assets/javascript/classes/lesson.js"></script>
-<script type="text/javascript" src="/assets/javascript/games.js"></script>
+<script type="text/javascript" src="/assets/javascript/v2/api_functions.js"></script>
+<script type="text/javascript" src="/assets/javascript/v2/classes/game.js"></script>
+<script type="text/javascript" src="/assets/javascript/v2/classes/purchase.js"></script>
+<script type="text/javascript" src="/assets/javascript/v2/classes/lesson.js"></script>
+<script type="text/javascript" src="/assets/javascript/v2/games.js"></script>
 
 [top]: #page-top
-[new-releases]: https://en.wikipedia.org/wiki/2022_in_video_games#Game_releases
+[new-releases]: https://en.wikipedia.org/wiki/2023_in_video_games#Game_releases
 [games-in-development]: https://en.wikipedia.org/wiki/List_of_video_games_in_development
 [2013 - 12 month pile thread GWJ]: https://www.gamerswithjobs.com/node/1283851?page=6#comment-12179406

@@ -33,9 +33,7 @@ remote_css: https://cdn.jsdelivr.net/npm/firacode@6.2.0/distr/fira_code.css
 <p>
 <ul>
 <li>💚 = Game Pass</li>
-<li>💿 = Disc version</li>
-<li>💾 = Cartridge version</li>
-<li>🎮 = Spent time playing it</li>
+<li>🆕 = Added within the last 90 days</li>
 </ul>
 </p>
 </div>
@@ -66,16 +64,14 @@ remote_css: https://cdn.jsdelivr.net/npm/firacode@6.2.0/distr/fira_code.css
 [h3]Legend [img=25x25]https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/facebook/304/information_2139-fe0f.png[/img][/h3]<br>
 <br>
 <span class="game-pass-heart"></span> = Xbox Game Pass<br>
-<span class="disc"></span> = Disc version<br>
-<span class="cartridge"></span> = Cartridge version<br>
-<span class="controller"></span> = Spent time playing it<br>
+<span class="recently-added"></span> = Added within the last 90 days</span>
 <br>
 [img]FIND-A-GIF[/img]
 </div>
 
-<script type="text/javascript" src="/assets/javascript/api_functions.js"></script>
-<script type="text/javascript" src="/assets/javascript/classes/game.js"></script>
-<script type="text/javascript" src="/assets/javascript/classes/purchase.js"></script>
-<script type="text/javascript" src="/assets/javascript/classes/lesson.js"></script>
+<script type="text/javascript" src="/assets/javascript/v2/api_functions.js"></script>
+<script type="text/javascript" src="/assets/javascript/v2/classes/game.js"></script>
+<script type="text/javascript" src="/assets/javascript/v2/classes/purchase.js"></script>
+<script type="text/javascript" src="/assets/javascript/v2/classes/lesson.js"></script>
 <script type="text/javascript" src="/assets/javascript/monthly_emojis.js"></script>
-<script type="text/javascript" src="/assets/javascript/game_report.js"></script>
+<script type="text/javascript" src="/assets/javascript/v2/game_report.js"></script>
