@@ -2,16 +2,52 @@
 layout: page
 title: 🎮 Favorite Games
 description: Games that have been influential throughout my life.
-keywords: favorites, games, favorite games, game of the year, cyberpunk 2077, fire emblem three houses, horizon zero dawn
+keywords: favorites, games, favorite games, game of the year, cyberpunk 2077, fire emblem three houses, horizon zero dawn, haven, life is strange true colors
 permalink: /favorite-games/
-update: 2022-01-24
+update: 2023-01-19
 ---
 
 ![Taylor Swift - Chef's Kiss][taylor-swift-chefs-kiss]
 
-**Game of the Year:** [**2021**][goty-2021] • [**2020**][goty-2020] • [**2019**][goty-2019] • [**2018**][goty-2018] • [**2017**][goty-2017] • [**2016**][goty-2016] • [**Of All Time**][all-time]
+**Game of the Year:** [**2022**][goty-2022] • [**2021**][goty-2021] • [**2020**][goty-2020] • [**2019**][goty-2019] • [**2018**][goty-2018] • [**2017**][goty-2017] • [**2016**][goty-2016] • [**Of All Time**][all-time]
 
 ---
+
+<a id='goty-2022'></a>
+
+## :scroll: Game of the Year - 2022 [:top:][page-top]
+
+### :trophy: Life is Strange: True Colors (XSX) :trophy: **Game of the Year** :trophy:
+
+![Life is Strange: True Colors][lis - true colors]
+
+Have you ever been playing a game and had the awesome realization it's your game of the year? That's how I felt about True Colors. 🤩
+
+Alex Chen is the character I related to most in 2022. Her empathy alone felt so very accurate, and her hobbies and interests overlapped with mine in ways I did not expect. Factor in the grief that drives the story, and how my personal life changed in similar ways, and this game hit perfectly for me. 🥰
+
+I also adored Steph Gingrich, an absolute boss of a character. Her relationship with Alex is one of my all-time favorites. The Wavelengths DLC expanded on Steph's journey and gave me more insight into her trauma, and her growth. Oh, and her taste in music...😍 
+
+I love them both so much. 💘
+
+#### Awards
+
+* Unpacking (XSX)
+  * :trophy: **Best Storytelling without a Dialog Box** :trophy:
+  * :trophy: **Best Sound Design** :trophy:
+* Wildermyth (PC)
+  * :trophy: **Best Storytelling with a Dialog Box** :trophy:
+  * :trophy: **Best Procedural Storytelling** :trophy:
+* West of Loathing (NS)
+  * :trophy: **Silliest Story** :trophy:
+  * :trophy: **Most Accurate Stick Figures** :trophy:
+* Eiyuden Chronicle: Rising (XSX)
+  * :trophy: **Biggest Surprise** :trophy:
+* Ruins Magus (VR)
+  * :trophy: **VR Game I Didn't Want to Put Down** :trophy:
+* Pentiment (XSX)
+  * :trophy: **Game That Played Me** :trophy:
+  * :trophy: **Most Reading Required** :trophy:
+
 
 <a id='goty-2021'></a>
 
@@ -468,6 +504,7 @@ My bullet points, until I get to writing up something more proper:
 [goty-2019]: #goty-2019
 [goty-2020]: #goty-2020
 [goty-2021]: #goty-2021
+[goty-2022]: #goty-2022
 [random-thoughts]: #random-thoughts
 [taylor-swift-chefs-kiss]: /assets/images/favorites/taylor-swift-chefs-kiss.gif
 [ac-odyssey-kassandra]: /assets/images/favorites/ac-odyssey-kassandra.png
@@ -483,4 +520,5 @@ My bullet points, until I get to writing up something more proper:
 [haven - selfie]: /assets/images/favorites/haven/selfie.png
 [haven - snuggles]: /assets/images/favorites/haven/snuggles.png
 [haven - in bed]: /assets/images/favorites/haven/in-bed.png
+[lis - true colors]: /assets/images/favorites/life-is-strange-true-colors.jpg
 [page-top]: #page-top
