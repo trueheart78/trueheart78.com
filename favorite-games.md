@@ -21,7 +21,7 @@ update: 2022-01-24
 
 ![Haven - Kay and Yu][haven]
 
-Haven. Wow. Where to begin. Let me start of by saying that I had no idea a game [like this][haven - embrace] existed. It had me [from the jump (the _New Game_ screen)][haven - new game]. A game about an
+Haven. Wow. Where to begin. Let me start of by saying that I had no idea a game [like this][haven - kiss] existed. It had me [from the jump (the _New Game_ screen)][haven - new game]. A game about an
 existing romance that I get to tag along for, and watch grow? I was all in!
 
 From the inside of Kay & Yu's home, the Nest, through the trials and tribulations of exploring a
@@ -476,11 +476,11 @@ My bullet points, until I get to writing up something more proper:
 [fe3h-all-3]: /assets/images/favorites/fe3h-all-3.jpg
 [cyberpunk-2077]: /assets/images/favorites/cyberpunk-2077-female-v.jpg
 [haven]: /assets/images/favorites/haven.png
-[haven - new game]: https://i.imgur.com/ykrAUxm.jpg
-[haven - embrace]: https://i.imgur.com/zorJ5K6.jpg
-[haven - butt]: https://i.imgur.com/vHNTEdu.png
-[haven - criminal lovers]: https://i.imgur.com/1Okd5vV.png
-[haven - selfie]: https://i.imgur.com/MauLWyb.png
-[haven - snuggles]: https://i.imgur.com/GOy5xA8.png
-[haven - in bed]: https://i.imgur.com/UpFu68L.png
+[haven - new game]: /assets/images/favorites/haven/new-game.jpg
+[haven - kiss]: /assets/images/favorites/haven/kiss.jpg
+[haven - butt]: /assets/images/favorites/haven/butt.jpg
+[haven - criminal lovers]: /assets/images/favorites/haven/criminal-lovers.png
+[haven - selfie]: /assets/images/favorites/haven/selfie.png
+[haven - snuggles]: /assets/images/favorites/haven/snuggles.png
+[haven - in bed]: /assets/images/favorites/haven/in-bed.png
 [page-top]: #page-top
