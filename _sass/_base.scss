@@ -219,13 +219,18 @@ pre {
  * Ruby Link Color
  */
 
-a.ruby {
+a {
     color: $ruby-color;
     text-decoration: none;
     font-weight: 400;
 
     &:hover {
         text-decoration: underline;
+    }
+
+    &:visited {
+        color: $ruby-color;
+        text-decoration: none;
     }
 }
 
@@ -239,7 +244,7 @@ input[type="reset"],
 input[type="button"] {
   border: none;
   border-radius: 5px;
-  background-color: #0d47a1;
+  background-color: $ruby-color;
   font-size: 1rem;
   color: #fff;
   padding: .7rem .9rem;
