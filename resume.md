@@ -194,7 +194,7 @@ Discovered an IE8-related bug in Turbolinks and submitted a PR to the project to
 
 * Stressed the importance of tests in code and led the charge by example.
 * Took the initiative to smash technical debt around outdated tests, and raised the passing specs from 40% to 100%.
-* Upgraded the backend Rails application from Ruby 2.7 to Ruby 3.1.
+* Upgraded the back-end Rails application from Ruby 2.7 to Ruby 3.1.
 
 ### :pill: CoverMyMeds (2015 to 2022)
 
