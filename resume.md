@@ -2,9 +2,9 @@
 layout: page
 title: 👨‍💻 My Resume
 description: I love writing Ruby & Go, rocking out to Taylor Swift, and using gifs and emoji to make others smile. I’ve been writing software professionally since 2004.
-keywords: resume, ruby, golang, software developer, side projects, open source, rails, sinatrarb, aws, lambda, aws lambda, paypal
+keywords: resume, ruby, golang, software developer, software engineer, side projects, open source, rails, sinatrarb, aws, lambda, aws lambda, paypal
 permalink: /resume/
-update: 2022-12-14
+update: 2023-03-17
 ---
 
 <a id='intro'></a>
@@ -21,8 +21,7 @@ update: 2022-12-14
 
 ![Taylor Swift - Hello][taylor-hi]
 
-I love writing Ruby & Go :sparkling_heart:, rocking out to Taylor Swift :notes:, and using gifs and
-emoji to make others smile :smile:.
+I love writing Ruby & Go :sparkling_heart:, rocking out to Taylor Swift :notes:, and using gifs and emoji to make others smile :smile:.
 
 I've been writing software professionally since 2004, with a strong lean towards back-end development.
 
@@ -34,17 +33,17 @@ I enjoy lighthearted, collaborative teams, that I can learn from.
 ![Taylor Swift - Strong][taylor-strong]
 
 * I :heart: Ruby & Go. I love the communities, and the languages.
-* I love to write human-readable code.
-* I will always make time for my colleagues, regardless of their skill level.
-* I desire to contribute to open source.
-* I love people, and I want my work to have an impact on them.
+* I love to write human-readable code. ⌨️
+* I adore my colleagues, and will _always_ make time for them, regardless of skill level.👂🏼
+* I really enjoy working and collaborating with others. 🎙️
+* I absolutely love people, and I want my work to have an impact on them. ❤️‍🔥
 
 <a id='aspirations'></a>
 ## :raising_hand: Aspirations [:top:][top]
 
 ![Taylor Swift - What I Want][taylor-what-i-want]
 
-For the longest time, I’ve wanted to be a master software craftsman. While that’s still a strong desire of mine, I also _really_ want to help people. 
+For the longest time, I’ve wanted to be a master software craftsman. While that’s still a strong desire of mine, I also _really_ want to help people. ❤️
 
 <a id='experience'></a>
 ## :scroll: Experience [:top:][top]
@@ -71,9 +70,9 @@ For the longest time, I’ve wanted to be a master software craftsman. While tha
 
 ### :globe_with_meridians: I :sparkling_heart: Ruby
 
-My personal website that also includes a [slightly active blog][blog]. Like any good personal site,
-it is host to many different [pages][pages]. Utilizes [Jekyll][jekyll] so I only have to use markdown,
-and is hosted on [Netlify][netlify].
+My personal website that also includes a [slightly active blog][blog]. The [games][games] page 
+uses JavaScript to retrieve, parse, and display data from my personal API. The site utilizes
+[Jekyll][jekyll] so I only have to use markdown for most of the content, and is hosted on [Netlify][netlify].
 
 * Site: [trueheart78.com][trueheart78-site] aka [iheartruby.com][iheartruby]
 * Source: [GitHub][iheartruby-source]
@@ -97,9 +96,9 @@ for payment processing.
 * Site: [caringforkarensue.com][caringforkarensue]
 * Source: [GitHub][caringforkarensue-source]
 
-### :detective: Gem Lookup
+### :gem: Gem Lookup
 
-Simple but effective command line tool that looks up gem details using [RubyGems.org's public API][ruby-gems-api] and displays the results in an emoji-filled format. Makes concurrent requests and obeys the rate limit via a  batching feature.
+Simple but effective command line tool that looks up gem details using [RubyGems.org's public API][ruby-gems-api] and displays the results in an emoji-filled fashion. Makes concurrent requests and obeys the rate limit via it's batching feature.
 
 * RubyGems: [Gem Lookup][gem-lookup-ruby-gems]
 * Source: [GitHub][gem-lookup-source]
@@ -191,10 +190,11 @@ Discovered an IE8-related bug in Turbolinks and submitted a PR to the project to
 
 ### 🥽 AppliedVR (2022 to present)
 
-#### Senior Software Developer
+#### Staff Software Developer
 
 * Stressed the importance of tests in code and led the charge by example.
-* Took the initiative to smash technical debt around outdated tests.
+* Took the initiative to smash technical debt around outdated tests, and raised the passing specs from 40% to 100%.
+* Upgraded the backend Rails application from Ruby 2.7 to Ruby 3.1.
 
 ### :pill: CoverMyMeds (2015 to 2022)
 
@@ -244,6 +244,7 @@ Associate of Computer Science in Software Applications and Programming
 
 [blog]: /blog
 [pages]: /pages
+[games]: /games
 [jekyll]: https://jekyllrb.com/
 [netlify]: https://www.netlify.com/
 [trueheart78-site]: https://www.trueheart78.com
