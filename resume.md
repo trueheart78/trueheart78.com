@@ -4,7 +4,7 @@ title: 👨‍💻 My Resume
 description: I love writing Ruby & Go, rocking out to Taylor Swift, and using gifs and emoji to make others smile. I’ve been writing software professionally since 2004.
 keywords: resume, ruby, golang, software developer, software engineer, side projects, open source, rails, sinatrarb, aws, lambda, aws lambda, paypal
 permalink: /resume/
-update: 2023-03-17
+update: 2023-03-21
 ---
 
 <a id='intro'></a>
@@ -23,9 +23,9 @@ update: 2023-03-17
 
 I love writing Ruby & Go :sparkling_heart:, rocking out to Taylor Swift :notes:, and using gifs and emoji to make others smile :smile:.
 
-I've been writing software professionally since 2004, with a strong lean towards back-end development.
+I've been writing software professionally for nearly 20 years, leaning strongly towards back-end development. 🥳
 
-I enjoy lighthearted, collaborative teams, that I can learn from.
+I enjoy empathetic, lighthearted, collaborative teams, that I can learn from. 💗
 
 <a id='strengths'></a>
 ## :muscle: Strengths [:top:][top]
@@ -34,16 +34,19 @@ I enjoy lighthearted, collaborative teams, that I can learn from.
 
 * I :heart: Ruby & Go. I love the communities, and the languages.
 * I love to write human-readable code. ⌨️
-* I adore my colleagues, and will _always_ make time for them, regardless of skill level.👂🏼
 * I really enjoy working and collaborating with others. 🎙️
-* I absolutely love people, and I want my work to have an impact on them. ❤️‍🔥
+* I adore my colleagues, and will _always_ make time for them, regardless of skill level.👂🏼
 
 <a id='aspirations'></a>
 ## :raising_hand: Aspirations [:top:][top]
 
 ![Taylor Swift - What I Want][taylor-what-i-want]
 
-For the longest time, I’ve wanted to be a master software craftsman. While that’s still a strong desire of mine, I also _really_ want to help people. ❤️
+<!-- I absolutely love people, and I want my work to have a positive impact on them. 💖 -->
+
+I absolutely love people, and I want my work to have a positive impact on them. ❤️‍🔥
+
+<!-- become a master software craftsman. -->
 
 <a id='experience'></a>
 ## :scroll: Experience [:top:][top]
@@ -194,7 +197,7 @@ Discovered an IE8-related bug in Turbolinks and submitted a PR to the project to
 
 * Stressed the importance of tests in code and led the charge by example.
 * Took the initiative to smash technical debt around outdated tests, and raised the passing specs from 40% to 100%.
-* Upgraded the back-end Rails application from Ruby 2.7 to Ruby 3.1.
+* Upgraded the back-end Rails monolith from Ruby 2.7 to Ruby 3.1.
 
 ### :pill: CoverMyMeds (2015 to 2022)
 
