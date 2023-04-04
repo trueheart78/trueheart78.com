@@ -32,8 +32,11 @@
     }
 
     .page-link {
-        color: $text-color;
+        // color: $text-color;
+        color: $ruby-color;
         line-height: $base-line-height;
+        font-size: 18px;
+        // font-weight: bold;
 
         // Gaps between nav items, but not on the first one
         &:not(:first-child) {
