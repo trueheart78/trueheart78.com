@@ -46,22 +46,22 @@ remote_css: https://cdn.jsdelivr.net/npm/firacode@6.2.0/distr/fira_code.css
 <br>
 [img]FIND-A-GIF[/img]<br>
 <br>
-[h3]Beaten [img=25x25]https://emojipedia-us.s3.amazonaws.com/source/skype/289/chequered-flag_1f3c1.png[/img][/h3]<br>
+[h3]Beaten [img=25x25]https://trueheart78.com/images/game_report/chequered-flag.skype.png[/img][/h3]<br>
 <div id="bbcode-games-beaten"></div>
 <br>
-[h3]Played [img=25x25]https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/whatsapp/326/playground-slide_1f6dd.png[/img][/h3]<br>
+[h3]Played [img=25x25]https://trueheart78.com/images/game_report/playground-slide.whatsapp.png[/img][/h3]<br>
 <div id="bbcode-games-played"></div>
 <br>
-[h3]Jettisoned [img=25x25]https://emojipedia-us.s3.amazonaws.com/source/skype/289/fire_1f525.png[/img][/h3]<br>
+[h3]Jettisoned [img=25x25]https://trueheart78.com/images/game_report/fire.skype.png[/img][/h3]<br>
 <div id="bbcode-games-jettisoned"></div>
 <br>
-[h3]Added [img=25x25]https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/google/313/t-rex_1f996.png[/img][/h3]<br>
+[h3]Added [img=25x25]https://trueheart78.com/images/game_report/t-rex.google.png[/img][/h3]<br>
 <div id="bbcode-games-added"></div>
 <br>
-[h3]Learned [img=25x25]https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/285/face-with-monocle_1f9d0.png[/img][/h3]<br>
+[h3]Learned [img=25x25]https://trueheart78.com/images/game_report/face-with-monocle.apple.png[/img][/h3]<br>
 <div id="bbcode-lessons-learned"></div>
 <br>
-[h3]Legend [img=25x25]https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/facebook/304/information_2139-fe0f.png[/img][/h3]<br>
+[h3]Legend [img=25x25]https://trueheart78.com/images/game_report/information.facebook.png[/img][/h3]<br>
 <br>
 <span class="game-pass-heart"></span> = Xbox Game Pass<br>
 <span class="recently-added"></span> = Added within the last 90 days</span>
