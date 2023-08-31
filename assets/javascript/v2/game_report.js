@@ -5,8 +5,9 @@ const reportDate = detectReportDate();
 const reportYear = reportDate.getUTCFullYear();
 const reportMonth = reportDate.getUTCMonth();
 
-const gamePassHeartURL = "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/facebook/65/green-heart_1f49a.png";
-const recentlyAddedURL = "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/240/apple/325/new-button_1f195.png"
+const defaultBaseImageURL = "https://trueheart78.com/images/game_report/"
+const gamePassHeartURL = "green-heart.facebook.png";
+const recentlyAddedURL = "new-button.apple.png"
 
 let allGames = [];
 let allLessons = [];
@@ -254,12 +255,20 @@ function getEmoji() {
 }
 
 function getEmojiURL() {
-  return monthlyEmojiURLs[reportMonth];
+  return imageURL(monthlyEmojiURLs[reportMonth]);
+}
+
+function imageURL(imagePath) {
+  if(imagePath.indexOf("https://") == 0) {
+    return imagePath;
+  } else {
+    return defaultBaseImageURL + imagePath;
+  }
 }
 
 function updateGameIcons() {
-  updateIcons("game-pass-heart", gamePassHeartURL);
-  updateIcons("recently-added", recentlyAddedURL);
+  updateIcons("game-pass-heart", imageURL(gamePassHeartURL));
+  updateIcons("recently-added", imageURL(recentlyAddedURL));
 }
 
 function updateIcons(className, iconURL) {
