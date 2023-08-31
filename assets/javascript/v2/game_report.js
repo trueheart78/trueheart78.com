@@ -5,7 +5,7 @@ const reportDate = detectReportDate();
 const reportYear = reportDate.getUTCFullYear();
 const reportMonth = reportDate.getUTCMonth();
 
-const defaultBaseImageURL = "https://trueheart78.com/images/game_report/"
+const defaultBaseImageURL = "https://trueheart78.com/assets/images/game_report/"
 const gamePassHeartURL = "green-heart.facebook.png";
 const recentlyAddedURL = "new-button.apple.png"
 
