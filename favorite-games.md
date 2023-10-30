@@ -439,6 +439,26 @@ game and am thrilled to put it on this list.
 
 Here's a taste of the goodness that is the intro video.
 
+### TBD. Life is Strange: True Colors (Xbox Series X)
+
+This game came at a very strange and however important time in my life and I honestly can't even
+think of where I would place this in a list of games I love, I just know that I felt so much
+personal representation in it. 
+
+_To be continued..._
+
+### TBD. Asura's Wrath (360)
+
+**Burst!**
+
+_To be continued..._
+
+### TBD. Ilomilo (360)
+
+I smile just thinking of this delightful puzzler.
+
+_To be continued..._
+
 <iframe width="680" height="408" src="https://www.youtube.com/embed/gBdlScU7N6M" frameborder="0" allowfullscreen></iframe>
 
 <a id='horizon-zero-dawn'></a>
