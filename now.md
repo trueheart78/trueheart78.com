@@ -4,12 +4,12 @@ title: 📆 What I'm Up to Now
 description: What I've recently been up to.
 keywords: now, nownownow, studying, playing, reading, comics, books, side projects, games, ruby, rails, golang, tv shows, movies
 permalink: /now/
-update: 2023-01-01
+update: 2023-11-02
 ---
 
 ![Taylor Swift - Drawing a Heart][taylor swift - drawing a heart]
 
-I'm currently living in Ohio, spending time with my doggos, and cracking on some Ruby code. 🐾 
+I'm currently living in Massachusetts, spending time with my doggo, and exploring New England. 🐾🏍
 
 <!--
 ## 📚 Software Development Studies
