@@ -1,10 +1,10 @@
 ---
 layout: page
 title: 👨‍💻 My Resume
-description: I love writing Ruby & Go, rocking out to Taylor Swift, and using gifs and emoji to make others smile. I’ve been writing software professionally since 2004.
-keywords: resume, ruby, golang, software developer, software engineer, side projects, open source, rails, sinatrarb, aws, lambda, aws lambda, paypal
+description: I love writing Ruby, rocking out to Taylor Swift, and using gifs and emoji to make others smile. I’ve been writing software professionally for two decades as a back-end developer.
+keywords: resume, ruby, golang, software developer, software engineer, side projects, open source, rails, sinatrarb, aws, lambda, aws lambda, paypal, sidekiq
 permalink: /resume/
-update: 2023-03-21
+update: 2024-08-12
 ---
 
 <a id='intro'></a>
@@ -101,7 +101,7 @@ for payment processing.
 
 ### :gem: Gem Lookup
 
-Simple but effective command line tool that looks up gem details using [RubyGems.org's public API][ruby-gems-api] and displays the results in an emoji-filled fashion. Makes concurrent requests and obeys the rate limit via it's batching feature.
+Simple and effective gem intended to be used as a command line tool. It looks up gem details using [RubyGems.org's public API][ruby-gems-api] and displays the results in an emoji-filled fashion. Makes concurrent requests and obeys the rate limit via it's batching feature.
 
 * RubyGems: [Gem Lookup][gem-lookup-ruby-gems]
 * Source: [GitHub][gem-lookup-source]
@@ -145,8 +145,7 @@ features like, "tell Josh I need him".
 
 ### 🦠 Global Pandemic Goofs
 
-This abomination of a website was created because of the absurdness of the global pandemic. At one
-point, this pandemic will pass, and then this site will be useless, so we goof on it while we can. It
+This abomination of a website was created because of the absurdness of the global pandemic. It
 is a Ruby application utilizing Sinatra and has weighted logic to select random elements that make
 up the phrases. It reads from text files to provide options to replace the phrase, "In this global
 pandemic?", with something like, "In this gleaming pop concert hall?", or "In this gothic Pulp Juice
@@ -191,7 +190,7 @@ Discovered an IE8-related bug in Turbolinks and submitted a PR to the project to
 
 ![Taylor Swift - Reputation Mountain][taylor-mountain]
 
-### 🥽 AppliedVR (2022 to present)
+### 🥽 AppliedVR (2022 to 2024)
 
 #### Staff Software Developer
 
@@ -288,14 +287,15 @@ Associate of Computer Science in Software Applications and Programming
 [go-logo]: /assets/images/language-icons/go-53x20.png
 [ruby-on-rails]: https://rubyonrails.org/
 [ruby-logo]: /assets/images/language-icons/ruby-20x20.png
-[taylor-hi]: /assets/images/resume/taylor-hi.gif
+[taylor-hi]: /assets/images/resume-2024/taylor-hi.gif
 [taylor-strong]: /assets/images/resume/taylor-strong.gif
 [taylor-what-i-want]: /assets/images/resume/taylor-what-i-want.gif
 [taylor-experience]: /assets/images/resume/taylor-experience.gif
 [taylor-whats-up]: /assets/images/resume/taylor-whats-up.gif
-[taylor-award-dance]: /assets/images/resume/taylor-award-dance.gif
+[taylor-award-dance]: /assets/images/resume-2024/taylor-award-dance.gif
 [taylor-epic]: /assets/images/resume/taylor-epic.gif
 [taylor-studying]: /assets/images/resume/taylor-studying.gif
 [taylor-mountain]: /assets/images/resume/taylor-mountain.gif
+[taylor-letting-hair-down]: /assets/images/resume-2024/taylor-letting-hair-down.gif
 [taylor-heart]: /assets/images/resume/taylor-heart.gif
 [top]: #page-top
