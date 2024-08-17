@@ -9,7 +9,7 @@ Hi! I'm Josh and I'm a full time software developer. :desktop_computer:
 
 I love to love people, and I want the best for you. :sparkling_heart:
 
-If you can't tell, I enjoy [Ruby ![ruby][ruby-logo]][ruby-lang], [![go][go-logo]][go-lang],
+If you can't tell, I enjoy [Ruby ![ruby][ruby-logo]][ruby-lang], 
 [Taylor Swift][taylor-swift] :notes:, [emojis][emoji] :heart_eyes:, and [gifs ![giphy][giphy-logo]][giphy].
 
 ## :open_book: My Blog
