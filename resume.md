@@ -2,9 +2,9 @@
 layout: page
 title: 👨‍💻 My Resume
 description: I love writing Ruby, rocking out to Taylor Swift, and using gifs and emoji to make others smile. I’ve been writing software professionally for two decades as a back-end developer.
-keywords: resume, ruby, golang, software developer, software engineer, side projects, open source, rails, sinatrarb, aws, lambda, aws lambda, paypal, sidekiq
+keywords: resume, ruby, software developer, software engineer, side projects, open source, rails, sinatrarb, aws, lambda, aws lambda, paypal, sidekiq
 permalink: /resume/
-update: 2024-08-12
+update: 2024-08-18
 ---
 
 <a id='intro'></a>
@@ -21,21 +21,21 @@ update: 2024-08-12
 
 ![Taylor Swift - Hello][taylor-hi]
 
-I love writing Ruby & Go :sparkling_heart:, rocking out to Taylor Swift :notes:, and using gifs and emoji to make others smile :smile:.
+I love writing Ruby :sparkling_heart:, rocking out to Taylor Swift :notes:, and using gifs and emoji to make others smile :smile:.
 
-I've been writing software professionally for nearly 20 years, leaning strongly towards back-end development. 🥳
+I've been writing software professionally for two decades as a back-end developer. 🥳
 
-I enjoy empathetic, lighthearted, collaborative teams, that I can learn from. 💗
+I enjoy empathetic, light-hearted teams where I can be a collaborative and supportive member. 💗
 
 <a id='strengths'></a>
 ## :muscle: Strengths [:top:][top]
 
 ![Taylor Swift - Strong][taylor-strong]
 
-* I :heart: Ruby & Go. I love the communities, and the languages.
-* I love to write human-readable code. ⌨️
-* I really enjoy working and collaborating with others. 🎙️
-* I adore my colleagues, and will _always_ make time for them, regardless of skill level.👂🏼
+* I :heart: Ruby. I love the community, and the language.
+* I love to write human-readable, intent-revealing code. 🤔
+* I enjoy being a strong and supportive team member. 🫂
+* I love to support and empower others.👂🏼
 
 <a id='aspirations'></a>
 ## :raising_hand: Aspirations [:top:][top]
@@ -53,16 +53,11 @@ I absolutely love people, and I want my work to have a positive impact on them. 
 
 ![Taylor Swift - What's Up?][taylor-whats-up]
 
-* Ten years of Ruby. ![Ruby][ruby-logo]
-* Eight years of Ruby on Rails. :steam_locomotive:
-* Two years of Go. ![Go][go-logo]
-* Two years of Docker. :whale:
-* Five years managing the back-end of a web service (CentOS, Ubuntu, MySQL, Redis). :hammer_and_wrench:
-* Two decades of JavaScript and CSS familiarity. 🧰
-* Eight years
-  * Writing automated tests. :robot:
-  * Working in healthcare and with HIPAA. 🩺
-  * As a remote team member. 💻
+* Eleven years of mastering Ruby, delivering tested and highly trusted code. ![Ruby][ruby-logo]
+* Nine years of leveraging Ruby on Rails to build robust and scalable applications. :steam_locomotive:
+* Five years managing the back-end of a web service, orchestrating Linux, MySQL, and Redis. :hammer_and_wrench:
+* Nearly a decade of working in healthcare and maintaining HIPAA compliance. 🩺
+* Over a decade working as a remote team member. 💻
 
 <a id='side-projects'></a>
 ## :wrench: Side Projects [:top:][top]
@@ -157,7 +152,7 @@ And Smoothie Bar?" It even has a simple, but effective, API.
 <a id='open-source'></a>
 ## :octocat: Open Source Contributions [:top:][top]
 
-![Taylor Swift - Absolutely Epic][taylor-epic]
+![Taylor Swift - Bejeweled - Nice][taylor-bejeweled-nice]
 
 ### :cat: Kitty
 
@@ -194,9 +189,10 @@ Discovered an IE8-related bug in Turbolinks and submitted a PR to the project to
 
 #### Staff Software Developer
 
-* Stressed the importance of tests in code and led the charge by example.
-* Took the initiative to smash technical debt around outdated tests, and raised the passing specs from 40% to 100%.
-* Upgraded the back-end Rails monolith from Ruby 2.7 to Ruby 3.1.
+* Developed a Ruby on Rails-based micro-service for two-way SMS using AWS Pinpoint and SNS.
+* Crafted automated workflows to streamline delivery and responsiveness across internal and external applications.
+* Enhanced our primary Rails API monolith's reliability and security by handling both Ruby and Rails upgrades.
+* Stressed the importance of tests in code and led the charge by example, ensuring the delivery of high-quality, reliable code, and raising the passing specs from 40% to 100%.
 
 ### :pill: CoverMyMeds (2015 to 2022)
 
@@ -234,7 +230,7 @@ Discovered an IE8-related bug in Turbolinks and submitted a PR to the project to
 <a id='education'></a>
 ## :apple: Education [:top:][top]
 
-![Taylor Swift - Studying][taylor-studying]
+![Taylor Swift - Graduating][taylor-graduating]
 
 ### :mortar_board: ITT Technical Institute
 
@@ -294,8 +290,9 @@ Associate of Computer Science in Software Applications and Programming
 [taylor-whats-up]: /assets/images/resume/taylor-whats-up.gif
 [taylor-award-dance]: /assets/images/resume-2024/taylor-award-dance.gif
 [taylor-epic]: /assets/images/resume/taylor-epic.gif
-[taylor-studying]: /assets/images/resume/taylor-studying.gif
+[taylor-graduating]: /assets/images/resume-2024/taylor-nyu-graduating.gif
 [taylor-mountain]: /assets/images/resume/taylor-mountain.gif
+[taylor-bejeweled-nice]: /assets/images/resume-2024/taylor-bejeweled-nice.gif
 [taylor-letting-hair-down]: /assets/images/resume-2024/taylor-letting-hair-down.gif
 [taylor-heart]: /assets/images/resume/taylor-heart.gif
 [top]: #page-top
