@@ -4,7 +4,7 @@ title: 👨‍💻 My Resume
 description: I love writing Ruby, rocking out to Taylor Swift, and using gifs and emoji to make others smile. I’ve been writing software professionally for two decades as a back-end developer.
 keywords: resume, ruby, software developer, software engineer, side projects, open source, rails, sinatrarb, aws, lambda, aws lambda, paypal, sidekiq
 permalink: /resume/
-update: 2024-08-18
+update: 2024-08-21
 ---
 
 <a id='intro'></a>
@@ -32,26 +32,24 @@ I enjoy empathetic, light-hearted teams where I can be a collaborative and suppo
 
 ![Taylor Swift - Strong][taylor-strong]
 
-* I :heart: Ruby. I love the community, and the language.
+* I :heart: Ruby. I love the community, and the language. 
 * I love to write human-readable, intent-revealing code. 🤔
-* I enjoy being a strong and supportive team member. 🫂
-* I love to support and empower others.👂🏼
-
+* I enjoy deepening my knowledge of Ruby through consistent learning. 📚
+* I love supporting and empowering teammates. 🫂
+* I enjoy building tools that make people’s lives better. 💖
 <a id='aspirations'></a>
 ## :raising_hand: Aspirations [:top:][top]
 
-![Taylor Swift - What I Want][taylor-what-i-want]
+![Taylor Swift - Aspiration][taylor-aspiration]
 
-<!-- I absolutely love people, and I want my work to have a positive impact on them. 💖 -->
-
-I absolutely love people, and I want my work to have a positive impact on them. ❤️‍🔥
+I want to continue to grow my knowledge and skillset as a Ruby developer while also teaching and mentoring others. 👩‍🏫
 
 <!-- become a master software craftsman. -->
 
 <a id='experience'></a>
 ## :scroll: Experience [:top:][top]
 
-![Taylor Swift - What's Up?][taylor-whats-up]
+![Taylor Swift - Confident][taylor-confident]
 
 * Eleven years of mastering Ruby, delivering tested and highly trusted code. ![Ruby][ruby-logo]
 * Nine years of leveraging Ruby on Rails to build robust and scalable applications. :steam_locomotive:
@@ -65,6 +63,21 @@ I absolutely love people, and I want my work to have a positive impact on them. 
 ![Taylor Swift - Award Dance][taylor-award-dance]
 
 <!-- TODO: Try to limit this to 10 or less. You can always find discarded entries in the git history. -->
+
+### :gem: Gem Lookup
+
+Simple and effective gem intended to be used as a command line tool. It looks up gem details using [RubyGems.org's public API][ruby-gems-api] and displays the results in an emoji-filled fashion. Makes concurrent requests and obeys the rate limit via it's batching feature.
+
+* RubyGems: [Gem Lookup][gem-lookup-ruby-gems]
+* Source: [GitHub][gem-lookup-source]
+
+### :golf: Caring for Karen Sue
+
+A charity-focused site that holds annual golf-based events, built with Ruby on Rails, and using PayPal
+for payment processing. 
+
+* Site: [caringforkarensue.com][caringforkarensue]
+* Source: [GitHub][caringforkarensue-source]
 
 ### :globe_with_meridians: I :sparkling_heart: Ruby
 
@@ -86,21 +99,6 @@ Originally written in Ruby, now written in Go.
 * Go Source: [GitHub][dropbox-gif-linker-source]
 * Ruby Source: [GitHub][gifs-gem-source]
 
-### :golf: Caring for Karen Sue
-
-A charity-focused site that holds annual golf-based events, built with Ruby on Rails, and using PayPal
-for payment processing. 
-
-* Site: [caringforkarensue.com][caringforkarensue]
-* Source: [GitHub][caringforkarensue-source]
-
-### :gem: Gem Lookup
-
-Simple and effective gem intended to be used as a command line tool. It looks up gem details using [RubyGems.org's public API][ruby-gems-api] and displays the results in an emoji-filled fashion. Makes concurrent requests and obeys the rate limit via it's batching feature.
-
-* RubyGems: [Gem Lookup][gem-lookup-ruby-gems]
-* Source: [GitHub][gem-lookup-source]
-
 ### :notebook: Book Notes
 
 Where I put notes from books I’ve read. Makes it much easier to study across machines, and provides
@@ -111,7 +109,7 @@ a handy, searchable reference.
 ### :repeat: Book Notes Generator 
 
 Extracted from the early version of my [Book Notes][book-notes-source], it reads a YAML file and
-generates the core markdown files for the chapters and sections. It also places them directly into
+generates the core markdown files used for the chapters and sections. It also places them directly into
 the above Book Notes project in a new folder, with a handy Readme link provided at the end. 
 
 * Source: [GitHub][book-notes-generator-source]
@@ -140,9 +138,9 @@ features like, "tell Josh I need him".
 
 ### 🦠 Global Pandemic Goofs
 
-This abomination of a website was created because of the absurdness of the global pandemic. It
+This goof of a website was created because of the absurdness of the global pandemic. It
 is a Ruby application utilizing Sinatra and has weighted logic to select random elements that make
-up the phrases. It reads from text files to provide options to replace the phrase, "In this global
+up the phrases it generates. It reads from text files to provide options to replace the phrase, "In this global
 pandemic?", with something like, "In this gleaming pop concert hall?", or "In this gothic Pulp Juice
 And Smoothie Bar?" It even has a simple, but effective, API.
 
@@ -284,15 +282,12 @@ Associate of Computer Science in Software Applications and Programming
 [ruby-on-rails]: https://rubyonrails.org/
 [ruby-logo]: /assets/images/language-icons/ruby-20x20.png
 [taylor-hi]: /assets/images/resume-2024/taylor-hi.gif
-[taylor-strong]: /assets/images/resume/taylor-strong.gif
-[taylor-what-i-want]: /assets/images/resume/taylor-what-i-want.gif
-[taylor-experience]: /assets/images/resume/taylor-experience.gif
-[taylor-whats-up]: /assets/images/resume/taylor-whats-up.gif
+[taylor-strong]: /assets/images/resume-2024/taylor-strong.gif
+[taylor-aspiration]: /assets/images/resume-2024/taylor-aspiration.gif
+[taylor-confident]: /assets/images/resume-2024/taylor-confident.gif
 [taylor-award-dance]: /assets/images/resume-2024/taylor-award-dance.gif
-[taylor-epic]: /assets/images/resume/taylor-epic.gif
 [taylor-graduating]: /assets/images/resume-2024/taylor-nyu-graduating.gif
-[taylor-mountain]: /assets/images/resume/taylor-mountain.gif
+[taylor-mountain]: /assets/images/resume-2024/taylor-mountain.gif
 [taylor-bejeweled-nice]: /assets/images/resume-2024/taylor-bejeweled-nice.gif
-[taylor-letting-hair-down]: /assets/images/resume-2024/taylor-letting-hair-down.gif
-[taylor-heart]: /assets/images/resume/taylor-heart.gif
+[taylor-heart]: /assets/images/resume-2024/taylor-heart.gif
 [top]: #page-top
