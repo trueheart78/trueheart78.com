@@ -37,6 +37,7 @@ I enjoy empathetic, light-hearted teams where I can be a collaborative and suppo
 * I enjoy deepening my knowledge of Ruby through consistent learning. 📚
 * I love supporting and empowering teammates. 🫂
 * I enjoy building tools that make people’s lives better. 💖
+
 <a id='aspirations'></a>
 ## :raising_hand: Aspirations [:top:][top]
 
