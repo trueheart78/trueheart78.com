@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 👨‍💻 Josh Mills - Ruby Developer
+title: 👨‍💻 My Resume
 description: I love writing Ruby, rocking out to Taylor Swift, and using gifs and emoji to make others smile. I’ve been writing software professionally for two decades as a back-end developer.
 keywords: resume, ruby, software developer, software engineer, side projects, open source, rails, sinatrarb, aws, lambda, aws lambda, paypal, sidekiq
 permalink: /resume/
