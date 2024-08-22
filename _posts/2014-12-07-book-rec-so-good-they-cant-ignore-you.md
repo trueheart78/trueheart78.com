@@ -40,7 +40,7 @@ I know I'm guilty of hawking other books to friends and colleagues, and
 for good reason, but this is one of those books that, if you are
 planning to work in the technology industry at all, you need to [read this][so-good].
 
-[katrina]: https://twitter.com/kytrinyx
+[katrina]: https://exercism.github.io/kytrinyx/
 [jeg2]: https://twitter.com/jeg2
 [cal]: http://calnewport.com/
 [so-good]: http://www.amazon.com/Good-They-Cant-Ignore-You/dp/1455509124
