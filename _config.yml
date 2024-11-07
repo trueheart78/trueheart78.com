@@ -40,7 +40,6 @@ image:
 # Relevant usernames
 username: 
   github: "trueheart78"
-  twitter: "trueheart78"
 
 # Build settings
 markdown: kramdown
