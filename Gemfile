@@ -1,7 +1,7 @@
 # frozen_string_literal: true
 
 source 'https://rubygems.org'
-ruby '3.3.5' # keep in sync with .ruby-version, patch version required for Netlify
+ruby '3.4.2' # keep in sync with .ruby-version, patch version required for Netlify
 
 gem 'jekyll'
 gem 'jekyll-paginate-v2'

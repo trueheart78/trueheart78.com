@@ -4,7 +4,7 @@ title: 📆 What I'm Up to Now
 description: What I've recently been up to.
 keywords: now, nownownow, studying, playing, reading, comics, books, side projects, games, ruby, rails, golang, tv shows, movies
 permalink: /now/
-update: 2024-08-21
+update: 2025-02-27
 ---
 
 ![Taylor Swift - Drawing a Heart][taylor swift - drawing a heart]
@@ -108,12 +108,13 @@ I'm currently living in Massachusetts, spending time with my doggo 🐾, and exp
 ### ☑️ Completed
 
 * Created a [static api][api] for personal use.
--->
+
 
 ## 🌐 Recent Site Updates
 
 * Created a [Game Report](/game-report/) page using the new API. 📒
 * Rewrote the [Games page](/games/) with JavaScript and a new API.
+-->
 
 ## 🙋‍♀️ What is a Now Page?
 
