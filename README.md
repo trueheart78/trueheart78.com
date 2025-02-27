@@ -12,6 +12,6 @@ Jekyll-based blog for [I 💖 Ruby][iheartruby]
 
 ## Ruby Version
 
-Currently setup to work with Ruby 3.1
+Currently setup to work with Ruby 3.4
 
 [iheartruby]: http://iheartruby.com
