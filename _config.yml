@@ -40,7 +40,8 @@ image:
 # Relevant usernames
 username: 
   github: "trueheart78"
-  bluesky: "trueheart78"
+  bluesky_name: "trueheart78.com"
+  bluesky_handle: "trueheart78"
 
 # Build settings
 markdown: kramdown
