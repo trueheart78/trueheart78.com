@@ -1,0 +1,22 @@
+@use "sass:color";
+
+// Our variables
+$base-font-family:  'Helvetica', 'Arial', 'sans-serif';
+$base-font-size:    16px;
+$small-font-size:   $base-font-size * 0.875;
+$base-line-height:  1.5;
+
+$spacing-unit:      30px;
+$spacing-unit-half: calc($spacing-unit / 2);
+
+$text-color:        #111;
+$background-color:  #fdfdfd;
+$brand-color:       #2a7ae2;
+$ruby-color:        #ff0080;
+
+$grey-color:        #828282;
+$grey-color-light:  color.scale($grey-color, $lightness: 40%);
+$grey-color-dark:   color.scale($grey-color, $lightness: -25%);
+
+$on-palm:           600px;
+$on-laptop:         800px;

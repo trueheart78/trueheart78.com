@@ -4,7 +4,7 @@ title: 👨‍💻 My Resume
 description: I love writing Ruby, rocking out to Taylor Swift, and using gifs and emoji to make others smile. I’ve been writing software professionally for two decades as a back-end developer.
 keywords: resume, ruby, software developer, software engineer, side projects, open source, rails, sinatrarb, aws, lambda, aws lambda, paypal, sidekiq
 permalink: /resume/
-update: 2024-11-04
+update: 2025-02-27
 ---
 
 <a id='intro'></a>
@@ -84,7 +84,7 @@ for payment processing.
 
 My personal website that also includes a [slightly active blog][blog]. The [games][games] page 
 uses JavaScript to retrieve, parse, and display data from my personal API. The site utilizes
-[Jekyll][jekyll] so I only have to use markdown for most of the content, and is hosted on [Netlify][netlify].
+[Jekyll][jekyll] so I can use markdown for most of the content, and is hosted on [Netlify][netlify].
 
 * Site: [trueheart78.com][trueheart78-site] aka [iheartruby.com][iheartruby]
 * Source: [GitHub][iheartruby-source]
@@ -149,7 +149,7 @@ And Smoothie Bar?" It even has a simple, but effective, API.
 * Source: [GitHub][pandemic-goofs-source]
 
 <a id='open-source'></a>
-## :octocat: Open Source Contributions [:top:][top]
+## 👩🏼‍🔧 Open Source Contributions [:top:][top]
 
 ![Taylor Swift - Bejeweled - Nice][taylor-bejeweled-nice]
 
@@ -167,7 +167,7 @@ with a reference included.
 
 Found two bugs in the project related to a previous user's PR. One related to support for the Redis
 version dependency being increased when it made no sense, the other related to missing library
-support for `sinatra/json`. I fixed both the bugs, as well as introduced tests into the project to
+support for `sinatra/json`. I fixed both bugs, and introduced tests into the project to
 make sure that the core framework would load.
 
 * Redis Pull Request: [GitHub][stoplight-redis-pr]

@@ -1,3 +1,7 @@
+@use "sass:color";
+@use "./_variables.scss" as variables;
+@use "./_mixins.scss" as mixins;
+
 /**
  * Reset some basic elements
  */
@@ -8,18 +12,16 @@ dl, dd, ol, ul, figure {
     padding: 0;
 }
 
-
-
 /**
  * Basic styling
  */
 body {
-    font-family: $base-font-family;
-    font-size: $base-font-size;
-    line-height: $base-line-height;
+    font-family: variables.$base-font-family;
+    font-size: variables.$base-font-size;
+    line-height: variables.$base-line-height;
     font-weight: 300;
-    color: $text-color;
-    background-color: $background-color;
+    color: variables.$text-color;
+    background-color: variables.$background-color;
     -webkit-text-size-adjust: 100%;
 }
 
@@ -32,7 +34,7 @@ h1, h2, h3, h4, h5, h6,
 p, blockquote, pre,
 ul, ol, dl, figure,
 %vertical-rhythm {
-    margin-bottom: calc($spacing-unit / 2);
+    margin-bottom: variables.$spacing-unit-half;
 }
 
 
@@ -55,7 +57,7 @@ figure > img {
 }
 
 figcaption {
-    font-size: $small-font-size;
+    font-size: variables.$small-font-size;
 }
 
 
@@ -64,7 +66,7 @@ figcaption {
  * Lists
  */
 ul, ol {
-    margin-left: $spacing-unit;
+    margin-left: variables.$spacing-unit;
 }
 
 li {
@@ -89,15 +91,15 @@ h1, h2, h3, h4, h5, h6 {
  * Links
  */
 a {
-    color: $brand-color;
+    color: variables.$brand-color;
     text-decoration: none;
 
     &:visited {
-        color: darken($brand-color, 15%);
+        color: color.scale(variables.$brand-color, $lightness: -25%);
     }
 
     &:hover {
-        color: $text-color;
+        color: variables.$text-color;
         text-decoration: underline;
     }
 }
@@ -108,9 +110,9 @@ a {
  * Blockquotes
  */
 blockquote {
-    color: $grey-color;
-    border-left: 4px solid $grey-color-light;
-    padding-left: calc($spacing-unit / 2);
+    color: variables.$grey-color;
+    border-left: 4px solid variables.$grey-color-light;
+    padding-left: variables.$spacing-unit-half;
     font-size: 18px;
 
     > :last-child {
@@ -126,7 +128,7 @@ blockquote {
 pre,
 code {
     font-size: 15px;
-    border: 1px solid $grey-color-light;
+    border: 1px solid variables.$grey-color-light;
     border-radius: 3px;
     background-color: #f5f5f5;
 }
@@ -152,19 +154,19 @@ pre {
  * Wrapper
  */
 .wrapper {
-    max-width: -webkit-calc(800px - (#{$spacing-unit} * 2));
-    max-width:         calc(800px - (#{$spacing-unit} * 2));
+    max-width: -webkit-calc(800px - (#{variables.$spacing-unit} * 2));
+    max-width:         calc(800px - (#{variables.$spacing-unit} * 2));
     margin-right: auto;
     margin-left: auto;
-    padding-right: $spacing-unit;
-    padding-left: $spacing-unit;
+    padding-right: variables.$spacing-unit;
+    padding-left: variables.$spacing-unit;
     @extend %clearfix;
 
-    @include media-query($on-laptop) {
-        max-width: -webkit-calc(800px - (#{$spacing-unit}));
-        max-width:         calc(800px - (#{$spacing-unit}));
-        padding-right: calc($spacing-unit / 2);
-        padding-left: calc($spacing-unit / 2);
+    @include mixins.media-query(variables.$on-laptop) {
+        max-width: -webkit-calc(800px - (#{variables.$spacing-unit}));
+        max-width:         calc(800px - (#{variables.$spacing-unit}));
+        padding-right: variables.$spacing-unit-half;
+        padding-left: variables.$spacing-unit-half;
     }
 }
 
@@ -196,7 +198,7 @@ pre {
         vertical-align: middle;
 
         path {
-            fill: $grey-color;
+            fill: variables.$grey-color;
         }
     }
 }
@@ -205,25 +207,25 @@ pre {
  * Spoiler Tag
  */
 .spoiler {
-    color: $background-color;
+    color: variables.$background-color;
 }
 
 /**
  * Faint Grey Color
  */
 .faint {
-    color: $grey-color-light;
+    color: variables.$grey-color-light;
 }
 
 /**
  * Ruby Link Color
  */
 .ruby {
-  color: $ruby-color;
+  color: variables.$ruby-color;
 }
 
 a {
-    color: $ruby-color;
+    color: variables.$ruby-color;
     text-decoration: none;
     font-weight: 400;
 
@@ -232,7 +234,7 @@ a {
     }
 
     &:visited {
-        color: $ruby-color;
+        color: variables.$ruby-color;
         text-decoration: none;
     }
 }
@@ -247,7 +249,7 @@ input[type="reset"],
 input[type="button"] {
   border: none;
   border-radius: 5px;
-  background-color: $ruby-color;
+  background-color: variables.$ruby-color;
   font-size: 1rem;
   color: #fff;
   padding: .7rem .9rem;

@@ -1,9 +1,13 @@
+@use "./_variables.scss" as variables;
+@use "./_mixins.scss" as mixins;
+@forward "./_base.scss";
+
 /**
  * Site header
  */
 .site-header {
-    border-top: 5px solid $grey-color-dark;
-    border-bottom: 1px solid $grey-color-light;
+    border-top: 5px solid variables.$grey-color-dark;
+    border-bottom: 1px solid variables.$grey-color-light;
     min-height: 56px;
 
     // Positioning context for the mobile navigation icon
@@ -19,7 +23,7 @@
 
     &,
     &:visited {
-        color: $grey-color-dark;
+        color: variables.$grey-color-dark;
     }
 }
 
@@ -33,8 +37,8 @@
 
     .page-link {
         // color: $text-color;
-        color: $ruby-color;
-        line-height: $base-line-height;
+        color: variables.$ruby-color;
+        line-height: variables.$base-line-height;
         font-size: 18px;
         // font-weight: bold;
 
@@ -44,12 +48,12 @@
         }
     }
 
-    @include media-query($on-palm) {
+    @include mixins.media-query(variables.$on-palm) {
         position: absolute;
         top: 9px;
         right: 30px;
-        background-color: $background-color;
-        border: 1px solid $grey-color-light;
+        background-color: variables.$background-color;
+        border: 1px solid variables.$grey-color-light;
         border-radius: 5px;
         text-align: right;
 
@@ -67,7 +71,7 @@
                 height: 15px;
 
                 path {
-                    fill: $grey-color-dark;
+                    fill: variables.$grey-color-dark;
                 }
             }
         }
@@ -95,13 +99,13 @@
  * Site footer
  */
 .site-footer {
-    border-top: 1px solid $grey-color-light;
-    padding: $spacing-unit 0;
+    border-top: 1px solid variables.$grey-color-light;
+    padding: variables.$spacing-unit 0;
 }
 
 .footer-heading {
     font-size: 18px;
-    margin-bottom: calc($spacing-unit / 2);
+    margin-bottom: variables.$spacing-unit-half;
 }
 
 .contact-list,
@@ -112,50 +116,50 @@
 
 .footer-col-wrapper {
     font-size: 15px;
-    color: $grey-color;
-    margin-left: -(calc($spacing-unit / 2));
+    color: variables.$grey-color;
+    margin-left: -#{variables.$spacing-unit-half};
     @extend %clearfix;
 }
 
 .footer-col {
     float: left;
-    margin-bottom: calc($spacing-unit / 2);
-    padding-left: calc($spacing-unit / 2);
+    margin-bottom: variables.$spacing-unit-half;
+    padding-left: variables.$spacing-unit-half;
 }
 
 .footer-col-1 {
-    width: -webkit-calc(35% - (#{$spacing-unit} / 2));
-    width:         calc(35% - (#{$spacing-unit} / 2));
+    width: -webkit-calc(35% - #{variables.$spacing-unit-half});
+    width:         calc(35% - #{variables.$spacing-unit-half});
 }
 
 .footer-col-2 {
-    width: -webkit-calc(20% - (#{$spacing-unit} / 2));
-    width:         calc(20% - (#{$spacing-unit} / 2));
+    width: -webkit-calc(20% - #{variables.$spacing-unit-half});
+    width:         calc(20% - #{variables.$spacing-unit-half});
 }
 
 .footer-col-3 {
-    width: -webkit-calc(45% - (#{$spacing-unit} / 2));
-    width:         calc(45% - (#{$spacing-unit} / 2));
+    width: -webkit-calc(45% - #{variables.$spacing-unit-half});
+    width:         calc(45% - #{variables.$spacing-unit-half});
 }
 
-@include media-query($on-laptop) {
+@include mixins.media-query(variables.$on-laptop) {
     .footer-col-1,
     .footer-col-2 {
-        width: -webkit-calc(50% - (#{$spacing-unit} / 2));
-        width:         calc(50% - (#{$spacing-unit} / 2));
+        width: -webkit-calc(50% - #{variables.$spacing-unit-half});
+        width:         calc(50% - #{variables.$spacing-unit-half});
     }
 
     .footer-col-3 {
-        width: -webkit-calc(100% - (#{$spacing-unit} / 2));
-        width:         calc(100% - (#{$spacing-unit} / 2));
+        width: -webkit-calc(100% - #{variables.$spacing-unit-half});
+        width:         calc(100% - #{variables.$spacing-unit-half});
     }
 }
 
-@include media-query($on-palm) {
+@include mixins.media-query(variables.$on-palm) {
     .footer-col {
         float: none;
-        width: -webkit-calc(100% - (#{$spacing-unit} / 2));
-        width:         calc(100% - (#{$spacing-unit} / 2));
+        width: -webkit-calc(100% - #{variables.$spacing-unit-half});
+        width:         calc(100% - #{variables.$spacing-unit-half});
     }
 }
 
@@ -165,7 +169,7 @@
  * Page content
  */
 .page-content {
-    padding: $spacing-unit 0;
+    padding: variables.$spacing-unit 0;
 }
 
 .page-heading {
@@ -177,13 +181,13 @@
     list-style: none;
 
     > li {
-        margin-bottom: $spacing-unit;
+        margin-bottom: variables.$spacing-unit;
     }
 }
 
 .post-meta {
-    font-size: $small-font-size;
-    color: $grey-color;
+    font-size: variables.$small-font-size;
+    color: variables.$grey-color;
 }
 
 .post-link {
@@ -195,10 +199,10 @@
  * Posts
  */
 .post-header {
-    margin-bottom: calc($spacing-unit / 2);
+    margin-bottom: variables.$spacing-unit-half;
 
     #last-modified {
-        font-size: $base-font-size - 2;
+        font-size: variables.$base-font-size - 2;
         color: #828282;
     }
 }
@@ -208,18 +212,18 @@
     letter-spacing: -1px;
     line-height: 1;
 
-    @include media-query($on-laptop) {
+    @include mixins.media-query(variables.$on-laptop) {
         font-size: 28px;
     }
 }
 
 .post-content {
-    margin-bottom: $spacing-unit;
+    margin-bottom: variables.$spacing-unit;
 
     h2 {
         font-size: 24px;
 
-        @include media-query($on-laptop) {
+        @include mixins.media-query(variables.$on-laptop) {
             font-size: 22px;
         }
     }
@@ -227,7 +231,7 @@
     h3 {
         font-size: 22px;
 
-        @include media-query($on-laptop) {
+        @include mixins.media-query(variables.$on-laptop) {
             font-size: 18px;
         }
     }
@@ -235,7 +239,7 @@
     h4 {
         font-size: 20px;
 
-        @include media-query($on-laptop) {
+        @include mixins.media-query(variables.$on-laptop) {
             font-size: 16px;
         }
     }
@@ -263,11 +267,11 @@
         }
 
         a:hover {
-          background-color: none;
+          background-color: transparent;
         }
         
         a:active {
-          background-color: none;
+          background-color: transparent;
         }
       }
     }

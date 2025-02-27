@@ -4,7 +4,7 @@ title: 📑 Pages
 description: A list of public pages across the site.
 keywords: public pages, blog, ruby, games, now, resume, cult of done, favorite games, personalysis briefing, open source, tone indicators
 permalink: /pages/
-update: 2022-01-01
+update: 2025-02-27
 ---
 
 ## Primary :100:
@@ -12,7 +12,6 @@ update: 2022-01-01
 * [:house: Home][home]
 * [:open_book: My Blog][blog]
 * [:sparkling_heart: How Do I Love Thee, Ruby?][ruby]
-* [:crystal_ball: My Games][games]
 * [:calendar: Now][now]
 * [:man_technologist: My Resume][resume]
 
@@ -51,12 +50,12 @@ update: 2022-01-01
 * [:books: Books][books]
 * [:bust_in_silhouette: Character Names][character names]
 * [:thought_balloon: Cyberpunk 2077 - Early Thoughts][cyberpunk 2077]
+* [:crystal_ball: My Games][games]
 * [:sparkles: I Can Do What I Want][i can do what i want]
 * [:card_index_dividers: Naked Dagger Walkthrough - Dark Souls 3][naked dagger walkthrough]
 * [:bookmark: Picks][picks]
 * [:speech_balloon: Quotes][quotes]
 * [:sparkling_heart: Taylor Swift - Jan 2021][taylor swift]
-* [:gift: Wishlist][wishlist]
 
 
 [about]: /about/
@@ -86,4 +85,3 @@ update: 2022-01-01
 [too many reviews]: /assets/images/comics/too-many-reviews-by-brian-king.jpg
 [adulthood is ad-libbed]: /assets/images/comics/adulthood-is-ad-libbed-by-bill-watterson.jpg
 [tone indicators]: /tone-indicators
-[wishlist]: /wishlist/
