@@ -4,12 +4,14 @@ title: 📆 What I'm Up to Now
 description: What I've recently been up to.
 keywords: now, nownownow, studying, playing, reading, comics, books, side projects, games, ruby, rails, golang, tv shows, movies
 permalink: /now/
-update: 2025-02-27
+update: 2025-04-01
 ---
 
 ![Taylor Swift - Drawing a Heart][taylor swift - drawing a heart]
 
 I'm currently living in Massachusetts, spending time with my doggo 🐾, and exploring New England on my trusty motorcycles. 🏍
+
+Recently, I added a [Learning Page][learning page].
 
 <!--
 ## 📚 Software Development Studies
@@ -133,5 +135,6 @@ Head over to the [About Page][now - about] of [NowNowNow.com][now - home] for mo
 [taylor swift - drawing a heart]: /assets/images/now/taylor-swift-drawing-a-heart.gif
 [now - about]: https://nownownow.com/about 
 [now - home]: https://nownownow.com
+[learning page]: /learning
 [go date format]: https://godateformat.com
 [api]: https://api.trueheart78.com
